@@ -1,0 +1,1093 @@
++	686	1828	1143	DNA polymerase III beta subunit (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_686_1828		DNA polymerase III, beta subunit (EC 2.7.7.7)	2.7.7.7	CDS	DNA polymerase III, beta subunit	2.7.7.7	dnaN	
++	1828	2073	246	dnaJ-like protein	peg	gi|108885074|ref|NC_000908.2|_1828_2073								
++	1828	2760	933	dnaJ-like protein	peg	gi|108885074|ref|NC_000908.2|_2605_2760		DnaJ-class molecular chaperone with C-terminal Zn finger domain		CDS	dnaJ domain protein			
++	3010	3255	246	DNA gyrase subunit B (EC 5.99.1.3)	peg	gi|108885074|ref|NC_000908.2|_3010_3255								
++	3319	3513	195	DNA gyrase subunit B (EC 5.99.1.3)	peg	gi|108885074|ref|NC_000908.2|_3319_3513								
++	3529	4557	1029	DNA gyrase subunit B (EC 5.99.1.3)	peg	gi|108885074|ref|NC_000908.2|_3529_4557								
++	2845	4797	1953	DNA gyrase subunit B (EC 5.99.1.3)	peg	gi|108885074|ref|NC_000908.2|_4645_4797		DNA gyrase subunit B (EC 5.99.1.3)	5.99.1.3	CDS	DNA gyrase, B subunit	5.99.1.3	gyrB	
++	4812	7322	2511	DNA gyrase subunit A (EC 5.99.1.3)	peg	gi|108885074|ref|NC_000908.2|_4812_7322		DNA gyrase subunit A (EC 5.99.1.3)	5.99.1.3	CDS	DNA gyrase, A subunit	5.99.1.3	gyrA	
++	7294	7857	564	Seryl-tRNA synthetase (EC 6.1.1.11)	peg	gi|108885074|ref|NC_000908.2|_7294_7857								
++	8107	8295	189	Seryl-tRNA synthetase (EC 6.1.1.11)	peg	gi|108885074|ref|NC_000908.2|_8107_8295								
++	7294	8547	1254	Seryl-tRNA synthetase (EC 6.1.1.11)	peg	gi|108885074|ref|NC_000908.2|_8296_8547		seryl-tRNA synthetase (EC 6.1.1.11)	6.1.1.11	CDS	serine--tRNA ligase	6.1.1.11	serS	
++	8551	9183	633	Thymidylate kinase (EC 2.7.4.9)	peg	gi|108885074|ref|NC_000908.2|_8551_9183		thymidylate kinase (EC 2.7.4.9)	2.7.4.9	CDS	thymidylate kinase	2.7.4.9	tmk	
++	9156	9323	168	DNA polymerase III delta prime subunit (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_9156_9323								
++	9468	9755	288	DNA polymerase III delta prime subunit (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_9468_9755								
++	9156	9920	765				DNA polymerase III, gamma/tau subunits	2.7.7.7	CDS	conserved hypothetical protein			
++	9923	11059	1137	GTPase and tRNA-U34 5-formylation enzyme TrmE	peg	gi|108885074|ref|NC_000908.2|_9923_11059								
++	9923	11251	1329				tRNA modification GTPase trmE	3.6.-	CDS	tRNA modification GTPase TrmE	3.6.-.-	trmE	
++	11251	11892	642	Putative deoxyribonuclease YcfH	peg	gi|108885074|ref|NC_000908.2|_11251_11892								
++	11251	12039	789				hydrolase, TatD family	3.1.21.-	CDS	hydrolase, TatD family protein			
++	12068	12244	177	DNA primase (EC 2.7.7.-)	peg	gi|108885074|ref|NC_000908.2|_12068_12244								
+-	12701	13564	864				RimK-like ATP-grasp domain.		CDS	ATP-grasp domain protein			
++	12068	12724	657				DNA primase-related protein	2.7.7.-	CDS	conserved hypothetical protein			
+-	13256	13564	309	FIG00834660: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_13564_13256								
+-	13569	14432	864	Ribosomal protein S6 glutaminyl transferase	peg	gi|108885074|ref|NC_000908.2|_14057_13569		SSU ribosomal protein S6P modification protein		CDS	alpha-L-glutamate ligases, RimK family protein			
+-	14217	14432	216	Ribosomal protein S6 glutaminyl transferase	peg	gi|108885074|ref|NC_000908.2|_14432_14217								
+-	14395	15216	822				5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	1.5.1.5, 3.5.4.9	CDS	tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain protein			
+-	14503	15138	636	Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)	peg	gi|108885074|ref|NC_000908.2|_15138_14503								
++	15555	16310	756	transport ATP-binding protein	peg	gi|108885074|ref|NC_000908.2|_15555_16310								
++	16539	16967	429	transport ATP-binding protein	peg	gi|108885074|ref|NC_000908.2|_16539_16967								
++	15555	17426	1872	transport ATP-binding protein	peg	gi|108885074|ref|NC_000908.2|_17001_17426		ABC-type multidrug transport system, ATPase and permease components		CDS	ABC transporter family protein			
++	17512	17784	273	Lipid A export ATP-binding/permease protein MsbA (EC 3.6.3.25)	peg	gi|108885074|ref|NC_000908.2|_17512_17784								
++	17809	18414	606	Lipid A export ATP-binding/permease protein MsbA (EC 3.6.3.25)	peg	gi|108885074|ref|NC_000908.2|_17809_18414								
++	17413	19242	1830	Lipid A export ATP-binding/permease protein MsbA (EC 3.6.3.25)	peg	gi|108885074|ref|NC_000908.2|_18886_19242		ABC-type multidrug transport system, ATPase and permease components		CDS	ABC transporter family protein			
++	19252	19623	372	SWF/SNF family helicase	peg	gi|108885074|ref|NC_000908.2|_19252_19623								
++	19825	20736	912	SWF/SNF family helicase	peg	gi|108885074|ref|NC_000908.2|_19825_20736								
++	20743	21177	435	SWF/SNF family helicase	peg	gi|108885074|ref|NC_000908.2|_20743_21177								
++	21577	22128	552	SWF/SNF family helicase	peg	gi|108885074|ref|NC_000908.2|_21577_22128								
++	19252	22347	3096				Superfamily II DNA/RNA helicases, SNF2 family		CDS	conserved hypothetical protein			
++	22389	23558	1170	Chaperone protein DnaJ	peg	gi|108885074|ref|NC_000908.2|_22389_23558		chaperone protein DnaJ		CDS	chaperone protein DnaJ		dnaJ	
++	23638	23838	201	Proline iminopeptidase (EC 3.4.11.5)	peg	gi|108885074|ref|NC_000908.2|_23638_23838								
++	23968	24135	168	Proline iminopeptidase (EC 3.4.11.5)	peg	gi|108885074|ref|NC_000908.2|_23968_24135								
++	23542	24468	927	Proline iminopeptidase (EC 3.4.11.5)	peg	gi|108885074|ref|NC_000908.2|_24214_24468		prolyl aminopeptidase (EC:3.4.11.5). Serine peptidase. MEROPS family S33	3.4.11.5	CDS	prolyl aminopeptidase	3.4.11.5	pip	
++	24468	24710	243	Methionyl-tRNA synthetase (EC 6.1.1.10)	peg	gi|108885074|ref|NC_000908.2|_24468_24710								
++	25371	25766	396	Methionyl-tRNA synthetase (EC 6.1.1.10)	peg	gi|108885074|ref|NC_000908.2|_25371_25766								
++	24468	26006	1539	Methionyl-tRNA synthetase (EC 6.1.1.10)	peg	gi|108885074|ref|NC_000908.2|_25770_26006		methionyl-tRNA synthetase (EC 6.1.1.10)	6.1.1.10	CDS	methionyl-tRNA synthetase	6.1.1.10	metG	
++	26036	26473	438	DNA-directed RNA polymerase delta subunit (EC 2.7.7.6)	peg	gi|108885074|ref|NC_000908.2|_26261_26473		DNA-directed RNA polymerase, delta subunit		CDS	DNA-directed RNA polymerase delta subunit			
++	26479	27030	552	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	peg	gi|108885074|ref|NC_000908.2|_26479_27030								
++	26479	27345	867	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	peg	gi|108885074|ref|NC_000908.2|_27049_27345		fructose-bisphosphate aldolase (EC 4.1.2.13)	4.1.2.13	CDS	fructose-1,6-bisphosphate aldolase, class II	4.1.2.13	fba	
++	27346	28233	888	GTP-binding and nucleic acid-binding protein YchF	peg	gi|108885074|ref|NC_000908.2|_27346_28233								
++	27346	28449	1104	GTP-binding and nucleic acid-binding protein YchF	peg	gi|108885074|ref|NC_000908.2|_28333_28449		GTP-binding protein YchF		CDS	50S ribosome-binding GTPase family protein			
++	28730	29305	576	sugar transferase	peg	gi|108885074|ref|NC_000908.2|_28730_29305								
++	28652	29548	897				Glycosyltransferases involved in cell wall biogenesis		CDS	glycosyl transferase 2 family protein			
++	29561	30124	564	Translation elongation factor P	peg	gi|108885074|ref|NC_000908.2|_29561_30124		translation elongation factor P (EF-P)		CDS	translation elongation factor P		efp	
++	30105	30260	156	FIG00834682: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_30105_30260								
++	30093	30548	456	FIG00834682: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_30330_30548		Transcription termination factor		CDS	conserved hypothetical protein			
++	30626	30787	162	FIG00834840: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_30626_30787								
+-	31143	31736	594	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_31703_31143		Putative intracellular protease/amidase		CDS	conserved hypothetical protein			
++	30548	31153	606	FIG00834840: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_30983_31153		hypothetical protein		CDS	conserved hypothetical protein			
+-	31705	32325	621	Uracil phosphoribosyltransferase (EC 2.4.2.9)	peg	gi|108885074|ref|NC_000908.2|_32325_31705		uracil phosphoribosyltransferase (EC 2.4.2.9)	2.4.2.9	CDS	uracil phosphoribosyltransferase	2.4.2.9	upp	
+-	32359	36714	4356	DNA polymerase III polC-type (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_32820_32359		DNA polymerase III catalytic subunit, PolC type	2.7.7.7	CDS	DNA polymerase III, alpha subunit, Gram-positive type	2.7.7.7	polC	
+-	32851	33054	204	DNA polymerase III polC-type (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_33054_32851								
+-	33130	33384	255	DNA polymerase III polC-type (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_33384_33130								
+-	33463	33900	438	DNA polymerase III polC-type (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_33900_33463								
+-	34195	34365	171	DNA polymerase III polC-type (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_34365_34195								
+-	34435	35109	675	DNA polymerase III polC-type (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_35109_34435								
+-	35113	35580	468	DNA polymerase III polC-type (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_35580_35113								
+-	35902	36195	294	"DNA polymerase III, alpha subunit, Gram-positive type( EC:2.7.7.7 )"	peg	gi|108885074|ref|NC_000908.2|_36195_35902								
+-	36514	36714	201	"DNA polymerase III, alpha subunit, Gram-positive type( EC:2.7.7.7 )"	peg	gi|108885074|ref|NC_000908.2|_36714_36514								
++	36977	37957	981	membrane export protein family	peg	gi|108885074|ref|NC_000908.2|_36977_37957								
++	36977	38977	2001	membrane export protein family	peg	gi|108885074|ref|NC_000908.2|_38735_38977		Membrane protein involved in colicin uptake		CDS	conserved hypothetical protein			
++	39538	39690	153	Glycerol uptake facilitator protein	peg	gi|108885074|ref|NC_000908.2|_39538_39690								
+-	39872	40513	642				thymidine kinase (EC 2.7.1.21)	2.7.1.21	CDS	thymidine kinase	2.7.1.21	tdk	
++	39127	39903	777				Glycerol uptake facilitator and related permeases (Major Intrinsic Protein Family)		CDS	major intrinsic family protein			
++	40542	41069	528	Histidyl-tRNA synthetase (EC 6.1.1.21)	peg	gi|108885074|ref|NC_000908.2|_40542_41069								
++	41319	41567	249	Histidyl-tRNA synthetase (EC 6.1.1.21)	peg	gi|108885074|ref|NC_000908.2|_41319_41567								
++	40542	41786	1245				histidyl-tRNA synthetase (EC 6.1.1.21)	6.1.1.21	CDS	histidine--tRNA ligase	6.1.1.21	hisS	
++	42352	42888	537	Aspartyl-tRNA synthetase (EC 6.1.1.12)	peg	gi|108885074|ref|NC_000908.2|_42352_42888								
++	43180	43404	225	Aspartyl-tRNA synthetase (EC 6.1.1.12)	peg	gi|108885074|ref|NC_000908.2|_43180_43404								
++	41758	43428	1671				aspartyl-tRNA synthetase (EC 6.1.1.12)	6.1.1.12	CDS	aspartate--tRNA ligase	6.1.1.-	aspS	
++	43404	43565	162	Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)	peg	gi|108885074|ref|NC_000908.2|_43404_43565								
++	43593	44258	666	Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)	peg	gi|108885074|ref|NC_000908.2|_43593_44258								
+-	44750	46276	1527				glycerol kinase (EC 2.7.1.30)	2.7.1.30	CDS	glycerol kinase	2.7.1.30	glpK	
++	43404	44753	1350	Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)	peg	gi|108885074|ref|NC_000908.2|_44403_44753		Nicotinic acid phosphoribosyltransferase		CDS	nicotinate phosphoribosyltransferase family protein			
+-	44891	45070	180	Glycerol kinase (EC 2.7.1.30)	peg	gi|108885074|ref|NC_000908.2|_45070_44891								
+-	45188	45442	255	Glycerol kinase (EC 2.7.1.30)	peg	gi|108885074|ref|NC_000908.2|_45442_45188								
++	45681	45866	186	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_45681_45866								
+-	46267	47421	1155				glycerol 3-phosphate oxidase (EC 1.1.3.21)	1.1.5.3	CDS	conserved hypothetical protein			
+-	46297	46671	375	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)	peg	gi|108885074|ref|NC_000908.2|_46671_46297								
+-	47203	47421	219	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)	peg	gi|108885074|ref|NC_000908.2|_47421_47203								
++	47580	47855	276	"COG1744: Uncharacterized ABC-type transport system, periplasmic component/surface lipoprotein"	peg	gi|108885074|ref|NC_000908.2|_47580_47855								
++	48333	48929	597	"COG1744: Uncharacterized ABC-type transport system, periplasmic component/surface lipoprotein"	peg	gi|108885074|ref|NC_000908.2|_48333_48929								
++	48945	49190	246	"COG1744: Uncharacterized ABC-type transport system, periplasmic component/surface lipoprotein"	peg	gi|108885074|ref|NC_000908.2|_48945_49190								
++	47580	49355	1776				nucleoside-binding protein		CDS	basic membrane family protein			
++	49376	49642	267	"Phosphotransferase system, phosphocarrier protein HPr"	peg	gi|108885074|ref|NC_000908.2|_49376_49642		Phosphotransferase System HPr (HPr) Family		CDS	phosphocarrier protein HPr	2.7.11.-	ptsH	
++	49840	50163	324	Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)	peg	gi|108885074|ref|NC_000908.2|_49840_50163								
++	50572	50724	153	Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)	peg	gi|108885074|ref|NC_000908.2|_50572_50724								
++	50839	51168	330	Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)	peg	gi|108885074|ref|NC_000908.2|_50839_51168								
++	49840	51519	1680				ABC-type spermidine/putrescine transport systems, ATPase components	3.6.3.31	CDS	ABC transporter family protein			
++	51863	52357	495	Spermidine Putrescine ABC transporter permease component PotB (TC 3.A.1.11.1)	peg	gi|108885074|ref|NC_000908.2|_51863_52357								
++	51524	52381	858				ABC-type spermidine/putrescine transport system, permease component I		CDS	binding--dependent transport system inner membrane component family protein			
++	52365	52769	405	Spermidine Putrescine ABC transporter permease component potC (TC_3.A.1.11.1)	peg	gi|108885074|ref|NC_000908.2|_52365_52769								
++	52842	53207	366	Spermidine Putrescine ABC transporter permease component potC (TC_3.A.1.11.1)	peg	gi|108885074|ref|NC_000908.2|_52842_53207								
++	52365	53219	855				ABC-type spermidine/putrescine transport system, permease component II		CDS	binding--dependent transport system inner membrane component family protein			
++	53204	53488	285	Probable spermidine/putrescine substrate binding protein in Mollicutes	peg	gi|108885074|ref|NC_000908.2|_53204_53488								
++	53735	54568	834	Probable spermidine/putrescine substrate binding protein in Mollicutes	peg	gi|108885074|ref|NC_000908.2|_53735_54568								
++	53204	54655	1452				Spermidine/putrescine-binding periplasmic protein		CDS	hypothetical lipo family protein			
++	54657	55271	615	"TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA"	peg	gi|108885074|ref|NC_000908.2|_54657_55271								
++	54657	55604	948	o-sialoglycoprotein endopeptidase	peg	gi|108885074|ref|NC_000908.2|_55443_55604		O-sialoglycoprotein endopeptidase (EC 3.4.24.57)	3.4.24.57	CDS	putative tRNA threonylcarbamoyladenosine biosynthesis protein Gcp			
++	55588	55818	231	S-adenosylmethionine synthetase (EC 2.5.1.6)	peg	gi|108885074|ref|NC_000908.2|_55588_55818								
++	55963	56478	516	S-adenosylmethionine synthetase (EC 2.5.1.6)	peg	gi|108885074|ref|NC_000908.2|_55963_56478								
++	55588	56739	1152				methionine adenosyltransferase (EC 2.5.1.6)	2.5.1.6	CDS	methionine adenosyltransferase	2.5.1.6	metK	
+-	56969	58279	1311				signal recognition particle subunit FFH/SRP54 (srp54)		CDS	signal recognition particle protein		ffh	
++	56715	56972	258	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_56715_56972		hypothetical protein		CDS	hypothetical protein			
+-	57194	57904	711	"Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)"	peg	gi|108885074|ref|NC_000908.2|_57904_57194								
+-	57944	58279	336	"Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)"	peg	gi|108885074|ref|NC_000908.2|_58279_57944								
++	58284	58691	408	Purine nucleoside phosphorylase (EC 2.4.2.1)	peg	gi|108885074|ref|NC_000908.2|_58284_58691								
++	58284	59078	795	Purine nucleoside phosphorylase (EC 2.4.2.1)	peg	gi|108885074|ref|NC_000908.2|_58716_59078		purine-nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1	CDS	purine nucleoside phosphorylase	2.4.2.1	deoD	
++	59082	59753	672	Deoxyribose-phosphate aldolase (EC 4.1.2.4)	peg	gi|108885074|ref|NC_000908.2|_59082_59753		deoxyribose-phosphate aldolase	4.1.2.4	CDS	deoxyribose-phosphate aldolase	4.1.2.4	deoC	
++	59740	60663	924	Thymidine phosphorylase (EC 2.4.2.4)	peg	gi|108885074|ref|NC_000908.2|_59740_60663								
++	59740	61005	1266	Thymidine phosphorylase (EC 2.4.2.4)	peg	gi|108885074|ref|NC_000908.2|_60841_61005		thymidine phosphorylase (EC 2.4.2.4)	2.4.2.4	CDS	thymidine phosphorylase	2.4.2.4	deoA	
++	61014	61406	393	Cytidine deaminase (EC 3.5.4.5)	peg	gi|108885074|ref|NC_000908.2|_61104_61406		cytidine deaminase (EC 3.5.4.5)	3.5.4.5	CDS	cytidine deaminase	3.5.4.5	cdd	
++	61406	62353	948	"D-Ribose 1,5-phosphomutase (EC 5.4.2.7)"	peg	gi|108885074|ref|NC_000908.2|_61406_62353								
++	62459	62785	327	"D-Ribose 1,5-phosphomutase (EC 5.4.2.7)"	peg	gi|108885074|ref|NC_000908.2|_62459_62785								
+-	63035	63985	951	Transcription antitermination protein NusG	peg	gi|108885074|ref|NC_000908.2|_63556_63035		NusG family protein		CDS	conserved hypothetical protein			
++	61406	63058	1653	"D-Ribose 1,5-phosphomutase (EC 5.4.2.7)"	peg	gi|108885074|ref|NC_000908.2|_62840_63058		Phosphomannomutase	5.4.2.8	CDS	phosphoglucomutase/phosphomannomutase, C-terminal domain protein			
+-	63662	63985	324	Transcription antitermination protein NusG	peg	gi|108885074|ref|NC_000908.2|_63985_63662								
+-	63989	64360	372				preprotein translocase, SecE subunit, bacterial		CDS	preprotein translocase, SecE subunit		secE	
+-	64145	64360	216	Preprotein translocase subunit SecE (TC 3.A.5.1.1)	peg	gi|108885074|ref|NC_000908.2|_64360_64145								
+-	64527	64910	384				Cell fusion glycoprotein K.		CDS	cell fusion glycoK family protein			
+-	64668	64910	243	FIG00834433: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_64910_64668								
+-	64897	65730	834				probable S-adenosylmethionine-dependent methyltransferase, YraL family	2.1.1.198	CDS	tetrapyrrole (Corrin/Porphyrin) Methylases family protein			
+-	65131	65730	600	rRNA small subunit methyltransferase I	peg	gi|108885074|ref|NC_000908.2|_65730_65131								
+-	65712	66248	537				RNAse M5 (EC 3.1.26.8)	3.1.26.8	CDS	ribonuclease M5	3.1.26.8	rnmV	
+-	65865	66248	384	Ribonuclease M5 (EC 3.1.26.8)	peg	gi|108885074|ref|NC_000908.2|_66248_65865								
+-	66227	67120	894	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	peg	gi|108885074|ref|NC_000908.2|_67120_66227		ribose-phosphate pyrophosphokinase	2.7.6.1	CDS	ribose-phosphate pyrophosphokinase	2.7.6.1	prs	
+-	67206	67643	438				SsrA-binding protein		CDS	ssrA-binding protein		smpB	
+-	67293	67643	351	tmRNA-binding protein SmpB	peg	gi|108885074|ref|NC_000908.2|_67643_67293								
++	67650	67916	267	COG0463: Glycosyltransferases involved in cell wall biogenesis	peg	gi|108885074|ref|NC_000908.2|_67650_67916								
++	68091	68303	213	COG0463: Glycosyltransferases involved in cell wall biogenesis	peg	gi|108885074|ref|NC_000908.2|_68091_68303								
+-	68522	70225	1704				Mycoplasma MFS transporter.		CDS	mycoplasma MFS transporter family protein			
++	67650	68543	894				Glycosyltransferases involved in cell wall biogenesis		CDS	conserved hypothetical protein			
+-	68591	68989	399	Uncharacterized protein MG061	peg	gi|108885074|ref|NC_000908.2|_68989_68591								
+-	69269	69979	711	Uncharacterized protein MG061	peg	gi|108885074|ref|NC_000908.2|_69979_69269								
+-	69992	70225	234	Uncharacterized protein MG061	peg	gi|108885074|ref|NC_000908.2|_70225_69992								
++	70530	70796	267	"PTS system, fructose-specific IIA component (EC 2.7.1.69) / PTS system, fructose-specific IIB component (EC 2.7.1.69) / PTS system, fructose-specific IIC component (EC 2.7.1.69)"	peg	gi|108885074|ref|NC_000908.2|_70530_70796								
++	70530	72572	2043	"PTS system, fructose-specific IIA component (EC 2.7.1.69) / PTS system, fructose-specific IIB component (EC 2.7.1.69) / PTS system, fructose-specific IIC component (EC 2.7.1.69)"	peg	gi|108885074|ref|NC_000908.2|_70863_72572		PTS system D-fructose-specific IIA component (F6P-forming), Fru family (TC 4.A.2.1.7)/PTS system D-fructose-specific IIB component (F6P-forming), Fru family (TC 4.A.2.1.7)/PTS system D-fructose-specific IIC component (F6P-forming), Fru family (TC 4.A.2.1.7)		CDS	PTS system, fructose subfamily, IIA component domain protein	2.7.1.69	fruA	
++	72523	73434	912	Tagatose-6-phosphate kinase (EC 2.7.1.144) / 1-phosphofructokinase (EC 2.7.1.56)	peg	gi|108885074|ref|NC_000908.2|_72667_73434		Fructose-1-phosphate kinase and related fructose-6-phosphate kinase (PfkB)	2.7.1.56	CDS	putative 1-phosphofructokinase			
++	73445	73648	204	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_73523_73648		hypothetical protein		CDS	hypothetical protein			
++	73690	74580	891	FIG00836948: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_73690_74580								
++	75085	75393	309	FIG00836948: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_75085_75393								
++	75433	75642	210	FIG00836948: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_75433_75642								
++	75664	75816	153	FIG00836948: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_75664_75816								
++	76078	76572	495	FIG00836948: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_76078_76572								
++	76582	77637	1056	FIG00836948: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_76582_77637								
++	73690	77685	3996				ABC-type transport system, involved in lipoprotein release, permease component		CDS	ftsX-like permease family protein			
++	77685	77885	201	glutamine transport ATP-binding protein	peg	gi|108885074|ref|NC_000908.2|_77685_77885								
++	78396	79079	684	glutamine transport ATP-binding protein	peg	gi|108885074|ref|NC_000908.2|_78396_79079								
++	77685	79085	1401				ABC-type antimicrobial peptide transport system, ATPase component		CDS	conserved hypothetical protein			
++	79089	79940	852	Transketolase (EC 2.2.1.1)	peg	gi|108885074|ref|NC_000908.2|_79089_79940								
++	79089	81035	1947	Transketolase (EC 2.2.1.1)	peg	gi|108885074|ref|NC_000908.2|_79995_81035		transketolase (EC 2.2.1.1)	2.2.1.1	CDS	transketolase	2.2.1.1	tkt	
++	81073	81294	222	"lipoprotein, putative"	peg	gi|108885074|ref|NC_000908.2|_81073_81294								
++	81529	81714	186	"lipoprotein, putative"	peg	gi|108885074|ref|NC_000908.2|_81529_81714								
++	81046	82596	1551				Putative peptidase (DUF31).		CDS	conserved hypothetical protein			
++	82620	84044	1425	"lipoprotein, putative"	peg	gi|108885074|ref|NC_000908.2|_82656_84044		Putative peptidase (DUF31).		CDS	conserved hypothetical protein			
++	84082	84312	231	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_84082_84312								
++	84082	84408	327				hypothetical protein		CDS	hypothetical protein			
+-	84532	84744	213	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_84744_84532								
++	84776	85051	276	COG2855: Predicted membrane protein	peg	gi|108885074|ref|NC_000908.2|_84776_85051								
++	84551	85555	1005	FIG00835189: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_85319_85555		hypothetical protein		CDS	putative membrane protein			
++	85589	85942	354	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_85589_85942								
++	85589	85999	411				hypothetical protein		CDS	putative adhesin-like protein			
++	86263	86535	273	MgPa adhesin	peg	gi|108885074|ref|NC_000908.2|_86263_86535								
++	86134	86616	483				Mycoplasma adhesin P1.		CDS	mycoplasma adhesin P1 family protein			
++	86827	87033	207	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_86827_87033								
++	87040	87210	171	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_87040_87210								
++	87338	87757	420				hypothetical protein		CDS	mgp-operon 3 domain protein			
++	87935	88207	273				hypothetical protein		CDS	conserved hypothetical protein			
++	88321	88629	309	"PTS system, glucose-specific IIABC component (ptsG)"	peg	gi|108885074|ref|NC_000908.2|_88321_88629								
++	89617	89823	207	"PTS system, glucose-specific IIABC component (ptsG)"	peg	gi|108885074|ref|NC_000908.2|_89617_89823								
++	89992	90366	375	"PTS system, glucose-specific IIABC component (ptsG)"	peg	gi|108885074|ref|NC_000908.2|_89992_90366								
++	88228	90954	2727	"PTS system, glucose-specific IIABC component (ptsG)"	peg	gi|108885074|ref|NC_000908.2|_90373_90954		PTS system D-glucose-specific IIA component, Glc family (TC 4.A.1.1.9)/PTS system D-glucose-specific IIB component, Glc family (TC 4.A.1.1.9)/PTS system D-glucose-specific IIC component, Glc family (TC 4.A.1.1.9)		CDS	PTS system, glucose subfamily, IIA component domain protein		ptbA	
++	91167	91382	216	SSU ribosomal protein S2p (SAe)	peg	gi|108885074|ref|NC_000908.2|_91167_91382								
++	91065	91919	855	SSU ribosomal protein S2p (SAe)	peg	gi|108885074|ref|NC_000908.2|_91641_91919		SSU ribosomal protein S2P		CDS	ribosomal protein S2		rpsB	
++	92257	92652	396	"Cation-transporting ATPase, E1-E2 family"	peg	gi|108885074|ref|NC_000908.2|_92257_92652								
++	92812	93084	273	"Cation-transporting ATPase, E1-E2 family"	peg	gi|108885074|ref|NC_000908.2|_92812_93084								
++	93160	93654	495	"Cation-transporting ATPase, E1-E2 family"	peg	gi|108885074|ref|NC_000908.2|_93160_93654								
++	93739	94134	396	"Cation-transporting ATPase, E1-E2 family"	peg	gi|108885074|ref|NC_000908.2|_93739_94134								
++	94165	94356	192	"Cation-transporting ATPase, E1-E2 family"	peg	gi|108885074|ref|NC_000908.2|_94165_94356								
++	91924	94548	2625	"Cation-transporting ATPase, E1-E2 family"	peg	gi|108885074|ref|NC_000908.2|_94390_94548		ATPase, P-type (transporting), HAD superfamily, subfamily IC		CDS	HAD ATPase, P-type, IC family protein	3.6.3.-		
++	94535	95782	1248	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)	peg	gi|108885074|ref|NC_000908.2|_94535_95782								
++	95783	96697	915	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)	peg	gi|108885074|ref|NC_000908.2|_95783_96697								
++	94535	96955	2421	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)	peg	gi|108885074|ref|NC_000908.2|_96707_96955		protein translocase subunit secA		CDS	preprotein translocase, SecA subunit		secA	
++	96933	98903	1971	Excinuclease ABC subunit B	peg	gi|108885074|ref|NC_000908.2|_96933_98903		Excinuclease ABC subunit B		CDS	excinuclease ABC subunit B	3.1.25.-	uvrB	
++	98906	99112	207	FIG00835758: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_98906_99112								
++	98906	99319	414				hypothetical protein		CDS	conserved hypothetical protein			
++	99383	101779	2397	FIG00835300: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_99383_101779								
+-	102454	102870	417	FIG00834468: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_102870_102454		hypothetical protein		CDS	conserved hypothetical protein			
++	99383	102457	3075	FIG00835300: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_102344_102457		hypothetical protein		CDS	conserved hypothetical protein			
++	103380	104123	744	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	peg	gi|108885074|ref|NC_000908.2|_103380_104123								
++	103104	104327	1224	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	peg	gi|108885074|ref|NC_000908.2|_104157_104327		ABC-type dipeptide/oligopeptide/nickel transport systems, permease components		CDS	binding--dependent transport system inner membrane component family protein			
++	104320	104805	486	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)	peg	gi|108885074|ref|NC_000908.2|_104320_104805								
++	104320	105450	1131	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)	peg	gi|108885074|ref|NC_000908.2|_105106_105450		ABC-type dipeptide/oligopeptide/nickel transport systems, permease components		CDS	binding--dependent transport system inner membrane component family protein			
++	105452	106564	1113	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	peg	gi|108885074|ref|NC_000908.2|_105452_106564								
++	105452	106660	1209				oligopeptide/dipeptide ABC transporter, ATP-binding protein, C-terminal domain		CDS	oligopeptide/dipeptide ABC transporter, ATP-binding , C-terminal domain protein			
++	106660	107547	888	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	peg	gi|108885074|ref|NC_000908.2|_106660_107547								
++	107590	108009	420	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	peg	gi|108885074|ref|NC_000908.2|_107590_108009								
++	108073	109179	1107	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	peg	gi|108885074|ref|NC_000908.2|_108073_109179								
++	106660	109206	2547				ABC-type oligopeptide transport system, ATPase component		CDS	ABC transporter family protein			
++	109262	109675	414	LSU ribosomal protein L11p (L12e)	peg	gi|108885074|ref|NC_000908.2|_109262_109675		LSU ribosomal protein L11P		CDS	ribosomal protein L11		rplK	
++	109675	109992	318	LSU ribosomal protein L1p (L10Ae)	peg	gi|108885074|ref|NC_000908.2|_109675_109992								
++	109675	110355	681	LSU ribosomal protein L1p (L10Ae)	peg	gi|108885074|ref|NC_000908.2|_110029_110355		LSU ribosomal protein L1P		CDS	ribosomal protein L1		rplA	
++	110355	110924	570	Peptidyl-tRNA hydrolase (EC 3.1.1.29)	peg	gi|108885074|ref|NC_000908.2|_110355_110924		peptidyl-tRNA hydrolase (EC 3.1.1.29)	3.1.1.29	CDS	peptidyl-tRNA hydrolase	3.1.1.29	pth	
++	110917	111129	213	tRNA(Ile)-lysidine synthetase	peg	gi|108885074|ref|NC_000908.2|_110917_111129								
++	110917	111789	873	tRNA(Ile)-lysidine synthetase	peg	gi|108885074|ref|NC_000908.2|_111511_111789		tRNA(Ile)-lysidine synthetase, N-terminal domain		CDS	tRNA(Ile)-lysidine synthase	6.3.4.-	tilS	
++	111790	112725	936	HPr kinase/phosphorylase (EC 2.7.1.-) (EC 2.7.4.-)	peg	gi|108885074|ref|NC_000908.2|_111790_112725		Hpr(Ser) kinase/phosphatase (EC 2.7.1.-)	2.7.11.-, 2.7.4.-	CDS	HPr(Ser) kinase/phosphatase	2.7.1.-	hprK	
++	112820	113626	807	Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)	peg	gi|108885074|ref|NC_000908.2|_112820_113626								
++	112718	113866	1149	Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)	peg	gi|108885074|ref|NC_000908.2|_113684_113866		Prolipoprotein diacylglyceryl transferase	2.-	CDS	prolipoprotein diacylglyceryl transferase	2.4.99.-	lgt	
++	113895	114314	420	SSU ribosomal protein S12p (S23e)	peg	gi|108885074|ref|NC_000908.2|_113895_114314		SSU ribosomal protein S12P		CDS	ribosomal protein S12		rpsL	
++	114331	114798	468	SSU ribosomal protein S7p (S5e)	peg	gi|108885074|ref|NC_000908.2|_114331_114798		SSU ribosomal protein S7P		CDS	ribosomal protein S7		rpsG	
++	114808	115023	216	Translation elongation factor G	peg	gi|108885074|ref|NC_000908.2|_114808_115023								
++	114808	116874	2067	Translation elongation factor G	peg	gi|108885074|ref|NC_000908.2|_115216_116874		translation elongation factor 2 (EF-2/EF-G)		CDS	translation elongation factor G		fusA	
++	116926	117396	471	SSU ribosomal protein S6p	peg	gi|108885074|ref|NC_000908.2|_116926_117396								
++	116926	117552	627				SSU ribosomal protein S6P		CDS	ribosomal protein S6		rpsF	
++	117553	118035	483	Single-stranded DNA-binding protein	peg	gi|108885074|ref|NC_000908.2|_117742_118035		Single-stranded DNA-binding protein		CDS	single-stranded DNA-binding protein		ssb	
++	118028	118342	315	"SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent"	peg	gi|108885074|ref|NC_000908.2|_118028_118342		SSU ribosomal protein S18P		CDS	ribosomal protein S18		rpsR	
++	118345	118797	453	LSU ribosomal protein L9p	peg	gi|108885074|ref|NC_000908.2|_118345_118797		LSU ribosomal protein L9P		CDS	ribosomal protein L9		rplI	
++	118781	119410	630	Replicative DNA helicase (EC 3.6.1.-)	peg	gi|108885074|ref|NC_000908.2|_118781_119410								
++	118781	120187	1407	Replicative DNA helicase (EC 3.6.1.-)	peg	gi|108885074|ref|NC_000908.2|_119480_120187		primary replicative DNA helicase (EC 3.6.1.-)	3.6.4.12	CDS	replicative DNA helicase	3.6.4.12	dnaB	
++	120191	120538	348	FIG00835158: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_120191_120538								
++	121007	121165	159	FIG00835158: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_121007_121165								
++	120191	121387	1197	FIG00835158: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_121214_121387		hypothetical protein		CDS	conserved hypothetical protein			
++	121571	123202	1632	membrane export protein family	peg	gi|108885074|ref|NC_000908.2|_121571_123202								
++	121571	123523	1953	membrane export protein family	peg	gi|108885074|ref|NC_000908.2|_123254_123523		Membrane protein involved in colicin uptake		CDS	conserved hypothetical protein			
++	124051	124278	228	"Uracil-DNA glycosylase, family 1"	peg	gi|108885074|ref|NC_000908.2|_124051_124278								
++	123586	124317	732				Uracil-DNA glycosylase (EC 3.2.2.-)	3.2.2.27	CDS	uracil-DNA glycosylase	3.2.2.27	ung	
++	124417	125154	738	Substrate-specific component FolT of folate ECF transporter / Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)	peg	gi|108885074|ref|NC_000908.2|_124417_125154								
++	124417	125850	1434	Substrate-specific component FolT of folate ECF transporter / Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)	peg	gi|108885074|ref|NC_000908.2|_125392_125850		aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C (EC 6.3.5.-)		CDS	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C subunit	6.3.5.-	gatC	
++	125853	126662	810	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)	peg	gi|108885074|ref|NC_000908.2|_125853_126662								
++	126702	127253	552	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)	peg	gi|108885074|ref|NC_000908.2|_126702_127253								
++	125853	127286	1434				aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A (EC 6.3.5.-)	6.3.5.7, 6.3.5.6	CDS	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, A subunit	6.3.5.-	gatA	
++	127279	128712	1434	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)	peg	gi|108885074|ref|NC_000908.2|_127279_128712		aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (EC 6.3.5.-)	6.3.5.7, 6.3.5.6	CDS	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, B subunit	6.3.5.-	gatB	
++	128687	129355	669	FIG00834062: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_128906_129355		transcriptional regulator, GntR family		CDS	conserved hypothetical protein			
++	129348	130295	948	Thioredoxin reductase (EC 1.8.1.9)	peg	gi|108885074|ref|NC_000908.2|_129348_130295		thioredoxin-disulfide reductase	1.8.1.9	CDS	thioredoxin-disulfide reductase	1.8.1.9	trxB	
++	130417	131022	606	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_130417_131022								
++	130285	131127	843				conserved hypothetical protein		CDS	sporulation Regulator WhiA C terminal domain protein			
++	131149	131382	234	FIG00834146: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_131179_131382		protein translocase, SecG subunit		CDS	preprotein translocase, SecG subunit		secG	
++	131385	131546	162	3'-to-5' exoribonuclease RNase R	peg	gi|108885074|ref|NC_000908.2|_131385_131546								
++	131679	132965	1287	3'-to-5' exoribonuclease RNase R	peg	gi|108885074|ref|NC_000908.2|_131679_132965								
++	131385	133562	2178	3'-to-5' exoribonuclease RNase R	peg	gi|108885074|ref|NC_000908.2|_133149_133562		RNAse R (EC 3.1.-.-)	3.1.-	CDS	ribonuclease R	3.1.-.-	rnr	
+-	134147	134728	582				peptide deformylase (EC 3.5.1.88)	3.5.1.88	CDS	peptide deformylase	3.5.1.88	def	
++	133570	134172	603	Uncharacterized protein MG105	peg	gi|108885074|ref|NC_000908.2|_133921_134172		TIGR00159 family protein		CDS	disA bacterial checkpoint controller nucleotide-binding family protein			
+-	134516	134728	213	Peptide deformylase (EC 3.5.1.88)	peg	gi|108885074|ref|NC_000908.2|_134728_134516								
++	134769	135338	570	Guanylate kinase (EC 2.7.4.8)	peg	gi|108885074|ref|NC_000908.2|_134769_135338		guanylate kinase (EC 2.7.4.8)	2.7.4.8	CDS	guanylate kinase	2.7.4.8	gmk	
++	135338	135553	216	"Protein serine/threonine phosphatase PrpC, regulation of stationary phase"	peg	gi|108885074|ref|NC_000908.2|_135338_135553								
++	135338	136120	783	"Protein serine/threonine phosphatase PrpC, regulation of stationary phase"	peg	gi|108885074|ref|NC_000908.2|_135806_136120		Serine/threonine protein phosphatase	3.1.3.16	CDS	phosphatase 2C family protein			
++	136105	137028	924	"Serine/threonine protein kinase PrkC, regulator of stationary phase, short form"	peg	gi|108885074|ref|NC_000908.2|_136105_137028								
++	136105	137268	1164				Serine/threonine protein kinase	2.7.11.1	CDS	tyrosine kinase family protein			
++	137540	138058	519	Ribosome small subunit-stimulated GTPase EngC	peg	gi|108885074|ref|NC_000908.2|_137540_138058								
++	137255	138091	837				ribosome small subunit-dependent GTPase A	3.6.1.-	CDS	ribosome small subunit-dependent GTPase A	3.6.-.-	rsgA	
++	138112	138867	756	Glucose-6-phosphate isomerase (EC 5.3.1.9)	peg	gi|108885074|ref|NC_000908.2|_138112_138867								
++	138931	139293	363	Glucose-6-phosphate isomerase (EC 5.3.1.9)	peg	gi|108885074|ref|NC_000908.2|_138931_139293								
++	138112	139407	1296				glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	CDS	phosphoglucose isomerase family protein			
++	139397	140026	630	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	peg	gi|108885074|ref|NC_000908.2|_139397_140026		ribulose-5-phosphate 3-epimerase (EC 5.1.3.1)	5.1.3.1	CDS	ribulose-phosphate 3 epimerase family protein			
++	140040	140273	234	Asparaginyl-tRNA synthetase (EC 6.1.1.22)	peg	gi|108885074|ref|NC_000908.2|_140040_140273								
++	140331	141266	936	Asparaginyl-tRNA synthetase (EC 6.1.1.22)	peg	gi|108885074|ref|NC_000908.2|_140331_141266								
++	140040	141410	1371	Asparaginyl-tRNA synthetase (EC 6.1.1.22)	peg	gi|108885074|ref|NC_000908.2|_141276_141410		asparaginyl-tRNA synthetase (EC 6.1.1.22)	6.1.1.22	CDS	asparagine--tRNA ligase	6.1.1.22	asnS	
++	141391	141669	279	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)	peg	gi|108885074|ref|NC_000908.2|_141391_141669								
++	141391	142056	666				CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	CDS	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	pgsA	
++	142081	142554	474	Competence/damage-inducible protein CinA	peg	gi|108885074|ref|NC_000908.2|_142081_142554		competence/damage-inducible protein cinA		CDS	conserved hypothetical protein			
++	142563	143096	534	FIG00835803: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_142563_143096								
++	142563	143318	756	FIG00835803: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_143205_143318		4-diphosphocytidyl-2-methyl-D-erithritol synthase		CDS	conserved hypothetical protein			
++	143311	143514	204	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_143311_143514								
++	143311	143955	645	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_143602_143955		hypothetical protein		CDS	conserved hypothetical protein			
++	143936	144676	741	UDP-glucose 4-epimerase (EC 5.1.3.2)	peg	gi|108885074|ref|NC_000908.2|_143936_144676								
++	143936	144958	1023				UDP-glucose-4-epimerase	5.1.3.2	CDS	UDP-glucose 4-epimerase	5.1.3.2	galE	
++	144973	146136	1164	Methylgalactoside permease ATP-binding protein	peg	gi|108885074|ref|NC_000908.2|_144973_146136								
++	144973	146667	1695	Methylgalactoside permease ATP-binding protein	peg	gi|108885074|ref|NC_000908.2|_146287_146667		nucleoside ABC transporter ATP-binding protein	3.6.3.17	CDS	ABC transporter family protein			
++	146965	147198	234	"COG4603: ABC-type uncharacterized transport system, permease component"	peg	gi|108885074|ref|NC_000908.2|_146965_147198								
++	147457	147807	351	"COG4603: ABC-type uncharacterized transport system, permease component"	peg	gi|108885074|ref|NC_000908.2|_147457_147807								
++	146674	148236	1563	"COG4603: ABC-type uncharacterized transport system, permease component"	peg	gi|108885074|ref|NC_000908.2|_148054_148236		nucleoside ABC transporter membrane protein		CDS	branched-chain amino acid transport system / permease component family protein			
++	148239	148436	198	"COG1079: Uncharacterized ABC-type transport system, permease component"	peg	gi|108885074|ref|NC_000908.2|_148239_148436								
++	148536	148958	423	"COG1079: Uncharacterized ABC-type transport system, permease component"	peg	gi|108885074|ref|NC_000908.2|_148536_148958								
+-	149045	149233	189	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_149233_149045								
++	148239	149159	921				nucleoside ABC transporter membrane protein		CDS	branched-chain amino acid transport system / permease component family protein			
++	149199	149360	162	DNA topoisomerase I (EC 5.99.1.2)	peg	gi|108885074|ref|NC_000908.2|_149199_149360								
++	149529	150968	1440	DNA topoisomerase I (EC 5.99.1.2)	peg	gi|108885074|ref|NC_000908.2|_149529_150968								
++	149199	151328	2130	DNA topoisomerase I (EC 5.99.1.2)	peg	gi|108885074|ref|NC_000908.2|_151017_151328		DNA topoisomerase I (EC 5.99.1.2)	5.99.1.2	CDS	DNA topoisomerase I	5.99.1.2	topA	
++	151306	152298	993	FIG00833885: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_151306_152298								
++	151306	152721	1416	FIG00833885: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_152419_152721		hypothetical protein		CDS	conserved hypothetical protein			
++	152768	153076	309				thioredoxin		CDS	thioredoxin		trxA	
++	153082	153771	690	FIG00836795: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_153082_153771								
+-	153920	154963	1044	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)	peg	gi|108885074|ref|NC_000908.2|_154963_153920		tryptophanyl-tRNA synthetase (EC 6.1.1.2)	6.1.1.2	CDS	tryptophan--tRNA ligase	6.1.1.2	trpS	
++	153082	153939	858	FIG00836795: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_153784_153939		Predicted hydrolases of the HAD superfamily		CDS	conserved hypothetical protein			
++	154999	155436	438	Arsenate reductase family protein	peg	gi|108885074|ref|NC_000908.2|_154999_155436		transcriptional regulator, Spx/MgsR family		CDS	conserved hypothetical protein			
++	155444	156223	780	NAD kinase (EC 2.7.1.23)	peg	gi|108885074|ref|NC_000908.2|_155444_156223		Predicted sugar kinase	2.7.1.23	CDS	putative inorganic polyphosphate/ATP-NAD kinase			
++	156223	156576	354	FIG00835296: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_156241_156576		Phosphotransferase system IIB components		CDS	putative phosphotransferase enzyme IIB component MPN_268			
++	156566	157858	1293	uncharacterized domain HDIG	peg	gi|108885074|ref|NC_000908.2|_156566_157858								
++	156566	158020	1455				uncharacterized domain HDIG		CDS	ribonuclease Y	3.1.-.-	rny	
++	158023	158247	225	FIG00834653: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_158023_158247		hypothetical protein		CDS	putative membrane protein			
+-	158581	159006	426	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases	peg	gi|108885074|ref|NC_000908.2|_159006_158581		Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases		CDS	protein hit		hit	
++	158323	158604	282	FIG00834960: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_158323_158604		hypothetical protein		CDS	hypothetical protein			
+-	158984	159778	795				Protein of unknown function (DUF1600).		CDS	conserved hypothetical protein			
+-	159074	159298	225	Uncharacterized protein MG133	peg	gi|108885074|ref|NC_000908.2|_159298_159074								
+-	159554	159778	225	Uncharacterized protein MG133	peg	gi|108885074|ref|NC_000908.2|_159778_159554								
+-	160072	160914	843	FIG00835178: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_160263_160072		hypothetical protein		CDS	putative membrane protein			
++	159798	160100	303	FIG00835166: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_159798_160100		DNA-binding protein, YbaB/EbfC family		CDS	DNA-binding protein, YbaB/EbfC family			
+-	160285	160914	630	FIG00835178: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_160914_160285								
++	160921	161391	471	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)	peg	gi|108885074|ref|NC_000908.2|_160921_161391								
++	161458	161856	399	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)	peg	gi|108885074|ref|NC_000908.2|_161458_161856								
++	160963	162435	1473	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)	peg	gi|108885074|ref|NC_000908.2|_161902_162435		lysyl-tRNA synthetase, class II (EC 6.1.1.6)	6.1.1.6	CDS	lysine--tRNA ligase	6.1.1.6	lysS	
++	162422	163237	816	UDP-galactopyranose mutase (EC 5.4.99.9)	peg	gi|108885074|ref|NC_000908.2|_162422_163237								
++	163283	163471	189	UDP-galactopyranose mutase (EC 5.4.99.9)	peg	gi|108885074|ref|NC_000908.2|_163283_163471								
++	162398	163591	1194				UDP-galactopyranose mutase	5.4.99.9	CDS	UDP-galactopyranose mutase	5.4.99.9	glf	
++	163591	165387	1797	Translation elongation factor LepA	peg	gi|108885074|ref|NC_000908.2|_163591_165387		GTP-binding protein LepA		CDS	GTP-binding protein LepA	3.6.5.-	lepA	
++	165471	167129	1659	Ribonuclease J1 (endonuclease and 5' exonuclease)	peg	gi|108885074|ref|NC_000908.2|_165471_167129								
++	165471	167180	1710				Predicted hydrolase of the metallo-beta-lactamase superfamily	3.1.-	CDS	metallo-beta-lactamase superfamily protein			
++	167218	167556	339	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_167218_167556								
++	167218	167613	396				hypothetical protein		CDS	putative adhesin-like protein			
++	167730	168230	501	MgPa adhesin	peg	gi|108885074|ref|NC_000908.2|_167859_168230		Mycoplasma adhesin P1.		CDS	mycoplasma adhesin P1 family protein			
++	168421	168627	207	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_168421_168627								
++	169093	169293	201	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_169093_169293								
++	169330	169545	216	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_169330_169545								
++	168505	169815	1311	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_169591_169815		MgpC protein precursor.		CDS	mgpC family protein			
++	170030	171426	1397										
++	170007	171525	1519										
++	171581	171742	162	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_171581_171742								
++	174089	174482	394							conserved hypothetical protein			
++	171733	174639	2907										
++	171732	174643	2912										
++	175076	175360	285				hypothetical protein		CDS	mgp-operon 3 domain protein			
++	175299	175667	369	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_175419_175667		MgpC protein precursor.		CDS	mgpC family protein			
++	175967	176257	291	Superfamily I DNA and RNA helicases and helicase subunits	peg	gi|108885074|ref|NC_000908.2|_175967_176257								
++	176330	177181	852	Superfamily I DNA and RNA helicases and helicase subunits	peg	gi|108885074|ref|NC_000908.2|_176330_177181								
++	177236	177556	321	Superfamily I DNA and RNA helicases and helicase subunits	peg	gi|108885074|ref|NC_000908.2|_177236_177556								
++	177584	178276	693	Superfamily I DNA and RNA helicases and helicase subunits	peg	gi|108885074|ref|NC_000908.2|_177584_178276								
++	178490	179068	579	Superfamily I DNA and RNA helicases and helicase subunits	peg	gi|108885074|ref|NC_000908.2|_178490_179068								
++	175805	179146	3342				AAA domain./Part of AAA domain./Protein of unknown function (DUF4011).		CDS	AAA domain protein			
++	179226	179834	609	Transcription termination protein NusA	peg	gi|108885074|ref|NC_000908.2|_179226_179834								
++	179877	180266	390	Transcription termination protein NusA	peg	gi|108885074|ref|NC_000908.2|_179877_180266								
++	179151	180746	1596	Transcription termination protein NusA	peg	gi|108885074|ref|NC_000908.2|_180348_180746		NusA antitermination factor		CDS	transcription elongation protein nusA		nusA	
++	180746	181018	273	FIG00835259: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_180746_181018		Predicted nucleic-acid-binding protein implicated in transcription termination		CDS	conserved hypothetical protein			
++	181005	182864	1860	Translation initiation factor 2	peg	gi|108885074|ref|NC_000908.2|_181005_182864		bacterial translation initiation factor 2 (bIF-2)		CDS	translation initiation factor IF-2		infB	
++	182851	183189	339	Ribosome-binding factor A	peg	gi|108885074|ref|NC_000908.2|_182851_183189		ribosome-binding factor A		CDS	ribosome-binding factor A		rbfA	
++	183214	183639	426	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_183214_183639								
+-	183687	183839	153	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_183839_183687								
++	183862	184020	159	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_183862_184020								
++	183214	184053	840				hypothetical protein		CDS	conserved hypothetical protein			
++	184053	184862	810	Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)	peg	gi|108885074|ref|NC_000908.2|_184053_184862		riboflavin kinase/FMN adenylyltransferase	2.7.1.26, 2.7.7.2	CDS	riboflavin biosynthesis protein RibF	2.7.1.26	ribF	
++	185115	185324	210	Hemolysins and related proteins containing CBS domains	peg	gi|108885074|ref|NC_000908.2|_185115_185324								
++	185520	185915	396	Hemolysins and related proteins containing CBS domains	peg	gi|108885074|ref|NC_000908.2|_185520_185915								
++	184875	186149	1275	Hemolysins and related proteins containing CBS domains	peg	gi|108885074|ref|NC_000908.2|_185973_186149		Hemolysins and related proteins containing CBS domains		CDS	CBS domain protein			
++	186142	186789	648	FIG00836376: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_186142_186789								
++	186136	187263	1128	FIG00836376: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_187012_187263		hypothetical protein		CDS	putative membrane protein			
++	187302	187454	153	FIG00834281: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_187302_187454								
++	187539	187793	255	FIG00834281: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_187539_187793								
++	188007	188471	465	FIG00834281: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_188007_188471								
++	187302	188531	1230				Uncharacterized protein conserved in bacteria		CDS	conserved hypothetical protein			
++	188607	189326	720	FIG00834442: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_188607_189326								
++	188607	189452	846				hypothetical protein		CDS	conserved hypothetical protein			
++	189492	189956	465	FIG00834980: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_189801_189956		hypothetical protein		CDS	conserved hypothetical protein			
++	190046	190366	321	SSU ribosomal protein S10p (S20e)	peg	gi|108885074|ref|NC_000908.2|_190046_190366		SSU ribosomal protein S10P		CDS	ribosomal protein S10		rpsJ	
++	190370	190747	378	LSU ribosomal protein L3p (L3e)	peg	gi|108885074|ref|NC_000908.2|_190370_190747								
++	190370	191143	774	LSU ribosomal protein L3p (L3e)	peg	gi|108885074|ref|NC_000908.2|_190766_191143		LSU ribosomal protein L3P		CDS	50S ribosomal protein L3		rplC	
++	191143	191778	636	LSU ribosomal protein L4p (L1e)	peg	gi|108885074|ref|NC_000908.2|_191143_191778		LSU ribosomal protein L4P		CDS	50S ribosomal protein L4		rplD	
++	191782	192102	321	LSU ribosomal protein L23p (L23Ae)	peg	gi|108885074|ref|NC_000908.2|_191782_192102		LSU ribosomal protein L23P		CDS	ribosomal L23 family protein			
++	192102	192959	858	LSU ribosomal protein L2p (L8e)	peg	gi|108885074|ref|NC_000908.2|_192102_192959		LSU ribosomal protein L2P		CDS	ribosomal protein L2		rplB	
++	192959	193222	264	SSU ribosomal protein S19p (S15e)	peg	gi|108885074|ref|NC_000908.2|_192959_193222		SSU ribosomal protein S19P		CDS	ribosomal protein S19		rpsS	
++	193225	193659	435	LSU ribosomal protein L22p (L17e)	peg	gi|108885074|ref|NC_000908.2|_193225_193659		LSU ribosomal protein L22P		CDS	ribosomal protein L22		rplV	
++	193662	194468	807	SSU ribosomal protein S3p (S3e)	peg	gi|108885074|ref|NC_000908.2|_193818_194468		SSU ribosomal protein S3P		CDS	ribosomal protein S3		rpsC	
++	194474	194668	195	LSU ribosomal protein L16p (L10e)	peg	gi|108885074|ref|NC_000908.2|_194474_194668								
+-	194853	195461	609	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_195461_194853								
++	194687	194860	174	LSU ribosomal protein L16p (L10e)	peg	gi|108885074|ref|NC_000908.2|_194687_194860								
++	194474	194890	417				LSU ribosomal protein L16P		CDS	ribosomal protein L16		rplP	
++	194890	195492	603				LSU ribosomal protein L29P		CDS	ribosomal protein L29		rpmC	
++	195492	195716	225	SSU ribosomal protein S17p (S11e)	peg	gi|108885074|ref|NC_000908.2|_195492_195716								
++	195492	195749	258				SSU ribosomal protein S17P		CDS	30S ribosomal protein S17		rpsQ	
++	195753	196121	369	LSU ribosomal protein L14p (L23e)	peg	gi|108885074|ref|NC_000908.2|_195765_196121		LSU ribosomal protein L14P		CDS	ribosomal protein L14		rplN	
++	196121	196447	327	LSU ribosomal protein L24p (L26e)	peg	gi|108885074|ref|NC_000908.2|_196121_196447		LSU ribosomal protein L24P		CDS	ribosomal protein L24		rplX	
++	196453	196743	291	LSU ribosomal protein L5p (L11e)	peg	gi|108885074|ref|NC_000908.2|_196453_196743								
++	196453	196995	543				LSU ribosomal protein L5P		CDS	50S ribosomal protein L5		rplE	
++	196998	197180	183	"SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent"	peg	gi|108885074|ref|NC_000908.2|_196998_197180								
++	196998	197183	186				SSU ribosomal protein S14P		CDS	30S ribosomal protein S14		rpsN1	
++	197177	197602	426	SSU ribosomal protein S8p (S15Ae)	peg	gi|108885074|ref|NC_000908.2|_197177_197602		SSU ribosomal protein S8P		CDS	ribosomal S8 family protein			
++	197609	198070	462	LSU ribosomal protein L6p (L9e)	peg	gi|108885074|ref|NC_000908.2|_197609_198070								
++	197609	198163	555				LSU ribosomal protein L6P		CDS	ribosomal protein L6		rplF	
++	198123	198512	390	LSU ribosomal protein L18p (L5e)	peg	gi|108885074|ref|NC_000908.2|_198123_198512		LSU ribosomal protein L18P		CDS	ribosomal protein L18		rplR	
++	198517	199152	636	SSU ribosomal protein S5p (S2e)	peg	gi|108885074|ref|NC_000908.2|_198517_199152		SSU ribosomal protein S5P		CDS	ribosomal protein S5		rpsE	
++	199158	199610	453	LSU ribosomal protein L15p (L27Ae)	peg	gi|108885074|ref|NC_000908.2|_199158_199610		LSU ribosomal protein L15P		CDS	ribosomal protein L15		rplO	
++	199610	201037	1428	Preprotein translocase secY subunit (TC 3.A.5.1.1)	peg	gi|108885074|ref|NC_000908.2|_199610_201037		protein translocase subunit secY/sec61 alpha		CDS	preprotein translocase, SecY subunit		secY	
++	201031	201675	645	Adenylate kinase (EC 2.7.4.3)	peg	gi|108885074|ref|NC_000908.2|_201031_201675		Adenylate kinase (EC 2.7.4.3)	2.7.4.3	CDS	adenylate kinase	2.7.4.3	adk	
++	201678	202424	747	Methionine aminopeptidase (EC 3.4.11.18)	peg	gi|108885074|ref|NC_000908.2|_201678_202424		methionine aminopeptidase, type I (EC 3.4.11.18)	3.4.11.18	CDS	methionine aminopeptidase, type I	3.4.11.18	map	
++	202424	202636	213	Translation initiation factor 1	peg	gi|108885074|ref|NC_000908.2|_202424_202636		bacterial translation initiation factor 1 (bIF-1)		CDS	translation initiation factor IF-1		infA	
++	202760	203017	258	SSU ribosomal protein S13p (S18e)	peg	gi|108885074|ref|NC_000908.2|_202760_203017								
+-	203109	203270	162	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_203270_203109								
++	202760	203134	375				SSU ribosomal protein S13P		CDS	30S ribosomal protein S13		rpsM	
++	203134	203499	366	SSU ribosomal protein S11p (S14e)	peg	gi|108885074|ref|NC_000908.2|_203320_203499		SSU ribosomal protein S11P		CDS	30S ribosomal protein S11		rpsK	
++	203515	203844	330	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)	peg	gi|108885074|ref|NC_000908.2|_203515_203844								
++	203515	204501	987	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)	peg	gi|108885074|ref|NC_000908.2|_203962_204501		DNA-directed RNA polymerase subunit alpha (EC 2.7.7.6)	2.7.7.6	CDS	DNA-directed RNA polymerase, alpha subunit	2.7.7.6	rpoA	
++	204514	204885	372	LSU ribosomal protein L17p	peg	gi|108885074|ref|NC_000908.2|_204559_204885		LSU ribosomal protein L17P		CDS	ribosomal protein L17		rplQ	
++	204872	205684	813	ATPase component of general energizing module of ECF transporters	peg	gi|108885074|ref|NC_000908.2|_204872_205684								
++	204872	205696	825				ABC-type cobalt transport system, ATPase component		CDS	ABC transporter family protein			
++	205681	206595	915	ATPase component of general energizing module of ECF transporters	peg	gi|108885074|ref|NC_000908.2|_205681_206595		ABC-type cobalt transport system, ATPase component		CDS	energy-coupling factor transporter ATP-binding protein EcfA2	3.6.3.-	ecfA2	
++	206588	206923	336	Transmembrane component of general energizing module of ECF transporters	peg	gi|108885074|ref|NC_000908.2|_206588_206923								
++	206933	207394	462	Transmembrane component of general energizing module of ECF transporters	peg	gi|108885074|ref|NC_000908.2|_206933_207394								
++	206588	207850	1263	Transmembrane component of general energizing module of ECF transporters	peg	gi|108885074|ref|NC_000908.2|_207434_207850		Cobalt transport protein.		CDS	cobalt transport family protein			
++	207843	208577	735	tRNA pseudouridine synthase A (EC 4.2.1.70)	peg	gi|108885074|ref|NC_000908.2|_207933_208577		pseudouridylate synthase I	5.4.99.12	CDS	tRNA pseudouridine(38-40) synthase	5.4.99.12	truA	
++	208567	209211	645	Oligoendopeptidase F	peg	gi|108885074|ref|NC_000908.2|_208567_209211								
++	209242	209598	357	Oligoendopeptidase F	peg	gi|108885074|ref|NC_000908.2|_209242_209598								
++	209674	210318	645	Oligoendopeptidase F	peg	gi|108885074|ref|NC_000908.2|_209674_210318								
++	208567	210390	1824				oligopeptidase F. Metallo peptidase. MEROPS family M03B	3.4.24.-	CDS	oligoendopeptidase F	3.4.24.-	pepF	
++	210391	211140	750	adenine-specific methyltransferase EcoRI	peg	gi|108885074|ref|NC_000908.2|_210391_211140								
++	210391	211344	954	adenine-specific methyltransferase EcoRI	peg	gi|108885074|ref|NC_000908.2|_211150_211344		Adenine-specific methyltransferase EcoRI.	2.1.1.72	CDS	adenine-specific methyltransferase EcoRI family protein			
++	211444	212070	627	FIG00837614: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_211444_212070								
++	212095	212259	165	FIG00837614: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_212095_212259								
++	211444	213549	2106	FIG00837614: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_212365_213549		Putative mycoplasma lipoprotein, C-terminal region./Mycoplasma MG185/MG260 protein.		CDS	conserved hypothetical protein			
++	213585	213935	351	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_213585_213935								
++	213945	214142	198	MgPa adhesin	peg	gi|108885074|ref|NC_000908.2|_213945_214142								
++	213585	214571	987	MgPa adhesin	peg	gi|108885074|ref|NC_000908.2|_214200_214571		Mycoplasma adhesin P1.		CDS	mycoplasma adhesin P1 family protein			
++	214975	215142	168	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_214975_215142								
++	215240	215422	183	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_215240_215422								
++	214828	215529	702				hypothetical protein		CDS	mgp-operon 3 domain protein			
++	215444	215881	438	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_215444_215881								
++	216016	216174	159	Lipoprotein	peg	gi|108885074|ref|NC_000908.2|_216016_216174								
++	216190	216366	177	Lipoprotein	peg	gi|108885074|ref|NC_000908.2|_216190_216366								
++	216427	216678	252	Lipoprotein	peg	gi|108885074|ref|NC_000908.2|_216427_216678								
++	216016	216768	753				hypothetical protein		CDS	conserved hypothetical protein			
++	216761	217090	330	"Multiple sugar ABC transporter, ATP-binding protein"	peg	gi|108885074|ref|NC_000908.2|_216761_217090								
++	217103	217396	294	"Multiple sugar ABC transporter, ATP-binding protein"	peg	gi|108885074|ref|NC_000908.2|_217103_217396								
++	217517	218221	705	"Multiple sugar ABC transporter, ATP-binding protein"	peg	gi|108885074|ref|NC_000908.2|_217517_218221								
++	216761	218518	1758	"Multiple sugar ABC transporter, ATP-binding protein"	peg	gi|108885074|ref|NC_000908.2|_218300_218518		carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)		CDS	conserved hypothetical protein			
++	218644	218895	252	"N-Acetyl-D-glucosamine ABC transport system, permease protein"	peg	gi|108885074|ref|NC_000908.2|_218644_218895								
++	218902	219465	564	"N-Acetyl-D-glucosamine ABC transport system, permease protein"	peg	gi|108885074|ref|NC_000908.2|_218902_219465								
++	218521	219510	990				carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)		CDS	binding--dependent transport system inner membrane component family protein			
++	220010	220165	156	ABC transporter permease protein	peg	gi|108885074|ref|NC_000908.2|_220010_220165								
++	219482	220438	957	ABC transporter permease protein	peg	gi|108885074|ref|NC_000908.2|_220223_220438		carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)		CDS	binding--dependent transport system inner membrane component family protein			
++	220401	220598	198	FIG00834008: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_220440_220598		hypothetical protein		CDS	hypothetical protein			
++	220607	221374	768	"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"	peg	gi|108885074|ref|NC_000908.2|_220607_221374								
++	220607	221563	957				Exopolyphosphatase-related proteins		CDS	DHHA1 domain protein			
++	222011	222532	522	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_222011_222532								
++	222746	223078	333	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_222746_223078								
++	223088	223360	273	MgPa adhesin	peg	gi|108885074|ref|NC_000908.2|_223088_223360								
++	223406	223561	156	MgPa adhesin	peg	gi|108885074|ref|NC_000908.2|_223406_223561								
++	224117	224581	465	MgPa adhesin	peg	gi|108885074|ref|NC_000908.2|_224117_224581								
++	221570	225904	4335	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_224903_225904		adhesin P1		CDS	adhesin P1		mgpA	
++	225906	226277	372	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_225906_226277								
++	226573	226731	159	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_226573_226731								
++	226746	226946	201	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_226746_226946								
++	226983	227189	207	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_226983_227189								
++	227235	227618	384	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_227235_227618								
++	225915	229067	3153	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_227823_229067		MgpC protein precursor.		CDS	mgp-operon protein 3			
++	229168	229335	168				hypothetical protein		CDS	hypothetical protein			
++	229461	229811	351	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_229461_229811								
+-	229825	229995	171	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_229995_229825								
++	229461	229868	408				hypothetical protein		CDS	putative adhesin-like protein			
++	229988	230482	495				Mycoplasma adhesin P1.		CDS	mycoplasma adhesin P1 family protein			
++	230651	231370	720				hypothetical protein		CDS	mgp-operon 3 domain protein			
++	231384	231548	165	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_231384_231548								
++	232282	232842	561	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)	peg	gi|108885074|ref|NC_000908.2|_232282_232842								
++	232009	233034	1026	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)	peg	gi|108885074|ref|NC_000908.2|_232891_233034		phenylalanyl-tRNA synthetase, alpha subunit (EC 6.1.1.20)	6.1.1.20	CDS	phenylalanine--tRNA ligase, alpha subunit	6.1.1.20	pheS	
++	233038	233511	474	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	peg	gi|108885074|ref|NC_000908.2|_233038_233511								
++	233536	233772	237	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	peg	gi|108885074|ref|NC_000908.2|_233536_233772								
++	233800	234444	645	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	peg	gi|108885074|ref|NC_000908.2|_233800_234444								
++	234466	234849	384	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	peg	gi|108885074|ref|NC_000908.2|_234466_234849								
++	234883	235284	402	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	peg	gi|108885074|ref|NC_000908.2|_234883_235284								
++	233038	235458	2421	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	peg	gi|108885074|ref|NC_000908.2|_235309_235458		phenylalanyl-tRNA synthetase beta subunit (EC 6.1.1.20)	6.1.1.20	CDS	phenylalanine--tRNA ligase, beta subunit	6.1.1.20	pheT	
++	235517	236062	546	Translation initiation factor 3	peg	gi|108885074|ref|NC_000908.2|_235517_236062		bacterial translation initiation factor 3 (bIF-3)		CDS	translation initiation factor IF-3		infC	
++	236065	236244	180	LSU ribosomal protein L35p	peg	gi|108885074|ref|NC_000908.2|_236065_236244		LSU ribosomal protein L35P		CDS	ribosomal protein L35		rpmI	
+-	236593	237300	708	Ribonuclease HIII (EC 3.1.26.4)	peg	gi|108885074|ref|NC_000908.2|_237300_236593		Ribonuclease HIII	3.1.26.4	CDS	ribonuclease HII family protein			
++	236247	236621	375	LSU ribosomal protein L20p	peg	gi|108885074|ref|NC_000908.2|_236247_236621		LSU ribosomal protein L20P		CDS	ribosomal protein L20		rplT	
++	237347	237913	567	DnaJ domain protein	peg	gi|108885074|ref|NC_000908.2|_237347_237913								
++	237347	239152	1806	DnaJ domain protein	peg	gi|108885074|ref|NC_000908.2|_238187_239152		EAGR box		CDS	terminal organelle assembly protein TopJ		topJ	
++	239164	239616	453	Heat shock protein GrpE	peg	gi|108885074|ref|NC_000908.2|_239164_239616								
++	239164	239817	654	Heat shock protein GrpE	peg	gi|108885074|ref|NC_000908.2|_239617_239817		Molecular chaperone GrpE (heat shock protein)		CDS	protein grpE		grpE	
++	239827	240195	369	FIG00834597: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_239827_240195		hypothetical protein		CDS	conserved hypothetical protein			
++	240323	242068	1746	Topoisomerase IV subunit B (EC 5.99.1.-)	peg	gi|108885074|ref|NC_000908.2|_240323_242068								
++	240323	242224	1902	Topoisomerase IV subunit B (EC 5.99.1.-)	peg	gi|108885074|ref|NC_000908.2|_242078_242224		DNA topoisomerase IV subunit B (EC 5.99.1.3)	5.99.1.-	CDS	DNA topoisomerase IV, B subunit	5.99.1.-	parE	
++	242224	242511	288	Topoisomerase IV subunit A (EC 5.99.1.-)	peg	gi|108885074|ref|NC_000908.2|_242224_242511								
+-	244566	245597	1032	Heat-inducible transcription repressor HrcA	peg	gi|108885074|ref|NC_000908.2|_244796_244566		heat-inducible transcription repressor HrcA		CDS	heat-inducible transcription repressor HrcA		hrcA	
++	242224	244569	2346	Topoisomerase IV subunit A (EC 5.99.1.-)	peg	gi|108885074|ref|NC_000908.2|_242557_244569		DNA topoisomerase IV subunit A (EC 5.99.1.3)	5.99.1.-	CDS	DNA topoisomerase IV, A subunit	5.99.1.-	parC	
+-	244803	245597	795	Heat-inducible transcription repressor HrcA	peg	gi|108885074|ref|NC_000908.2|_245597_244803								
++	245633	247426	1794	Excinuclease ABC subunit C	peg	gi|108885074|ref|NC_000908.2|_245966_247426		Excinuclease ABC subunit C		CDS	excinuclease ABC subunit C	3.1.25.-	uvrC	
+-	247903	248493	591	"Inactive homolog of metal-dependent proteases, putative molecular chaperone"	peg	gi|108885074|ref|NC_000908.2|_248493_247903		universal bacterial protein YeaZ		CDS	conserved hypothetical protein			
++	247407	247910	504	COG0622: Predicted phosphoesterase	peg	gi|108885074|ref|NC_000908.2|_247566_247910		phosphoesterase, MJ0936 family		CDS	conserved hypothetical protein			
+-	248477	249403	927	Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	peg	gi|108885074|ref|NC_000908.2|_249403_248477		ribosomal large subunit pseudouridine synthase D (EC 5.4.99.-)	5.4.99.23	CDS	pseudouridine synthase, RluA family protein	5.4.99.-		
+-	249403	249948	546	Lipoprotein signal peptidase (EC 3.4.23.36)	peg	gi|108885074|ref|NC_000908.2|_249543_249403		lipoprotein signal peptidase	3.4.23.36	CDS	signal peptidase II	3.4.23.36	lspA	
+-	249610	249948	339	Lipoprotein signal peptidase (EC 3.4.23.36)	peg	gi|108885074|ref|NC_000908.2|_249948_249610								
++	250551	250796	246	FIG00835711: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_250551_250796								
++	250149	250808	660				hypothetical protein		CDS	conserved hypothetical protein			
++	250808	250996	189	SSU ribosomal protein S21p	peg	gi|108885074|ref|NC_000908.2|_250808_250996		ribosomal protein S21		CDS	ribosomal protein S21		rpsU	
++	250998	251396	399	FIG00836825: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_250998_251396								
++	250998	251441	444				DivIVA domain		CDS	conserved hypothetical protein			
++	251444	251788	345				phosphopantetheine--protein transferase domain	2.7.8.7	CDS	phosphopantetheine--transferase domain protein			
++	251781	251975	195	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	peg	gi|108885074|ref|NC_000908.2|_251781_251975								
++	251781	252587	807	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	peg	gi|108885074|ref|NC_000908.2|_252000_252587		1-acyl-sn-glycerol-3-phosphate acyltransferases	2.3.1.51	CDS	1-acylglycerol-3-phosphate O-acyltransferases domain protein	2.3.1.51		
++	252754	252942	189	Dihydrofolate reductase (EC 1.5.1.3) / Segregation and condensation protein A	peg	gi|108885074|ref|NC_000908.2|_252754_252942								
++	252553	253995	1443	Dihydrofolate reductase (EC 1.5.1.3) / Segregation and condensation protein A	peg	gi|108885074|ref|NC_000908.2|_253123_253995		condensin subunit ScpA		CDS	scpA/B family protein			
++	253979	254602	624	Segregation and condensation protein B	peg	gi|108885074|ref|NC_000908.2|_253979_254602		condensin subunit ScpB		CDS	segregation and condensation protein B		scpB	
++	254621	255040	420	6-phosphofructokinase (EC 2.7.1.11)	peg	gi|108885074|ref|NC_000908.2|_254621_255040								
++	254621	255592	972	6-phosphofructokinase (EC 2.7.1.11)	peg	gi|108885074|ref|NC_000908.2|_255125_255592		6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	CDS	phosphofructokinase family protein			
++	255595	256458	864	Pyruvate kinase (EC 2.7.1.40)	peg	gi|108885074|ref|NC_000908.2|_255595_256458								
++	256468	256761	294	Pyruvate kinase (EC 2.7.1.40)	peg	gi|108885074|ref|NC_000908.2|_256468_256761								
++	255595	257121	1527				pyruvate kinase (EC 2.7.1.40)	2.7.1.40	CDS	pyruvate kinase	2.7.1.40	pyk	
+-	257565	257741	177							conserved hypothetical protein			
++	258041	259159	1119	proline-rich P65 protein	peg	gi|108885074|ref|NC_000908.2|_258041_259159		hypothetical protein		CDS	putative proline-rich P65 protein			
++	259177	262329	3153	FIG00834532: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_259177_262329								
++	263104	264045	942	FIG00834532: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_263104_264045								
++	259177	264594	5418	FIG00834532: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_264118_264594		hypothetical protein		CDS	cytadherence high molecular weight protein 2		hmw2	
++	264597	265292	696	FIG00835098: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_264597_265292								
++	264597	265637	1041	FIG00835098: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_265326_265637		hypothetical protein		CDS	conserved hypothetical protein			
++	265630	266043	414	FIG00835098: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_265630_266043		hypothetical protein		CDS	conserved hypothetical protein			
+-	266075	266356	282	FIG00836556: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_266278_266075		hypothetical protein		CDS	conserved hypothetical protein			
++	266627	267091	465	Cell division protein MraZ	peg	gi|108885074|ref|NC_000908.2|_266666_267091		mraZ protein		CDS	protein MraZ		mraZ	
++	267081	268010	930	rRNA small subunit methyltransferase H	peg	gi|108885074|ref|NC_000908.2|_267081_268010		S-adenosyl-methyltransferase MraW	2.1.1.199	CDS	S-adenosyl-methyltransferase MraW	2.1.1.-	mraW	
++	268012	269247	1236	FIG00834277: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_268012_269247		hypothetical protein		CDS	conserved hypothetical protein			
++	269250	270140	891	Cell division protein FtsZ (EC 3.4.24.-)	peg	gi|108885074|ref|NC_000908.2|_269250_270140								
++	269250	270359	1110	Cell division protein FtsZ (EC 3.4.24.-)	peg	gi|108885074|ref|NC_000908.2|_270189_270359		cell division protein FtsZ		CDS	cell division protein FtsZ		ftsZ	
++	270405	270692	288	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel	peg	gi|108885074|ref|NC_000908.2|_270405_270692								
++	270405	271874	1470	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel	peg	gi|108885074|ref|NC_000908.2|_270909_271874		amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)		CDS	amino acid permease family protein			
++	271840	273117	1278	FIG00836867: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_271840_273117								
+-	273298	273462	165	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_273462_273298								
++	271840	273318	1479	FIG00836867: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_273199_273318		amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)		CDS	amino acid permease family protein			
++	273455	273745	291				hypothetical protein		CDS	adhesin P1 domain protein		mgpA	
++	273790	273972	183	Thymidylate synthase (EC 2.1.1.45)	peg	gi|108885074|ref|NC_000908.2|_273790_273972								
++	273790	274653	864	Thymidylate synthase (EC 2.1.1.45)	peg	gi|108885074|ref|NC_000908.2|_274273_274653		thymidylate synthase (EC 2.1.1.45)	2.1.1.45	CDS	thymidylate synthase	2.1.1.45	thyA	
++	274674	274904	231	Dihydrofolate reductase (EC 1.5.1.3)	peg	gi|108885074|ref|NC_000908.2|_274674_274904								
++	274653	275135	483	Dihydrofolate reductase (EC 1.5.1.3)	peg	gi|108885074|ref|NC_000908.2|_274944_275135		Dihydrofolate reductase	1.5.1.3	CDS	dihydrofolate reductase	1.5.1.3	folA	
++	275141	276163	1023	"Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)"	peg	gi|108885074|ref|NC_000908.2|_275492_276163		ribonucleoside-diphosphate reductase class Ib beta subunit (EC 1.17.4.1)	1.17.4.1	CDS	ribonucleoside-diphosphate reductase subunit beta	1.17.4.1	nrdF	
++	276167	276628	462	Ribonucleotide reduction protein NrdI	peg	gi|108885074|ref|NC_000908.2|_276167_276628		ribonucleoside-diphosphate reductase 2, operon protein nrdI		CDS	nrdI protein		nrdI	
++	276647	278275	1629	"Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)"	peg	gi|108885074|ref|NC_000908.2|_276647_278275								
++	276647	278812	2166	"Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)"	peg	gi|108885074|ref|NC_000908.2|_278354_278812		ribonucleoside-diphosphate reductase, alpha subunit	1.17.4.1	CDS	ribonucleoside-diphosphate reductase, alpha subunit	1.17.4.1		
++	278905	279207	303	LSU ribosomal protein L21p	peg	gi|108885074|ref|NC_000908.2|_278905_279207		LSU ribosomal protein L21P		CDS	ribosomal protein L21		rplU	
++	279200	279499	300	FIG139598: Potential ribosomal protein	peg	gi|108885074|ref|NC_000908.2|_279200_279499		Predicted ribosomal protein		CDS	conserved hypothetical protein			
++	279492	279806	315	LSU ribosomal protein L27p	peg	gi|108885074|ref|NC_000908.2|_279492_279806		LSU ribosomal protein L27P		CDS	ribosomal protein L27		rpmA	
++	279799	280644	846	Endonuclease IV (EC 3.1.21.2)	peg	gi|108885074|ref|NC_000908.2|_279799_280644								
++	279799	280674	876				Endonuclease IV (EC 3.1.21.-)	3.1.21.2	CDS	putative endonuclease 4			
++	280664	281086	423	FIG00836347: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_280664_281086		Fe2+/Zn2+ uptake regulation proteins		CDS	conserved hypothetical protein			
++	281079	281963	885	FIG00835193: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_281079_281963		Protein of unknown function (DUF3196).		CDS	conserved hypothetical protein			
++	281993	283327	1335	Cell division trigger factor (EC 5.2.1.8)	peg	gi|108885074|ref|NC_000908.2|_282191_283327		trigger factor		CDS	trigger factor	5.2.1.8	tig	
++	283534	284373	840	ATP-dependent protease La (EC 3.4.21.53) Type I	peg	gi|108885074|ref|NC_000908.2|_283534_284373								
+-	285780	286832	1053	"Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) / Hydrolase (HAD superfamily), YqeK"	peg	gi|108885074|ref|NC_000908.2|_285998_285780		nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	2.7.7.18	CDS	nicotinate (nicotinamide) nucleotide adenylyltransferase	2.7.7.18	nadD	
++	283396	285783	2388	ATP-dependent protease La (EC 3.4.21.53) Type I	peg	gi|108885074|ref|NC_000908.2|_284518_285783		Lon-B peptidase. Serine peptidase. MEROPS family S16	3.4.21.53	CDS	ATP-dependent protease La	3.4.21.53	lon	
+-	286062	286463	402	"Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) / Hydrolase (HAD superfamily), YqeK"	peg	gi|108885074|ref|NC_000908.2|_286463_286062								
+-	286488	286832	345	"Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) / Hydrolase (HAD superfamily), YqeK"	peg	gi|108885074|ref|NC_000908.2|_286832_286488								
++	286885	287343	459	FIG00837455: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_286885_287343								
++	287749	288234	486	FIG00837455: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_287749_288234								
++	286885	288747	1863	FIG00837455: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_288259_288747		hypothetical protein		CDS	conserved hypothetical protein			
++	288753	289433	681	FIG00834426: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_288753_289433								
++	289512	289730	219	FIG00834426: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_289512_289730								
++	290001	290165	165	FIG00834426: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_290001_290165								
++	290313	290627	315	FIG00834426: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_290313_290627								
++	288753	290645	1893				hypothetical protein		CDS	conserved hypothetical protein			
++	290648	291328	681	FIG00834213: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_290957_291328		RDD family.		CDS	RDD family protein			
++	291334	292098	765	ATP-dependent DNA helicase UvrD/PcrA	peg	gi|108885074|ref|NC_000908.2|_291334_292098								
++	292237	292596	360	ATP-dependent DNA helicase UvrD/PcrA	peg	gi|108885074|ref|NC_000908.2|_292237_292596								
++	291334	293445	2112	ATP-dependent DNA helicase UvrD/PcrA	peg	gi|108885074|ref|NC_000908.2|_292888_293445		Superfamily I DNA and RNA helicases	3.6.4.12	CDS	uvrD/REP helicase N-terminal domain protein			
++	293448	293945	498	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	peg	gi|108885074|ref|NC_000908.2|_293448_293945		5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	CDS	5-formyltetrahydrofolate cyclo-ligase	6.3.3.2		
++	293938	294093	156	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_293938_294093								
+-	294767	295486	720				acyl-phosphate glycerol-3-phosphate acyltransferase	2.3.1.15	CDS	acyl-phosphate glycerol 3-phosphate acyltransferase	2.3.1.-	plsY	
++	293938	294783	846	Phosphoesterase family protein	peg	gi|108885074|ref|NC_000908.2|_294139_294783		metallophosphoesterase, MG_246/BB_0505 family		CDS	conserved hypothetical protein			
++	294966	295151	186	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_294966_295151								
+-	295250	295486	237	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY	peg	gi|108885074|ref|NC_000908.2|_295486_295250								
+-	295473	296129	657	Putative tRNA-m1A22 methylase	peg	gi|108885074|ref|NC_000908.2|_296129_295473		Predicted SAM-dependent methyltransferase		CDS	putative tRNA (adenine-N(1)-)-methyltransferase MPN_351			
+-	296113	297606	1494	RNA polymerase sigma factor RpoD	peg	gi|108885074|ref|NC_000908.2|_296628_296113		RNA polymerase sigma factor, sigma-70 family		CDS	RNA polymerase sigma factor rpoD		rpoD	
+-	296731	297135	405	RNA polymerase sigma factor RpoD	peg	gi|108885074|ref|NC_000908.2|_297135_296731								
+-	297241	297606	366	RNA polymerase sigma factor RpoD	peg	gi|108885074|ref|NC_000908.2|_297606_297241								
+-	297651	299474	1824	DNA primase (EC 2.7.7.-)	peg	gi|108885074|ref|NC_000908.2|_297785_297651		DNA primase (EC 2.7.7.-)	2.7.7.-	CDS	DNA primase	2.7.7.-	dnaG	
+-	298011	298211	201	DNA primase (EC 2.7.7.-)	peg	gi|108885074|ref|NC_000908.2|_298211_298011								
+-	298434	299063	630	DNA primase (EC 2.7.7.-)	peg	gi|108885074|ref|NC_000908.2|_299063_298434								
+-	299232	299474	243	DNA primase (EC 2.7.7.-)	peg	gi|108885074|ref|NC_000908.2|_299474_299232								
+-	299464	300804	1341				glycyl-tRNA synthetase (EC 6.1.1.14)	6.1.1.14	CDS	glycine--tRNA ligase	6.1.1.14	glyS	
+-	299485	299658	174	Glycyl-tRNA synthetase (EC 6.1.1.14)	peg	gi|108885074|ref|NC_000908.2|_299658_299485								
+-	299662	299970	309	Glycyl-tRNA synthetase (EC 6.1.1.14)	peg	gi|108885074|ref|NC_000908.2|_299970_299662								
+-	299974	300411	438	Glycyl-tRNA synthetase (EC 6.1.1.14)	peg	gi|108885074|ref|NC_000908.2|_300411_299974								
+-	300577	300804	228	Glycyl-tRNA synthetase (EC 6.1.1.14)	peg	gi|108885074|ref|NC_000908.2|_300804_300577								
+-	300824	301552	729				rRNA methylase, putative, group 3	2.1.1.185	CDS	RNA 2'-O ribose methyltransferase substrate binding family protein			
+-	301043	301348	306	23S rRNA (guanosine-2'-O-) -methyltransferase rlmB (EC 2.1.1.-) ## LSU rRNA Gm2251	peg	gi|108885074|ref|NC_000908.2|_301348_301043								
+-	301385	301552	168	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_301552_301385								
+-	301555	302841	1287				cysteinyl-tRNA synthetase (EC 6.1.1.16)	6.1.1.16	CDS	cysteine--tRNA ligase	6.1.1.16	cysS	
++	301619	301888	270	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_301619_301888								
+-	301894	302100	207	Cysteinyl-tRNA synthetase (EC 6.1.1.16)	peg	gi|108885074|ref|NC_000908.2|_302100_301894								
+-	302326	302841	516	Cysteinyl-tRNA synthetase (EC 6.1.1.16)	peg	gi|108885074|ref|NC_000908.2|_302841_302326								
+-	302846	304822	1977				DNA ligase, NAD-dependent	6.5.1.2	CDS	DNA ligase, NAD-dependent	6.5.1.2	ligA	
+-	302852	304048	1197	DNA ligase (EC 6.5.1.2)	peg	gi|108885074|ref|NC_000908.2|_304048_302852								
+-	304109	304825	717	DNA ligase (EC 6.5.1.2)	peg	gi|108885074|ref|NC_000908.2|_304825_304109								
++	305001	305294	294	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_305001_305294								
++	305001	306098	1098	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_305424_306098		hypothetical protein		CDS	conserved hypothetical protein			
++	306201	306654	454							conserved hypothetical protein			
++	306821	307000	180	FIG00836137: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_306821_307000								
++	307190	307342	153	FIG00836137: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_307190_307342								
++	306821	307591	771	FIG00836137: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_307460_307591		hypothetical protein		CDS	conserved hypothetical protein			
++	307622	307930	309	"LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent"	peg	gi|108885074|ref|NC_000908.2|_307622_307930		LSU ribosomal protein L31P		CDS	ribosomal protein L31		rpmE	
++	307930	308370	441	Peptide chain release factor 1	peg	gi|108885074|ref|NC_000908.2|_307930_308370								
++	307930	309009	1080	Peptide chain release factor 1	peg	gi|108885074|ref|NC_000908.2|_308404_309009		bacterial peptide chain release factor 1 (bRF-1)		CDS	peptide chain release factor 1		prfA	
++	309217	309492	276	"YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA / Protein methyltransferase HemK homolog (EC 2.1.1.-)"	peg	gi|108885074|ref|NC_000908.2|_309217_309492								
++	309619	310050	432	"YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA / Protein methyltransferase HemK homolog (EC 2.1.1.-)"	peg	gi|108885074|ref|NC_000908.2|_309619_310050								
++	309010	310380	1371	"YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA / Protein methyltransferase HemK homolog (EC 2.1.1.-)"	peg	gi|108885074|ref|NC_000908.2|_310258_310380		Methylase of polypeptide chain release factors		CDS	conserved hypothetical protein			
++	310511	311146	636	FIG00837614: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_310511_311146								
++	310511	312808	2298	FIG00837614: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_311663_312808		Putative mycoplasma lipoprotein, C-terminal region./Mycoplasma MG185/MG260 protein.		CDS	conserved hypothetical protein			
++	312846	313193	348	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_312846_313193								
++	312846	313250	405				hypothetical protein		CDS	putative adhesin-like protein			
++	313496	313768	273	MgPa adhesin	peg	gi|108885074|ref|NC_000908.2|_313496_313768								
++	313367	313879	513				Mycoplasma adhesin P1.		CDS	mycoplasma adhesin P1 family protein			
++	314354	314527	174	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_314354_314527								
++	314225	315232	1008	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_314714_315232		MgpC protein precursor.		CDS	mgpC family protein			
++	315467	315697	231	FIG00834323: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_315467_315697		hypothetical protein		CDS	conserved hypothetical protein			
++	315701	316063	363	DNA polymerase III alpha subunit (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_315701_316063								
++	316196	317308	1113	DNA polymerase III alpha subunit (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_316196_317308								
++	317381	317824	444	DNA polymerase III alpha subunit (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_317381_317824								
++	318065	318238	174	DNA polymerase III alpha subunit (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_318065_318238								
++	315701	318325	2625				DNA-directed DNA polymerase III (polc)	2.7.7.7	CDS	DNA polymerase III, alpha subunit	2.7.7.7	dnaE	
++	318332	319207	876	Probable 5'-3' exonuclease Bsu YpcP	peg	gi|108885074|ref|NC_000908.2|_318461_319207		5'-3' exonuclease (including N-terminal domain of PolI)	2.7.7.7	CDS	5'-3' exonuclease	3.1.11.-	polA	
++	319207	320061	855	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)	peg	gi|108885074|ref|NC_000908.2|_319207_320061		formamidopyrimidine-DNA glycosylase (fpg)	4.2.99.18, 3.2.2.23	CDS	formamidopyrimidine-DNA glycosylase	3.2.2.23	mutM	
++	320732	320929	198	HAD superfamily hydrolase/phosphatase	peg	gi|108885074|ref|NC_000908.2|_320732_320929								
++	320177	321052	876				HAD-superfamily hydrolase, subfamily IIB		CDS	conserved hypothetical protein			
++	321046	321324	279	Dephospho-CoA kinase (EC 2.7.1.24)	peg	gi|108885074|ref|NC_000908.2|_321046_321324								
+-	321578	322414	837	Hydrolase (HAD superfamily)	peg	gi|108885074|ref|NC_000908.2|_322414_321578		HAD-superfamily hydrolase, subfamily IIB		CDS	HAD hydrolase, IIB family protein			
++	321046	321642	597				dephospho-CoA kinase	2.7.1.24	CDS	dephospho-CoA kinase	2.7.1.24	coaE	
+-	322433	324811	2379	Leucyl-tRNA synthetase (EC 6.1.1.4)	peg	gi|108885074|ref|NC_000908.2|_322954_322433		leucyl-tRNA synthetase (EC 6.1.1.4)	6.1.1.4	CDS	leucine--tRNA ligase	6.1.1.4	leuS	
+-	322988	323191	204	Leucyl-tRNA synthetase (EC 6.1.1.4)	peg	gi|108885074|ref|NC_000908.2|_323191_322988								
+-	323372	323860	489	Leucyl-tRNA synthetase (EC 6.1.1.4)	peg	gi|108885074|ref|NC_000908.2|_323860_323372								
+-	324518	324703	186	Leucyl-tRNA synthetase (EC 6.1.1.4)	peg	gi|108885074|ref|NC_000908.2|_324703_324518								
+-	324812	325159	348	FIG00834695: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_324934_324812		hypothetical protein		CDS	conserved hypothetical protein			
+-	325193	325879	687				Deoxynucleoside kinases		CDS	deoxynucleoside kinase family protein			
+-	325205	325405	201	Deoxyadenosine kinase (EC 2.7.1.76) / Deoxyguanosine kinase (EC 2.7.1.113)	peg	gi|108885074|ref|NC_000908.2|_325405_325205								
+-	325502	325879	378	Deoxyadenosine kinase (EC 2.7.1.76) / Deoxyguanosine kinase (EC 2.7.1.113)	peg	gi|108885074|ref|NC_000908.2|_325879_325502								
+-	326030	327052	1023	FIG00836294: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_327052_326030		hypothetical protein		CDS	conserved hypothetical protein			
+-	327045	327431	387	Uncharacterized protein MG269.1 homolog	peg	gi|108885074|ref|NC_000908.2|_327431_327045		hypothetical protein		CDS	conserved hypothetical protein			
+-	327433	328443	1011				lipoate-protein ligase (EC 6.-.-.-)	2.7.7.63	CDS	putative lipoate-protein ligase A			
+-	327856	328377	522	Lipoate-protein ligase A	peg	gi|108885074|ref|NC_000908.2|_328377_327856								
+-	328454	329827	1374	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)	peg	gi|108885074|ref|NC_000908.2|_329467_328454		dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	CDS	dihydrolipoyl dehydrogenase	1.8.1.4	lpdA	
+-	329591	329827	237	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)	peg	gi|108885074|ref|NC_000908.2|_329827_329591								
+-	329831	330985	1155	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)	peg	gi|108885074|ref|NC_000908.2|_330985_329831		Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes	2.3.1.12	CDS	dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex	2.3.1.12	pdhC	
+-	331235	332215	981	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)	peg	gi|108885074|ref|NC_000908.2|_331459_331235		Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, eukaryotic type, beta subunit	1.2.4.1	CDS	pyruvate dehydrogenase E1 component subunit beta	1.2.4.1	pdhB	
+-	331484	332215	732	Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)	peg	gi|108885074|ref|NC_000908.2|_332215_331484								
+-	332233	333309	1077	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)	peg	gi|108885074|ref|NC_000908.2|_332604_332233		pyruvate dehydrogenase E1 component, alpha subunit	1.2.4.1	CDS	pyruvate dehydrogenase (acetyl-transferring) E1 component, alpha subunit	1.2.4.1	pdhA	
+-	332971	333123	153	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)	peg	gi|108885074|ref|NC_000908.2|_333123_332971								
+-	333139	333309	171	Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)	peg	gi|108885074|ref|NC_000908.2|_333309_333139								
+-	333337	334773	1437	NADH oxidase (EC 1.6.99.3)	peg	gi|108885074|ref|NC_000908.2|_334401_333337		Uncharacterized NAD(FAD)-dependent dehydrogenases	1.6.99.3	CDS	pyridine nucleotide-disulfide oxidoreductase family protein			
+-	334429	334773	345	NADH oxidase (EC 1.6.99.3)	peg	gi|108885074|ref|NC_000908.2|_334773_334429								
+-	334856	335434	579	Adenine phosphoribosyltransferase (EC 2.4.2.7)	peg	gi|108885074|ref|NC_000908.2|_335434_334856		adenine phosphoribosyltransferase (EC 2.4.2.7)	2.4.2.7	CDS	adenine phosphoribosyltransferase	2.4.2.7	apt	
+-	335412	338324	2913				hypothetical protein		CDS	putative membrane protein			
+-	335526	336212	687	Uncharacterized protein MG277 homolog	peg	gi|108885074|ref|NC_000908.2|_336212_335526								
+-	336507	336941	435	Uncharacterized protein MG277 homolog	peg	gi|108885074|ref|NC_000908.2|_336941_336507								
+-	337485	337940	456	Uncharacterized protein MG277 homolog	peg	gi|108885074|ref|NC_000908.2|_337940_337485								
+-	337941	338249	309	Uncharacterized protein MG277 homolog	peg	gi|108885074|ref|NC_000908.2|_338249_337941								
++	338367	339755	1389	"GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I"	peg	gi|108885074|ref|NC_000908.2|_338367_339755								
++	339765	340022	258	"GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I"	peg	gi|108885074|ref|NC_000908.2|_339765_340022								
++	340323	340517	195	"GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I"	peg	gi|108885074|ref|NC_000908.2|_340323_340517								
+-	340526	341182	657	FIG00835895: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_341182_340526		hypothetical protein		CDS	conserved hypothetical protein			
++	338367	340529	2163				(p)ppGpp synthetase, RelA/SpoT family	2.7.6.5	CDS	relA/SpoT family protein			
+-	341175	341972	798	FIG00834342: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_341972_341175		hypothetical protein		CDS	conserved hypothetical protein			
+-	342033	343703	1671	FIG00835825: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_342863_342033		hypothetical protein		CDS	conserved hypothetical protein			
+-	343047	343703	657	FIG00835825: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_343703_343047								
+-	344365	344850	486	Transcription elongation factor GreA	peg	gi|108885074|ref|NC_000908.2|_344850_344365		transcription elongation factor GreA		CDS	transcription elongation factor GreA domain protein		greA	
++	345305	345631	327	"Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type"	peg	gi|108885074|ref|NC_000908.2|_345305_345631								
++	345182	346633	1452	"Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type"	peg	gi|108885074|ref|NC_000908.2|_345812_346633		prolyl-tRNA synthetase (EC 6.1.1.15)	6.1.1.15	CDS	proline--tRNA ligase	6.1.1.15	proS	
++	346911	347252	342				hypothetical protein		CDS	conserved hypothetical protein			
++	347215	347448	234	FIG00835610: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_347215_347448								
++	347800	348009	210	FIG00835610: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_347800_348009								
++	347215	348258	1044	FIG00835610: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_348100_348258		hypothetical protein		CDS	conserved hypothetical protein			
++	348261	348773	513	FIG00834673: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_348261_348773								
++	348261	348851	591				hypothetical protein		CDS	conserved hypothetical protein			
++	348883	349137	255	Acyl carrier protein	peg	gi|108885074|ref|NC_000908.2|_348883_349137		Acyl carrier protein		CDS	phosphopantetheine attachment site family protein			
++	349291	349620	330	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_349291_349620								
++	349282	349677	396				hypothetical protein		CDS	putative adhesin-like protein			
++	349797	350327	531	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_349926_350327		Mycoplasma adhesin P1.		CDS	mycoplasma adhesin P1 family protein			
++	350446	350598	153	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_350446_350598								
++	350876	351055	180	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_350876_351055								
++	351070	351270	201	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_351070_351270								
++	351307	351507	201	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_351307_351507								
+-	351791	353035	1245	membrane export protein family	peg	gi|108885074|ref|NC_000908.2|_352024_351791		MG032/MG096/MG288 family 1./MG032/MG096/MG288 family 2.		CDS	conserved hypothetical protein			
++	350452	351825	1374	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_351553_351825		MgpC protein precursor.		CDS	mgpC family protein			
+-	353299	353682	384	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_353682_353299		hypothetical protein		CDS	conserved hypothetical protein			
++	354024	354476	453	FIG00834143: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_354024_354476								
++	354636	354848	213	FIG00834143: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_354636_354848								
++	354024	355130	1107	FIG00834143: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_354939_355130		High affinity transport system protein p37.		CDS	high affinity transport system protein p37		p37	
++	355120	355452	333	Phosphonate ABC transporter ATP-binding protein (TC 3.A.1.9.1)	peg	gi|108885074|ref|NC_000908.2|_355120_355452								
++	355120	355857	738	Phosphonate ABC transporter ATP-binding protein (TC 3.A.1.9.1)	peg	gi|108885074|ref|NC_000908.2|_355675_355857		ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components	3.6.3.28	CDS	ABC transporter family protein			
+-	356164	356361	198	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_356361_356164								
++	356543	356701	159	Transport system permease protein p69	peg	gi|108885074|ref|NC_000908.2|_356543_356701								
++	356762	357214	453	Transport system permease protein p69	peg	gi|108885074|ref|NC_000908.2|_356762_357214								
+-	357475	357891	417	Putative Holliday junction resolvase YggF	peg	gi|108885074|ref|NC_000908.2|_357891_357475		RNAse H-fold protein YqgF	3.1.-	CDS	conserved hypothetical protein			
++	355847	357478	1632	Transport system permease protein p69	peg	gi|108885074|ref|NC_000908.2|_357221_357478		ABC-type phosphate/phosphonate transport system, permease component		CDS	putative membrane protein			
+-	357891	360593	2703	Alanyl-tRNA synthetase (EC 6.1.1.7)	peg	gi|108885074|ref|NC_000908.2|_358394_357891		alanyl-tRNA synthetase (EC 6.1.1.7)	6.1.1.7	CDS	alanine--tRNA ligase	6.1.1.7	alaS	
+-	358497	358784	288	Alanyl-tRNA synthetase (EC 6.1.1.7)	peg	gi|108885074|ref|NC_000908.2|_358784_358497								
+-	358914	359312	399	Alanyl-tRNA synthetase (EC 6.1.1.7)	peg	gi|108885074|ref|NC_000908.2|_359312_358914								
+-	359331	359765	435	Alanyl-tRNA synthetase (EC 6.1.1.7)	peg	gi|108885074|ref|NC_000908.2|_359765_359331								
+-	360183	360365	183	Alanyl-tRNA synthetase (EC 6.1.1.7)	peg	gi|108885074|ref|NC_000908.2|_360365_360183								
+-	360651	361385	735				Glycerophosphoryl diester phosphodiesterase	3.1.4.46	CDS	glycerophosphoryl diester phosphodiesterase family protein			
++	360509	360682	174	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_360509_360682								
+-	360810	361385	576	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)	peg	gi|108885074|ref|NC_000908.2|_361385_360810								
+-	361378	362796	1419				Major Facilitator Superfamily.		CDS	major Facilitator Superfamily protein			
+-	361399	361581	183	permease	peg	gi|108885074|ref|NC_000908.2|_361581_361399								
+-	361591	362022	432	permease	peg	gi|108885074|ref|NC_000908.2|_362022_361591								
+-	362050	362268	219	permease	peg	gi|108885074|ref|NC_000908.2|_362268_362050								
+-	362494	362802	309	permease	peg	gi|108885074|ref|NC_000908.2|_362802_362494								
+-	362920	364023	1104	tRNA-specific 2-thiouridylase MnmA	peg	gi|108885074|ref|NC_000908.2|_363138_362920		tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)	2.8.1.-	CDS	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	2.1.1.61	trmU	
+-	363427	363732	306	tRNA-specific 2-thiouridylase MnmA	peg	gi|108885074|ref|NC_000908.2|_363732_363427								
+-	363751	364023	273	tRNA-specific 2-thiouridylase MnmA	peg	gi|108885074|ref|NC_000908.2|_364023_363751								
+-	364026	364415	390	FIG00835486: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_364415_364026		Mg296 protein.		CDS	conserved hypothetical protein			
+-	364535	365575	1041	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)	peg	gi|108885074|ref|NC_000908.2|_364888_364535		signal recognition particle-docking protein FtsY		CDS	signal recognition particle-docking protein FtsY		ftsY	
+-	365018	365575	558	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)	peg	gi|108885074|ref|NC_000908.2|_365575_365018								
+-	365582	368530	2949	Chromosome partition protein smc	peg	gi|108885074|ref|NC_000908.2|_366418_365582		condensin subunit Smc		CDS	chromosome segregation protein SMC		smc	
+-	366527	367861	1335	Chromosome partition protein smc	peg	gi|108885074|ref|NC_000908.2|_367861_366527								
+-	368081	368530	450	Chromosome partition protein smc	peg	gi|108885074|ref|NC_000908.2|_368530_368081								
+-	368733	369695	963				phosphotransacetylase (EC 2.3.1.8)	2.3.1.8	CDS	phosphate acetyltransferase	2.3.1.8	pta	
+-	368937	369590	654	Phosphate acetyltransferase (EC 2.3.1.8)	peg	gi|108885074|ref|NC_000908.2|_369590_368937								
+-	369713	370948	1236				phosphoglycerate kinase (EC 2.7.2.3)	2.7.2.3	CDS	phosphoglycerate kinase	2.7.2.3	pgk	
+-	369956	370948	993	Phosphoglycerate kinase (EC 2.7.2.3)	peg	gi|108885074|ref|NC_000908.2|_370948_369956								
+-	370950	371963	1014	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	peg	gi|108885074|ref|NC_000908.2|_371963_370950		glyceraldehyde-3-phosphate dehydrogenase (NAD+) (EC 1.2.1.12)	1.2.1.12	CDS	glyceraldehyde-3-phosphate dehydrogenase, type I	1.2.1.-	gap	
+-	371994	372947	954				ABC-type cobalt transport system, permease component CbiQ and related transporters		CDS	cobalt transport family protein			
+-	372108	372440	333	Transmembrane component of general energizing module of ECF transporters	peg	gi|108885074|ref|NC_000908.2|_372440_372108								
+-	372926	373999	1074	ATPase component of general energizing module of ECF transporters	peg	gi|108885074|ref|NC_000908.2|_373999_372926		ABC-type cobalt transport system, ATPase component		CDS	ABC transporter family protein			
+-	373981	374793	813	ATPase component of general energizing module of ECF transporters	peg	gi|108885074|ref|NC_000908.2|_374793_373981		ABC-type cobalt transport system, ATPase component		CDS	ABC transporter family protein			
+-	374919	376706	1788				chaperone protein DnaK		CDS	chaperone protein DnaK		dnaK	
+-	374979	376706	1728	Chaperone protein DnaK	peg	gi|108885074|ref|NC_000908.2|_376706_374979								
+-	376794	377975	1182				Predicted integral membrane protein		CDS	conserved hypothetical protein			
+-	376944	377207	264	Permease	peg	gi|108885074|ref|NC_000908.2|_377207_376944								
+-	377703	377975	273	Permease	peg	gi|108885074|ref|NC_000908.2|_377975_377703								
+-	377975	381508	3534	FIG00835342: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_379027_377975		Protein of unknown function (DUF3713).		CDS	conserved hypothetical protein			
+-	379049	379756	708	FIG00835342: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_379756_379049								
+-	379922	380353	432	FIG00835342: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_380353_379922								
+-	380675	380899	225	FIG00835342: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_380899_380675								
+-	381089	381508	420	FIG00835342: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_381508_381089								
+-	381493	382725	1233				Superfamily II DNA and RNA helicases		CDS	DEAD/DEAH box helicase family protein			
+-	381505	381672	168	FIG00834919: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_381672_381505								
+-	381853	382269	417	FIG00834919: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_382269_381853								
++	382337	382534	198	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_382337_382534								
+-	382732	386409	3678				Protein of unknown function (DUF3713).		CDS	conserved hypothetical protein			
+-	382747	383556	810	FIG00835298: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_383556_382747								
+-	384148	385464	1317	FIG00835298: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_385464_384148								
+-	385987	386349	363	FIG00835298: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_386349_385987								
++	386463	386678	216	COG0596: Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	peg	gi|108885074|ref|NC_000908.2|_386463_386678								
++	386679	387092	414	COG0596: Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	peg	gi|108885074|ref|NC_000908.2|_386679_387092								
++	386463	387269	807				Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)		CDS	alpha/beta hydrolase fold family protein			
+-	387276	387893	618				SSU ribosomal protein S4P		CDS	ribosomal protein S4		rpsD	
+-	387297	387893	597	SSU ribosomal protein S4p (S9e)	peg	gi|108885074|ref|NC_000908.2|_387893_387297								
+-	387916	391335	3420	cytadherence accessory protein HMW1	peg	gi|108885074|ref|NC_000908.2|_390051_387916		cytadherence high molecular weight protein 1 N-terminal region		CDS	cytadherence high molecular weight protein 1 N-terminal region		hmw1	
+-	390994	391335	342	cytadherence accessory protein HMW1	peg	gi|108885074|ref|NC_000908.2|_391335_390994								
+-	391395	392258	864	Substrate-specific component FolT of folate ECF transporter	peg	gi|108885074|ref|NC_000908.2|_392108_391395		Protein of unknown function (DUF3816).		CDS	ECF-type riboflavin transporter, S component family protein			
+-	392303	393634	1332	FIG00835371: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_392491_392303		hypothetical protein		CDS	conserved hypothetical protein			
+-	392582	393016	435	FIG00835371: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_393016_392582								
+-	393041	393634	594	FIG00835371: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_393634_393041								
+-	393658	394374	717	DNA polymerase III delta subunit (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_394122_393658		DNA polymerase III, delta subunit (EC 2.7.7.7)	2.7.7.7	CDS	DNA polymerase III, delta subunit			
+-	394222	394551	330	DNA polymerase III delta subunit (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_394551_394222								
+-	394475	395584	1110				ComEC/Rec2-related protein		CDS	comEC/Rec2-related domain protein			
+-	394739	395110	372	"competence locus operon protein 3 homolog; similar to Swiss-Prot Accession Number P39695, from B. subtilis"	peg	gi|108885074|ref|NC_000908.2|_395110_394739								
+-	395625	397424	1800				hypothetical protein		CDS	cytadherence high molecular weight protein 3		hmw3	
+-	395772	396242	471	FIG00835827: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_396242_395772								
+-	396282	397424	1143	FIG00835827: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_397424_396282								
+-	397439	398281	843	Twitching motility protein PilT	peg	gi|108885074|ref|NC_000908.2|_397783_397439		ABC-type phosphate transport system, permease component		CDS	cytadhesin P30/P32 family protein			
+-	398078	398281	204	Twitching motility protein PilT	peg	gi|108885074|ref|NC_000908.2|_398281_398078								
+-	398298	398834	537	FIG00835782: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_398834_398298		hypothetical protein		CDS	conserved hypothetical protein			
+-	398938	399798	861				hypothetical protein		CDS	putative membrane protein			
+-	399043	399219	177	FIG00835407: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_399219_399043								
+-	399346	399798	453	FIG00835407: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_399798_399346								
+-	400119	402923	2805				hypothetical protein		CDS	conserved hypothetical protein			
+-	400305	400709	405	FIG00833974: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_400709_400305								
+-	401901	402767	867	FIG00833974: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_402767_401901								
++	402766	402942	177	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_402766_402942								
+-	403723	405420	1698	"potassium uptake protein, TrkH family, putative"	peg	gi|108885074|ref|NC_000908.2|_405033_403723		Trk-type K+ transport systems, membrane components		CDS	cation transport family protein			
++	405456	406139	684	TrkA	peg	gi|108885074|ref|NC_000908.2|_405456_406139		K+ transport systems, NAD-binding component		CDS	trkA-C domain protein			
+-	406179	406519	341										
++	406542	406929	388										
+-	406975	407739	765				hypothetical protein		CDS	conserved hypothetical protein			
+-	407080	407244	165	FIG00836312: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_407244_407080								
+-	407470	407739	270	FIG00836312: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_407739_407470								
+-	407729	408793	1065				Xaa-Pro aminopeptidase		CDS	putative Xaa-Pro aminopeptidase			
+-	407759	408406	648	"Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)"	peg	gi|108885074|ref|NC_000908.2|_408406_407759								
+-	408467	408634	168	"Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)"	peg	gi|108885074|ref|NC_000908.2|_408634_408467								
+-	408793	408954	162	50S ribosomal protein L33	peg	gi|108885074|ref|NC_000908.2|_408954_408793		LSU ribosomal protein L33P		CDS	ribosomal protein L33		rpmG	
+-	408971	409858	888	DegV family protein	peg	gi|108885074|ref|NC_000908.2|_409444_408971		EDD domain protein, DegV family		CDS	conserved hypothetical protein			
+-	409466	409858	393	DegV family protein	peg	gi|108885074|ref|NC_000908.2|_409858_409466								
+-	409871	410677	807	Triacylglycerol lipase (EC 3.1.1.3)	peg	gi|108885074|ref|NC_000908.2|_410677_409871		Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)		CDS	phospholipase/Carboxylesterase family protein			
+-	410664	412934	2271	FIG00833893: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_411134_410664		hypothetical protein		CDS	conserved hypothetical protein			
+-	411549	412934	1386	FIG00833893: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_412934_411549								
+-	412973	414319	1347	GTP-binding protein EngA	peg	gi|108885074|ref|NC_000908.2|_414319_412973		ribosome-associated GTPase EngA		CDS	ribosome-associated GTPase EngA		engA	
+-	414323	414976	654	Cytidylate kinase (EC 2.7.4.14)	peg	gi|108885074|ref|NC_000908.2|_414769_414323		cytidylate kinase (EC 2.7.4.14)	2.7.4.14	CDS	cytidylate kinase	2.7.4.14	cmk	
+-	414985	415623	639				hypothetical protein		CDS	conserved hypothetical protein			
++	415046	415243	198	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_415046_415243								
+-	415291	415488	198	FIG00833967: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_415488_415291								
+-	415611	416330	720	FIG000859: hypothetical protein YebC	peg	gi|108885074|ref|NC_000908.2|_416330_415611		DNA-binding regulatory protein, YebC/PmpR family		CDS	DNA-binding regulatory , YebC/PmpR family protein			
+-	416337	416930	594	FMN-dependent NADH-azoreductase	peg	gi|108885074|ref|NC_000908.2|_416474_416337		Acyl carrier protein phosphodiesterase	1.7.-	CDS	NADPH-dependent FMN reductase family protein			
+-	416511	416675	165	FMN-dependent NADH-azoreductase	peg	gi|108885074|ref|NC_000908.2|_416675_416511								
+-	416967	419480	2514				valyl-tRNA synthetase (EC 6.1.1.9)	6.1.1.9	CDS	valine--tRNA ligase	6.1.1.9	valS	
+-	417795	418028	234	Valyl-tRNA synthetase (EC 6.1.1.9)	peg	gi|108885074|ref|NC_000908.2|_418028_417795								
+-	418500	418661	162	Valyl-tRNA synthetase (EC 6.1.1.9)	peg	gi|108885074|ref|NC_000908.2|_418661_418500								
+-	418749	418937	189	Valyl-tRNA synthetase (EC 6.1.1.9)	peg	gi|108885074|ref|NC_000908.2|_418937_418749								
+-	419470	420045	576	GTP-binding protein EngB	peg	gi|108885074|ref|NC_000908.2|_420045_419470		ribosome biogenesis GTP-binding protein YsxC/EngB		CDS	ribosome biogenesis GTP-binding protein YsxC		ysxC	
+-	420053	420274	222	M. genitalium predicted coding region MG335.1	peg	gi|108885074|ref|NC_000908.2|_420274_420053		Uncharacterized protein conserved in bacteria		CDS	conserved hypothetical protein			
++	420333	420845	513	Uncharacterized glycosyltransferase MG335.2 (EC 2.-.-.-)	peg	gi|108885074|ref|NC_000908.2|_420333_420845								
++	420933	421139	207	Uncharacterized glycosyltransferase MG335.2 (EC 2.-.-.-)	peg	gi|108885074|ref|NC_000908.2|_420933_421139								
++	420333	421358	1026	Uncharacterized glycosyltransferase MG335.2 (EC 2.-.-.-)	peg	gi|108885074|ref|NC_000908.2|_421239_421358		Glycosyltransferases involved in cell wall biogenesis		CDS	conserved hypothetical protein			
++	421467	421850	384	"Cysteine desulfurase (EC 2.8.1.7), SufS subfamily"	peg	gi|108885074|ref|NC_000908.2|_421467_421850								
++	421467	422693	1227	"Cysteine desulfurase (EC 2.8.1.7), SufS subfamily"	peg	gi|108885074|ref|NC_000908.2|_422238_422693		Selenocysteine lyase	4.4.1.16, 2.8.1.7	CDS	putative cysteine desulfurase			
+-	423100	426912	3813	FIG00836572: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_423276_423100		Protein of unknown function (DUF3713).		CDS	conserved hypothetical protein			
++	422697	423113	417	"Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2"	peg	gi|108885074|ref|NC_000908.2|_422697_423113		NifU homolog involved in Fe-S cluster formation		CDS	nifU-like N terminal domain protein			
+-	423322	423678	357	FIG00836572: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_423678_423322								
+-	423682	423939	258	FIG00836572: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_423939_423682								
+-	424192	424377	186	FIG00836572: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_424377_424192								
+-	424420	424617	198	FIG00836572: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_424617_424420								
+-	424687	425205	519	FIG00836572: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_425205_424687								
+-	425251	425556	306	FIG00836572: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_425556_425251								
+-	426658	426861	204	FIG00836572: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_426861_426658								
+-	427090	428112	1023	RecA protein	peg	gi|108885074|ref|NC_000908.2|_428112_427090		RecA protein		CDS	protein RecA		recA	
++	428904	429122	219	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_428904_429122								
++	429159	429359	201	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_429159_429359								
++	428325	429662	1338	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_429402_429662		MgpC protein precursor.		CDS	mgpC family protein			
++	429607	429900	294	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_429607_429900								
+-	429914	430105	192	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_430105_429914		hypothetical protein		CDS	hypothetical protein			
++	430368	430556	189	MgPa adhesin	peg	gi|108885074|ref|NC_000908.2|_430368_430556								
+-	430580	434458	3879	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	peg	gi|108885074|ref|NC_000908.2|_432103_430580		DNA-directed RNA polymerase, beta' subunit, predominant form	2.7.7.6	CDS	DNA-directed RNA polymerase, beta' subunit	2.7.7.6	rpoC	
++	430098	430583	486				Mycoplasma adhesin P1.		CDS	mycoplasma adhesin P1 family protein			
+-	432110	434137	2028	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	peg	gi|108885074|ref|NC_000908.2|_434137_432110								
+-	434468	438640	4173	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	peg	gi|108885074|ref|NC_000908.2|_434737_434468		DNA-directed RNA polymerase, beta subunit	2.7.7.6	CDS	DNA-directed RNA polymerase, beta subunit	2.7.7.6	rpoB	
+-	434768	435844	1077	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	peg	gi|108885074|ref|NC_000908.2|_435844_434768								
+-	435944	438640	2697	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	peg	gi|108885074|ref|NC_000908.2|_438640_435944								
+-	438730	439236	507	suggest reductase homologue	peg	gi|108885074|ref|NC_000908.2|_439236_438730		Predicted flavoprotein		CDS	NADPH-dependent FMN reductase family protein			
+-	439315	440355	1041	FIG00834086: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_439458_439315		hypothetical protein		CDS	conserved hypothetical protein			
+-	439594	439989	396	FIG00834086: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_439989_439594								
+-	440116	440355	240	FIG00834086: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_440355_440116								
+-	440359	441180	822	"lipase/esterase, putative"	peg	gi|108885074|ref|NC_000908.2|_440643_440359		Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)		CDS	alpha/beta hydrolase fold family protein			
+-	440671	440880	210	"lipase/esterase, putative"	peg	gi|108885074|ref|NC_000908.2|_440880_440671								
+-	441001	441180	180	"lipase/esterase, putative"	peg	gi|108885074|ref|NC_000908.2|_441180_441001								
+-	441191	443878	2688				Isoleucyl-tRNA synthetase (EC 6.1.1.5)	6.1.1.5	CDS	isoleucine--tRNA ligase	6.1.1.5	ileS	
+-	441347	441562	216	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	peg	gi|108885074|ref|NC_000908.2|_441562_441347								
+-	442031	442276	246	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	peg	gi|108885074|ref|NC_000908.2|_442276_442031								
+-	442682	442954	273	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	peg	gi|108885074|ref|NC_000908.2|_442954_442682								
+-	443321	443686	366	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	peg	gi|108885074|ref|NC_000908.2|_443686_443321								
++	443922	444089	168	"RNA methyltransferase, TrmH family, group 2( EC:2.1.1.- )"	peg	gi|108885074|ref|NC_000908.2|_443922_444089								
++	443922	444422	501				rRNA methylase, putative, group 2	2.1.1.207	CDS	tRNA (cytidine(34)-2'-O)-methyltransferase	2.1.1.207	trmL	
++	444413	444754	342	tRNA (guanine46-N7-)-methyltransferase (EC 2.1.1.33)	peg	gi|108885074|ref|NC_000908.2|_444413_444754								
++	444413	445045	633	tRNA (guanine46-N7-)-methyltransferase (EC 2.1.1.33)	peg	gi|108885074|ref|NC_000908.2|_444890_445045		tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33)	2.1.1.33	CDS	tRNA (guanine-N(7)-)-methyltransferase	2.1.1.33	trmB	
+-	445197	446165	969	FIG00834811: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_445718_445197		hypothetical protein		CDS	conserved hypothetical protein			
+-	445854	446099	246	FIG00834811: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_446099_445854								
++	446888	447130	243	FIG00835435: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_446888_447130								
++	447248	447589	342	FIG00835435: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_447248_447589								
++	446618	447790	1173				replicative DNA helicase loader DnaB		CDS	conserved hypothetical protein			
++	447790	448005	216	FIG00836804: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_447790_448005								
++	448204	448449	246	FIG00836804: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_448204_448449								
++	447790	448725	936				hypothetical protein		CDS	conserved hypothetical protein			
+-	448943	449617	675				hypothetical protein		CDS	putative membrane protein			
+-	449408	449617	210	putative membrane integrated oxidoreductase	peg	gi|108885074|ref|NC_000908.2|_449617_449408								
++	449665	449826	162	Inorganic pyrophosphatase (EC 3.6.1.1)	peg	gi|108885074|ref|NC_000908.2|_449665_449826								
++	449872	450105	234	Inorganic pyrophosphatase (EC 3.6.1.1)	peg	gi|108885074|ref|NC_000908.2|_449872_450105								
++	449665	450219	555				Inorganic pyrophosphatase	3.6.1.1	CDS	inorganic pyrophosphatase domain protein	3.6.1.1	ppa	
++	450126	450305	180	recombination protein U	peg	gi|108885074|ref|NC_000908.2|_450126_450305								
+-	450719	451048	330				Bacterial nucleoid DNA-binding protein		CDS	bacterial DNA-binding family protein			
++	450222	450722	501	recombination protein U	peg	gi|108885074|ref|NC_000908.2|_450414_450722		recombination protein U		CDS	recombination protein U	3.1.-.-	recU	
+-	450734	451048	315	bacterial histone like protein	peg	gi|108885074|ref|NC_000908.2|_451048_450734								
++	451197	451610	414	FIG00835180: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_451197_451610		Domain of unknown function (DUF1951).		CDS	conserved hypothetical protein			
+-	451613	453757	2145	ClpB protein	peg	gi|108885074|ref|NC_000908.2|_452497_451613		ATPases with chaperone activity, ATP-binding subunit		CDS	chaperone protein ClpB		clpB	
++	452475	452696	222	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_452475_452696								
+-	452792	453064	273	ClpB protein	peg	gi|108885074|ref|NC_000908.2|_453064_452792								
+-	453119	453757	639	ClpB protein	peg	gi|108885074|ref|NC_000908.2|_453757_453119								
+-	453911	454753	843				Predicted choline kinase involved in LPS biosynthesis		CDS	phosphotransferase enzyme family protein			
+-	454394	454753	360	MGA_0931; [M] COG0510 Predicted choline kinase involved in LPS biosynthesis; pfam01636 Phosphotransferase enzyme family; MGR_183	peg	gi|108885074|ref|NC_000908.2|_454753_454394								
+-	454766	455947	1182	Acetate kinase (EC 2.7.2.1)	peg	gi|108885074|ref|NC_000908.2|_455248_454766		acetate kinase (EC 2.7.2.1)	2.7.2.1	CDS	acetate kinase	2.7.2.1	ackA	
+-	455450	455947	498	Acetate kinase (EC 2.7.2.1)	peg	gi|108885074|ref|NC_000908.2|_455947_455450								
++	456055	456264	210	FIG00835677: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_456055_456264		hypothetical protein		CDS	putative membrane protein			
++	456327	456752	426	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_456633_456752		hypothetical protein		CDS	conserved hypothetical protein			
++	456755	457372	618	Holliday junction DNA helicase RuvA	peg	gi|108885074|ref|NC_000908.2|_456872_457372		Holliday junction DNA helicase subunit RuvA	3.6.4.12	CDS	holliday junction DNA helicase RuvA	3.6.4.12	ruvA	
+-	458260	459495	1236	DNA polymerase IV (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_458613_458260		Nucleotidyltransferase/DNA polymerase involved in DNA repair	2.7.7.7	CDS	impB/mucB/samB family protein			
++	457347	458270	924	Holliday junction DNA helicase RuvB	peg	gi|108885074|ref|NC_000908.2|_457347_458270		Holliday junction DNA helicase subunit RuvB	3.6.4.12	CDS	holliday junction DNA helicase RuvB	3.6.4.12	ruvB	
+-	458932	459495	564	DNA polymerase IV (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_459495_458932								
++	459615	460103	489	LSU ribosomal protein L10p (P0)	peg	gi|108885074|ref|NC_000908.2|_459615_460103		LSU ribosomal protein L10P		CDS	ribosomal L10 family protein			
++	460126	460494	369	LSU ribosomal protein L7/L12 (P1/P2)	peg	gi|108885074|ref|NC_000908.2|_460126_460494		LSU ribosomal protein L12P		CDS	ribosomal protein L7/L12		rplL	
++	460497	460670	174	LSU ribosomal protein L32p	peg	gi|108885074|ref|NC_000908.2|_460497_460670		LSU ribosomal protein L32P		CDS	ribosomal protein L32		rpmF	
+-	460685	460951	267	SSU ribosomal protein S20p	peg	gi|108885074|ref|NC_000908.2|_460951_460685		SSU ribosomal protein S20P		CDS	ribosomal protein S20		rpsT	
++	461015	461170	156	FIG00834055: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_461015_461170								
++	461189	461545	357	FIG00834055: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_461189_461545								
++	461015	461689	675	FIG00834055: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_461558_461689		hypothetical protein		CDS	conserved hypothetical protein			
++	461682	462047	366	Methionyl-tRNA formyltransferase (EC 2.1.2.9)	peg	gi|108885074|ref|NC_000908.2|_461682_462047								
++	461682	462617	936				methionyl-tRNA formyltransferase (EC 2.1.2.9)	2.1.2.9	CDS	methionyl-tRNA formyltransferase	2.1.2.9	fmt	
++	462619	463560	942	FIG00834704: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_462619_463560								
++	464209	464496	288	FIG00834704: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_464209_464496								
++	462619	464622	2004				Domain of unknown function(DUF2779).		CDS	conserved hypothetical protein			
+-	464646	465461	816	Ribonuclease III (EC 3.1.26.3)	peg	gi|108885074|ref|NC_000908.2|_464768_464646		RNAse III (EC 3.1.26.3)	3.1.26.3	CDS	ribonuclease III	3.1.26.3	rnc	
+-	464829	465125	297	Ribonuclease III (EC 3.1.26.3)	peg	gi|108885074|ref|NC_000908.2|_465125_464829								
+-	465424	466410	987	Phosphate:acyl-ACP acyltransferase PlsX	peg	gi|108885074|ref|NC_000908.2|_466410_465424		phosphate:acyl-[acyl carrier protein] acyltransferase	2.3.1.15	CDS	fatty acid/phospholipid synthesis protein PlsX		plsX	
+-	466410	468050	1641	Dihydroxyacetone kinase family protein	peg	gi|108885074|ref|NC_000908.2|_467564_466410		DAK2 domain fusion protein YloV		CDS	DAK2 domain fusion YloV family protein			
+-	467571	468050	480	Dihydroxyacetone kinase family protein	peg	gi|108885074|ref|NC_000908.2|_468050_467571								
+-	468152	469123	972	Ribosomal large subunit pseudouridine synthase C (EC 4.2.1.70)	peg	gi|108885074|ref|NC_000908.2|_468421_468152		pseudouridine synthase, RluA family	5.4.99.24	CDS	pseudouridine synthase, RluA family protein	5.4.99.-		
+-	468530	469123	594	Ribosomal large subunit pseudouridine synthase C (EC 4.2.1.70)	peg	gi|108885074|ref|NC_000908.2|_469123_468530								
+-	469110	470084	975	"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"	peg	gi|108885074|ref|NC_000908.2|_469229_469110		Exopolyphosphatase-related proteins		CDS	DHHA1 domain protein			
+-	469278	469532	255	"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"	peg	gi|108885074|ref|NC_000908.2|_469532_469278								
+-	469707	470084	378	"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"	peg	gi|108885074|ref|NC_000908.2|_470084_469707								
+-	470077	471234	1158	tRNA S(4)U 4-thiouridine synthase (former ThiI)	peg	gi|108885074|ref|NC_000908.2|_471234_470077		thiazole biosynthesis/tRNA modification protein ThiI		CDS	putative tRNA sulfurtransferase			
+-	471221	472066	846				YqaJ-like viral recombinase domain.		CDS	conserved hypothetical protein			
+-	471533	471892	360	FIG00835489: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_471892_471533								
+-	471899	472066	168	FIG00835489: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_472066_471899								
+-	472067	472945	879	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_472210_472067		haloacid dehalogenase-like hydrolase.		CDS	haloacid dehalogenase-like hydrolase family protein			
+-	472884	474578	1695	Threonyl-tRNA synthetase (EC 6.1.1.3)	peg	gi|108885074|ref|NC_000908.2|_473468_472884		threonyl-tRNA synthetase (EC 6.1.1.3)	6.1.1.3	CDS	threonine--tRNA ligase	6.1.1.3	thrS	
+-	473487	473963	477	Threonyl-tRNA synthetase (EC 6.1.1.3)	peg	gi|108885074|ref|NC_000908.2|_473963_473487								
+-	474006	474188	183	Threonyl-tRNA synthetase (EC 6.1.1.3)	peg	gi|108885074|ref|NC_000908.2|_474188_474006								
+-	474261	474578	318	Threonyl-tRNA synthetase (EC 6.1.1.3)	peg	gi|108885074|ref|NC_000908.2|_474578_474261								
+-	474578	474874	297				Protein of unknown function (DUF3217).		CDS	conserved hypothetical protein			
+-	474898	475479	582	FIG00834865: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_475056_474898		hypothetical protein		CDS	conserved hypothetical protein			
+-	475099	475479	381	FIG00834865: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_475479_475099								
+-	475526	477139	1614	Arginyl-tRNA synthetase (EC 6.1.1.19)	peg	gi|108885074|ref|NC_000908.2|_475966_475526		arginyl-tRNA synthetase (EC 6.1.1.19)	6.1.1.19	CDS	arginine--tRNA ligase	6.1.1.19	argS	
+-	475970	476146	177	Arginyl-tRNA synthetase (EC 6.1.1.19)	peg	gi|108885074|ref|NC_000908.2|_476146_475970								
+-	476411	476863	453	Arginyl-tRNA synthetase (EC 6.1.1.19)	peg	gi|108885074|ref|NC_000908.2|_476863_476411								
+-	476960	477139	180	Arginyl-tRNA synthetase (EC 6.1.1.19)	peg	gi|108885074|ref|NC_000908.2|_477139_476960								
++	477168	478472	1305	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	peg	gi|108885074|ref|NC_000908.2|_477168_478472								
++	477168	479006	1839	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	peg	gi|108885074|ref|NC_000908.2|_478473_479006		glucose-inhibited division protein A		CDS	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA		gidA	
++	478999	479577	579	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	peg	gi|108885074|ref|NC_000908.2|_478999_479577		16S rRNA m(7)G-527 methyltransferase (EC 2.1.1.170)	2.1.1.170	CDS	16S rRNA (guanine(527)-N(7))-methyltransferase GidB	2.1.1.170	gidB	
++	479570	480226	657	FIG00836202: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_479882_480226		hypothetical protein		CDS	conserved hypothetical protein			
++	480691	480894	204	Uridine kinase (EC 2.7.1.48)	peg	gi|108885074|ref|NC_000908.2|_480691_480894								
+-	481329	482075	747	NAD synthetase (EC 6.3.1.5)	peg	gi|108885074|ref|NC_000908.2|_481484_481329		NH(3)-dependent NAD(+) synthetase (EC 6.3.1.5)	6.3.1.5	CDS	putative NH(3)-dependent NAD(+) synthetase			
++	480691	481332	642				uridine kinase (EC 2.7.1.48)	2.7.1.48	CDS	uridine kinase	2.7.1.48	udk	
+-	481632	482075	444	NAD synthetase (EC 6.3.1.5)	peg	gi|108885074|ref|NC_000908.2|_482075_481632								
+-	482068	483369	1302				Obg family GTPase CgtA		CDS	obg family GTPase CgtA		cgtA	
+-	482251	483231	981	GTP-binding protein Obg	peg	gi|108885074|ref|NC_000908.2|_483231_482251								
+-	483369	483986	618	FIG00834182: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_483545_483369		hypothetical protein		CDS	conserved hypothetical protein			
+-	483989	484699	711				Glycerophosphoryl diester phosphodiesterase	3.1.4.46	CDS	glycerophosphoryl diester phosphodiesterase family protein			
+-	484070	484516	447	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)	peg	gi|108885074|ref|NC_000908.2|_484516_484070								
+-	484702	489552	4851				EAGR box		CDS	protein P200		p200	
+-	484947	485216	270	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_485216_484947								
+-	485242	487647	2406	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_487647_485242								
++	488009	488176	168	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_488009_488176								
+-	489058	489552	495	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_489552_489058								
+-	489839	490711	873	GTP-binding protein Era	peg	gi|108885074|ref|NC_000908.2|_490042_489839		GTP-binding protein Era		CDS	GTP-binding protein Era		era	
+-	490232	490711	480	GTP-binding protein Era	peg	gi|108885074|ref|NC_000908.2|_490711_490232								
+-	490699	491004	306				Predicted metal-dependent hydrolase		CDS	conserved hypothetical protein			
+-	490840	491163	324	FIG00834068: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_491163_490840								
+-	491147	491530	384				hypothetical protein		CDS	conserved hypothetical protein			
+-	491201	491395	195	FIG00834020: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_491395_491201								
+-	491534	493516	1983	"ABC transporter, ATP-binding protein"	peg	gi|108885074|ref|NC_000908.2|_491881_491534		ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain		CDS	ABC transporter family protein			
+-	492143	492823	681	"ABC transporter, ATP-binding protein"	peg	gi|108885074|ref|NC_000908.2|_492823_492143								
+-	493223	493516	294	"ABC transporter, ATP-binding protein"	peg	gi|108885074|ref|NC_000908.2|_493516_493223								
+-	493624	494967	1344	Cytosol aminopeptidase PepA (EC 3.4.11.1)	peg	gi|108885074|ref|NC_000908.2|_493857_493624		Leucyl aminopeptidase	3.4.11.1	CDS	cytosol aminopeptidase family, catalytic domain protein			
+-	493912	494967	1056	Cytosol aminopeptidase PepA (EC 3.4.11.1)	peg	gi|108885074|ref|NC_000908.2|_494967_493912								
+-	494984	496615	1632	Heat shock protein 60 family chaperone GroEL	peg	gi|108885074|ref|NC_000908.2|_496615_494984		chaperonin GroL		CDS	chaperonin GroL		groL	
+-	496628	496960	333	Heat shock protein 60 family co-chaperone GroES	peg	gi|108885074|ref|NC_000908.2|_496918_496628		Co-chaperonin GroES (HSP10)		CDS	10 kDa chaperonin		groS	
+-	497086	498306	1221	Serine hydroxymethyltransferase (EC 2.1.2.1)	peg	gi|108885074|ref|NC_000908.2|_497412_497086		serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	CDS	serine hydroxymethyltransferase family protein			
+-	497437	498306	870	Serine hydroxymethyltransferase (EC 2.1.2.1)	peg	gi|108885074|ref|NC_000908.2|_498306_497437								
+-	498316	499890	1575	"lipoprotein, putative"	peg	gi|108885074|ref|NC_000908.2|_499023_498316		Putative peptidase (DUF31).		CDS	conserved hypothetical protein			
+-	499543	499890	348	"lipoprotein, putative"	peg	gi|108885074|ref|NC_000908.2|_499890_499543								
+-	499999	500280	282				hypothetical protein		CDS	putative membrane protein			
+-	500261	500719	459	Ribose 5-phosphate isomerase B (EC 5.3.1.6)	peg	gi|108885074|ref|NC_000908.2|_500719_500261		ribose-5-phosphate isomerase (EC 5.3.1.6)	5.3.1.6	CDS	ribose 5-phosphate isomerase B	5.3.1.6	rpiB	
+-	500720	502420	1701	FIG00835181: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_501487_500720		Negative regulator of septation ring formation		CDS	conserved hypothetical protein			
+-	501530	501880	351	FIG00835181: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_501880_501530								
+-	502109	502402	294	FIG00835181: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_502402_502109								
+-	502422	502823	402	ATP synthase epsilon chain (EC 3.6.3.14)	peg	gi|108885074|ref|NC_000908.2|_502823_502422		F0F1-type ATP synthase, epsilon subunit (mitochondrial delta subunit)	3.6.3.14	CDS	ATP synthase, Delta/Epsilon chain, beta-sandwich domain protein			
+-	502828	504258	1431	ATP synthase beta chain (EC 3.6.3.14)	peg	gi|108885074|ref|NC_000908.2|_504258_502828		ATP synthase F1 subcomplex beta subunit	3.6.3.14	CDS	ATP synthase F1, beta subunit	3.6.3.14	atpD	
+-	504260	505099	840	ATP synthase gamma chain (EC 3.6.3.14)	peg	gi|108885074|ref|NC_000908.2|_504655_504260		ATP synthase, F1 gamma subunit	3.6.3.14	CDS	ATP synthase F1, gamma subunit	3.6.3.14	atpG	
+-	504752	505099	348	ATP synthase gamma chain (EC 3.6.3.14)	peg	gi|108885074|ref|NC_000908.2|_505099_504752								
+-	505099	506655	1557	ATP synthase alpha chain (EC 3.6.3.14)	peg	gi|108885074|ref|NC_000908.2|_505887_505099		proton translocating ATP synthase, F1 alpha subunit	3.6.3.14	CDS	ATP synthase F1, alpha subunit	3.6.3.14	atpA	
+-	505909	506655	747	ATP synthase alpha chain (EC 3.6.3.14)	peg	gi|108885074|ref|NC_000908.2|_506655_505909								
+-	506671	507201	531	ATP synthase delta chain (EC 3.6.3.14)	peg	gi|108885074|ref|NC_000908.2|_507201_506671		ATP synthase F1 subcomplex delta subunit	3.6.3.14	CDS	ATP synthase F1, delta subunit	3.6.3.14	atpH	
+-	507194	507820	627	ATP synthase B chain (EC 3.6.3.14)	peg	gi|108885074|ref|NC_000908.2|_507439_507194		ATP synthase, F0 subunit b	3.6.3.14	CDS	ATP synthase F0, B subunit	3.6.3.14	atpF	
+-	507823	508131	309	ATP synthase C chain (EC 3.6.3.14)	peg	gi|108885074|ref|NC_000908.2|_508131_507823		ATP synthase F0 subcomplex C subunit	3.6.3.14	CDS	ATP synthase F0, C subunit	3.6.3.14	atpE	
+-	508134	509012	879	ATP synthase A chain (EC 3.6.3.14)	peg	gi|108885074|ref|NC_000908.2|_508262_508134		F0F1-type ATP synthase, subunit a	3.6.3.14	CDS	ATP synthase A chain family protein			
+-	508554	508778	225	ATP synthase A chain (EC 3.6.3.14)	peg	gi|108885074|ref|NC_000908.2|_508778_508554								
+-	509460	510836	1377				enolase (EC 4.2.1.11)	4.2.1.11	CDS	phosphopyruvate hydratase	4.2.1.11	eno	
++	509198	509470	273	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_509198_509470		hypothetical protein		CDS	hypothetical protein			
+-	509502	509876	375	Enolase (EC 4.2.1.11)	peg	gi|108885074|ref|NC_000908.2|_509876_509502								
+-	510093	510836	744	Enolase (EC 4.2.1.11)	peg	gi|108885074|ref|NC_000908.2|_510836_510093								
+-	511373	512050	678	Phosphate transport system regulatory protein PhoU	peg	gi|108885074|ref|NC_000908.2|_512050_511373		phosphate transport system regulatory protein PhoU		CDS	phosphate transport system regulatory protein PhoU		phoU	
++	510903	511376	474				methionine-S-sulfoxide reductase	1.8.4.11	CDS	peptide methionine sulfoxide reductase MsrA	1.8.4.11	msrA	
+-	512053	513042	990	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)	peg	gi|108885074|ref|NC_000908.2|_512397_512053		phosphate ABC transporter ATP-binding protein, PhoT family (TC 3.A.1.7.1)	3.6.3.27	CDS	phosphate ABC transporter, ATP-binding protein	3.6.3.27	pstB	
+-	512404	512559	156	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)	peg	gi|108885074|ref|NC_000908.2|_512559_512404								
+-	512770	513003	234	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)	peg	gi|108885074|ref|NC_000908.2|_513003_512770								
+-	513027	514991	1965	Phosphate transport system permease protein PstA (TC 3.A.1.7.1) / Phosphate transport system permease protein PstC (TC 3.A.1.7.1)	peg	gi|108885074|ref|NC_000908.2|_513656_513027		phosphate ABC transporter membrane protein 2, PhoT family (TC 3.A.1.7.1)		CDS	phosphate ABC transporter, permease protein PstC		pstC	
+-	513681	513857	177	Phosphate transport system permease protein PstA (TC 3.A.1.7.1) / Phosphate transport system permease protein PstC (TC 3.A.1.7.1)	peg	gi|108885074|ref|NC_000908.2|_513857_513681								
+-	514131	514781	651	Phosphate transport system permease protein PstA (TC 3.A.1.7.1) / Phosphate transport system permease protein PstC (TC 3.A.1.7.1)	peg	gi|108885074|ref|NC_000908.2|_514781_514131								
+-	514791	514991	201	Phosphate transport system permease protein PstA (TC 3.A.1.7.1) / Phosphate transport system permease protein PstC (TC 3.A.1.7.1)	peg	gi|108885074|ref|NC_000908.2|_514991_514791								
+-	514991	516124	1134				phosphate ABC transporter substrate-binding protein, PhoT family (TC 3.A.1.7.1)		CDS	PBP superfamily domain protein			
+-	515249	515635	387	Putative periplasmic phosphate-binding protein PstS (Mycoplasma type)	peg	gi|108885074|ref|NC_000908.2|_515635_515249								
+-	515819	516097	279	Putative periplasmic phosphate-binding protein PstS (Mycoplasma type)	peg	gi|108885074|ref|NC_000908.2|_516097_515819								
+-	516245	519355	3111				hypothetical protein		CDS	conserved hypothetical protein			
+-	516527	517270	744	FIG00834245: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_517270_516527								
+-	517376	518014	639	FIG00834245: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_518014_517376								
+-	518024	518317	294	FIG00834245: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_518317_518024								
+-	519104	519355	252	FIG00834245: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_519355_519104								
+-	519420	521414	1995				hypothetical protein		CDS	conserved hypothetical protein			
+-	519468	519977	510	FIG00834984: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_519977_519468								
+-	520140	520640	501	FIG00834984: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_520640_520140								
+-	520689	521333	645	FIG00834984: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_521333_520689								
+-	521470	521868	399	SSU ribosomal protein S9p (S16e)	peg	gi|108885074|ref|NC_000908.2|_521868_521470		SSU ribosomal protein S9P		CDS	30S ribosomal protein S9		rpsI	
+-	521874	522365	492				LSU ribosomal protein L13P		CDS	ribosomal protein L13		rplM	
+-	521880	522065	186	LSU ribosomal protein L13p (L13Ae)	peg	gi|108885074|ref|NC_000908.2|_522065_521880								
+-	522084	522314	231	LSU ribosomal protein L13p (L13Ae)	peg	gi|108885074|ref|NC_000908.2|_522314_522084								
+-	522352	524145	1794	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_522465_522352		DNA polymerase III, subunit gamma and tau	2.7.7.7	CDS	DNA polymerase III, subunit gamma and tau	2.7.7.7	dnaX	
+-	522811	523917	1107	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_523917_522811								
+-	523948	524145	198	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)	peg	gi|108885074|ref|NC_000908.2|_524145_523948								
+-	524151	527015	2865	Excinuclease ABC subunit A	peg	gi|108885074|ref|NC_000908.2|_525785_524151		Excinuclease ABC subunit A		CDS	excinuclease ABC subunit A	3.1.25.-	uvrA	
+-	526029	526547	519	Excinuclease ABC subunit A	peg	gi|108885074|ref|NC_000908.2|_526547_526029								
+-	526987	529494	2508	FIG00835084: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_527250_526987		hypothetical protein		CDS	conserved hypothetical protein			
+-	527251	527520	270	FIG00835084: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_527520_527251								
++	527648	527902	255	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_527648_527902								
+-	527971	528279	309	FIG00835084: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_528279_527971								
+-	528358	528510	153	FIG00835084: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_528510_528358								
+-	528604	529041	438	FIG00835084: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_529041_528604								
+-	529087	529278	192	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_529278_529087								
+-	529330	529494	165	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_529494_529330								
+-	529532	531217	1686	Ribonuclease J2 (endoribonuclease in RNA processing)	peg	gi|108885074|ref|NC_000908.2|_530977_529532		conserved hypothetical protein		CDS	conserved hypothetical family protein			
+-	531056	531217	162	Ribonuclease J2 (endoribonuclease in RNA processing)	peg	gi|108885074|ref|NC_000908.2|_531217_531056								
+-	531220	531480	261	SSU ribosomal protein S15p (S13e)	peg	gi|108885074|ref|NC_000908.2|_531480_531220		SSU ribosomal protein S15P		CDS	ribosomal protein S15		rpsO	
++	531669	532007	339	ATP-dependent RNA helicase DeaD	peg	gi|108885074|ref|NC_000908.2|_531669_532007								
++	532056	533003	948	ATP-dependent RNA helicase DeaD	peg	gi|108885074|ref|NC_000908.2|_532056_533003								
++	531669	533018	1350				ATP-dependent RNA helicase DbpA (EC 5.99.1.-)	3.6.4.13	CDS	conserved hypothetical protein			
++	533041	533235	195	LSU ribosomal protein L28p	peg	gi|108885074|ref|NC_000908.2|_533041_533235		LSU ribosomal protein L28P		CDS	ribosomal protein L28		rpmB	
++	533271	533561	291	osmotical inducible protein C like family; inducable by osmotic stress and by organic hydroperoxides	peg	gi|108885074|ref|NC_000908.2|_533271_533561								
++	533271	533696	426				Predicted redox protein, regulator of disulfide bond formation		CDS	conserved hypothetical protein			
+-	534319	536037	1719	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	peg	gi|108885074|ref|NC_000908.2|_534549_534319		phosphoenolpyruvate--protein phosphotransferase (EC 2.7.3.9)	2.7.3.9	CDS	phosphoenolpyruvate-protein phosphotransferase	2.7.3.9	ptsI	
++	533807	534322	516	FIG00835707: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_534026_534322		Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain		CDS	RNA polymerase sigma factor, sigma-70 family protein			
+-	534556	535053	498	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	peg	gi|108885074|ref|NC_000908.2|_535053_534556								
+-	535114	535302	189	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	peg	gi|108885074|ref|NC_000908.2|_535302_535114								
+-	535318	536037	720	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	peg	gi|108885074|ref|NC_000908.2|_536037_535318								
+-	536041	537564	1524	"2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1)"	peg	gi|108885074|ref|NC_000908.2|_537564_536041		phosphoglycerate mutase (EC 5.4.2.1)	5.4.2.1	CDS	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	5.4.2.1	gpmI	
+-	537557	538291	735				triosephosphate isomerase (EC 5.3.1.1)	5.3.1.1	CDS	triose-phosphate isomerase	5.3.1.1	tpiA	
+-	537803	538315	513	Triosephosphate isomerase (EC 5.3.1.1)	peg	gi|108885074|ref|NC_000908.2|_538315_537803								
+-	538351	539547	1197	ABC TRANSPORTER PERMEASE PROTEIN	peg	gi|108885074|ref|NC_000908.2|_538563_538351		Uncharacterized conserved protein		CDS	conserved hypothetical protein			
+-	538576	538851	276	ABC TRANSPORTER PERMEASE PROTEIN	peg	gi|108885074|ref|NC_000908.2|_538851_538576								
+-	539023	539355	333	ABC TRANSPORTER PERMEASE PROTEIN	peg	gi|108885074|ref|NC_000908.2|_539355_539023								
++	539846	540238	393	Translation elongation factor Ts	peg	gi|108885074|ref|NC_000908.2|_539846_540238								
++	539633	540529	897				translation elongation factor Ts (EF-Ts)		CDS	translation elongation factor Ts		tsf	
++	540510	541241	732	Uridylate kinase (EC 2.7.4.-)	peg	gi|108885074|ref|NC_000908.2|_540510_541241		uridylate kinase (EC 2.7.4.22)	2.7.4.22	CDS	UMP kinase	2.7.4.22	pyrH	
+-	541789	542094	306	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_542094_541789								
++	541241	541792	552	Ribosome recycling factor	peg	gi|108885074|ref|NC_000908.2|_541364_541792		ribosome recycling factor		CDS	ribosome recycling factor		frr	
+-	542365	542523	159	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_542523_542365								
++	541793	542986	1194				phosphatidate cytidylyltransferase (EC 2.7.7.41)	2.7.7.41	CDS	cytidylyltransferase family protein			
++	543066	543581	516	specificity determining subunit for restriction enzyme belonging to the K family of S proteins	peg	gi|108885074|ref|NC_000908.2|_543066_543581								
++	543006	544157	1152	specificity determining subunit for restriction enzyme belonging to the K family of S proteins	peg	gi|108885074|ref|NC_000908.2|_543606_544157		Restriction endonuclease S subunits		CDS	putative type-1 restriction enzyme specificity protein MG438			
+-	544562	545380	819	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_544915_544562		Lipoprotein.		CDS	conserved hypothetical protein			
+-	545171	545380	210	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_545380_545171								
+-	545380	546156	777	FIG00837396: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_545952_545380		Lipoprotein.		CDS	lipofamily protein			
+-	545962	546156	195	FIG00837396: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_546156_545962								
+-	546299	546709	411				hypothetical protein		CDS	conserved hypothetical protein			
+-	546515	546709	195	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_546709_546515								
+-	546880	547692	813	50S ribosomal subunit maturation GTPase RbgA (B. subtilis YlqF)	peg	gi|108885074|ref|NC_000908.2|_547647_546880		Ras superfamily GTP-binding protein YlqF		CDS	ribosome biogenesis GTP-binding protein YlqF		ylqF	
+-	547664	548851	1188	FIG00834150: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_548059_547664		Uncharacterized conserved protein		CDS	conserved hypothetical protein			
+-	548354	548860	507	FIG00834150: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_548860_548354								
+-	548867	549226	360	LSU ribosomal protein L19p	peg	gi|108885074|ref|NC_000908.2|_549226_548867		LSU ribosomal protein L19P		CDS	ribosomal protein L19		rplS	
+-	549210	549905	696	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)	peg	gi|108885074|ref|NC_000908.2|_549752_549210		tRNA (Guanine37-N(1)-) methyltransferase (EC 2.1.1.31)		CDS	tRNA (guanine(37)-N(1))-methyltransferase		trmD	
+-	549905	550174	270				SSU ribosomal protein S16P		CDS	ribosomal protein S16		rpsP	
+-	550803	552446	1644	Na+ driven multidrug efflux pump	peg	gi|108885074|ref|NC_000908.2|_550940_550803		Na+-driven multidrug efflux pump		CDS	matE family protein			
+-	551040	551942	903	Na+ driven multidrug efflux pump	peg	gi|108885074|ref|NC_000908.2|_551942_551040								
+-	552018	552446	429	Na+ driven multidrug efflux pump	peg	gi|108885074|ref|NC_000908.2|_552446_552018								
+-	552447	552899	453	Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)	peg	gi|108885074|ref|NC_000908.2|_552632_552447		Conserved domain frequently associated with peptide methionine sulfoxide reductase	1.8.4.12	CDS	methionine-R-sulfoxide reductase	1.8.4.-	msrB	
+-	552696	552899	204	Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)	peg	gi|108885074|ref|NC_000908.2|_552899_552696								
+-	552863	553297	435				EMAP domain		CDS	conserved hypothetical protein			
+-	552896	553297	402	Phenylalanyl-tRNA synthetase domain protein (Bsu YtpR)	peg	gi|108885074|ref|NC_000908.2|_553297_552896								
+-	553318	553548	231				hypothetical protein		CDS	conserved hypothetical protein			
+-	553558	554430	873	FIG00836367: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_553827_553558		EDD domain protein, DegV family		CDS	EDD, DegV family domain protein			
+-	554122	554430	309	FIG00836367: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_554430_554122								
+-	554430	555614	1185	Translation elongation factor Tu	peg	gi|108885074|ref|NC_000908.2|_555614_554430		translation elongation factor 1A (EF-1A/EF-Tu)		CDS	translation elongation factor Tu		tuf	
++	555934	556311	378	FIG00834157: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_555934_556311								
++	555667	556452	786				Protein of unknown function (DUF1600).		CDS	conserved hypothetical protein			
+-	557305	557727	423	Organic hydroperoxide resistance protein	peg	gi|108885074|ref|NC_000908.2|_557727_557305		peroxiredoxin, Ohr subfamily		CDS	peroxiredoxin, Ohr subfamily protein			
++	556437	557315	879	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	peg	gi|108885074|ref|NC_000908.2|_556437_557315		UDP-glucose pyrophosphorylase (EC 2.7.7.9)	2.7.7.9	CDS	UTP-glucose-1-phosphate uridylyltransferase	2.7.7.9	galU	
++	557774	558124	351	Tyrosyl-tRNA synthetase (EC 6.1.1.1)	peg	gi|108885074|ref|NC_000908.2|_557774_558124								
++	558254	558463	210	Tyrosyl-tRNA synthetase (EC 6.1.1.1)	peg	gi|108885074|ref|NC_000908.2|_558254_558463								
++	558557	558880	324	Tyrosyl-tRNA synthetase (EC 6.1.1.1)	peg	gi|108885074|ref|NC_000908.2|_558557_558880								
+-	558939	559943	1005	FIG00835554: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_559655_558939		hypothetical protein		CDS	conserved hypothetical protein			
++	557759	558949	1191				tyrosyl-tRNA synthetase (EC 6.1.1.1)	6.1.1.1	CDS	tyrosine--tRNA ligase	6.1.1.1	tyrS	
+-	559665	559943	279	FIG00835554: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_559943_559665								
+-	559931	560512	582	FIG00835097: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_560050_559931		hypothetical protein		CDS	conserved hypothetical protein			
+-	560291	560512	222	FIG00835097: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_560512_560291								
+-	560496	562604	2109	Cell division protein FtsH (EC 3.4.24.-)	peg	gi|108885074|ref|NC_000908.2|_561923_560496		membrane protease FtsH catalytic subunit (EC 3.4.24.-)	3.4.24.-	CDS	ATP-dependent zinc metalloprotease FtsH domain protein	3.4.24.-	ftsH	
+-	562014	562172	159	Cell division protein FtsH (EC 3.4.24.-)	peg	gi|108885074|ref|NC_000908.2|_562172_562014								
+-	562605	562763	159	FIG00835472: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_562763_562605		hypothetical protein		CDS	conserved hypothetical protein			
+-	562782	563309	528	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	peg	gi|108885074|ref|NC_000908.2|_563309_562782		hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)	2.4.2.8	CDS	hypoxanthine phosphoribosyltransferase	2.4.2.8	hpt	
+-	563311	563820	510				2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	4.6.1.12	CDS	ygbB family protein			
+-	563512	563820	309	"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)"	peg	gi|108885074|ref|NC_000908.2|_563820_563512								
+-	564928	566205	1278				HD superfamily phosphohydrolases		CDS	conserved hypothetical protein			
++	563993	564931	939	L-lactate dehydrogenase (EC 1.1.1.27)	peg	gi|108885074|ref|NC_000908.2|_563993_564931		malate dehydrogenase (NAD) (EC 1.1.1.37)	1.1.1.27	CDS	L-lactate dehydrogenase	1.1.1.27		
+-	565075	565344	270	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_565344_565075								
+-	565447	566205	759	"dNTP triphosphohydrolase, putative"	peg	gi|108885074|ref|NC_000908.2|_566205_565447								
+-	566186	567640	1455	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)	peg	gi|108885074|ref|NC_000908.2|_566344_566186		glutamyl-tRNA synthetase (EC 6.1.1.17)	6.1.1.17	CDS	glutamate--tRNA ligase	6.1.1.17	gltX	
+-	566387	566608	222	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)	peg	gi|108885074|ref|NC_000908.2|_566608_566387								
+-	566783	567025	243	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)	peg	gi|108885074|ref|NC_000908.2|_567025_566783								
+-	567143	567640	498	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)	peg	gi|108885074|ref|NC_000908.2|_567640_567143								
+-	567627	568406	780	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)	peg	gi|108885074|ref|NC_000908.2|_568406_567627		dimethyladenosine transferase (EC 2.1.1.-)	2.1.1.182	CDS	dimethyladenosine transferase	2.1.1.-	ksgA	
+-	568399	569556	1158	"Inner membrane protein translocase component YidC, long form"	peg	gi|108885074|ref|NC_000908.2|_568713_568399		Preprotein translocase subunit YidC		CDS	membrane insertase, YidC/Oxa1 family domain protein		yidC	
+-	568732	569160	429	"Inner membrane protein translocase component YidC, long form"	peg	gi|108885074|ref|NC_000908.2|_569160_568732								
+-	569528	569893	366				ribonuclease P protein component, eubacterial	3.1.26.5	CDS	ribonuclease P protein component	3.1.26.5	rnpA	
+-	570055	570990	936	"ABC transporter, ATP-binding protein"	peg	gi|108885074|ref|NC_000908.2|_570372_570055		ABC-type antimicrobial peptide transport system, ATPase component		CDS	ABC transporter family protein			
+-	570994	576345	5352				ABC-type antimicrobial peptide transport system, permease component		CDS	conserved hypothetical protein			
+-	571033	571386	354	FIG00835159: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_571386_571033								
+-	571522	573243	1722	FIG00835159: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_573243_571522								
+-	573259	574032	774	FIG00835159: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_574032_573259								
+-	574042	574212	171	FIG00835159: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_574212_574042								
+-	574855	575058	204	FIG00835159: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_575058_574855								
++	575081	575341	261	hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_575081_575341								
+-	575470	576345	876	FIG00835159: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_576345_575470								
+-	576351	577205	855				ABC-type antimicrobial peptide transport system, ATPase component		CDS	ABC transporter family protein			
+-	576357	577205	849	"ABC transporter, ATP-binding protein"	peg	gi|108885074|ref|NC_000908.2|_577205_576357								
+-	577268	578581	1314	Chromosomal replication initiator protein DnaA	peg	gi|108885074|ref|NC_000908.2|_578581_577268		chromosomal replication initiator protein DnaA		CDS	chromosomal replication initiator protein DnaA		dnaA	
+-	578581	579234	654				hypothetical protein		CDS	conserved hypothetical protein			
+-	578989	579234	246	FIG00835492: hypothetical protein	peg	gi|108885074|ref|NC_000908.2|_579234_578989								
+-	579224	580033	810	ParA/Soj	peg	gi|108885074|ref|NC_000908.2|_580033_579224		ATPases involved in chromosome partitioning		CDS	cobQ/CobB/MinD/ParA nucleotide binding domain protein			

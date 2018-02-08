@@ -1,0 +1,1093 @@
+DNA polymerase III, beta subunit	2.7.7.7	dnaN	DNA polymerase III, beta subunit (EC 2.7.7.7)	2.7.7.7	CDS	DNA polymerase III beta subunit	2.7.7.7		base_tigr	base_ec	base_ec	
+						dnaJ-like protein			base_both miss	base_one miss	base_one miss	
+dnaJ domain protein			DnaJ-class molecular chaperone with C-terminal Zn finger domain		CDS	dnaJ-like protein			gs-sh	gs-sh	gs-sh	
+						DNA gyrase subunit B	5.99.1.3		base_both miss	base_one miss	base_one miss	
+						DNA gyrase subunit B	5.99.1.3		base_both miss	base_one miss	base_one miss	
+						DNA gyrase subunit B	5.99.1.3		base_both miss	base_one miss	base_one miss	
+DNA gyrase, B subunit	5.99.1.3	gyrB	DNA gyrase subunit B (EC 5.99.1.3)	5.99.1.3	CDS	DNA gyrase subunit B	5.99.1.3		base_tigr	base_ec	base_ec	
+DNA gyrase, A subunit	5.99.1.3	gyrA	DNA gyrase subunit A (EC 5.99.1.3)	5.99.1.3	CDS	DNA gyrase subunit A	5.99.1.3		base_tigr	base_ec	base_ec	
+						Seryl-tRNA synthetase	6.1.1.11		base_both miss	base_one miss	base_one miss	
+						Seryl-tRNA synthetase	6.1.1.11		base_both miss	base_one miss	base_one miss	
+serine--tRNA ligase	6.1.1.11	serS	seryl-tRNA synthetase (EC 6.1.1.11)	6.1.1.11	CDS	Seryl-tRNA synthetase	6.1.1.11		base_tigr	base_ec	base_ec	
+thymidylate kinase	2.7.4.9	tmk	thymidylate kinase (EC 2.7.4.9)	2.7.4.9	CDS	Thymidylate kinase	2.7.4.9		base_tigr	base_ec	base_ec	
+						DNA polymerase III delta prime subunit	2.7.7.7		base_both miss	base_one miss	base_one miss	
+						DNA polymerase III delta prime subunit	2.7.7.7		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			DNA polymerase III, gamma/tau subunits	2.7.7.7	CDS				base_one HP	base_one HP	base_one miss	
+						GTPase and tRNA-U34 5-formylation enzyme TrmE			base_both miss	base_one miss	base_one miss	
+tRNA modification GTPase TrmE	3.6.-.-	trmE	tRNA modification GTPase trmE	3.6.-	CDS				lit-s	base_one miss	base_one miss	
+						Putative deoxyribonuclease YcfH			base_both miss	base_one miss	base_one miss	
+hydrolase, TatD family protein			hydrolase, TatD family	3.1.21.-	CDS				base_tigr	base_one miss	base_one miss	
+						DNA primase	2.7.7.-		base_both miss	base_one miss	base_one miss	
+ATP-grasp domain protein			RimK-like ATP-grasp domain.		CDS				0	base_one miss	base_one miss	
+conserved hypothetical protein			DNA primase-related protein	2.7.7.-	CDS				base_one HP	base_one HP	base_one miss	
+						FIG00834660: hypothetical protein			base_both miss	base_one miss	base_one miss	
+alpha-L-glutamate ligases, RimK family protein			SSU ribosomal protein S6P modification protein		CDS	Ribosomal protein S6 glutaminyl transferase			base_tigr	0	0	
+						Ribosomal protein S6 glutaminyl transferase			base_both miss	base_one miss	base_one miss	
+tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain protein			5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	1.5.1.5, 3.5.4.9	CDS				0	base_one miss	base_one miss	
+						Methylenetetrahydrofolate dehydrogenase (NADP+) / Methenyltetrahydrofolate cyclohydrolase	1.5.1.5, 3.5.4.9		base_both miss	base_one miss	base_one miss	
+						transport ATP-binding protein			base_both miss	base_one miss	base_one miss	
+						transport ATP-binding protein			base_both miss	base_one miss	base_one miss	
+ABC transporter family protein			ABC-type multidrug transport system, ATPase and permease components		CDS	transport ATP-binding protein			0	0	0	
+						Lipid A export ATP-binding/permease protein MsbA	3.6.3.25		base_both miss	base_one miss	base_one miss	
+						Lipid A export ATP-binding/permease protein MsbA	3.6.3.25		base_both miss	base_one miss	base_one miss	
+ABC transporter family protein			ABC-type multidrug transport system, ATPase and permease components		CDS	Lipid A export ATP-binding/permease protein MsbA	3.6.3.25		0	0	0	
+						SWF/SNF family helicase			base_both miss	base_one miss	base_one miss	
+						SWF/SNF family helicase			base_both miss	base_one miss	base_one miss	
+						SWF/SNF family helicase			base_both miss	base_one miss	base_one miss	
+						SWF/SNF family helicase			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Superfamily II DNA/RNA helicases, SNF2 family		CDS				base_one HP	base_one HP	base_one miss	
+chaperone protein DnaJ		dnaJ	chaperone protein DnaJ		CDS	Chaperone protein DnaJ			base_lit-s	lit-s	lit-s	
+						Proline iminopeptidase	3.4.11.5		base_both miss	base_one miss	base_one miss	
+						Proline iminopeptidase	3.4.11.5		base_both miss	base_one miss	base_one miss	
+prolyl aminopeptidase	3.4.11.5	pip	prolyl aminopeptidase (EC:3.4.11.5). Serine peptidase. MEROPS family S33	3.4.11.5	CDS	Proline iminopeptidase	3.4.11.5		base_tigr	base_ec	base_ec	
+						Methionyl-tRNA synthetase	6.1.1.10		base_both miss	base_one miss	base_one miss	
+						Methionyl-tRNA synthetase	6.1.1.10		base_both miss	base_one miss	base_one miss	
+methionyl-tRNA synthetase	6.1.1.10	metG	methionyl-tRNA synthetase (EC 6.1.1.10)	6.1.1.10	CDS	Methionyl-tRNA synthetase	6.1.1.10		base_ec	base_ec	base_ec	
+DNA-directed RNA polymerase delta subunit			DNA-directed RNA polymerase, delta subunit		CDS	DNA-directed RNA polymerase delta subunit	2.7.7.6		lit-s	base_lit-s	lit-s	
+						Fructose-bisphosphate aldolase class II	4.1.2.13		base_both miss	base_one miss	base_one miss	
+fructose-1,6-bisphosphate aldolase, class II	4.1.2.13	fba	fructose-bisphosphate aldolase (EC 4.1.2.13)	4.1.2.13	CDS	Fructose-bisphosphate aldolase class II	4.1.2.13		base_ec	base_ec	base_ec	
+						GTP-binding and nucleic acid-binding protein YchF			base_both miss	base_one miss	base_one miss	
+50S ribosome-binding GTPase family protein			GTP-binding protein YchF		CDS	GTP-binding and nucleic acid-binding protein YchF			0	0	gs-sh	
+						sugar transferase			base_both miss	base_one miss	base_one miss	
+glycosyl transferase 2 family protein			Glycosyltransferases involved in cell wall biogenesis		CDS				0	base_one miss	base_one miss	
+translation elongation factor P		efp	translation elongation factor P (EF-P)		CDS	Translation elongation factor P			base_tigr	lit-s	tf_idf	
+						FIG00834682: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Transcription termination factor		CDS	FIG00834682: hypothetical protein			base_one HP	base_one HP	0	
+						FIG00834840: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Putative intracellular protease/amidase		CDS	hypothetical protein			base_one HP	lit-s	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834840: hypothetical protein			lit-s	base_one HP	base_one HP	
+uracil phosphoribosyltransferase	2.4.2.9	upp	uracil phosphoribosyltransferase (EC 2.4.2.9)	2.4.2.9	CDS	Uracil phosphoribosyltransferase	2.4.2.9		base_tigr	base_ec	base_ec	
+DNA polymerase III, alpha subunit, Gram-positive type	2.7.7.7	polC	DNA polymerase III catalytic subunit, PolC type	2.7.7.7	CDS	DNA polymerase III polC-type	2.7.7.7		base_ec	base_ec	base_ec	
+						DNA polymerase III polC-type	2.7.7.7		base_both miss	base_one miss	base_one miss	
+						DNA polymerase III polC-type	2.7.7.7		base_both miss	base_one miss	base_one miss	
+						DNA polymerase III polC-type	2.7.7.7		base_both miss	base_one miss	base_one miss	
+						DNA polymerase III polC-type	2.7.7.7		base_both miss	base_one miss	base_one miss	
+						DNA polymerase III polC-type	2.7.7.7		base_both miss	base_one miss	base_one miss	
+						DNA polymerase III polC-type	2.7.7.7		base_both miss	base_one miss	base_one miss	
+						"DNA polymerase III, alpha subunit, Gram-positive type( EC:2.7.7.7 )"			base_both miss	base_one miss	base_one miss	
+						"DNA polymerase III, alpha subunit, Gram-positive type( EC:2.7.7.7 )"			base_both miss	base_one miss	base_one miss	
+						membrane export protein family			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Membrane protein involved in colicin uptake		CDS	membrane export protein family			base_one HP	base_one HP	0	
+						Glycerol uptake facilitator protein			base_both miss	base_one miss	base_one miss	
+thymidine kinase	2.7.1.21	tdk	thymidine kinase (EC 2.7.1.21)	2.7.1.21	CDS				base_ec	base_one miss	base_one miss	
+major intrinsic family protein			Glycerol uptake facilitator and related permeases (Major Intrinsic Protein Family)		CDS				0	base_one miss	base_one miss	
+						Histidyl-tRNA synthetase	6.1.1.21		base_both miss	base_one miss	base_one miss	
+						Histidyl-tRNA synthetase	6.1.1.21		base_both miss	base_one miss	base_one miss	
+histidine--tRNA ligase	6.1.1.21	hisS	histidyl-tRNA synthetase (EC 6.1.1.21)	6.1.1.21	CDS				base_tigr	base_one miss	base_one miss	
+						Aspartyl-tRNA synthetase	6.1.1.12		base_both miss	base_one miss	base_one miss	
+						Aspartyl-tRNA synthetase	6.1.1.12		base_both miss	base_one miss	base_one miss	
+aspartate--tRNA ligase	6.1.1.-	aspS	aspartyl-tRNA synthetase (EC 6.1.1.12)	6.1.1.12	CDS				base_tigr	base_one miss	base_one miss	
+						Nicotinamide phosphoribosyltransferase	2.4.2.12		base_both miss	base_one miss	base_one miss	
+						Nicotinamide phosphoribosyltransferase	2.4.2.12		base_both miss	base_one miss	base_one miss	
+glycerol kinase	2.7.1.30	glpK	glycerol kinase (EC 2.7.1.30)	2.7.1.30	CDS				base_tigr	base_one miss	base_one miss	
+nicotinate phosphoribosyltransferase family protein			Nicotinic acid phosphoribosyltransferase		CDS	Nicotinamide phosphoribosyltransferase	2.4.2.12		0	0	0	
+						Glycerol kinase	2.7.1.30		base_both miss	base_one miss	base_one miss	
+						Glycerol kinase	2.7.1.30		base_both miss	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+conserved hypothetical protein			glycerol 3-phosphate oxidase	1.1.5.3,1.1.3.21	CDS				base_one HP	base_one HP	base_one miss	
+						Glycerol-3-phosphate dehydrogenase	1.1.5.3		base_both miss	base_one miss	base_one miss	
+						Glycerol-3-phosphate dehydrogenase	1.1.5.3		base_both miss	base_one miss	base_one miss	
+						"COG1744: Uncharacterized ABC-type transport system, periplasmic component/surface lipoprotein"			base_both miss	base_one miss	base_one miss	
+						"COG1744: Uncharacterized ABC-type transport system, periplasmic component/surface lipoprotein"			base_both miss	base_one miss	base_one miss	
+						"COG1744: Uncharacterized ABC-type transport system, periplasmic component/surface lipoprotein"			base_both miss	base_one miss	base_one miss	
+basic membrane family protein			nucleoside-binding protein		CDS				0	base_one miss	base_one miss	
+phosphocarrier protein HPr	2.7.11.-	ptsH	Phosphotransferase System HPr (HPr) Family		CDS	"Phosphotransferase system, phosphocarrier protein HPr"			gs-sh	tf_idf	map	
+						Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)			base_both miss	base_one miss	base_one miss	
+						Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)			base_both miss	base_one miss	base_one miss	
+						Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)			base_both miss	base_one miss	base_one miss	
+ABC transporter family protein			ABC-type spermidine/putrescine transport systems, ATPase components	3.6.3.31	CDS				0	base_one miss	base_one miss	
+						Spermidine Putrescine ABC transporter permease component PotB (TC 3.A.1.11.1)			base_both miss	base_one miss	base_one miss	
+binding--dependent transport system inner membrane component family protein			ABC-type spermidine/putrescine transport system, permease component I		CDS				0	base_one miss	base_one miss	
+						Spermidine Putrescine ABC transporter permease component potC (TC_3.A.1.11.1)			base_both miss	base_one miss	base_one miss	
+						Spermidine Putrescine ABC transporter permease component potC (TC_3.A.1.11.1)			base_both miss	base_one miss	base_one miss	
+binding--dependent transport system inner membrane component family protein			ABC-type spermidine/putrescine transport system, permease component II		CDS				0	base_one miss	base_one miss	
+						Probable spermidine/putrescine substrate binding protein in Mollicutes			base_both miss	base_one miss	base_one miss	
+						Probable spermidine/putrescine substrate binding protein in Mollicutes			base_both miss	base_one miss	base_one miss	
+hypothetical lipo family protein			Spermidine/putrescine-binding periplasmic protein		CDS				0	base_one miss	base_one miss	
+						"TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA"			base_both miss	base_one miss	base_one miss	
+putative tRNA threonylcarbamoyladenosine biosynthesis protein Gcp			O-sialoglycoprotein endopeptidase (EC 3.4.24.57)	3.4.24.57	CDS	o-sialoglycoprotein endopeptidase			gs-sh	map	lit-s	
+						S-adenosylmethionine synthetase	2.5.1.6		base_both miss	base_one miss	base_one miss	
+						S-adenosylmethionine synthetase	2.5.1.6		base_both miss	base_one miss	base_one miss	
+methionine adenosyltransferase	2.5.1.6	metK	methionine adenosyltransferase (EC 2.5.1.6)	2.5.1.6	CDS				base_tigr	base_one miss	base_one miss	
+signal recognition particle protein		ffh	signal recognition particle subunit FFH/SRP54 (srp54)		CDS				base_tigr	base_one miss	base_one miss	
+hypothetical protein			hypothetical protein		CDS	hypothetical protein			base_lit-s	base_lit-s	base_lit-s	
+						"Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)"			base_both miss	base_one miss	base_one miss	
+						"Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)"			base_both miss	base_one miss	base_one miss	
+						Purine nucleoside phosphorylase	2.4.2.1		base_both miss	base_one miss	base_one miss	
+purine nucleoside phosphorylase	2.4.2.1	deoD	purine-nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1	CDS	Purine nucleoside phosphorylase	2.4.2.1		base_tigr	base_ec	base_ec	
+deoxyribose-phosphate aldolase	4.1.2.4	deoC	deoxyribose-phosphate aldolase	4.1.2.4	CDS	Deoxyribose-phosphate aldolase	4.1.2.4		base_lit-s	base_ec	base_ec	
+						Thymidine phosphorylase	2.4.2.4		base_both miss	base_one miss	base_one miss	
+thymidine phosphorylase	2.4.2.4	deoA	thymidine phosphorylase (EC 2.4.2.4)	2.4.2.4	CDS	Thymidine phosphorylase	2.4.2.4		base_ec	base_ec	base_ec	
+cytidine deaminase	3.5.4.5	cdd	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	CDS	Cytidine deaminase	3.5.4.5		base_tigr	base_ec	base_ec	
+						"D-Ribose 1,5-phosphomutase"	5.4.2.7		base_both miss	base_one miss	base_one miss	
+						"D-Ribose 1,5-phosphomutase"	5.4.2.7		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			NusG family protein		CDS	Transcription antitermination protein NusG			base_one HP	base_one HP	pfam-sh	
+phosphoglucomutase/phosphomannomutase, C-terminal domain protein			Phosphomannomutase	5.4.2.8	CDS	"D-Ribose 1,5-phosphomutase"	5.4.2.7		0	0	base_ec-d	
+						Transcription antitermination protein NusG			base_both miss	base_one miss	base_one miss	
+preprotein translocase, SecE subunit		secE	preprotein translocase, SecE subunit, bacterial		CDS				base_tigr	base_one miss	base_one miss	
+						Preprotein translocase subunit SecE (TC 3.A.5.1.1)			base_both miss	base_one miss	base_one miss	
+cell fusion glycoK family protein			Cell fusion glycoprotein K.		CDS				0	base_one miss	base_one miss	
+						FIG00834433: hypothetical protein			base_both miss	base_one miss	base_one miss	
+tetrapyrrole (Corrin/Porphyrin) Methylases family protein			probable S-adenosylmethionine-dependent methyltransferase, YraL family	2.1.1.198	CDS				0	base_one miss	base_one miss	
+						rRNA small subunit methyltransferase I			base_both miss	base_one miss	base_one miss	
+ribonuclease M5	3.1.26.8	rnmV	RNAse M5 (EC 3.1.26.8)	3.1.26.8	CDS				base_tigr	base_one miss	base_one miss	
+						Ribonuclease M5	3.1.26.8		base_both miss	base_one miss	base_one miss	
+ribose-phosphate pyrophosphokinase	2.7.6.1	prs	ribose-phosphate pyrophosphokinase	2.7.6.1	CDS	Ribose-phosphate pyrophosphokinase	2.7.6.1		base_lit-s	base_ec	base_ec	
+ssrA-binding protein		smpB	SsrA-binding protein		CDS				base_tigr	base_one miss	base_one miss	
+						tmRNA-binding protein SmpB			base_both miss	base_one miss	base_one miss	
+						COG0463: Glycosyltransferases involved in cell wall biogenesis			base_both miss	base_one miss	base_one miss	
+						COG0463: Glycosyltransferases involved in cell wall biogenesis			base_both miss	base_one miss	base_one miss	
+mycoplasma MFS transporter family protein			Mycoplasma MFS transporter.		CDS				lit-s	base_one miss	base_one miss	
+conserved hypothetical protein			Glycosyltransferases involved in cell wall biogenesis		CDS				base_one HP	base_one HP	base_one miss	
+						Uncharacterized protein MG061			base_both miss	base_one miss	base_one miss	
+						Uncharacterized protein MG061			base_both miss	base_one miss	base_one miss	
+						Uncharacterized protein MG061			base_both miss	base_one miss	base_one miss	
+						"PTS system, fructose-specific IIA component / PTS system, fructose-specific IIB component / PTS system, fructose-specific IIC component"	2.7.1.69, 2.7.1.69, 2.7.1.69		base_both miss	base_one miss	base_one miss	
+PTS system, fructose subfamily, IIA component domain protein	2.7.1.69	fruA	PTS system D-fructose-specific IIA component (F6P-forming), Fru family (TC 4.A.2.1.7)/PTS system D-fructose-specific IIB component (F6P-forming), Fru family (TC 4.A.2.1.7)/PTS system D-fructose-specific IIC component (F6P-forming), Fru family (TC 4.A.2.1.7)		CDS	"PTS system, fructose-specific IIA component / PTS system, fructose-specific IIB component / PTS system, fructose-specific IIC component"	2.7.1.69, 2.7.1.69, 2.7.1.69		gs-sh	base_ec-d	0	
+putative 1-phosphofructokinase			Fructose-1-phosphate kinase and related fructose-6-phosphate kinase (PfkB)	2.7.1.56	CDS	Tagatose-6-phosphate kinase / 1-phosphofructokinase	2.7.1.144, 2.7.1.56		0	tf_idf	base_ec-d	
+hypothetical protein			hypothetical protein		CDS	hypothetical protein			base_lit-s	base_lit-s	base_lit-s	
+						FIG00836948: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836948: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836948: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836948: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836948: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836948: hypothetical protein			base_both miss	base_one miss	base_one miss	
+ftsX-like permease family protein			ABC-type transport system, involved in lipoprotein release, permease component		CDS				gs-sh	base_one miss	base_one miss	
+						glutamine transport ATP-binding protein			base_both miss	base_one miss	base_one miss	
+						glutamine transport ATP-binding protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			ABC-type antimicrobial peptide transport system, ATPase component		CDS				base_one HP	base_one HP	base_one miss	
+						Transketolase	2.2.1.1		base_both miss	base_one miss	base_one miss	
+transketolase	2.2.1.1	tkt	transketolase (EC 2.2.1.1)	2.2.1.1	CDS	Transketolase	2.2.1.1		base_tigr	base_ec	base_ec	
+						"lipoprotein, putative"			base_both miss	base_one miss	base_one miss	
+						"lipoprotein, putative"			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Putative peptidase (DUF31).		CDS				base_one HP	base_one HP	base_one miss	
+conserved hypothetical protein			Putative peptidase (DUF31).		CDS	"lipoprotein, putative"			base_one HP	base_one HP	0	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+hypothetical protein			hypothetical protein		CDS				base_lit-s	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						COG2855: Predicted membrane protein			base_both miss	base_one miss	base_one miss	
+putative membrane protein			hypothetical protein		CDS	FIG00835189: hypothetical protein			base_one HP	0	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+putative adhesin-like protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+						MgPa adhesin			base_both miss	base_one miss	base_one miss	
+mycoplasma adhesin P1 family protein			Mycoplasma adhesin P1.		CDS				lit-s	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+mgp-operon 3 domain protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+						"PTS system, glucose-specific IIABC component (ptsG)"			base_both miss	base_one miss	base_one miss	
+						"PTS system, glucose-specific IIABC component (ptsG)"			base_both miss	base_one miss	base_one miss	
+						"PTS system, glucose-specific IIABC component (ptsG)"			base_both miss	base_one miss	base_one miss	
+PTS system, glucose subfamily, IIA component domain protein		ptbA	PTS system D-glucose-specific IIA component, Glc family (TC 4.A.1.1.9)/PTS system D-glucose-specific IIB component, Glc family (TC 4.A.1.1.9)/PTS system D-glucose-specific IIC component, Glc family (TC 4.A.1.1.9)		CDS	"PTS system, glucose-specific IIABC component (ptsG)"			gs-sh	gs-sh	gs-sh	
+						SSU ribosomal protein S2p (SAe)			base_both miss	base_one miss	base_one miss	
+ribosomal protein S2		rpsB	SSU ribosomal protein S2P		CDS	SSU ribosomal protein S2p (SAe)			base_tigr	0	0	
+						"Cation-transporting ATPase, E1-E2 family"			base_both miss	base_one miss	base_one miss	
+						"Cation-transporting ATPase, E1-E2 family"			base_both miss	base_one miss	base_one miss	
+						"Cation-transporting ATPase, E1-E2 family"			base_both miss	base_one miss	base_one miss	
+						"Cation-transporting ATPase, E1-E2 family"			base_both miss	base_one miss	base_one miss	
+						"Cation-transporting ATPase, E1-E2 family"			base_both miss	base_one miss	base_one miss	
+HAD ATPase, P-type, IC family protein	3.6.3.-		ATPase, P-type (transporting), HAD superfamily, subfamily IC		CDS	"Cation-transporting ATPase, E1-E2 family"			pfam-sh	0	0	
+						Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)			base_both miss	base_one miss	base_one miss	
+						Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)			base_both miss	base_one miss	base_one miss	
+preprotein translocase, SecA subunit		secA	protein translocase subunit secA		CDS	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)			base_tigr	gs-sh	gs-sh	
+excinuclease ABC subunit B	3.1.25.-	uvrB	Excinuclease ABC subunit B		CDS	Excinuclease ABC subunit B			base_tigr	lit-s	base_lit-s	
+						FIG00835758: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+						FIG00835300: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834468: hypothetical protein			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835300: hypothetical protein			lit-s	base_one HP	base_one HP	
+						Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)			base_both miss	base_one miss	base_one miss	
+binding--dependent transport system inner membrane component family protein			ABC-type dipeptide/oligopeptide/nickel transport systems, permease components		CDS	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)			0	0	gs-sh	
+						Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)			base_both miss	base_one miss	base_one miss	
+binding--dependent transport system inner membrane component family protein			ABC-type dipeptide/oligopeptide/nickel transport systems, permease components		CDS	Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)			0	0	gs-sh	
+						Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)			base_both miss	base_one miss	base_one miss	
+oligopeptide/dipeptide ABC transporter, ATP-binding , C-terminal domain protein			oligopeptide/dipeptide ABC transporter, ATP-binding protein, C-terminal domain		CDS				base_tigr	base_one miss	base_one miss	
+						Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)			base_both miss	base_one miss	base_one miss	
+						Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)			base_both miss	base_one miss	base_one miss	
+						Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)			base_both miss	base_one miss	base_one miss	
+ABC transporter family protein			ABC-type oligopeptide transport system, ATPase component		CDS				0	base_one miss	base_one miss	
+ribosomal protein L11		rplK	LSU ribosomal protein L11P		CDS	LSU ribosomal protein L11p (L12e)			base_tigr	0	0	
+						LSU ribosomal protein L1p (L10Ae)			base_both miss	base_one miss	base_one miss	
+ribosomal protein L1		rplA	LSU ribosomal protein L1P		CDS	LSU ribosomal protein L1p (L10Ae)			base_tigr	0	0	
+peptidyl-tRNA hydrolase	3.1.1.29	pth	peptidyl-tRNA hydrolase (EC 3.1.1.29)	3.1.1.29	CDS	Peptidyl-tRNA hydrolase	3.1.1.29		base_tigr	base_ec	base_ec	
+						tRNA(Ile)-lysidine synthetase			base_both miss	base_one miss	base_one miss	
+tRNA(Ile)-lysidine synthase	6.3.4.-	tilS	tRNA(Ile)-lysidine synthetase, N-terminal domain		CDS	tRNA(Ile)-lysidine synthetase			lit-s	lit-s	lit-s	
+HPr(Ser) kinase/phosphatase	2.7.1.-	hprK	Hpr(Ser) kinase/phosphatase	2.7.11.-, 2.7.4.-,2.7.1.-	CDS	HPr kinase/phosphorylase	2.7.1.-, 2.7.4.-		base_tigr	gs-sh	map	
+						Prolipoprotein diacylglyceryl transferase	2.4.99.-		base_both miss	base_one miss	base_one miss	
+prolipoprotein diacylglyceryl transferase	2.4.99.-	lgt	Prolipoprotein diacylglyceryl transferase	2.-	CDS	Prolipoprotein diacylglyceryl transferase	2.4.99.-		base_tigr	lit-s	base_lit-s	
+ribosomal protein S12		rpsL	SSU ribosomal protein S12P		CDS	SSU ribosomal protein S12p (S23e)			base_tigr	0	0	
+ribosomal protein S7		rpsG	SSU ribosomal protein S7P		CDS	SSU ribosomal protein S7p (S5e)			base_tigr	0	0	
+						Translation elongation factor G			base_both miss	base_one miss	base_one miss	
+translation elongation factor G		fusA	translation elongation factor 2 (EF-2/EF-G)		CDS	Translation elongation factor G			gs-sh	lit-s	map	
+						SSU ribosomal protein S6p			base_both miss	base_one miss	base_one miss	
+ribosomal protein S6		rpsF	SSU ribosomal protein S6P		CDS				base_tigr	base_one miss	base_one miss	
+single-stranded DNA-binding protein		ssb	Single-stranded DNA-binding protein		CDS	Single-stranded DNA-binding protein			lit-s	lit-s	base_lit-s	
+ribosomal protein S18		rpsR	SSU ribosomal protein S18P		CDS	"SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent"			base_tigr	0	0	
+ribosomal protein L9		rplI	LSU ribosomal protein L9P		CDS	LSU ribosomal protein L9p			base_tigr	map	lit-s	
+						Replicative DNA helicase	3.6.1.-		base_both miss	base_one miss	base_one miss	
+replicative DNA helicase	3.6.4.12	dnaB	primary replicative DNA helicase	3.6.4.12,3.6.1.-	CDS	Replicative DNA helicase	3.6.1.-		gs-sh	lit-s	tf_idf	
+						FIG00835158: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835158: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835158: hypothetical protein			lit-s	base_one HP	base_one HP	
+						membrane export protein family			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Membrane protein involved in colicin uptake		CDS	membrane export protein family			base_one HP	base_one HP	0	
+						"Uracil-DNA glycosylase, family 1"			base_both miss	base_one miss	base_one miss	
+uracil-DNA glycosylase	3.2.2.27	ung	Uracil-DNA glycosylase	3.2.2.27,3.2.2.-	CDS				base_tigr	base_one miss	base_one miss	
+						Substrate-specific component FolT of folate ECF transporter / Aspartyl-tRNA(Asn) amidotransferase subunit C @ Glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6, 6.3.5.7		base_both miss	base_one miss	base_one miss	
+aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C subunit	6.3.5.-	gatC	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C	6.3.5.-	CDS	Substrate-specific component FolT of folate ECF transporter / Aspartyl-tRNA(Asn) amidotransferase subunit C @ Glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6, 6.3.5.7		base_tigr	gs-sh	gs-sh	
+						Aspartyl-tRNA(Asn) amidotransferase subunit A @ Glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6, 6.3.5.7		base_both miss	base_one miss	base_one miss	
+						Aspartyl-tRNA(Asn) amidotransferase subunit A @ Glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6, 6.3.5.7		base_both miss	base_one miss	base_one miss	
+aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, A subunit	6.3.5.-	gatA	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A	6.3.5.7, 6.3.5.6,6.3.5.-	CDS				base_tigr	base_one miss	base_one miss	
+aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, B subunit	6.3.5.-	gatB	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	6.3.5.7, 6.3.5.6,6.3.5.-	CDS	Aspartyl-tRNA(Asn) amidotransferase subunit B @ Glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6, 6.3.5.7		base_tigr	gs-sh	gs-sh	
+conserved hypothetical protein			transcriptional regulator, GntR family		CDS	FIG00834062: hypothetical protein			base_one HP	base_one HP	0	
+thioredoxin-disulfide reductase	1.8.1.9	trxB	thioredoxin-disulfide reductase	1.8.1.9	CDS	Thioredoxin reductase	1.8.1.9		base_lit-s	base_ec	base_ec	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+sporulation Regulator WhiA C terminal domain protein			conserved hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+preprotein translocase, SecG subunit		secG	protein translocase, SecG subunit		CDS	FIG00834146: hypothetical protein			base_tigr	0	0	
+						3'-to-5' exoribonuclease RNase R			base_both miss	base_one miss	base_one miss	
+						3'-to-5' exoribonuclease RNase R			base_both miss	base_one miss	base_one miss	
+ribonuclease R	3.1.-.-	rnr	RNAse R	3.1.-,3.1.-.-	CDS	3'-to-5' exoribonuclease RNase R			gs-sh	0	0	
+peptide deformylase	3.5.1.88	def	peptide deformylase (EC 3.5.1.88)	3.5.1.88	CDS				base_tigr	base_one miss	base_one miss	
+disA bacterial checkpoint controller nucleotide-binding family protein			TIGR00159 family protein		CDS	Uncharacterized protein MG105			gs-sh	0	0	
+						Peptide deformylase	3.5.1.88		base_both miss	base_one miss	base_one miss	
+guanylate kinase	2.7.4.8	gmk	guanylate kinase (EC 2.7.4.8)	2.7.4.8	CDS	Guanylate kinase	2.7.4.8		base_tigr	base_ec	base_ec	
+						"Protein serine/threonine phosphatase PrpC, regulation of stationary phase"			base_both miss	base_one miss	base_one miss	
+phosphatase 2C family protein			Serine/threonine protein phosphatase	3.1.3.16	CDS	"Protein serine/threonine phosphatase PrpC, regulation of stationary phase"			tf_idf	0	0	
+						"Serine/threonine protein kinase PrkC, regulator of stationary phase, short form"			base_both miss	base_one miss	base_one miss	
+tyrosine kinase family protein			Serine/threonine protein kinase	2.7.11.1	CDS				0	base_one miss	base_one miss	
+						Ribosome small subunit-stimulated GTPase EngC			base_both miss	base_one miss	base_one miss	
+ribosome small subunit-dependent GTPase A	3.6.-.-	rsgA	ribosome small subunit-dependent GTPase A	3.6.1.-	CDS				base_lit-s	base_one miss	base_one miss	
+						Glucose-6-phosphate isomerase	5.3.1.9		base_both miss	base_one miss	base_one miss	
+						Glucose-6-phosphate isomerase	5.3.1.9		base_both miss	base_one miss	base_one miss	
+phosphoglucose isomerase family protein			glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	CDS				0	base_one miss	base_one miss	
+ribulose-phosphate 3 epimerase family protein			ribulose-5-phosphate 3-epimerase (EC 5.1.3.1)	5.1.3.1	CDS	Ribulose-phosphate 3-epimerase	5.1.3.1		0	0	base_ec	
+						Asparaginyl-tRNA synthetase	6.1.1.22		base_both miss	base_one miss	base_one miss	
+						Asparaginyl-tRNA synthetase	6.1.1.22		base_both miss	base_one miss	base_one miss	
+asparagine--tRNA ligase	6.1.1.22	asnS	asparaginyl-tRNA synthetase (EC 6.1.1.22)	6.1.1.22	CDS	Asparaginyl-tRNA synthetase	6.1.1.22		base_tigr	base_ec	base_ec	
+						CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5		base_both miss	base_one miss	base_one miss	
+CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	CDS				base_lit-s	base_one miss	base_one miss	
+conserved hypothetical protein			competence/damage-inducible protein cinA		CDS	Competence/damage-inducible protein CinA			base_one HP	base_one HP	lit-s	
+						FIG00835803: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			4-diphosphocytidyl-2-methyl-D-erithritol synthase		CDS	FIG00835803: hypothetical protein			base_one HP	base_one HP	0	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	hypothetical protein			lit-s	lit-s	base_lit-s	
+						UDP-glucose 4-epimerase	5.1.3.2		base_both miss	base_one miss	base_one miss	
+UDP-glucose 4-epimerase	5.1.3.2	galE	UDP-glucose-4-epimerase	5.1.3.2	CDS				base_tigr	base_one miss	base_one miss	
+						Methylgalactoside permease ATP-binding protein			base_both miss	base_one miss	base_one miss	
+ABC transporter family protein			nucleoside ABC transporter ATP-binding protein	3.6.3.17	CDS	Methylgalactoside permease ATP-binding protein			tf_idf	0	0	
+						"COG4603: ABC-type uncharacterized transport system, permease component"			base_both miss	base_one miss	base_one miss	
+						"COG4603: ABC-type uncharacterized transport system, permease component"			base_both miss	base_one miss	base_one miss	
+branched-chain amino acid transport system / permease component family protein			nucleoside ABC transporter membrane protein		CDS	"COG4603: ABC-type uncharacterized transport system, permease component"			0	0	0	
+						"COG1079: Uncharacterized ABC-type transport system, permease component"			base_both miss	base_one miss	base_one miss	
+						"COG1079: Uncharacterized ABC-type transport system, permease component"			base_both miss	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+branched-chain amino acid transport system / permease component family protein			nucleoside ABC transporter membrane protein		CDS				0	base_one miss	base_one miss	
+						DNA topoisomerase I	5.99.1.2		base_both miss	base_one miss	base_one miss	
+						DNA topoisomerase I	5.99.1.2		base_both miss	base_one miss	base_one miss	
+DNA topoisomerase I	5.99.1.2	topA	DNA topoisomerase I (EC 5.99.1.2)	5.99.1.2	CDS	DNA topoisomerase I	5.99.1.2		base_tigr	base_lit-s	base_ec	
+						FIG00833885: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00833885: hypothetical protein			lit-s	base_one HP	base_one HP	
+thioredoxin		trxA	thioredoxin		CDS				base_lit-s	base_one miss	base_one miss	
+						FIG00836795: hypothetical protein			base_both miss	base_one miss	base_one miss	
+tryptophan--tRNA ligase	6.1.1.2	trpS	tryptophanyl-tRNA synthetase (EC 6.1.1.2)	6.1.1.2	CDS	Tryptophanyl-tRNA synthetase	6.1.1.2		base_tigr	base_ec	base_ec	
+conserved hypothetical protein			Predicted hydrolases of the HAD superfamily		CDS	FIG00836795: hypothetical protein			base_one HP	base_one HP	0	
+conserved hypothetical protein			transcriptional regulator, Spx/MgsR family		CDS	Arsenate reductase family protein			base_one HP	base_one HP	0	
+putative inorganic polyphosphate/ATP-NAD kinase			Predicted sugar kinase	2.7.1.23	CDS	NAD kinase	2.7.1.23		0	0	base_ec	
+putative phosphotransferase enzyme IIB component MPN_268			Phosphotransferase system IIB components		CDS	FIG00835296: hypothetical protein			0	0	0	
+						uncharacterized domain HDIG			base_both miss	base_one miss	base_one miss	
+ribonuclease Y	3.1.-.-	rny	uncharacterized domain HDIG		CDS				gs-sh	base_one miss	base_one miss	
+putative membrane protein			hypothetical protein		CDS	FIG00834653: hypothetical protein			base_one HP	0	base_one HP	
+protein hit		hit	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases		CDS	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases			gs-sh	map	base_lit-s	
+hypothetical protein			hypothetical protein		CDS	FIG00834960: hypothetical protein			base_lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			Protein of unknown function (DUF1600).		CDS				base_one HP	base_one HP	base_one miss	
+						Uncharacterized protein MG133			base_both miss	base_one miss	base_one miss	
+						Uncharacterized protein MG133			base_both miss	base_one miss	base_one miss	
+putative membrane protein			hypothetical protein		CDS	FIG00835178: hypothetical protein			base_one HP	0	base_one HP	
+DNA-binding protein, YbaB/EbfC family			DNA-binding protein, YbaB/EbfC family		CDS	FIG00835166: hypothetical protein			base_lit-s	0	0	
+						FIG00835178: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						Lysyl-tRNA synthetase (class II)	6.1.1.6		base_both miss	base_one miss	base_one miss	
+						Lysyl-tRNA synthetase (class II)	6.1.1.6		base_both miss	base_one miss	base_one miss	
+lysine--tRNA ligase	6.1.1.6	lysS	lysyl-tRNA synthetase, class II (EC 6.1.1.6)	6.1.1.6	CDS	Lysyl-tRNA synthetase (class II)	6.1.1.6		base_tigr	base_ec	base_ec	
+						UDP-galactopyranose mutase	5.4.99.9		base_both miss	base_one miss	base_one miss	
+						UDP-galactopyranose mutase	5.4.99.9		base_both miss	base_one miss	base_one miss	
+UDP-galactopyranose mutase	5.4.99.9	glf	UDP-galactopyranose mutase	5.4.99.9	CDS				base_lit-s	base_one miss	base_one miss	
+GTP-binding protein LepA	3.6.5.-	lepA	GTP-binding protein LepA		CDS	Translation elongation factor LepA			base_lit-s	pfam-sh	pfam-sh	
+						Ribonuclease J1 (endonuclease and 5' exonuclease)			base_both miss	base_one miss	base_one miss	
+metallo-beta-lactamase superfamily protein			Predicted hydrolase of the metallo-beta-lactamase superfamily	3.1.-	CDS				orth	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+putative adhesin-like protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+mycoplasma adhesin P1 family protein			Mycoplasma adhesin P1.		CDS	MgPa adhesin			lit-s	0	0	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+mgpC family protein			MgpC protein precursor.		CDS	hypothetical protein			0	base_one HP	base_one HP	
+									base_both miss	base_both miss	base_both miss	
+									base_both miss	base_both miss	base_both miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+conserved hypothetical protein									base_one HP	base_one HP	base_both miss	
+									base_both miss	base_both miss	base_both miss	
+									base_both miss	base_both miss	base_both miss	
+mgp-operon 3 domain protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+mgpC family protein			MgpC protein precursor.		CDS	hypothetical protein			0	base_one HP	base_one HP	
+						Superfamily I DNA and RNA helicases and helicase subunits			base_both miss	base_one miss	base_one miss	
+						Superfamily I DNA and RNA helicases and helicase subunits			base_both miss	base_one miss	base_one miss	
+						Superfamily I DNA and RNA helicases and helicase subunits			base_both miss	base_one miss	base_one miss	
+						Superfamily I DNA and RNA helicases and helicase subunits			base_both miss	base_one miss	base_one miss	
+						Superfamily I DNA and RNA helicases and helicase subunits			base_both miss	base_one miss	base_one miss	
+AAA domain protein			AAA domain./Part of AAA domain./Protein of unknown function (DUF4011).		CDS				pfam-sh	base_one miss	base_one miss	
+						Transcription termination protein NusA			base_both miss	base_one miss	base_one miss	
+						Transcription termination protein NusA			base_both miss	base_one miss	base_one miss	
+transcription elongation protein nusA		nusA	NusA antitermination factor		CDS	Transcription termination protein NusA			gs-sh	gs-sh	pfam-sh	
+conserved hypothetical protein			Predicted nucleic-acid-binding protein implicated in transcription termination		CDS	FIG00835259: hypothetical protein			base_one HP	base_one HP	0	
+translation initiation factor IF-2		infB	bacterial translation initiation factor 2 (bIF-2)		CDS	Translation initiation factor 2			gs-sh	0	0	
+ribosome-binding factor A		rbfA	ribosome-binding factor A		CDS	Ribosome-binding factor A			base_lit-s	lit-s	lit-s	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+riboflavin biosynthesis protein RibF	2.7.1.26	ribF	riboflavin kinase/FMN adenylyltransferase	2.7.1.26, 2.7.7.2	CDS	Riboflavin kinase / FMN adenylyltransferase	2.7.1.26, 2.7.7.2		base_ec-d	base_ec-d	base_ec	
+						Hemolysins and related proteins containing CBS domains			base_both miss	base_one miss	base_one miss	
+						Hemolysins and related proteins containing CBS domains			base_both miss	base_one miss	base_one miss	
+CBS domain protein			Hemolysins and related proteins containing CBS domains		CDS	Hemolysins and related proteins containing CBS domains			pfam-sh	pfam-sh	base_lit-s	
+						FIG00836376: hypothetical protein			base_both miss	base_one miss	base_one miss	
+putative membrane protein			hypothetical protein		CDS	FIG00836376: hypothetical protein			base_one HP	0	base_one HP	
+						FIG00834281: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834281: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834281: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Uncharacterized protein conserved in bacteria		CDS				base_one HP	base_one HP	base_one miss	
+						FIG00834442: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834980: hypothetical protein			lit-s	base_one HP	base_one HP	
+ribosomal protein S10		rpsJ	SSU ribosomal protein S10P		CDS	SSU ribosomal protein S10p (S20e)			base_tigr	0	0	
+						LSU ribosomal protein L3p (L3e)			base_both miss	base_one miss	base_one miss	
+50S ribosomal protein L3		rplC	LSU ribosomal protein L3P		CDS	LSU ribosomal protein L3p (L3e)			base_tigr	0	0	
+50S ribosomal protein L4		rplD	LSU ribosomal protein L4P		CDS	LSU ribosomal protein L4p (L1e)			base_tigr	0	0	
+ribosomal L23 family protein			LSU ribosomal protein L23P		CDS	LSU ribosomal protein L23p (L23Ae)			0	0	0	
+ribosomal protein L2		rplB	LSU ribosomal protein L2P		CDS	LSU ribosomal protein L2p (L8e)			base_tigr	0	0	
+ribosomal protein S19		rpsS	SSU ribosomal protein S19P		CDS	SSU ribosomal protein S19p (S15e)			base_tigr	0	0	
+ribosomal protein L22		rplV	LSU ribosomal protein L22P		CDS	LSU ribosomal protein L22p (L17e)			base_tigr	0	0	
+ribosomal protein S3		rpsC	SSU ribosomal protein S3P		CDS	SSU ribosomal protein S3p (S3e)			base_tigr	0	0	
+						LSU ribosomal protein L16p (L10e)			base_both miss	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						LSU ribosomal protein L16p (L10e)			base_both miss	base_one miss	base_one miss	
+ribosomal protein L16		rplP	LSU ribosomal protein L16P		CDS				base_tigr	base_one miss	base_one miss	
+ribosomal protein L29		rpmC	LSU ribosomal protein L29P		CDS				base_tigr	base_one miss	base_one miss	
+						SSU ribosomal protein S17p (S11e)			base_both miss	base_one miss	base_one miss	
+30S ribosomal protein S17		rpsQ	SSU ribosomal protein S17P		CDS				base_tigr	base_one miss	base_one miss	
+ribosomal protein L14		rplN	LSU ribosomal protein L14P		CDS	LSU ribosomal protein L14p (L23e)			base_tigr	0	0	
+ribosomal protein L24		rplX	LSU ribosomal protein L24P		CDS	LSU ribosomal protein L24p (L26e)			base_tigr	0	0	
+						LSU ribosomal protein L5p (L11e)			base_both miss	base_one miss	base_one miss	
+50S ribosomal protein L5		rplE	LSU ribosomal protein L5P		CDS				gs-sh	base_one miss	base_one miss	
+						"SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent"			base_both miss	base_one miss	base_one miss	
+30S ribosomal protein S14		rpsN1	SSU ribosomal protein S14P		CDS				gs-sh	base_one miss	base_one miss	
+ribosomal S8 family protein			SSU ribosomal protein S8P		CDS	SSU ribosomal protein S8p (S15Ae)			0	0	0	
+						LSU ribosomal protein L6p (L9e)			base_both miss	base_one miss	base_one miss	
+ribosomal protein L6		rplF	LSU ribosomal protein L6P		CDS				base_tigr	base_one miss	base_one miss	
+ribosomal protein L18		rplR	LSU ribosomal protein L18P		CDS	LSU ribosomal protein L18p (L5e)			base_tigr	0	0	
+ribosomal protein S5		rpsE	SSU ribosomal protein S5P		CDS	SSU ribosomal protein S5p (S2e)			base_tigr	0	0	
+ribosomal protein L15		rplO	LSU ribosomal protein L15P		CDS	LSU ribosomal protein L15p (L27Ae)			base_tigr	0	0	
+preprotein translocase, SecY subunit		secY	protein translocase subunit secY/sec61 alpha		CDS	Preprotein translocase secY subunit (TC 3.A.5.1.1)			base_tigr	lit-s	gs-sh	
+adenylate kinase	2.7.4.3	adk	Adenylate kinase (EC 2.7.4.3)	2.7.4.3	CDS	Adenylate kinase	2.7.4.3		base_ec	base_ec	base_ec	
+methionine aminopeptidase, type I	3.4.11.18	map	methionine aminopeptidase, type I (EC 3.4.11.18)	3.4.11.18	CDS	Methionine aminopeptidase	3.4.11.18		base_tigr	base_ec	base_ec	
+translation initiation factor IF-1		infA	bacterial translation initiation factor 1 (bIF-1)		CDS	Translation initiation factor 1			base_tigr	gs-sh	map	
+						SSU ribosomal protein S13p (S18e)			base_both miss	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+30S ribosomal protein S13		rpsM	SSU ribosomal protein S13P		CDS				base_tigr	base_one miss	base_one miss	
+30S ribosomal protein S11		rpsK	SSU ribosomal protein S11P		CDS	SSU ribosomal protein S11p (S14e)			base_tigr	0	0	
+						DNA-directed RNA polymerase alpha subunit	2.7.7.6		base_both miss	base_one miss	base_one miss	
+DNA-directed RNA polymerase, alpha subunit	2.7.7.6	rpoA	DNA-directed RNA polymerase subunit alpha (EC 2.7.7.6)	2.7.7.6	CDS	DNA-directed RNA polymerase alpha subunit	2.7.7.6		base_tigr	base_ec	base_ec	
+ribosomal protein L17		rplQ	LSU ribosomal protein L17P		CDS	LSU ribosomal protein L17p			base_tigr	map	lit-s	
+						ATPase component of general energizing module of ECF transporters			base_both miss	base_one miss	base_one miss	
+ABC transporter family protein			ABC-type cobalt transport system, ATPase component		CDS				0	base_one miss	base_one miss	
+energy-coupling factor transporter ATP-binding protein EcfA2	3.6.3.-	ecfA2	ABC-type cobalt transport system, ATPase component		CDS	ATPase component of general energizing module of ECF transporters			gs-sh	0	0	
+						Transmembrane component of general energizing module of ECF transporters			base_both miss	base_one miss	base_one miss	
+						Transmembrane component of general energizing module of ECF transporters			base_both miss	base_one miss	base_one miss	
+cobalt transport family protein			Cobalt transport protein.		CDS	Transmembrane component of general energizing module of ECF transporters			lit-s	0	0	
+tRNA pseudouridine(38-40) synthase	5.4.99.12	truA	pseudouridylate synthase I	5.4.99.12	CDS	tRNA pseudouridine synthase A	4.2.1.70		base_tigr	base_ec-d	base_ec-d	
+						Oligoendopeptidase F			base_both miss	base_one miss	base_one miss	
+						Oligoendopeptidase F			base_both miss	base_one miss	base_one miss	
+						Oligoendopeptidase F			base_both miss	base_one miss	base_one miss	
+oligoendopeptidase F	3.4.24.-	pepF	oligopeptidase F. Metallo peptidase. MEROPS family M03B	3.4.24.-	CDS				base_tigr	base_one miss	base_one miss	
+						adenine-specific methyltransferase EcoRI			base_both miss	base_one miss	base_one miss	
+adenine-specific methyltransferase EcoRI family protein			Adenine-specific methyltransferase EcoRI.	2.1.1.72	CDS	adenine-specific methyltransferase EcoRI			lit-s	lit-s	lit-s	
+						FIG00837614: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00837614: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Putative mycoplasma lipoprotein, C-terminal region./Mycoplasma MG185/MG260 protein.		CDS	FIG00837614: hypothetical protein			base_one HP	base_one HP	0	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						MgPa adhesin			base_both miss	base_one miss	base_one miss	
+mycoplasma adhesin P1 family protein			Mycoplasma adhesin P1.		CDS	MgPa adhesin			lit-s	0	0	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+mgp-operon 3 domain protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						Lipoprotein			base_both miss	base_one miss	base_one miss	
+						Lipoprotein			base_both miss	base_one miss	base_one miss	
+						Lipoprotein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+						"Multiple sugar ABC transporter, ATP-binding protein"			base_both miss	base_one miss	base_one miss	
+						"Multiple sugar ABC transporter, ATP-binding protein"			base_both miss	base_one miss	base_one miss	
+						"Multiple sugar ABC transporter, ATP-binding protein"			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)		CDS	"Multiple sugar ABC transporter, ATP-binding protein"			base_one HP	base_one HP	0	
+						"N-Acetyl-D-glucosamine ABC transport system, permease protein"			base_both miss	base_one miss	base_one miss	
+						"N-Acetyl-D-glucosamine ABC transport system, permease protein"			base_both miss	base_one miss	base_one miss	
+binding--dependent transport system inner membrane component family protein			carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)		CDS				0	base_one miss	base_one miss	
+						ABC transporter permease protein			base_both miss	base_one miss	base_one miss	
+binding--dependent transport system inner membrane component family protein			carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)		CDS	ABC transporter permease protein			0	0	0	
+hypothetical protein			hypothetical protein		CDS	FIG00834008: hypothetical protein			base_lit-s	base_one HP	base_one HP	
+						"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"			base_both miss	base_one miss	base_one miss	
+DHHA1 domain protein			Exopolyphosphatase-related proteins		CDS				0	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						MgPa adhesin			base_both miss	base_one miss	base_one miss	
+						MgPa adhesin			base_both miss	base_one miss	base_one miss	
+						MgPa adhesin			base_both miss	base_one miss	base_one miss	
+adhesin P1		mgpA	adhesin P1		CDS	hypothetical protein			base_lit-s	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+mgp-operon protein 3			MgpC protein precursor.		CDS	hypothetical protein			0	base_one HP	base_one HP	
+hypothetical protein			hypothetical protein		CDS				base_lit-s	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+putative adhesin-like protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+mycoplasma adhesin P1 family protein			Mycoplasma adhesin P1.		CDS				lit-s	base_one miss	base_one miss	
+mgp-operon 3 domain protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						Phenylalanyl-tRNA synthetase alpha chain	6.1.1.20		base_both miss	base_one miss	base_one miss	
+phenylalanine--tRNA ligase, alpha subunit	6.1.1.20	pheS	phenylalanyl-tRNA synthetase, alpha subunit (EC 6.1.1.20)	6.1.1.20	CDS	Phenylalanyl-tRNA synthetase alpha chain	6.1.1.20		base_tigr	base_ec	base_ec	
+						Phenylalanyl-tRNA synthetase beta chain	6.1.1.20		base_both miss	base_one miss	base_one miss	
+						Phenylalanyl-tRNA synthetase beta chain	6.1.1.20		base_both miss	base_one miss	base_one miss	
+						Phenylalanyl-tRNA synthetase beta chain	6.1.1.20		base_both miss	base_one miss	base_one miss	
+						Phenylalanyl-tRNA synthetase beta chain	6.1.1.20		base_both miss	base_one miss	base_one miss	
+						Phenylalanyl-tRNA synthetase beta chain	6.1.1.20		base_both miss	base_one miss	base_one miss	
+phenylalanine--tRNA ligase, beta subunit	6.1.1.20	pheT	phenylalanyl-tRNA synthetase beta subunit (EC 6.1.1.20)	6.1.1.20	CDS	Phenylalanyl-tRNA synthetase beta chain	6.1.1.20		base_tigr	base_ec	base_ec	
+translation initiation factor IF-3		infC	bacterial translation initiation factor 3 (bIF-3)		CDS	Translation initiation factor 3			base_tigr	gs-sh	map	
+ribosomal protein L35		rpmI	LSU ribosomal protein L35P		CDS	LSU ribosomal protein L35p			base_tigr	map	lit-s	
+ribonuclease HII family protein			Ribonuclease HIII	3.1.26.4	CDS	Ribonuclease HIII	3.1.26.4		0	0	base_lit-s	
+ribosomal protein L20		rplT	LSU ribosomal protein L20P		CDS	LSU ribosomal protein L20p			base_tigr	map	lit-s	
+						DnaJ domain protein			base_both miss	base_one miss	base_one miss	
+terminal organelle assembly protein TopJ		topJ	EAGR box		CDS	DnaJ domain protein			gs-sh	gs-sh	gs-sh	
+						Heat shock protein GrpE			base_both miss	base_one miss	base_one miss	
+protein grpE		grpE	Molecular chaperone GrpE (heat shock protein)		CDS	Heat shock protein GrpE			gs-sh	gs-sh	pfam-sh	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834597: hypothetical protein			lit-s	base_one HP	base_one HP	
+						Topoisomerase IV subunit B	5.99.1.-		base_both miss	base_one miss	base_one miss	
+DNA topoisomerase IV, B subunit	5.99.1.-	parE	DNA topoisomerase IV subunit B	5.99.1.-,5.99.1.3	CDS	Topoisomerase IV subunit B	5.99.1.-		base_tigr	gs-sh	orth	
+						Topoisomerase IV subunit A	5.99.1.-		base_both miss	base_one miss	base_one miss	
+heat-inducible transcription repressor HrcA		hrcA	heat-inducible transcription repressor HrcA		CDS	Heat-inducible transcription repressor HrcA			base_lit-s	lit-s	lit-s	
+DNA topoisomerase IV, A subunit	5.99.1.-	parC	DNA topoisomerase IV subunit A	5.99.1.-,5.99.1.3	CDS	Topoisomerase IV subunit A	5.99.1.-		base_tigr	gs-sh	orth	
+						Heat-inducible transcription repressor HrcA			base_both miss	base_one miss	base_one miss	
+excinuclease ABC subunit C	3.1.25.-	uvrC	Excinuclease ABC subunit C		CDS	Excinuclease ABC subunit C			base_tigr	lit-s	base_lit-s	
+conserved hypothetical protein			universal bacterial protein YeaZ		CDS	"Inactive homolog of metal-dependent proteases, putative molecular chaperone"			base_one HP	base_one HP	0	
+conserved hypothetical protein			phosphoesterase, MJ0936 family		CDS	COG0622: Predicted phosphoesterase			base_one HP	base_one HP	0	
+pseudouridine synthase, RluA family protein	5.4.99.-		ribosomal large subunit pseudouridine synthase D	5.4.99.23,5.4.99.-	CDS	Ribosomal large subunit pseudouridine synthase D	4.2.1.70		base_tigr	tf_idf	lit-s	
+signal peptidase II	3.4.23.36	lspA	lipoprotein signal peptidase	3.4.23.36	CDS	Lipoprotein signal peptidase	3.4.23.36		base_tigr	base_ec	base_ec	
+						Lipoprotein signal peptidase	3.4.23.36		base_both miss	base_one miss	base_one miss	
+						FIG00835711: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+ribosomal protein S21		rpsU	ribosomal protein S21		CDS	SSU ribosomal protein S21p			base_lit-s	0	0	
+						FIG00836825: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			DivIVA domain		CDS				base_one HP	base_one HP	base_one miss	
+phosphopantetheine--transferase domain protein			phosphopantetheine--protein transferase domain	2.7.8.7	CDS				0	base_one miss	base_one miss	
+						1-acyl-sn-glycerol-3-phosphate acyltransferase	2.3.1.51		base_both miss	base_one miss	base_one miss	
+1-acylglycerol-3-phosphate O-acyltransferases domain protein	2.3.1.51		1-acyl-sn-glycerol-3-phosphate acyltransferases	2.3.1.51	CDS	1-acyl-sn-glycerol-3-phosphate acyltransferase	2.3.1.51		base_tigr	base_ec	base_ec	
+						Dihydrofolate reductase / Segregation and condensation protein A	1.5.1.3		base_both miss	base_one miss	base_one miss	
+scpA/B family protein			condensin subunit ScpA		CDS	Dihydrofolate reductase / Segregation and condensation protein A	1.5.1.3		gs-sh	0	0	
+segregation and condensation protein B		scpB	condensin subunit ScpB		CDS	Segregation and condensation protein B			base_tigr	lit-s	map	
+						6-phosphofructokinase	2.7.1.11		base_both miss	base_one miss	base_one miss	
+phosphofructokinase family protein			6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	CDS	6-phosphofructokinase	2.7.1.11		0	0	base_ec	
+						Pyruvate kinase	2.7.1.40		base_both miss	base_one miss	base_one miss	
+						Pyruvate kinase	2.7.1.40		base_both miss	base_one miss	base_one miss	
+pyruvate kinase	2.7.1.40	pyk	pyruvate kinase (EC 2.7.1.40)	2.7.1.40	CDS				base_tigr	base_one miss	base_one miss	
+conserved hypothetical protein									base_one HP	base_one HP	base_both miss	
+putative proline-rich P65 protein			hypothetical protein		CDS	proline-rich P65 protein			base_one HP	lit-s	base_one HP	
+						FIG00834532: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834532: hypothetical protein			base_both miss	base_one miss	base_one miss	
+cytadherence high molecular weight protein 2		hmw2	hypothetical protein		CDS	FIG00834532: hypothetical protein			base_one HP	0	base_one HP	
+						FIG00835098: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835098: hypothetical protein			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835098: hypothetical protein			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00836556: hypothetical protein			lit-s	base_one HP	base_one HP	
+protein MraZ		mraZ	mraZ protein		CDS	Cell division protein MraZ			lit-s	pfam-sh	gs-sh	
+S-adenosyl-methyltransferase MraW	2.1.1.-	mraW	S-adenosyl-methyltransferase MraW	2.1.1.199	CDS	rRNA small subunit methyltransferase H			base_lit-s	gs-sh	gs-sh	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834277: hypothetical protein			lit-s	base_one HP	base_one HP	
+						Cell division protein FtsZ	3.4.24.-		base_both miss	base_one miss	base_one miss	
+cell division protein FtsZ		ftsZ	cell division protein FtsZ		CDS	Cell division protein FtsZ	3.4.24.-		base_lit-s	lit-s	lit-s	
+						Potassium efflux system KefA protein / Small-conductance mechanosensitive channel			base_both miss	base_one miss	base_one miss	
+amino acid permease family protein			amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)		CDS	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel			0	0	0	
+						FIG00836867: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+amino acid permease family protein			amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)		CDS	FIG00836867: hypothetical protein			0	0	0	
+adhesin P1 domain protein		mgpA	hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+						Thymidylate synthase	2.1.1.45		base_both miss	base_one miss	base_one miss	
+thymidylate synthase	2.1.1.45	thyA	thymidylate synthase (EC 2.1.1.45)	2.1.1.45	CDS	Thymidylate synthase	2.1.1.45		base_tigr	base_ec	base_ec	
+						Dihydrofolate reductase	1.5.1.3		base_both miss	base_one miss	base_one miss	
+dihydrofolate reductase	1.5.1.3	folA	Dihydrofolate reductase	1.5.1.3	CDS	Dihydrofolate reductase	1.5.1.3		base_ec	base_ec	base_lit-s	
+ribonucleoside-diphosphate reductase subunit beta	1.17.4.1	nrdF	ribonucleoside-diphosphate reductase class Ib beta subunit (EC 1.17.4.1)	1.17.4.1	CDS	"Ribonucleotide reductase of class Ib (aerobic), beta subunit"	1.17.4.1		base_ec	base_ec	base_ec	
+nrdI protein		nrdI	ribonucleoside-diphosphate reductase 2, operon protein nrdI		CDS	Ribonucleotide reduction protein NrdI			base_tigr	0	0	
+						"Ribonucleotide reductase of class Ib (aerobic), alpha subunit"	1.17.4.1		base_both miss	base_one miss	base_one miss	
+ribonucleoside-diphosphate reductase, alpha subunit	1.17.4.1		ribonucleoside-diphosphate reductase, alpha subunit	1.17.4.1	CDS	"Ribonucleotide reductase of class Ib (aerobic), alpha subunit"	1.17.4.1		base_lit-s	base_ec	base_ec	
+ribosomal protein L21		rplU	LSU ribosomal protein L21P		CDS	LSU ribosomal protein L21p			base_tigr	map	lit-s	
+conserved hypothetical protein			Predicted ribosomal protein		CDS	FIG139598: Potential ribosomal protein			base_one HP	base_one HP	0	
+ribosomal protein L27		rpmA	LSU ribosomal protein L27P		CDS	LSU ribosomal protein L27p			base_tigr	map	lit-s	
+						Endonuclease IV	3.1.21.2		base_both miss	base_one miss	base_one miss	
+putative endonuclease 4			Endonuclease IV	3.1.21.2,3.1.21.-	CDS				0	base_one miss	base_one miss	
+conserved hypothetical protein			Fe2+/Zn2+ uptake regulation proteins		CDS	FIG00836347: hypothetical protein			base_one HP	base_one HP	0	
+conserved hypothetical protein			Protein of unknown function (DUF3196).		CDS	FIG00835193: hypothetical protein			base_one HP	base_one HP	lit-s	
+trigger factor	5.2.1.8	tig	trigger factor		CDS	Cell division trigger factor	5.2.1.8		base_lit-s	base_ec	tf_idf	
+						ATP-dependent protease La Type I	3.4.21.53		base_both miss	base_one miss	base_one miss	
+nicotinate (nicotinamide) nucleotide adenylyltransferase	2.7.7.18	nadD	nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	2.7.7.18	CDS	"Nicotinate-nucleotide adenylyltransferase / Hydrolase (HAD superfamily), YqeK"	2.7.7.18		base_ec	base_ec	base_ec	
+ATP-dependent protease La	3.4.21.53	lon	Lon-B peptidase. Serine peptidase. MEROPS family S16	3.4.21.53	CDS	ATP-dependent protease La Type I	3.4.21.53		base_tigr	base_ec	base_ec	
+						"Nicotinate-nucleotide adenylyltransferase / Hydrolase (HAD superfamily), YqeK"	2.7.7.18		base_both miss	base_one miss	base_one miss	
+						"Nicotinate-nucleotide adenylyltransferase / Hydrolase (HAD superfamily), YqeK"	2.7.7.18		base_both miss	base_one miss	base_one miss	
+						FIG00837455: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00837455: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00837455: hypothetical protein			lit-s	base_one HP	base_one HP	
+						FIG00834426: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834426: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834426: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834426: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+RDD family protein			RDD family.		CDS	FIG00834213: hypothetical protein			lit-s	0	0	
+						ATP-dependent DNA helicase UvrD/PcrA			base_both miss	base_one miss	base_one miss	
+						ATP-dependent DNA helicase UvrD/PcrA			base_both miss	base_one miss	base_one miss	
+uvrD/REP helicase N-terminal domain protein			Superfamily I DNA and RNA helicases	3.6.4.12	CDS	ATP-dependent DNA helicase UvrD/PcrA			gs-sh	gs-sh	gs-sh	
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2		5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	CDS	5-formyltetrahydrofolate cyclo-ligase	6.3.3.2		base_lit-s	base_lit-s	base_lit-s	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+acyl-phosphate glycerol 3-phosphate acyltransferase	2.3.1.-	plsY	acyl-phosphate glycerol-3-phosphate acyltransferase	2.3.1.15	CDS				base_tigr	base_one miss	base_one miss	
+conserved hypothetical protein			metallophosphoesterase, MG_246/BB_0505 family		CDS	Phosphoesterase family protein			base_one HP	base_one HP	0	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY			base_both miss	base_one miss	base_one miss	
+putative tRNA (adenine-N(1)-)-methyltransferase MPN_351			Predicted SAM-dependent methyltransferase		CDS	Putative tRNA-m1A22 methylase			gs-sh	gs-sh	gs-sh	
+RNA polymerase sigma factor rpoD		rpoD	RNA polymerase sigma factor, sigma-70 family		CDS	RNA polymerase sigma factor RpoD			gs-sh	lit-s	gs-sh	
+						RNA polymerase sigma factor RpoD			base_both miss	base_one miss	base_one miss	
+						RNA polymerase sigma factor RpoD			base_both miss	base_one miss	base_one miss	
+DNA primase	2.7.7.-	dnaG	DNA primase (EC 2.7.7.-)	2.7.7.-	CDS	DNA primase	2.7.7.-		base_tigr	base_lit-s	lit-s	
+						DNA primase	2.7.7.-		base_both miss	base_one miss	base_one miss	
+						DNA primase	2.7.7.-		base_both miss	base_one miss	base_one miss	
+						DNA primase	2.7.7.-		base_both miss	base_one miss	base_one miss	
+glycine--tRNA ligase	6.1.1.14	glyS	glycyl-tRNA synthetase (EC 6.1.1.14)	6.1.1.14	CDS				base_tigr	base_one miss	base_one miss	
+						Glycyl-tRNA synthetase	6.1.1.14		base_both miss	base_one miss	base_one miss	
+						Glycyl-tRNA synthetase	6.1.1.14		base_both miss	base_one miss	base_one miss	
+						Glycyl-tRNA synthetase	6.1.1.14		base_both miss	base_one miss	base_one miss	
+						Glycyl-tRNA synthetase	6.1.1.14		base_both miss	base_one miss	base_one miss	
+RNA 2'-O ribose methyltransferase substrate binding family protein			rRNA methylase, putative, group 3	2.1.1.185	CDS				0	base_one miss	base_one miss	
+						23S rRNA (guanosine-2'-O-) -methyltransferase rlmB ## LSU rRNA Gm2251	2.1.1.-		base_both miss	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+cysteine--tRNA ligase	6.1.1.16	cysS	cysteinyl-tRNA synthetase (EC 6.1.1.16)	6.1.1.16	CDS				base_tigr	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						Cysteinyl-tRNA synthetase	6.1.1.16		base_both miss	base_one miss	base_one miss	
+						Cysteinyl-tRNA synthetase	6.1.1.16		base_both miss	base_one miss	base_one miss	
+DNA ligase, NAD-dependent	6.5.1.2	ligA	DNA ligase, NAD-dependent	6.5.1.2	CDS				base_lit-s	base_one miss	base_one miss	
+						DNA ligase	6.5.1.2		base_both miss	base_one miss	base_one miss	
+						DNA ligase	6.5.1.2		base_both miss	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	hypothetical protein			lit-s	lit-s	base_lit-s	
+conserved hypothetical protein									base_one HP	base_one HP	base_both miss	
+						FIG00836137: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836137: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00836137: hypothetical protein			lit-s	base_one HP	base_one HP	
+ribosomal protein L31		rpmE	LSU ribosomal protein L31P		CDS	"LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent"			base_tigr	0	0	
+						Peptide chain release factor 1			base_both miss	base_one miss	base_one miss	
+peptide chain release factor 1		prfA	bacterial peptide chain release factor 1 (bRF-1)		CDS	Peptide chain release factor 1			base_tigr	lit-s	tf_idf	
+						"YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA / Protein methyltransferase HemK homolog"	2.1.1.-		base_both miss	base_one miss	base_one miss	
+						"YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA / Protein methyltransferase HemK homolog"	2.1.1.-		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Methylase of polypeptide chain release factors		CDS	"YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA / Protein methyltransferase HemK homolog"	2.1.1.-		base_one HP	base_one HP	gs-sh	
+						FIG00837614: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Putative mycoplasma lipoprotein, C-terminal region./Mycoplasma MG185/MG260 protein.		CDS	FIG00837614: hypothetical protein			base_one HP	base_one HP	0	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+putative adhesin-like protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+						MgPa adhesin			base_both miss	base_one miss	base_one miss	
+mycoplasma adhesin P1 family protein			Mycoplasma adhesin P1.		CDS				lit-s	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+mgpC family protein			MgpC protein precursor.		CDS	hypothetical protein			0	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834323: hypothetical protein			lit-s	base_one HP	base_one HP	
+						DNA polymerase III alpha subunit	2.7.7.7		base_both miss	base_one miss	base_one miss	
+						DNA polymerase III alpha subunit	2.7.7.7		base_both miss	base_one miss	base_one miss	
+						DNA polymerase III alpha subunit	2.7.7.7		base_both miss	base_one miss	base_one miss	
+						DNA polymerase III alpha subunit	2.7.7.7		base_both miss	base_one miss	base_one miss	
+DNA polymerase III, alpha subunit	2.7.7.7	dnaE	DNA-directed DNA polymerase III (polc)	2.7.7.7	CDS				base_tigr	base_one miss	base_one miss	
+5'-3' exonuclease	3.1.11.-	polA	5'-3' exonuclease (including N-terminal domain of PolI)	2.7.7.7	CDS	Probable 5'-3' exonuclease Bsu YpcP			gs-sh	tf_idf	tf_idf	
+formamidopyrimidine-DNA glycosylase	3.2.2.23	mutM	formamidopyrimidine-DNA glycosylase (fpg)	4.2.99.18, 3.2.2.23	CDS	Formamidopyrimidine-DNA glycosylase	3.2.2.23		base_tigr	base_ec	base_ec-d	
+						HAD superfamily hydrolase/phosphatase			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			HAD-superfamily hydrolase, subfamily IIB		CDS				base_one HP	base_one HP	base_one miss	
+						Dephospho-CoA kinase	2.7.1.24		base_both miss	base_one miss	base_one miss	
+HAD hydrolase, IIB family protein			HAD-superfamily hydrolase, subfamily IIB		CDS	Hydrolase (HAD superfamily)			pfam-sh	pfam-sh	pfam-sh	
+dephospho-CoA kinase	2.7.1.24	coaE	dephospho-CoA kinase	2.7.1.24	CDS				base_lit-s	base_one miss	base_one miss	
+leucine--tRNA ligase	6.1.1.4	leuS	leucyl-tRNA synthetase (EC 6.1.1.4)	6.1.1.4	CDS	Leucyl-tRNA synthetase	6.1.1.4		base_tigr	base_ec	base_ec	
+						Leucyl-tRNA synthetase	6.1.1.4		base_both miss	base_one miss	base_one miss	
+						Leucyl-tRNA synthetase	6.1.1.4		base_both miss	base_one miss	base_one miss	
+						Leucyl-tRNA synthetase	6.1.1.4		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834695: hypothetical protein			lit-s	base_one HP	base_one HP	
+deoxynucleoside kinase family protein			Deoxynucleoside kinases		CDS				lit-s	base_one miss	base_one miss	
+						Deoxyadenosine kinase / Deoxyguanosine kinase	2.7.1.76, 2.7.1.113		base_both miss	base_one miss	base_one miss	
+						Deoxyadenosine kinase / Deoxyguanosine kinase	2.7.1.76, 2.7.1.113		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00836294: hypothetical protein			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	Uncharacterized protein MG269.1 homolog			lit-s	base_one HP	base_one HP	
+putative lipoate-protein ligase A			lipoate-protein ligase	2.7.7.63,6.-.-.-	CDS				orth	base_one miss	base_one miss	
+						Lipoate-protein ligase A			base_both miss	base_one miss	base_one miss	
+dihydrolipoyl dehydrogenase	1.8.1.4	lpdA	dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	CDS	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex	1.8.1.4		base_tigr	base_ec	base_ec	
+						Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex	1.8.1.4		base_both miss	base_one miss	base_one miss	
+dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex	2.3.1.12	pdhC	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes	2.3.1.12	CDS	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	2.3.1.12		base_ec	base_ec	base_ec	
+pyruvate dehydrogenase E1 component subunit beta	1.2.4.1	pdhB	Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, eukaryotic type, beta subunit	1.2.4.1	CDS	Pyruvate dehydrogenase E1 component beta subunit	1.2.4.1		base_ec	base_ec	base_ec	
+						Pyruvate dehydrogenase E1 component beta subunit	1.2.4.1		base_both miss	base_one miss	base_one miss	
+pyruvate dehydrogenase (acetyl-transferring) E1 component, alpha subunit	1.2.4.1	pdhA	pyruvate dehydrogenase E1 component, alpha subunit	1.2.4.1	CDS	Pyruvate dehydrogenase E1 component alpha subunit	1.2.4.1		base_tigr	base_ec	base_ec	
+						Pyruvate dehydrogenase E1 component alpha subunit	1.2.4.1		base_both miss	base_one miss	base_one miss	
+						Pyruvate dehydrogenase E1 component alpha subunit	1.2.4.1		base_both miss	base_one miss	base_one miss	
+pyridine nucleotide-disulfide oxidoreductase family protein			Uncharacterized NAD(FAD)-dependent dehydrogenases	1.6.99.3	CDS	NADH oxidase	1.6.99.3		0	0	base_ec	
+						NADH oxidase	1.6.99.3		base_both miss	base_one miss	base_one miss	
+adenine phosphoribosyltransferase	2.4.2.7	apt	adenine phosphoribosyltransferase (EC 2.4.2.7)	2.4.2.7	CDS	Adenine phosphoribosyltransferase	2.4.2.7		base_tigr	base_ec	base_ec	
+putative membrane protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+						Uncharacterized protein MG277 homolog			base_both miss	base_one miss	base_one miss	
+						Uncharacterized protein MG277 homolog			base_both miss	base_one miss	base_one miss	
+						Uncharacterized protein MG277 homolog			base_both miss	base_one miss	base_one miss	
+						Uncharacterized protein MG277 homolog			base_both miss	base_one miss	base_one miss	
+						"GTP pyrophosphokinase, (p)ppGpp synthetase I"	2.7.6.5		base_both miss	base_one miss	base_one miss	
+						"GTP pyrophosphokinase, (p)ppGpp synthetase I"	2.7.6.5		base_both miss	base_one miss	base_one miss	
+						"GTP pyrophosphokinase, (p)ppGpp synthetase I"	2.7.6.5		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835895: hypothetical protein			lit-s	base_one HP	base_one HP	
+relA/SpoT family protein			(p)ppGpp synthetase, RelA/SpoT family	2.7.6.5	CDS				base_tigr	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834342: hypothetical protein			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835825: hypothetical protein			lit-s	base_one HP	base_one HP	
+						FIG00835825: hypothetical protein			base_both miss	base_one miss	base_one miss	
+transcription elongation factor GreA domain protein		greA	transcription elongation factor GreA		CDS	Transcription elongation factor GreA			base_tigr	lit-s	lit-s	
+						"Prolyl-tRNA synthetase, archaeal/eukaryal type"	6.1.1.15		base_both miss	base_one miss	base_one miss	
+proline--tRNA ligase	6.1.1.15	proS	prolyl-tRNA synthetase (EC 6.1.1.15)	6.1.1.15	CDS	"Prolyl-tRNA synthetase, archaeal/eukaryal type"	6.1.1.15		base_tigr	base_ec	base_ec	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+						FIG00835610: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835610: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835610: hypothetical protein			lit-s	base_one HP	base_one HP	
+						FIG00834673: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+phosphopantetheine attachment site family protein			Acyl carrier protein		CDS	Acyl carrier protein			0	0	base_lit-s	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+putative adhesin-like protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+mycoplasma adhesin P1 family protein			Mycoplasma adhesin P1.		CDS	hypothetical protein			lit-s	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+conserved hypothetical protein			MG032/MG096/MG288 family 1./MG032/MG096/MG288 family 2.		CDS	membrane export protein family			base_one HP	base_one HP	0	
+mgpC family protein			MgpC protein precursor.		CDS	hypothetical protein			0	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	hypothetical protein			lit-s	lit-s	base_lit-s	
+						FIG00834143: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834143: hypothetical protein			base_both miss	base_one miss	base_one miss	
+high affinity transport system protein p37		p37	High affinity transport system protein p37.		CDS	FIG00834143: hypothetical protein			lit-s	0	0	
+						Phosphonate ABC transporter ATP-binding protein (TC 3.A.1.9.1)			base_both miss	base_one miss	base_one miss	
+ABC transporter family protein			ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components	3.6.3.28	CDS	Phosphonate ABC transporter ATP-binding protein (TC 3.A.1.9.1)			0	0	0	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						Transport system permease protein p69			base_both miss	base_one miss	base_one miss	
+						Transport system permease protein p69			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			RNAse H-fold protein YqgF	3.1.-	CDS	Putative Holliday junction resolvase YggF			base_one HP	base_one HP	0	
+putative membrane protein			ABC-type phosphate/phosphonate transport system, permease component		CDS	Transport system permease protein p69			0	0	0	
+alanine--tRNA ligase	6.1.1.7	alaS	alanyl-tRNA synthetase (EC 6.1.1.7)	6.1.1.7	CDS	Alanyl-tRNA synthetase	6.1.1.7		base_tigr	base_ec	base_ec	
+						Alanyl-tRNA synthetase	6.1.1.7		base_both miss	base_one miss	base_one miss	
+						Alanyl-tRNA synthetase	6.1.1.7		base_both miss	base_one miss	base_one miss	
+						Alanyl-tRNA synthetase	6.1.1.7		base_both miss	base_one miss	base_one miss	
+						Alanyl-tRNA synthetase	6.1.1.7		base_both miss	base_one miss	base_one miss	
+glycerophosphoryl diester phosphodiesterase family protein			Glycerophosphoryl diester phosphodiesterase	3.1.4.46	CDS				lit-s	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						Glycerophosphoryl diester phosphodiesterase	3.1.4.46		base_both miss	base_one miss	base_one miss	
+major Facilitator Superfamily protein			Major Facilitator Superfamily.		CDS				lit-s	base_one miss	base_one miss	
+						permease			base_both miss	base_one miss	base_one miss	
+						permease			base_both miss	base_one miss	base_one miss	
+						permease			base_both miss	base_one miss	base_one miss	
+						permease			base_both miss	base_one miss	base_one miss	
+tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	2.1.1.61	trmU	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	2.8.1.-,2.1.1.61	CDS	tRNA-specific 2-thiouridylase MnmA			base_lit-s	gs-sh	gs-sh	
+						tRNA-specific 2-thiouridylase MnmA			base_both miss	base_one miss	base_one miss	
+						tRNA-specific 2-thiouridylase MnmA			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Mg296 protein.		CDS	FIG00835486: hypothetical protein			base_one HP	base_one HP	0	
+signal recognition particle-docking protein FtsY		ftsY	signal recognition particle-docking protein FtsY		CDS	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)			base_lit-s	gs-sh	gs-sh	
+						Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)			base_both miss	base_one miss	base_one miss	
+chromosome segregation protein SMC		smc	condensin subunit Smc		CDS	Chromosome partition protein smc			gs-sh	gs-sh	gs-sh	
+						Chromosome partition protein smc			base_both miss	base_one miss	base_one miss	
+						Chromosome partition protein smc			base_both miss	base_one miss	base_one miss	
+phosphate acetyltransferase	2.3.1.8	pta	phosphotransacetylase (EC 2.3.1.8)	2.3.1.8	CDS				base_tigr	base_one miss	base_one miss	
+						Phosphate acetyltransferase	2.3.1.8		base_both miss	base_one miss	base_one miss	
+phosphoglycerate kinase	2.7.2.3	pgk	phosphoglycerate kinase (EC 2.7.2.3)	2.7.2.3	CDS				base_ec	base_one miss	base_one miss	
+						Phosphoglycerate kinase	2.7.2.3		base_both miss	base_one miss	base_one miss	
+glyceraldehyde-3-phosphate dehydrogenase, type I	1.2.1.-	gap	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (EC 1.2.1.12)	1.2.1.12	CDS	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase	1.2.1.12		base_tigr	gs-sh	base_ec	
+cobalt transport family protein			ABC-type cobalt transport system, permease component CbiQ and related transporters		CDS				0	base_one miss	base_one miss	
+						Transmembrane component of general energizing module of ECF transporters			base_both miss	base_one miss	base_one miss	
+ABC transporter family protein			ABC-type cobalt transport system, ATPase component		CDS	ATPase component of general energizing module of ECF transporters			0	0	0	
+ABC transporter family protein			ABC-type cobalt transport system, ATPase component		CDS	ATPase component of general energizing module of ECF transporters			0	0	0	
+chaperone protein DnaK		dnaK	chaperone protein DnaK		CDS				base_lit-s	base_one miss	base_one miss	
+						Chaperone protein DnaK			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Predicted integral membrane protein		CDS				base_one HP	base_one HP	base_one miss	
+						Permease			base_both miss	base_one miss	base_one miss	
+						Permease			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Protein of unknown function (DUF3713).		CDS	FIG00835342: hypothetical protein			base_one HP	base_one HP	lit-s	
+						FIG00835342: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835342: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835342: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835342: hypothetical protein			base_both miss	base_one miss	base_one miss	
+DEAD/DEAH box helicase family protein			Superfamily II DNA and RNA helicases		CDS				0	base_one miss	base_one miss	
+						FIG00834919: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834919: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+conserved hypothetical protein			Protein of unknown function (DUF3713).		CDS				base_one HP	base_one HP	base_one miss	
+						FIG00835298: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835298: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835298: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						COG0596: Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)			base_both miss	base_one miss	base_one miss	
+						COG0596: Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)			base_both miss	base_one miss	base_one miss	
+alpha/beta hydrolase fold family protein			Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)		CDS				0	base_one miss	base_one miss	
+ribosomal protein S4		rpsD	SSU ribosomal protein S4P		CDS				base_tigr	base_one miss	base_one miss	
+						SSU ribosomal protein S4p (S9e)			base_both miss	base_one miss	base_one miss	
+cytadherence high molecular weight protein 1 N-terminal region		hmw1	cytadherence high molecular weight protein 1 N-terminal region		CDS	cytadherence accessory protein HMW1			base_lit-s	0	0	
+						cytadherence accessory protein HMW1			base_both miss	base_one miss	base_one miss	
+ECF-type riboflavin transporter, S component family protein			Protein of unknown function (DUF3816).		CDS	Substrate-specific component FolT of folate ECF transporter			0	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835371: hypothetical protein			lit-s	base_one HP	base_one HP	
+						FIG00835371: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835371: hypothetical protein			base_both miss	base_one miss	base_one miss	
+DNA polymerase III, delta subunit			DNA polymerase III, delta subunit (EC 2.7.7.7)	2.7.7.7	CDS	DNA polymerase III delta subunit	2.7.7.7		lit-s	lit-s	base_ec	
+						DNA polymerase III delta subunit	2.7.7.7		base_both miss	base_one miss	base_one miss	
+comEC/Rec2-related domain protein			ComEC/Rec2-related protein		CDS				base_tigr	base_one miss	base_one miss	
+						"competence locus operon protein 3 homolog; similar to Swiss-Prot Accession Number P39695, from B. subtilis"			base_both miss	base_one miss	base_one miss	
+cytadherence high molecular weight protein 3		hmw3	hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+						FIG00835827: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835827: hypothetical protein			base_both miss	base_one miss	base_one miss	
+cytadhesin P30/P32 family protein			ABC-type phosphate transport system, permease component		CDS	Twitching motility protein PilT			0	0	gs-sh	
+						Twitching motility protein PilT			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835782: hypothetical protein			lit-s	base_one HP	base_one HP	
+putative membrane protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+						FIG00835407: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835407: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+						FIG00833974: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00833974: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+cation transport family protein			Trk-type K+ transport systems, membrane components		CDS	"potassium uptake protein, TrkH family, putative"			0	0	0	
+trkA-C domain protein			K+ transport systems, NAD-binding component		CDS	TrkA			gs-sh	gs-sh	gs-sh	
+									base_both miss	base_both miss	base_both miss	
+									base_both miss	base_both miss	base_both miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+						FIG00836312: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836312: hypothetical protein			base_both miss	base_one miss	base_one miss	
+putative Xaa-Pro aminopeptidase			Xaa-Pro aminopeptidase		CDS				lit-s	base_one miss	base_one miss	
+						"Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)"			base_both miss	base_one miss	base_one miss	
+						"Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)"			base_both miss	base_one miss	base_one miss	
+ribosomal protein L33		rpmG	LSU ribosomal protein L33P		CDS	50S ribosomal protein L33			base_tigr	orth	map	
+conserved hypothetical protein			EDD domain protein, DegV family		CDS	DegV family protein			base_one HP	base_one HP	pfam-sh	
+						DegV family protein			base_both miss	base_one miss	base_one miss	
+phospholipase/Carboxylesterase family protein			Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)		CDS	Triacylglycerol lipase	3.1.1.3		0	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00833893: hypothetical protein			lit-s	base_one HP	base_one HP	
+						FIG00833893: hypothetical protein			base_both miss	base_one miss	base_one miss	
+ribosome-associated GTPase EngA		engA	ribosome-associated GTPase EngA		CDS	GTP-binding protein EngA			base_lit-s	0	0	
+cytidylate kinase	2.7.4.14	cmk	cytidylate kinase (EC 2.7.4.14)	2.7.4.14	CDS	Cytidylate kinase	2.7.4.14		base_tigr	base_ec	base_ec	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						FIG00833967: hypothetical protein			base_both miss	base_one miss	base_one miss	
+DNA-binding regulatory , YebC/PmpR family protein			DNA-binding regulatory protein, YebC/PmpR family		CDS	FIG000859: hypothetical protein YebC			base_tigr	0	0	
+NADPH-dependent FMN reductase family protein			Acyl carrier protein phosphodiesterase	1.7.-	CDS	FMN-dependent NADH-azoreductase			0	0	orth	
+						FMN-dependent NADH-azoreductase			base_both miss	base_one miss	base_one miss	
+valine--tRNA ligase	6.1.1.9	valS	valyl-tRNA synthetase (EC 6.1.1.9)	6.1.1.9	CDS				base_tigr	base_one miss	base_one miss	
+						Valyl-tRNA synthetase	6.1.1.9		base_both miss	base_one miss	base_one miss	
+						Valyl-tRNA synthetase	6.1.1.9		base_both miss	base_one miss	base_one miss	
+						Valyl-tRNA synthetase	6.1.1.9		base_both miss	base_one miss	base_one miss	
+ribosome biogenesis GTP-binding protein YsxC		ysxC	ribosome biogenesis GTP-binding protein YsxC/EngB		CDS	GTP-binding protein EngB			gs-sh	0	0	
+conserved hypothetical protein			Uncharacterized protein conserved in bacteria		CDS	M. genitalium predicted coding region MG335.1			base_one HP	base_one HP	0	
+						Uncharacterized glycosyltransferase MG335.2	2.-.-.-		base_both miss	base_one miss	base_one miss	
+						Uncharacterized glycosyltransferase MG335.2	2.-.-.-		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Glycosyltransferases involved in cell wall biogenesis		CDS	Uncharacterized glycosyltransferase MG335.2	2.-.-.-		base_one HP	base_one HP	orth	
+						"Cysteine desulfurase, SufS subfamily"	2.8.1.7		base_both miss	base_one miss	base_one miss	
+putative cysteine desulfurase			Selenocysteine lyase	4.4.1.16, 2.8.1.7	CDS	"Cysteine desulfurase, SufS subfamily"	2.8.1.7		0	tf_idf	base_ec-d	
+conserved hypothetical protein			Protein of unknown function (DUF3713).		CDS	FIG00836572: hypothetical protein			base_one HP	base_one HP	lit-s	
+nifU-like N terminal domain protein			NifU homolog involved in Fe-S cluster formation		CDS	"Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2"			gs-sh	0	0	
+						FIG00836572: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836572: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836572: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836572: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836572: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836572: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836572: hypothetical protein			base_both miss	base_one miss	base_one miss	
+protein RecA		recA	RecA protein		CDS	RecA protein			base_tigr	lit-s	base_lit-s	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+mgpC family protein			MgpC protein precursor.		CDS	hypothetical protein			0	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+hypothetical protein			hypothetical protein		CDS	hypothetical protein			base_lit-s	base_lit-s	base_lit-s	
+						MgPa adhesin			base_both miss	base_one miss	base_one miss	
+DNA-directed RNA polymerase, beta' subunit	2.7.7.6	rpoC	DNA-directed RNA polymerase, beta' subunit, predominant form	2.7.7.6	CDS	DNA-directed RNA polymerase beta' subunit	2.7.7.6		base_tigr	base_ec	base_ec	
+mycoplasma adhesin P1 family protein			Mycoplasma adhesin P1.		CDS				lit-s	base_one miss	base_one miss	
+						DNA-directed RNA polymerase beta' subunit	2.7.7.6		base_both miss	base_one miss	base_one miss	
+DNA-directed RNA polymerase, beta subunit	2.7.7.6	rpoB	DNA-directed RNA polymerase, beta subunit	2.7.7.6	CDS	DNA-directed RNA polymerase beta subunit	2.7.7.6		base_lit-s	base_ec	base_ec	
+						DNA-directed RNA polymerase beta subunit	2.7.7.6		base_both miss	base_one miss	base_one miss	
+						DNA-directed RNA polymerase beta subunit	2.7.7.6		base_both miss	base_one miss	base_one miss	
+NADPH-dependent FMN reductase family protein			Predicted flavoprotein		CDS	suggest reductase homologue			0	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834086: hypothetical protein			lit-s	base_one HP	base_one HP	
+						FIG00834086: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834086: hypothetical protein			base_both miss	base_one miss	base_one miss	
+alpha/beta hydrolase fold family protein			Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)		CDS	"lipase/esterase, putative"			0	0	0	
+						"lipase/esterase, putative"			base_both miss	base_one miss	base_one miss	
+						"lipase/esterase, putative"			base_both miss	base_one miss	base_one miss	
+isoleucine--tRNA ligase	6.1.1.5	ileS	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	6.1.1.5	CDS				base_tigr	base_one miss	base_one miss	
+						Isoleucyl-tRNA synthetase	6.1.1.5		base_both miss	base_one miss	base_one miss	
+						Isoleucyl-tRNA synthetase	6.1.1.5		base_both miss	base_one miss	base_one miss	
+						Isoleucyl-tRNA synthetase	6.1.1.5		base_both miss	base_one miss	base_one miss	
+						Isoleucyl-tRNA synthetase	6.1.1.5		base_both miss	base_one miss	base_one miss	
+						"RNA methyltransferase, TrmH family, group 2( EC:2.1.1.- )"			base_both miss	base_one miss	base_one miss	
+tRNA (cytidine(34)-2'-O)-methyltransferase	2.1.1.207	trmL	rRNA methylase, putative, group 2	2.1.1.207	CDS				base_tigr	base_one miss	base_one miss	
+						tRNA (guanine46-N7-)-methyltransferase	2.1.1.33		base_both miss	base_one miss	base_one miss	
+tRNA (guanine-N(7)-)-methyltransferase	2.1.1.33	trmB	tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33)	2.1.1.33	CDS	tRNA (guanine46-N7-)-methyltransferase	2.1.1.33		base_tigr	base_ec	base_ec	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834811: hypothetical protein			lit-s	base_one HP	base_one HP	
+						FIG00834811: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835435: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835435: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			replicative DNA helicase loader DnaB		CDS				base_one HP	base_one HP	base_one miss	
+						FIG00836804: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00836804: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+putative membrane protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+						putative membrane integrated oxidoreductase			base_both miss	base_one miss	base_one miss	
+						Inorganic pyrophosphatase	3.6.1.1		base_both miss	base_one miss	base_one miss	
+						Inorganic pyrophosphatase	3.6.1.1		base_both miss	base_one miss	base_one miss	
+inorganic pyrophosphatase domain protein	3.6.1.1	ppa	Inorganic pyrophosphatase	3.6.1.1	CDS				base_ec	base_one miss	base_one miss	
+						recombination protein U			base_both miss	base_one miss	base_one miss	
+bacterial DNA-binding family protein			Bacterial nucleoid DNA-binding protein		CDS				0	base_one miss	base_one miss	
+recombination protein U	3.1.-.-	recU	recombination protein U		CDS	recombination protein U			base_lit-s	base_lit-s	base_lit-s	
+						bacterial histone like protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Domain of unknown function (DUF1951).		CDS	FIG00835180: hypothetical protein			base_one HP	base_one HP	lit-s	
+chaperone protein ClpB		clpB	ATPases with chaperone activity, ATP-binding subunit		CDS	ClpB protein			gs-sh	gs-sh	map	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						ClpB protein			base_both miss	base_one miss	base_one miss	
+						ClpB protein			base_both miss	base_one miss	base_one miss	
+phosphotransferase enzyme family protein			Predicted choline kinase involved in LPS biosynthesis		CDS				0	base_one miss	base_one miss	
+						MGA_0931; [M] COG0510 Predicted choline kinase involved in LPS biosynthesis; pfam01636 Phosphotransferase enzyme family; MGR_183			base_both miss	base_one miss	base_one miss	
+acetate kinase	2.7.2.1	ackA	acetate kinase (EC 2.7.2.1)	2.7.2.1	CDS	Acetate kinase	2.7.2.1		base_tigr	base_ec	base_ec	
+						Acetate kinase	2.7.2.1		base_both miss	base_one miss	base_one miss	
+putative membrane protein			hypothetical protein		CDS	FIG00835677: hypothetical protein			base_one HP	0	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	hypothetical protein			lit-s	lit-s	base_lit-s	
+holliday junction DNA helicase RuvA	3.6.4.12	ruvA	Holliday junction DNA helicase subunit RuvA	3.6.4.12	CDS	Holliday junction DNA helicase RuvA			base_tigr	lit-s	lit-s	
+impB/mucB/samB family protein			Nucleotidyltransferase/DNA polymerase involved in DNA repair	2.7.7.7	CDS	DNA polymerase IV	2.7.7.7		gs-sh	gs-sh	base_ec	
+holliday junction DNA helicase RuvB	3.6.4.12	ruvB	Holliday junction DNA helicase subunit RuvB	3.6.4.12	CDS	Holliday junction DNA helicase RuvB			base_tigr	lit-s	lit-s	
+						DNA polymerase IV	2.7.7.7		base_both miss	base_one miss	base_one miss	
+ribosomal L10 family protein			LSU ribosomal protein L10P		CDS	LSU ribosomal protein L10p (P0)			0	0	0	
+ribosomal protein L7/L12		rplL	LSU ribosomal protein L12P		CDS	LSU ribosomal protein L7/L12 (P1/P2)			base_tigr	0	0	
+ribosomal protein L32		rpmF	LSU ribosomal protein L32P		CDS	LSU ribosomal protein L32p			base_tigr	map	lit-s	
+ribosomal protein S20		rpsT	SSU ribosomal protein S20P		CDS	SSU ribosomal protein S20p			base_tigr	map	lit-s	
+						FIG00834055: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834055: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834055: hypothetical protein			lit-s	base_one HP	base_one HP	
+						Methionyl-tRNA formyltransferase	2.1.2.9		base_both miss	base_one miss	base_one miss	
+methionyl-tRNA formyltransferase	2.1.2.9	fmt	methionyl-tRNA formyltransferase (EC 2.1.2.9)	2.1.2.9	CDS				base_tigr	base_one miss	base_one miss	
+						FIG00834704: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834704: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Domain of unknown function(DUF2779).		CDS				base_one HP	base_one HP	base_one miss	
+ribonuclease III	3.1.26.3	rnc	RNAse III (EC 3.1.26.3)	3.1.26.3	CDS	Ribonuclease III	3.1.26.3		base_tigr	base_ec	base_ec	
+						Ribonuclease III	3.1.26.3		base_both miss	base_one miss	base_one miss	
+fatty acid/phospholipid synthesis protein PlsX		plsX	phosphate:acyl-[acyl carrier protein] acyltransferase	2.3.1.15	CDS	Phosphate:acyl-ACP acyltransferase PlsX			base_tigr	gs-sh	gs-sh	
+DAK2 domain fusion YloV family protein			DAK2 domain fusion protein YloV		CDS	Dihydroxyacetone kinase family protein			base_tigr	0	0	
+						Dihydroxyacetone kinase family protein			base_both miss	base_one miss	base_one miss	
+pseudouridine synthase, RluA family protein	5.4.99.-		pseudouridine synthase, RluA family	5.4.99.24	CDS	Ribosomal large subunit pseudouridine synthase C	4.2.1.70		base_tigr	tf_idf	base_ec-d	
+						Ribosomal large subunit pseudouridine synthase C	4.2.1.70		base_both miss	base_one miss	base_one miss	
+DHHA1 domain protein			Exopolyphosphatase-related proteins		CDS	"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"			0	0	0	
+						"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"			base_both miss	base_one miss	base_one miss	
+						"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"			base_both miss	base_one miss	base_one miss	
+putative tRNA sulfurtransferase			thiazole biosynthesis/tRNA modification protein ThiI		CDS	tRNA S(4)U 4-thiouridine synthase (former ThiI)			gs-sh	gs-sh	pfam-sh	
+conserved hypothetical protein			YqaJ-like viral recombinase domain.		CDS				base_one HP	base_one HP	base_one miss	
+						FIG00835489: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835489: hypothetical protein			base_both miss	base_one miss	base_one miss	
+haloacid dehalogenase-like hydrolase family protein			haloacid dehalogenase-like hydrolase.		CDS	hypothetical protein			lit-s	base_one HP	base_one HP	
+threonine--tRNA ligase	6.1.1.3	thrS	threonyl-tRNA synthetase (EC 6.1.1.3)	6.1.1.3	CDS	Threonyl-tRNA synthetase	6.1.1.3		base_tigr	base_ec	base_ec	
+						Threonyl-tRNA synthetase	6.1.1.3		base_both miss	base_one miss	base_one miss	
+						Threonyl-tRNA synthetase	6.1.1.3		base_both miss	base_one miss	base_one miss	
+						Threonyl-tRNA synthetase	6.1.1.3		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Protein of unknown function (DUF3217).		CDS				base_one HP	base_one HP	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834865: hypothetical protein			lit-s	base_one HP	base_one HP	
+						FIG00834865: hypothetical protein			base_both miss	base_one miss	base_one miss	
+arginine--tRNA ligase	6.1.1.19	argS	arginyl-tRNA synthetase (EC 6.1.1.19)	6.1.1.19	CDS	Arginyl-tRNA synthetase	6.1.1.19		base_tigr	base_ec	base_ec	
+						Arginyl-tRNA synthetase	6.1.1.19		base_both miss	base_one miss	base_one miss	
+						Arginyl-tRNA synthetase	6.1.1.19		base_both miss	base_one miss	base_one miss	
+						Arginyl-tRNA synthetase	6.1.1.19		base_both miss	base_one miss	base_one miss	
+						tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA			base_both miss	base_one miss	base_one miss	
+tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA		gidA	glucose-inhibited division protein A		CDS	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA			base_tigr	base_lit-s	gs-sh	
+16S rRNA (guanine(527)-N(7))-methyltransferase GidB	2.1.1.170	gidB	16S rRNA m(7)G-527 methyltransferase (EC 2.1.1.170)	2.1.1.170	CDS	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB			base_tigr	pfam-sh	gs-sh	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00836202: hypothetical protein			lit-s	base_one HP	base_one HP	
+						Uridine kinase	2.7.1.48		base_both miss	base_one miss	base_one miss	
+putative NH(3)-dependent NAD(+) synthetase			NH(3)-dependent NAD(+) synthetase (EC 6.3.1.5)	6.3.1.5	CDS	NAD synthetase	6.3.1.5		lit-s	map	base_ec	
+uridine kinase	2.7.1.48	udk	uridine kinase (EC 2.7.1.48)	2.7.1.48	CDS				base_tigr	base_one miss	base_one miss	
+						NAD synthetase	6.3.1.5		base_both miss	base_one miss	base_one miss	
+obg family GTPase CgtA		cgtA	Obg family GTPase CgtA		CDS				lit-s	base_one miss	base_one miss	
+						GTP-binding protein Obg			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00834182: hypothetical protein			lit-s	base_one HP	base_one HP	
+glycerophosphoryl diester phosphodiesterase family protein			Glycerophosphoryl diester phosphodiesterase	3.1.4.46	CDS				lit-s	base_one miss	base_one miss	
+						Glycerophosphoryl diester phosphodiesterase	3.1.4.46		base_both miss	base_one miss	base_one miss	
+protein P200		p200	EAGR box		CDS				gs-sh	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+GTP-binding protein Era		era	GTP-binding protein Era		CDS	GTP-binding protein Era			base_lit-s	base_lit-s	base_lit-s	
+						GTP-binding protein Era			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Predicted metal-dependent hydrolase		CDS				base_one HP	base_one HP	base_one miss	
+						FIG00834068: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+						FIG00834020: hypothetical protein			base_both miss	base_one miss	base_one miss	
+ABC transporter family protein			ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain		CDS	"ABC transporter, ATP-binding protein"			0	tf_idf	0	
+						"ABC transporter, ATP-binding protein"			base_both miss	base_one miss	base_one miss	
+						"ABC transporter, ATP-binding protein"			base_both miss	base_one miss	base_one miss	
+cytosol aminopeptidase family, catalytic domain protein			Leucyl aminopeptidase	3.4.11.1	CDS	Cytosol aminopeptidase PepA	3.4.11.1		map	tf_idf	base_ec	
+						Cytosol aminopeptidase PepA	3.4.11.1		base_both miss	base_one miss	base_one miss	
+chaperonin GroL		groL	chaperonin GroL		CDS	Heat shock protein 60 family chaperone GroEL			base_lit-s	0	0	
+10 kDa chaperonin		groS	Co-chaperonin GroES (HSP10)		CDS	Heat shock protein 60 family co-chaperone GroES			gs-sh	0	0	
+serine hydroxymethyltransferase family protein			serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	CDS	Serine hydroxymethyltransferase	2.1.2.1		lit-s	lit-s	base_ec	
+						Serine hydroxymethyltransferase	2.1.2.1		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Putative peptidase (DUF31).		CDS	"lipoprotein, putative"			base_one HP	base_one HP	0	
+						"lipoprotein, putative"			base_both miss	base_one miss	base_one miss	
+putative membrane protein			hypothetical protein		CDS				base_one HP	base_one miss	base_one HP	
+ribose 5-phosphate isomerase B	5.3.1.6	rpiB	ribose-5-phosphate isomerase (EC 5.3.1.6)	5.3.1.6	CDS	Ribose 5-phosphate isomerase B	5.3.1.6		base_ec	base_ec	base_ec	
+conserved hypothetical protein			Negative regulator of septation ring formation		CDS	FIG00835181: hypothetical protein			base_one HP	base_one HP	0	
+						FIG00835181: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835181: hypothetical protein			base_both miss	base_one miss	base_one miss	
+ATP synthase, Delta/Epsilon chain, beta-sandwich domain protein			F0F1-type ATP synthase, epsilon subunit (mitochondrial delta subunit)	3.6.3.14	CDS	ATP synthase epsilon chain	3.6.3.14		0	0	base_ec	
+ATP synthase F1, beta subunit	3.6.3.14	atpD	ATP synthase F1 subcomplex beta subunit	3.6.3.14	CDS	ATP synthase beta chain	3.6.3.14		base_tigr	base_ec	base_ec	
+ATP synthase F1, gamma subunit	3.6.3.14	atpG	ATP synthase, F1 gamma subunit	3.6.3.14	CDS	ATP synthase gamma chain	3.6.3.14		base_tigr	base_ec	base_ec	
+						ATP synthase gamma chain	3.6.3.14		base_both miss	base_one miss	base_one miss	
+ATP synthase F1, alpha subunit	3.6.3.14	atpA	proton translocating ATP synthase, F1 alpha subunit	3.6.3.14	CDS	ATP synthase alpha chain	3.6.3.14		base_tigr	base_ec	base_ec	
+						ATP synthase alpha chain	3.6.3.14		base_both miss	base_one miss	base_one miss	
+ATP synthase F1, delta subunit	3.6.3.14	atpH	ATP synthase F1 subcomplex delta subunit	3.6.3.14	CDS	ATP synthase delta chain	3.6.3.14		base_tigr	base_ec	base_ec	
+ATP synthase F0, B subunit	3.6.3.14	atpF	ATP synthase, F0 subunit b	3.6.3.14	CDS	ATP synthase B chain	3.6.3.14		base_tigr	base_ec	base_ec	
+ATP synthase F0, C subunit	3.6.3.14	atpE	ATP synthase F0 subcomplex C subunit	3.6.3.14	CDS	ATP synthase C chain	3.6.3.14		base_tigr	base_ec	base_ec	
+ATP synthase A chain family protein			F0F1-type ATP synthase, subunit a	3.6.3.14	CDS	ATP synthase A chain	3.6.3.14		tf_idf	lit-s	base_ec	
+						ATP synthase A chain	3.6.3.14		base_both miss	base_one miss	base_one miss	
+phosphopyruvate hydratase	4.2.1.11	eno	enolase (EC 4.2.1.11)	4.2.1.11	CDS				base_tigr	base_one miss	base_one miss	
+hypothetical protein			hypothetical protein		CDS	hypothetical protein			base_lit-s	base_lit-s	base_lit-s	
+						Enolase	4.2.1.11		base_both miss	base_one miss	base_one miss	
+						Enolase	4.2.1.11		base_both miss	base_one miss	base_one miss	
+phosphate transport system regulatory protein PhoU		phoU	phosphate transport system regulatory protein PhoU		CDS	Phosphate transport system regulatory protein PhoU			base_lit-s	lit-s	lit-s	
+peptide methionine sulfoxide reductase MsrA	1.8.4.11	msrA	methionine-S-sulfoxide reductase	1.8.4.11	CDS				base_ec	base_one miss	base_one miss	
+phosphate ABC transporter, ATP-binding protein	3.6.3.27	pstB	phosphate ABC transporter ATP-binding protein, PhoT family (TC 3.A.1.7.1)	3.6.3.27	CDS	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)			base_tigr	gs-sh	gs-sh	
+						Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)			base_both miss	base_one miss	base_one miss	
+						Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)			base_both miss	base_one miss	base_one miss	
+phosphate ABC transporter, permease protein PstC		pstC	phosphate ABC transporter membrane protein 2, PhoT family (TC 3.A.1.7.1)		CDS	Phosphate transport system permease protein PstA (TC 3.A.1.7.1) / Phosphate transport system permease protein PstC (TC 3.A.1.7.1)			gs-sh	gs-sh	gs-sh	
+						Phosphate transport system permease protein PstA (TC 3.A.1.7.1) / Phosphate transport system permease protein PstC (TC 3.A.1.7.1)			base_both miss	base_one miss	base_one miss	
+						Phosphate transport system permease protein PstA (TC 3.A.1.7.1) / Phosphate transport system permease protein PstC (TC 3.A.1.7.1)			base_both miss	base_one miss	base_one miss	
+						Phosphate transport system permease protein PstA (TC 3.A.1.7.1) / Phosphate transport system permease protein PstC (TC 3.A.1.7.1)			base_both miss	base_one miss	base_one miss	
+PBP superfamily domain protein			phosphate ABC transporter substrate-binding protein, PhoT family (TC 3.A.1.7.1)		CDS				0	base_one miss	base_one miss	
+						Putative periplasmic phosphate-binding protein PstS (Mycoplasma type)			base_both miss	base_one miss	base_one miss	
+						Putative periplasmic phosphate-binding protein PstS (Mycoplasma type)			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+						FIG00834245: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834245: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834245: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834245: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+						FIG00834984: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834984: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00834984: hypothetical protein			base_both miss	base_one miss	base_one miss	
+30S ribosomal protein S9		rpsI	SSU ribosomal protein S9P		CDS	SSU ribosomal protein S9p (S16e)			gs-sh	0	0	
+ribosomal protein L13		rplM	LSU ribosomal protein L13P		CDS				base_tigr	base_one miss	base_one miss	
+						LSU ribosomal protein L13p (L13Ae)			base_both miss	base_one miss	base_one miss	
+						LSU ribosomal protein L13p (L13Ae)			base_both miss	base_one miss	base_one miss	
+DNA polymerase III, subunit gamma and tau	2.7.7.7	dnaX	DNA polymerase III, subunit gamma and tau	2.7.7.7	CDS	DNA polymerase III subunits gamma and tau	2.7.7.7		base_lit-s	base_ec	base_ec	
+						DNA polymerase III subunits gamma and tau	2.7.7.7		base_both miss	base_one miss	base_one miss	
+						DNA polymerase III subunits gamma and tau	2.7.7.7		base_both miss	base_one miss	base_one miss	
+excinuclease ABC subunit A	3.1.25.-	uvrA	Excinuclease ABC subunit A		CDS	Excinuclease ABC subunit A			base_tigr	lit-s	base_lit-s	
+						Excinuclease ABC subunit A			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835084: hypothetical protein			lit-s	base_one HP	base_one HP	
+						FIG00835084: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						FIG00835084: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835084: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835084: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+conserved hypothetical family protein			conserved hypothetical protein		CDS	Ribonuclease J2 (endoribonuclease in RNA processing)			base_one HP	0	base_one HP	
+						Ribonuclease J2 (endoribonuclease in RNA processing)			base_both miss	base_one miss	base_one miss	
+ribosomal protein S15		rpsO	SSU ribosomal protein S15P		CDS	SSU ribosomal protein S15p (S13e)			base_tigr	0	0	
+						ATP-dependent RNA helicase DeaD			base_both miss	base_one miss	base_one miss	
+						ATP-dependent RNA helicase DeaD			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			ATP-dependent RNA helicase DbpA	3.6.4.13,5.99.1.-	CDS				base_one HP	base_one HP	base_one miss	
+ribosomal protein L28		rpmB	LSU ribosomal protein L28P		CDS	LSU ribosomal protein L28p			base_tigr	map	lit-s	
+						osmotical inducible protein C like family; inducable by osmotic stress and by organic hydroperoxides			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Predicted redox protein, regulator of disulfide bond formation		CDS				base_one HP	base_one HP	base_one miss	
+phosphoenolpyruvate-protein phosphotransferase	2.7.3.9	ptsI	phosphoenolpyruvate--protein phosphotransferase (EC 2.7.3.9)	2.7.3.9	CDS	Phosphoenolpyruvate-protein phosphotransferase of PTS system	2.7.3.9		base_ec	base_ec	base_ec	
+RNA polymerase sigma factor, sigma-70 family protein			Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain		CDS	FIG00835707: hypothetical protein			base_tigr	0	0	
+						Phosphoenolpyruvate-protein phosphotransferase of PTS system	2.7.3.9		base_both miss	base_one miss	base_one miss	
+						Phosphoenolpyruvate-protein phosphotransferase of PTS system	2.7.3.9		base_both miss	base_one miss	base_one miss	
+						Phosphoenolpyruvate-protein phosphotransferase of PTS system	2.7.3.9		base_both miss	base_one miss	base_one miss	
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase	5.4.2.1	gpmI	phosphoglycerate mutase (EC 5.4.2.1)	5.4.2.1	CDS	"2,3-bisphosphoglycerate-independent phosphoglycerate mutase"	5.4.2.1		base_tigr	base_ec	base_ec	
+triose-phosphate isomerase	5.3.1.1	tpiA	triosephosphate isomerase (EC 5.3.1.1)	5.3.1.1	CDS				base_tigr	base_one miss	base_one miss	
+						Triosephosphate isomerase	5.3.1.1		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Uncharacterized conserved protein		CDS	ABC TRANSPORTER PERMEASE PROTEIN			base_one HP	base_one HP	0	
+						ABC TRANSPORTER PERMEASE PROTEIN			base_both miss	base_one miss	base_one miss	
+						ABC TRANSPORTER PERMEASE PROTEIN			base_both miss	base_one miss	base_one miss	
+						Translation elongation factor Ts			base_both miss	base_one miss	base_one miss	
+translation elongation factor Ts		tsf	translation elongation factor Ts (EF-Ts)		CDS				base_tigr	base_one miss	base_one miss	
+UMP kinase	2.7.4.22	pyrH	uridylate kinase (EC 2.7.4.22)	2.7.4.22	CDS	Uridylate kinase	2.7.4.-		base_tigr	gs-sh	lit-s	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+ribosome recycling factor		frr	ribosome recycling factor		CDS	Ribosome recycling factor			base_lit-s	lit-s	lit-s	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+cytidylyltransferase family protein			phosphatidate cytidylyltransferase (EC 2.7.7.41)	2.7.7.41	CDS				0	base_one miss	base_one miss	
+						specificity determining subunit for restriction enzyme belonging to the K family of S proteins			base_both miss	base_one miss	base_one miss	
+putative type-1 restriction enzyme specificity protein MG438			Restriction endonuclease S subunits		CDS	specificity determining subunit for restriction enzyme belonging to the K family of S proteins			0	0	0	
+conserved hypothetical protein			Lipoprotein.		CDS	hypothetical protein			base_one HP	lit-s	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+lipofamily protein			Lipoprotein.		CDS	FIG00837396: hypothetical protein			0	0	0	
+						FIG00837396: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+ribosome biogenesis GTP-binding protein YlqF		ylqF	Ras superfamily GTP-binding protein YlqF		CDS	50S ribosomal subunit maturation GTPase RbgA (B. subtilis YlqF)			base_tigr	0	0	
+conserved hypothetical protein			Uncharacterized conserved protein		CDS	FIG00834150: hypothetical protein			base_one HP	base_one HP	lit-s	
+						FIG00834150: hypothetical protein			base_both miss	base_one miss	base_one miss	
+ribosomal protein L19		rplS	LSU ribosomal protein L19P		CDS	LSU ribosomal protein L19p			base_tigr	map	lit-s	
+tRNA (guanine(37)-N(1))-methyltransferase		trmD	tRNA (Guanine37-N(1)-) methyltransferase	2.1.1.31	CDS	tRNA (Guanine37-N1) -methyltransferase	2.1.1.31		base_tigr	gs-sh	base_ec	
+ribosomal protein S16		rpsP	SSU ribosomal protein S16P		CDS				base_tigr	base_one miss	base_one miss	
+matE family protein			Na+-driven multidrug efflux pump		CDS	Na+ driven multidrug efflux pump			gs-sh	gs-sh	orth	
+						Na+ driven multidrug efflux pump			base_both miss	base_one miss	base_one miss	
+						Na+ driven multidrug efflux pump			base_both miss	base_one miss	base_one miss	
+methionine-R-sulfoxide reductase	1.8.4.-	msrB	Conserved domain frequently associated with peptide methionine sulfoxide reductase	1.8.4.12	CDS	Peptide methionine sulfoxide reductase MsrB	1.8.4.12		base_tigr	gs-sh	base_ec	
+						Peptide methionine sulfoxide reductase MsrB	1.8.4.12		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			EMAP domain		CDS				base_one HP	base_one HP	base_one miss	
+						Phenylalanyl-tRNA synthetase domain protein (Bsu YtpR)			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+EDD, DegV family domain protein			EDD domain protein, DegV family		CDS	FIG00836367: hypothetical protein			base_tigr	0	0	
+						FIG00836367: hypothetical protein			base_both miss	base_one miss	base_one miss	
+translation elongation factor Tu		tuf	translation elongation factor 1A (EF-1A/EF-Tu)		CDS	Translation elongation factor Tu			gs-sh	lit-s	map	
+						FIG00834157: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			Protein of unknown function (DUF1600).		CDS				base_one HP	base_one HP	base_one miss	
+peroxiredoxin, Ohr subfamily protein			peroxiredoxin, Ohr subfamily		CDS	Organic hydroperoxide resistance protein			base_tigr	0	0	
+UTP-glucose-1-phosphate uridylyltransferase	2.7.7.9	galU	UDP-glucose pyrophosphorylase (EC 2.7.7.9)	2.7.7.9	CDS	UTP--glucose-1-phosphate uridylyltransferase	2.7.7.9		base_tigr	base_ec	base_ec	
+						Tyrosyl-tRNA synthetase	6.1.1.1		base_both miss	base_one miss	base_one miss	
+						Tyrosyl-tRNA synthetase	6.1.1.1		base_both miss	base_one miss	base_one miss	
+						Tyrosyl-tRNA synthetase	6.1.1.1		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835554: hypothetical protein			lit-s	base_one HP	base_one HP	
+tyrosine--tRNA ligase	6.1.1.1	tyrS	tyrosyl-tRNA synthetase (EC 6.1.1.1)	6.1.1.1	CDS				base_tigr	base_one miss	base_one miss	
+						FIG00835554: hypothetical protein			base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835097: hypothetical protein			lit-s	base_one HP	base_one HP	
+						FIG00835097: hypothetical protein			base_both miss	base_one miss	base_one miss	
+ATP-dependent zinc metalloprotease FtsH domain protein	3.4.24.-	ftsH	membrane protease FtsH catalytic subunit (EC 3.4.24.-)	3.4.24.-	CDS	Cell division protein FtsH	3.4.24.-		gs-sh	gs-sh	gs-sh	
+						Cell division protein FtsH	3.4.24.-		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	FIG00835472: hypothetical protein			lit-s	base_one HP	base_one HP	
+hypoxanthine phosphoribosyltransferase	2.4.2.8	hpt	hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)	2.4.2.8	CDS	Hypoxanthine-guanine phosphoribosyltransferase	2.4.2.8		base_tigr	base_ec	base_ec	
+ygbB family protein			2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	4.6.1.12	CDS				gs-sh	base_one miss	base_one miss	
+						"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"	4.6.1.12		base_both miss	base_one miss	base_one miss	
+conserved hypothetical protein			HD superfamily phosphohydrolases		CDS				base_one HP	base_one HP	base_one miss	
+L-lactate dehydrogenase	1.1.1.27		malate dehydrogenase (NAD)	1.1.1.27,1.1.1.37	CDS	L-lactate dehydrogenase	1.1.1.27		base_tigr	base_lit-s	base_ec-d	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						"dNTP triphosphohydrolase, putative"			base_both miss	base_one miss	base_one miss	
+glutamate--tRNA ligase	6.1.1.17	gltX	glutamyl-tRNA synthetase (EC 6.1.1.17)	6.1.1.17	CDS	Glutamyl-tRNA synthetase @ Glutamyl-tRNA(Gln) synthetase	6.1.1.17, 6.1.1.24		base_tigr	base_ec-d	base_ec-d	
+						Glutamyl-tRNA synthetase @ Glutamyl-tRNA(Gln) synthetase	6.1.1.17, 6.1.1.24		base_both miss	base_one miss	base_one miss	
+						Glutamyl-tRNA synthetase @ Glutamyl-tRNA(Gln) synthetase	6.1.1.17, 6.1.1.24		base_both miss	base_one miss	base_one miss	
+						Glutamyl-tRNA synthetase @ Glutamyl-tRNA(Gln) synthetase	6.1.1.17, 6.1.1.24		base_both miss	base_one miss	base_one miss	
+dimethyladenosine transferase	2.1.1.-	ksgA	dimethyladenosine transferase	2.1.1.182,2.1.1.-	CDS	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase	2.1.1.182		base_lit-s	gs-sh	gs-sh	
+membrane insertase, YidC/Oxa1 family domain protein		yidC	Preprotein translocase subunit YidC		CDS	"Inner membrane protein translocase component YidC, long form"			base_tigr	gs-sh	gs-sh	
+						"Inner membrane protein translocase component YidC, long form"			base_both miss	base_one miss	base_one miss	
+ribonuclease P protein component	3.1.26.5	rnpA	ribonuclease P protein component, eubacterial	3.1.26.5	CDS				base_tigr	base_one miss	base_one miss	
+ABC transporter family protein			ABC-type antimicrobial peptide transport system, ATPase component		CDS	"ABC transporter, ATP-binding protein"			0	0	0	
+conserved hypothetical protein			ABC-type antimicrobial peptide transport system, permease component		CDS				base_one HP	base_one HP	base_one miss	
+						FIG00835159: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835159: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835159: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835159: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						FIG00835159: hypothetical protein			base_both miss	base_one miss	base_one miss	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+						FIG00835159: hypothetical protein			base_both miss	base_one miss	base_one miss	
+ABC transporter family protein			ABC-type antimicrobial peptide transport system, ATPase component		CDS				0	base_one miss	base_one miss	
+						"ABC transporter, ATP-binding protein"			base_both miss	base_one miss	base_one miss	
+chromosomal replication initiator protein DnaA		dnaA	chromosomal replication initiator protein DnaA		CDS	Chromosomal replication initiator protein DnaA			base_lit-s	lit-s	lit-s	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+						FIG00835492: hypothetical protein			base_both miss	base_one miss	base_one miss	
+cobQ/CobB/MinD/ParA nucleotide binding domain protein			ATPases involved in chromosome partitioning		CDS	ParA/Soj			gs-sh	pfam-sh	gs-sh	

@@ -1,0 +1,892 @@
+kinase/pyrophosphorylase family protein			PF03618.9
+thioredoxin		trxA	TIGR01068
+ABC transporter family protein			PF00005.22
+ABC-2 type transporter family protein			PF01061.19
+conserved hypothetical protein			UniRef100_Q9ZED7
+pyridine nucleotide-disulfide oxidoreductase family protein			PF07992.9
+acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase	2.3.1.129	lpxA	TIGR01852
+beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ	4.2.1.-	fabZ	TIGR01750
+UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	2.3.1.-	lpxD	TIGR01853
+TIM-barrel , nifR3 family protein			TIGR00737
+rickettsial palindromic element RPE3 domain protein			TIGR03775
+conserved hypothetical protein			PF02367.12
+periplasmic solute binding family protein			PF01297.12
+poly A polymerase head domain protein			PF01743.15
+conserved hypothetical protein			UniRef100_Q9ZEC7
+conserved hypothetical protein			UniRef100_Q9ZEC6
+outer membrane autotransporter barrel domain protein			TIGR01414
+hypothetical protein			default
+ATP synthase B/B' CF family protein			PF00430.13
+ATP synthase B/B' CF family protein			PF00430.13
+ATP synthase subunit C family protein			PF00137.16
+ATP synthase F0, A subunit	3.6.3.14	atpB	TIGR01131
+F0F1-ATPase subunit family protein			PF09527.5
+thioredoxin family protein			PF13462.1
+carD-like/TRCF domain protein			PF02559.11
+putative methyltransferase regulatory domain protein			PF10119.4
+methyltransferase domain protein			PF08242.7
+DNA replication and repair RecF family protein		recF	TIGR00611
+conserved hypothetical protein			UniRef100_Q7PAE7
+SCO1/SenC family protein			PF02630.9
+conserved hypothetical protein			PF02622.10
+colicin V production family protein			PF02674.11
+conserved hypothetical protein			PF10871.3
+acetoacetyl-CoA reductase family protein	1.1.1.36	phbB	TIGR01829
+ATP-dependent chaperone protein ClpB		clpB	TIGR03346
+metallohydrolase, glycoprotease/Kae1 family protein			TIGR00329
+fatty acid desaturase family protein			PF00487.19
+ribosomal protein S6		rpsF	TIGR00166
+ribosomal protein S18		rpsR	TIGR00165
+ribosomal protein L9		rplI	TIGR00158
+tRNA(Ile)-lysidine synthetase	6.3.4.-	tilS	TIGR02432
+ATP-dependent metallopeptidase HflB family protein	3.4.24.-	hflB	TIGR01241
+succinate dehydrogenase and fumarate reductase iron-sulfur family protein			TIGR00384
+S-adenosyl-L-methionine-dependent methyltransferase family protein			PF02636.12
+prolipoprotein diacylglyceryl transferase	2.4.99.-	lgt	TIGR00544
+mechanosensitive ion channel family protein			PF00924.13
+membrane protein insertase, YidC/Oxa1 family, N-terminal domain		yidC	TIGR03593
+CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	pgsA	TIGR00560
+conserved hypothetical protein			UniRef100_Q92JJ1
+conserved hypothetical protein			UniRef100_Q9ZE94
+conserved hypothetical protein			UniRef100_Q9ZE93
+ADP,ATP carrier protein 1		tlcA	UniRef100_P19568
+major Facilitator Superfamily protein			PF07690.11
+nucleoside diphosphate kinase family protein			PF00334.14
+tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA		gidA	TIGR00136
+16S rRNA (guanine(527)-N(7))-methyltransferase GidB	2.1.1.170	gidB	TIGR00138
+cobQ/CobB/MinD/ParA nucleotide binding domain protein			PF01656.18
+parB/RepB/Spo0J family partition domain protein			TIGR00180
+heme ABC exporter, ATP-binding protein CcmA	3.6.3.41	ccmA	TIGR01189
+conserved hypothetical protein			PF10878.3
+3-deoxy-8-phosphooctulonate synthase	2.5.1.55	kdsA	TIGR01362
+iron-sulfur cluster assembly accessory family protein			TIGR00049
+dGTPase family protein	3.1.5.1	dgt	TIGR01353
+arginine--tRNA ligase	6.1.1.19	argS	TIGR00456
+sporulation related domain protein			PF05036.8
+DNA topoisomerase IV, A subunit	5.99.1.-	parC	TIGR01062
+gram-negative porin family protein			PF13609.1
+deoxycytidine triphosphate deaminase	3.5.4.13	dcd	TIGR02274
+protein-export chaperone SecB		secB	TIGR00809
+cell cycle transcriptional regulator CtrA		ctrA	UniRef100_B8H358
+queuine synthase	1.7.1.13	queF	TIGR03138
+conserved hypothetical protein			PF06242.6
+NAD(P) transhydrogenase subunit beta	1.6.1.2	pntB	UniRef100_Q2RSB4
+ompW family protein			PF03922.9
+S-adenosylmethionine uptake transporter		sam	UniRef100_Q9ZE70
+sugar (and other) transporter family protein			PF00083.19
+preprotein translocase, SecG subunit		secG	TIGR00810
+outer membrane autotransporter barrel domain protein			TIGR01414
+conserved hypothetical protein			UniRef100_Q9ZE65
+conserved hypothetical protein			UniRef100_Q9ZE64
+conserved hypothetical protein			UniRef100_Q9ZE63
+cysteine--tRNA ligase	6.1.1.16	cysS	TIGR00435
+ribosomal protein S2		rpsB	TIGR01011
+translation elongation factor Ts		tsf	TIGR00116
+conserved hypothetical protein			UniRef100_Q9ZE59
+3-Deoxy-D-manno-octulosonic-acid transferase family protein			PF04413.11
+conserved hypothetical protein			PF04028.8
+degT/DnrJ/EryC1/StrS aminotransferase family protein			PF01041.12
+methyltransferase domain protein			PF13489.1
+vacJ like lipofamily protein			PF04333.8
+toluene tolerance, Ttg2 family protein			PF05494.7
+alanine racemase	5.1.1.1	alr	TIGR00492
+conserved hypothetical family protein			TIGR00056
+ABC transporter family protein			PF00005.22
+putative membrane protein			TMHMM
+ribosomal protein L28		rpmB	TIGR00009
+ribosomal protein L31		rpmE	TIGR00105
+ribosome biogenesis GTP-binding protein YsxC		ysxC	TIGR03598
+type IV secretory pathway, VirB3-like family protein			PF05101.8
+type IV secretion/conjugal transfer ATPase, VirB4 family protein			TIGR00929
+trbL/VirB6 plasmid conjugal transfer family protein			PF04610.9
+hypothetical protein			default
+trbL/VirB6 plasmid conjugal transfer family protein			PF04610.9
+trbL/VirB6 plasmid conjugal transfer family protein			PF04610.9
+trbL/VirB6 plasmid conjugal transfer family protein			PF04610.9
+trbL/VirB6 plasmid conjugal transfer family protein			PF04610.9
+phosphate acetyl/butaryl transferase family protein			PF01515.14
+acetate kinase	2.7.2.1	ackA	TIGR00016
+tRNA (guanine(37)-N(1))-methyltransferase		trmD	TIGR00088
+ribosomal protein L19		rplS	TIGR01024
+conserved hypothetical protein			PF10073.4
+-export membrane protein SecF		secF	TIGR00966
+NADH oxidoreductase (quinone), F subunit	1.6.99.5	nuoF	TIGR01959
+signal peptidase I	3.4.21.89	lepB	TIGR02227
+ribonuclease III	3.1.26.3	rnc	TIGR02191
+GTP-binding protein Era		era	TIGR00436
+crossover junction endodeoxyribonuclease RuvC	3.1.22.4	ruvC	TIGR00228
+mitochondrial fission ELM1 family protein			PF06258.6
+cobQ/CobB/MinD/ParA nucleotide binding domain protein			PF01656.18
+hflK protein		hflK	TIGR01933
+hflC protein		hflC	TIGR01932
+peptidase Do family protein	3.4.21.-		TIGR02037
+rhodanese-like domain protein			PF00581.15
+succinate dehydrogenase, cytochrome b556 subunit		sdhC	TIGR02970
+succinate dehydrogenase, hydrophobic membrane anchor protein		sdhD	TIGR02968
+succinate dehydrogenase, flavoprotein subunit		sdhA	TIGR01816
+arginine transport system permease protein ArtQ		artQ	UniRef100_P54536
+ribosomal protein S12		rpsL	TIGR00981
+ribosomal protein S7		rpsG	TIGR01029
+translation elongation factor G		fusA	TIGR00484
+preprotein translocase, SecE subunit		secE	TIGR00964
+transcription termination/antitermination factor NusG		nusG	TIGR00922
+ribosomal protein L11		rplK	TIGR01632
+ribosomal protein L1		rplA	TIGR01169
+50S ribosomal protein L10		rplJ	UniRef100_Q6N4R7
+ribosomal protein L7/L12		rplL	TIGR00855
+DNA-directed RNA polymerase, beta subunit	2.7.7.6	rpoB	TIGR02013
+DNA-directed RNA polymerase, beta' subunit	2.7.7.6	rpoC	TIGR02386
+cytosol aminopeptidase family, catalytic domain protein			PF00883.16
+cobQ/CobB/MinD/ParA nucleotide binding domain protein			PF01656.18
+putative leucyl aminopeptidase			UniRef100_A8EXL3
+aspartate--tRNA ligase	6.1.1.-	aspS	TIGR00459
+conserved hypothetical protein			UniRef100_D5AW67
+conserved hypothetical protein			UniRef100_Q7PAT7
+conserved hypothetical protein			UniRef100_Q7PAT7
+inhibitor of apoptosis-promoting Bax1 family protein			PF01027.15
+dihydrodipicolinate reductase	1.3.1.26	dapB	TIGR00036
+flavin reductase like domain protein			PF01613.13
+bacterial extracellular solute-binding s, 3 family protein			PF00497.15
+aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, B subunit	6.3.5.-	gatB	TIGR00133
+aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, A subunit	6.3.5.-	gatA	TIGR00132
+aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C subunit	6.3.5.-	gatC	TIGR00135
+ribosome recycling factor		frr	TIGR00496
+UMP kinase	2.7.4.22	pyrH	TIGR02075
+na+/H+ ion antiporter subunit			PF01899.11
+H+ antiporter-2 family protein			TIGR00711
+conserved hypothetical protein			PF10879.3
+outer membrane assembly complex, YaeT protein		yaeT	TIGR03303
+RIP metalloprotease RseP	3.4.24.-	rseP	TIGR00054
+transcription antitermination factor NusB		nusB	TIGR01951
+ftsJ-like methyltransferase family protein			PF01728.14
+conserved hypothetical protein			UniRef100_Q9ZDZ9
+lipase family protein			PF01764.20
+polyketide cyclase / dehydrase and lipid transport family protein			PF03364.15
+RNA methyltransferase, RsmE family protein	2.1.1.-		TIGR00046
+conserved hypothetical protein			PF04070.7
+acrB/AcrD/AcrF family protein			PF00873.14
+bacterial DNA-binding family protein			PF00216.16
+DNA polymerase III, delta subunit			PF13177.1
+signal recognition particle protein		ffh	TIGR00959
+prolyl oligopeptidase family protein			PF00326.16
+radical SAM superfamily protein			PF04055.16
+sodium:dicarboxylate symporter family protein			PF00375.13
+cutA1 domain protein			UniRef100_E7FH74
+6-pyruvoyl tetrahydropterin synthase family protein			PF01242.14
+dihydrolipoyllysine-residue succinyltransferase, E2 component of oxoglutarate dehydrogenase (succinyl-transferring) complex	2.3.1.61	sucB	TIGR01347
+oxoglutarate dehydrogenase (succinyl-transferring), E1 component	1.2.4.2	sucA	TIGR00239
+carboxypeptidase Taq (M32) metallopeptidase family protein			PF02074.10
+carboxypeptidase Taq (M32) metallopeptidase family protein			PF02074.10
+putative ctaQ			UniRef100_C4YW57
+DNA repair protein RecN		recN	TIGR00634
+outer membrane assembly lipoYfiO family protein		yfiO	TIGR03302
+chaperone protein DnaJ		dnaJ	TIGR02349
+chaperone protein DnaK		dnaK	TIGR02350
+			
+peptidase S7, Flavivirus NS3 serine protease family protein			PF00949.16
+conserved hypothetical protein			UniRef100_Q9ZDX7
+lipopolysaccharide-assembly family protein			PF04390.7
+conserved hypothetical protein			UniRef100_Q9ZDX5
+conserved hypothetical protein			UniRef100_Q99807
+cytochrome c oxidase subunit III family protein			PF00510.13
+trbC/VIRB2 family protein			PF04956.8
+MJ0042 family finger-like domain protein			TIGR02098
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	2.3.1.117	dapD	TIGR00965
+penicillin-binding protein 1C		pbpC	TIGR02073
+transglycosylase family protein			PF00912.17
+conserved hypothetical protein			UniRef100_D5AWB6
+universal stress family protein			PF00582.21
+TRAP transporter solute receptor, TAXI family protein			TIGR02122
+conserved hypothetical protein			PF09898.4
+2Fe-2S iron-sulfur cluster binding domain protein			PF00111.22
+hsp70 family protein			PF00012.15
+fe-S protein assembly co-chaperone HscB		hscB	TIGR00714
+ribonuclease HII family protein			PF01351.13
+excinuclease ABC subunit B	3.1.25.-	uvrB	TIGR00631
+glutaredoxin 3		grxC	TIGR02181
+ABC transporter family protein			PF00005.22
+DNA gyrase, A subunit	5.99.1.3	gyrA	TIGR01063
+			
+peptide deformylase	3.5.1.88	def	TIGR00079
+methionyl-tRNA formyltransferase	2.1.2.9	fmt	TIGR00460
+conserved hypothetical protein			UniRef100_Q3BKI0
+			
+			
+archaeal ATPase family protein			PF01637.13
+tRNA ribosyltransferase-isomerase	5.-.-.-	queA	TIGR00113
+ABC transporter family protein			PF00005.22
+conserved hypothetical protein			PF10877.3
+bacterial Cytochrome Ubiquinol Oxidase family protein			PF01654.12
+cytochrome d ubiquinol oxidase, subunit II	1.10.3.-	cydB	TIGR00203
+glycosyl transferase 2 family protein			PF00535.21
+peptidase M16 inactive domain protein			PF05193.16
+SAICAR synthetase family protein			PF01259.13
+threonine--tRNA ligase	6.1.1.3	thrS	TIGR00418
+conserved hypothetical protein			PF10859.3
+conserved hypothetical protein			UniRef100_Q4UKT8
+outer membrane efflux family protein			PF02321.13
+conserved hypothetical protein			PF10691.4
+ankyrin repeats family protein			PF13637.1
+DNA topoisomerase IV, B subunit	5.99.1.-	parE	TIGR01055
+C-terminal processing peptidase family protein	3.4.21.-		TIGR00225
+his Kinase A domain protein			PF00512.20
+tol-pal system protein YbgF		ygbF	TIGR02795
+conserved hypothetical protein			PF10858.3
+PQQ enzyme repeat family protein			PF01011.16
+ribosomal protein L13		rplM	TIGR01066
+ribosomal S9/S16 family protein			PF00380.14
+NUDIX domain protein			PF00293.23
+response regulator	2.7.7.65	pleD	UniRef100_B8GZM2
+translation elongation factor P		efp	TIGR00038
+inositol monophosphatase family protein			PF00459.20
+conserved hypothetical protein			PF11020.3
+phosphatidylserine decarboxylase family protein			PF02666.10
+CDP-alcohol phosphatidyltransferase family protein			PF01066.16
+efflux transporter, RND family, MFP subunit			TIGR01730
+conserved hypothetical protein			UniRef100_A8F105
+bolA-like family protein			PF01722.13
+EAL domain protein			PF00563.15
+UDP-N-acetylmuramate--alanine ligase	6.3.2.8	murC	TIGR01082
+UDP-N-acetylenolpyruvoylglucosamine reductase	1.1.1.158	murB	TIGR00179
+D-alanine--D-alanine ligase family protein	6.3.2.4		TIGR01205
+cell division FtsQ family protein			PF03799.10
+cell division protein FtsA		ftsA	TIGR01174
+nfeD-like C-terminal, partner-binding family protein			PF01957.13
+cytochrome c family protein			PF00034.16
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase	3.5.1.-	lpxC	TIGR00325
+putative membrane protein			TMHMM
+ribonuclease, Rne/Rng family domain protein	3.1.4.-		TIGR00757
+cytochrome oxidase assembly family protein			PF02628.10
+RNA pseudouridylate synthase family protein			PF00849.17
+beta-lactamase family protein			PF00144.19
+exodeoxyribonuclease III	3.1.11.2	xth	TIGR00195
+pyruvate dehydrogenase (acetyl-transferring) E1 component, alpha subunit	1.2.4.1	pdhA	TIGR03182
+transketolase, pyrimidine binding domain protein			PF02779.19
+GTP-binding protein TypA/BipA		typA	TIGR01394
+outer membrane family protein			PF03938.9
+isocitrate dehydrogenase	1.1.1.-	icd	TIGR02924
+monovalent cation/proton antiporter, MnhG/PhaG subunit			TIGR01300
+conserved hypothetical protein			PF13244.1
+ccmB family protein			PF03379.8
+conserved hypothetical protein			PF10875.3
+ubiquinol-cytochrome c reductase, iron-sulfur subunit	1.10.2.2	petA	TIGR01416
+cytochrome b		petB	UniRef100_P23134
+cytochrome C1 family protein			PF02167.10
+hsp20/alpha crystallin family protein			PF00011.16
+peptide chain release factor 2		prfB	TIGR00020
+GTP-binding protein LepA	3.6.5.-	lepA	TIGR01393
+conserved hypothetical protein			UniRef100_Q9ZDQ0
+conserved hypothetical protein			UniRef100_Q68X93
+			
+rod shape-determining protein RodA		mrdB	TIGR02210
+prolyl oligopeptidase family protein			PF00326.16
+NADH-Ubiquinone/plastoquinone (complex I), various chains family protein			PF00361.15
+NADH-Ubiquinone/plastoquinone (complex I), various chains family protein			PF00361.15
+NADH-Ubiquinone/plastoquinone (complex I), various chains family protein			PF00361.15
+NADH-ubiquinone/plastoquinone oxidoreductase chain 4L family protein			PF00420.19
+P-type conjugative transfer protein VirB9		virB9	TIGR02781
+virB8 family protein			PF04335.8
+			
+virB8 family protein			PF04335.8
+conjugal transfer family protein			PF03524.10
+bacterial conjugation TrbI-like family protein			PF03743.9
+P-type DNA transfer ATPase VirB11		virB11	TIGR02788
+type IV secretory system Conjugative DNA transfer family protein			PF02534.9
+ppx/GppA phosphatase family protein			PF02541.11
+			
+conserved hypothetical protein			UniRef100_D5AWL9
+conserved hypothetical protein			PF11019.3
+conserved hypothetical protein			PF11019.3
+inositol monophosphatase family protein			PF00459.20
+DNA mismatch repair protein MutS		mutS	TIGR01070
+ribose 5-phosphate isomerase B	5.3.1.6	rpiB	TIGR01120
+peptidase M23 family protein			PF01551.17
+thymidylate synthase, flavin-dependent	2.1.1.148	thyX	TIGR02170
+tol-Pal system beta propeller repeat protein TolB		tolB	TIGR02800
+alternative sigma factor RpoH		rpoH	TIGR02392
+cytochrome c oxidase assembly CtaG/Cox11 family protein			PF04442.9
+conserved hypothetical protein			UniRef100_Q92IL1
+tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	2.1.1.61	trmU	TIGR00420
+amino acid transporter family protein			TIGR00909
+histidine--tRNA ligase	6.1.1.21	hisS	TIGR00442
+ABC transporter ATP-binding domain protein			UniRef100_D5AWN5
+protein TolQ		tolQ	TIGR02796
+protein TolR		tolR	TIGR02801
+putative periplasmic protein TonB, links inner and outer membranes			UniRef100_D5AWN8
+sugar (and other) transporter family protein			PF00083.19
+HD domain protein			PF13328.1
+type I secretion membrane fusion , HlyD family protein			TIGR01843
+type I secretion system ATPase family protein			TIGR01842
+aspartate-semialdehyde dehydrogenase	1.2.1.11	asd	TIGR01296
+HIT domain protein			PF01230.18
+conserved hypothetical protein			PF10947.3
+ATP-dependent protease HslVU, peptidase subunit	3.4.25.2	hslV	TIGR03692
+ATP-dependent protease HslVU, ATPase subunit		hslU	TIGR00390
+lipid-A-disaccharide synthase	2.4.1.182	lpxB	TIGR00215
+yceG-like family protein			PF02618.11
+iron donor protein CyaY		cyaY	TIGR03421
+bioY family protein			PF02632.9
+			
+glutamate--tRNA ligase	6.1.1.17	gltX	TIGR00464
+DNA topoisomerase I	5.99.1.2	topA	TIGR01051
+			
+putative peroxiredoxin			UniRef100_P56876
+stomatin-like protein 2		STOML2	UniRef100_Q9UJZ1
+sulfatase family protein			PF00884.18
+conserved hypothetical protein			PF03652.10
+conserved hypothetical protein			UniRef100_Q9ZDJ7
+dihydrodipicolinate reductase, family protein			PF01113.15
+UDP-glucose 4-epimerase	5.1.3.2	capD	UniRef100_Q9ZDJ5
+UDP-N-acetylglucosamine 2-epimerase	5.1.3.14		TIGR00236
+conserved hypothetical protein			UniRef100_A8EZA7
+glycosyl transferases group 1 family protein			PF00534.15
+glycosyl transferases group 1 family protein			PF00534.15
+acyltransferase family protein			PF01757.17
+glycosyl transferase 2 family protein			PF00535.21
+glycosyl transferases group 1 family protein			PF00534.15
+efflux transporter, RND family, MFP subunit			TIGR01730
+conserved hypothetical protein			PF11019.3
+esterase family protein			PF00756.15
+glycosyl transferases group 1 family protein			PF00534.15
+ribosomal protein S4		rpsD	TIGR01017
+protoheme IX farnesyltransferase	2.5.1.-	cyoE	TIGR01473
+asmA family protein			PF05170.9
+16S rRNA processing protein RimM		rimM	TIGR02273
+asmA-like C-terminal region family protein			PF13502.1
+exodeoxyribonuclease VII, small subunit	3.1.11.6	xseB	TIGR01280
+DNA-3-methyladenine glycosylase family protein	3.2.2.-		TIGR00567
+haemolytic domain protein			PF01809.13
+NADH-quinone oxidoreductase, E subunit		nuoE	TIGR01958
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 2	1.6.99.3	NAD7	UniRef100_P93306
+NADH (or F420H2) dehydrogenase, subunit C family protein		nuoC	TIGR01961
+NADH-quinone oxidoreductase, B subunit			TIGR01957
+NADH-ubiquinone/plastoquinone oxidoreductase, chain 3 family protein			PF00507.14
+O-Antigen ligase family protein			PF04932.10
+conserved hypothetical protein			PF09923.4
+tyrosine recombinase XerD		xerD	TIGR02225
+conserved hypothetical protein			UniRef100_Q9ZDG7
+conserved hypothetical protein			UniRef100_Q92IC8
+conserved hypothetical protein			UniRef100_Q92IC7
+enoyl-[acyl-carrier-protein] reductase [NADH]	1.3.1.9	fabI	UniRef100_Q2GKM8
+apolipoprotein N-acyltransferase	2.3.1.-	lnt	TIGR00546
+periplasmic binding s and sugar binding domain of LacI family protein			PF00532.16
+branched-chain amino acid transport system / permease component family protein			PF02653.11
+			
+ABC transporter family protein			PF00005.22
+disulfide bond formation DsbB family protein			PF02600.11
+lysine--tRNA ligase	6.1.1.6	lysS	TIGR00467
+membrane transport family protein			PF03547.13
+NADP-dependent malic enzyme	1.1.1.40	tme	UniRef100_O30808
+sec7 domain protein			PF01369.15
+sugar (and other) transporter family protein			PF00083.19
+malate dehydrogenase, NAD-dependent	1.1.1.37	mdh	TIGR01763
+ADP,ATP carrier protein 1		tlcA	UniRef100_P19568
+CTP synthase	6.3.4.2	pyrG	TIGR00337
+3-deoxy-D-manno-octulosonate cytidylyltransferase	2.7.7.38	kdsB	TIGR00466
+cytochrome C and Quinol oxidase polypeptide I family protein			PF00115.15
+GTP cyclohydrolase I	3.5.4.16	folE	TIGR00063
+proline--tRNA ligase	6.1.1.15	proS	TIGR00409
+			
+holliday junction DNA helicase RuvA	3.6.4.12	ruvA	TIGR00084
+holliday junction DNA helicase RuvB	3.6.4.12	ruvB	TIGR00635
+ABC transporter family protein			PF00005.22
+ABC transporter family protein			PF00005.22
+conserved hypothetical protein			UniRef100_D5AWX4
+D-alanyl-D-alanine carboxypeptidase family protein			PF00768.15
+rare lipoA family protein		rlpA	TIGR00413
+BON domain protein			PF04972.12
+intracellular septation protein A		ispZ	TIGR00997
+iron permease FTR1 family protein			PF03239.9
+cupredoxin-like domain protein			PF13473.1
+FKBP-type peptidyl-prolyl cis-trans isomerase family protein			PF00254.23
+			
+dioxygenase family protein			PF00775.16
+ahpC/TSA family protein			PF00578.16
+clp protease family protein			PF00574.18
+dUTP diphosphatase family protein	3.6.1.23	dut	TIGR00576
+transglycosylase SLT domain protein			PF01464.15
+conserved hypothetical protein			UniRef100_Q92I72
+LD-carboxypeptidase family protein			PF02016.10
+PD-(D/E)XK nuclease superfamily protein			PF12705.2
+glutamine amidotransferase class-I family protein			PF00117.23
+cytochrome c oxidase, subunit I	1.9.3.1	ctaD	TIGR02891
+cytochrome c oxidase, subunit II	1.9.3.1	coxB	TIGR02866
+peptidase M23 family protein			PF01551.17
+signal peptidase II	3.4.23.36	lspA	TIGR00077
+conserved hypothetical protein			UniRef100_Q9ZDC3
+UDP-N-acetylmuramoylalanine--D-glutamate ligase	6.3.2.9	murD	TIGR01087
+cell division protein FtsW		ftsW	TIGR02614
+undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	2.4.1.227	murG	TIGR01133
+conserved hypothetical protein			UniRef100_Q9ZDB9
+glycosyl transferases group 1 family protein			PF00534.15
+diaminopimelate epimerase	5.1.1.7	dapF	TIGR00652
+radical SAM methylthiotransferase, MiaB/RimO family protein			TIGR00089
+phenylalanine--tRNA ligase, alpha subunit	6.1.1.20	pheS	TIGR00468
+phenylalanine--tRNA ligase, beta subunit	6.1.1.20	pheT	TIGR00472
+DNA polymerase III, beta subunit	2.7.7.7	dnaN	TIGR00663
+conserved hypothetical protein			PF12100.3
+leucine--tRNA ligase	6.1.1.4	leuS	TIGR00396
+3'-5' exonuclease family protein			PF01612.15
+septum formation initiator family protein			PF04977.10
+cytidylyltransferase family protein			PF01148.15
+di-trans,poly-cis-decaprenylcistransferase	2.5.1.31	uppS	TIGR00055
+HAMP domain protein			PF00672.20
+transcriptional regulatory , C terminal family protein			PF00486.23
+aminotransferase class IV family protein			PF01063.14
+dihydrodipicolinate synthase	4.2.1.52	dapA	TIGR00674
+ssrA-binding protein		smpB	TIGR00086
+DSBA-like thioredoxin domain protein			PF01323.15
+succinyl-CoA ligase [GDP-forming] subunit alpha, mitochondrial	6.2.1.4	scsA	UniRef100_P36967
+succinate-CoA ligase, beta subunit	6.2.1.-	sucC	TIGR01016
+tim44-like domain protein			PF04280.10
+ribosome-binding factor A		rbfA	TIGR00082
+conserved hypothetical protein			UniRef100_O05963
+RDD family protein			PF06271.7
+recombination protein RecR		recR	TIGR00615
+conserved hypothetical protein			UniRef100_Q9ZDA3
+ATP-NAD kinase family protein			PF01513.16
+metallo-beta-lactamase superfamily protein			PF00753.22
+NAD-dependent glycerol-3-phosphate dehydrogenase family protein			PF07479.9
+membrane transport family protein			PF03547.13
+alpha/beta hydrolase fold family protein			PF00561.15
+thioredoxin-disulfide reductase	1.8.1.9	trxB	TIGR01292
+glycosyl transferase 2 family protein			PF00535.21
+ATP-dependent DNA helicase PcrA	3.6.4.12	pcrA	TIGR01073
+conserved hypothetical protein			UniRef100_Q92HZ3
+pyridoxal-phosphate dependent enzyme family protein			PF00291.20
+ATP-dependent protease La	3.4.21.53	lon	TIGR00763
+			
+outer membrane autotransporter barrel domain protein			TIGR01414
+isopentenyl-diphosphate delta-isomerase, type 2	5.3.3.2	fni	TIGR02151
+conserved hypothetical protein			PF01128.14
+DNA-binding regulatory , YebC/PmpR family protein			TIGR01033
+transglycosylase SLT domain protein			PF01464.15
+conserved hypothetical protein			PF10811.3
+ubiE/COQ5 methyltransferase family protein			PF01209.13
+dihydrolipoyl dehydrogenase	1.8.1.4	lpdA	TIGR01350
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2		TIGR02727
+3'-5' exonuclease family protein			PF01612.15
+conserved hypothetical protein			PF02582.9
+glycine cleavage T-C-terminal barrel domain protein			PF08669.6
+sodium:solute symporter family protein			PF00474.12
+porphobilinogen deaminase	2.5.1.61	hemC	TIGR00212
+tryptophan--tRNA ligase	6.1.1.2	trpS	TIGR00233
+acyltransferase family protein			PF01553.16
+required for attachment to host cells family protein			PF10116.4
+dienelactone hydrolase family protein			PF01738.13
+hemY family protein			PF07219.8
+conserved hypothetical protein			UniRef100_Q92HQ6
+rickettsial palindromic element RPE1 domain protein			TIGR01045
+ampG-like permease family protein			TIGR00901
+glycosyl transferase 8 family protein			PF01501.15
+ADP,ATP carrier protein 1		tlcA	UniRef100_P19568
+conserved hypothetical protein			UniRef100_Q92HP8
+polyprenyl synthetase family protein			PF00348.12
+metallopeptidase M24 family protein			PF00557.19
+amino acid permease family protein			PF00324.16
+iron-sulfur cluster assembly accessory family protein			TIGR00049
+nifU-like protein		nifU	UniRef100_P0ACD6
+cysteine desulfurase IscS	2.8.1.7	iscS	TIGR02006
+aminotransferase class-V family protein			PF00266.14
+transcriptional regulator family protein			PF02082.15
+putative membrane protein			TMHMM
+glutathione S-transferase, C-terminal domain protein			PF00043.20
+			
+pyruvate, phosphate dikinase	2.7.9.1	ppdK	TIGR01828
+class II Aldolase and Adducin N-terminal domain protein			PF00596.16
+multi-copper polyphenol oxidoreductase laccase family protein			PF02578.10
+glutamine synthetase, catalytic domain protein			PF00120.19
+yihY family inner membrane domain protein		yihY	TIGR00765
+helix-turn-helix family protein			PF01381.17
+120 KDa Rickettsia surface antigen family protein			PF12574.3
+120 KDa Rickettsia surface antigen family protein			PF12574.3
+ADP,ATP carrier protein 1		tlcA	UniRef100_P19568
+tRNA pseudouridine(55) synthase	5.4.99.25	truB	TIGR00431
+putative tRNA pseudouridine synthase B			UniRef100_Q4ULJ9
+ribosomal protein S15		rpsO	TIGR00952
+polyribonucleotide nucleotidyltransferase	2.7.7.8	pnp	TIGR03591
+sugar isomerase, KpsF/GutQ family protein			TIGR00393
+lipopolysaccharide-assembly, LptC-related family protein			PF06835.8
+ostA-like family protein			PF03968.9
+ABC transporter family protein			PF00005.22
+phosphomannomutase/phosphoglucomutase	5.4.2.8	algC	UniRef100_P26276
+tRNA dimethylallyltransferase	2.5.1.75	miaA	TIGR00174
+pentapeptide repeats family protein			PF00805.17
+ribonucleotide reductase, small chain family protein			PF00268.16
+ribonucleoside-diphosphate reductase, alpha subunit	1.17.4.1		TIGR02506
+pyridine nucleotide-disulfide oxidoreductase family protein			PF07992.9
+bifunctional protein FolD	3.5.4.9	folD	UniRef100_Q0PA35
+hexapeptide transferase family protein			UniRef100_Q2GIS1
+ribosomal subunit interface protein		raiA	TIGR00741
+ATP-dependent Clp endopeptidase, proteolytic subunit ClpP	3.4.21.92	clpP	TIGR00493
+ribosomal protein S1		rpsA	TIGR00717
+cytidylate kinase	2.7.4.14	cmk	TIGR00017
+bacterial DNA-binding family protein			PF00216.16
+signal peptide peptidase SppA, 36K type	3.4.-.-	sppA	TIGR00706
+transcription termination factor Rho	3.6.4.-	rho	TIGR00767
+ubiE/COQ5 methyltransferase family protein			PF01209.13
+single-stranded-DNA-specific exonuclease RecJ	3.1.-.-	recJ	TIGR00644
+peptide chain release factor 1		prfA	TIGR00019
+pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase	2.3.1.12		TIGR01349
+translation initiation factor IF-3		infC	TIGR00168
+conserved hypothetical protein			PF10097.4
+conserved hypothetical protein			UniRef100_D5AXC2
+biotin--[acetyl-CoA-carboxylase] ligase	6.3.4.15		TIGR00121
+patatin-like phospholipase family protein			PF01734.17
+superoxide dismutase [Fe]	1.15.1.1	sodB	UniRef100_P0AGD5
+bifunctional FolC family protein	6.3.2.-	folC	TIGR01499
+conserved hypothetical protein			UniRef100_D5AXC7
+putative delta-aminolevulinic acid dehydratase			UniRef100_A8EYH0
+proton-translocating NADH-quinone oxidoreductase, chain N family protein			TIGR01770
+delta-aminolevulinic acid dehydratase	4.2.1.24	hemB	UniRef100_P45622
+primosomal protein N'	3.6.1.-	priA	TIGR00595
+phenolic acid decarboxylase subunit B	4.1.1.61	bsdB	UniRef100_P94404
+replicative DNA helicase	3.6.4.12	dnaB	TIGR00665
+			
+pseudouridine synthase family protein	5.4.99.-		TIGR00093
+rickettsial palindromic element RPE1 domain protein			TIGR01045
+DNA repair protein RadA		radA	TIGR00416
+putative dNA repair protein RecO			UniRef100_A8EYF8
+DNA repair protein RecO		recO	TIGR00613
+DNA repair protein RecO		recO	TIGR00613
+glycoprotease family protein			PF00814.20
+conserved hypothetical protein			UniRef100_Q92HF6
+conserved hypothetical protein			UniRef100_D5AXE4
+translation initiation factor IF-2		infB	TIGR00487
+transcription termination factor NusA, C-terminal duplication		nusA	TIGR01954
+putative ribosome maturation factor rimP			UniRef100_Q68WI2
+conserved hypothetical protein			PF02576.12
+hemolysin TlyA family protein			TIGR00478
+tyrosine--tRNA ligase	6.1.1.1	tyrS	TIGR00234
+conserved hypothetical protein			UniRef100_D5AXF3
+alpha-2-macroglobulin MG1 domain protein			PF11974.3
+alpha-2-macroglobulin family protein			PF00207.17
+enoyl-CoA hydratase/isomerase family protein			PF00378.15
+2-polyprenyl-6-methoxyphenol 4-hydroxylase domain protein	1.14.13.-	ubiH	UniRef100_C3PNZ0
+ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6 family protein	1.14.13.-		TIGR01988
+bacterial regulatory , Fis family protein			PF02954.14
+pentapeptide repeats family protein			PF13599.1
+conserved hypothetical protein			UniRef100_Q92HC0
+penicillin-binding protein 2		mrdA	TIGR03423
+putative membrane protein			TMHMM
+penicillin binding transpeptidase domain protein			PF00905.17
+conserved hypothetical protein			UniRef100_Q9ZCY3
+S-adenosyl-methyltransferase MraW	2.1.1.-	mraW	TIGR00006
+mraZ family protein			PF02381.13
+sodium:solute symporter family protein			PF00474.12
+excinuclease ABC subunit C	3.1.25.-	uvrC	TIGR00194
+conserved hypothetical protein			PF04314.8
+conserved hypothetical protein			UniRef100_Q4UKY4
+preprotein translocase, SecA subunit		secA	TIGR00963
+PPIC-type PPIASE domain protein			PF13145.1
+holo-[acyl-carrier-protein] synthase	2.7.8.7	acpS	TIGR00516
+DNA-directed RNA polymerase, omega subunit	2.7.7.6	rpoZ	TIGR00690
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase	2.5.1.7	murA	TIGR01072
+DNA gyrase, B subunit	5.99.1.3	gyrB	TIGR01059
+HAD hydrolase, IIA family protein			TIGR01460
+magnesium transporter		mgtE	TIGR00400
+preprotein translocase, YajC subunit		yajC	TIGR00739
+-export membrane protein SecD		secD	TIGR01129
+SCO1/SenC family protein			PF02630.9
+ccmE family protein			PF03100.10
+inorganic pyrophosphatase	3.6.1.1	ppa	UniRef100_Q9ZCW5
+integral membrane protein MviN		mviN	TIGR01695
+traX family protein			PF05857.6
+conserved hypothetical protein			UniRef100_Q92H71
+helicase conserved C-terminal domain protein			PF00271.26
+hypothetical protein			default
+phospho-N-acetylmuramoyl-pentapeptide-transferase	2.7.8.13	mraY	TIGR00445
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase family protein	6.3.2.10	murF	TIGR01143
+UDP-N-acetylmuramyl-tripeptide synthetase family protein		murE	TIGR01085
+transcription-repair coupling factor	3.6.1.-	mfd	TIGR00580
+flavinator of succinate dehydrogenase family protein			PF03937.11
+rhodanese-like domain protein			PF00581.15
+chromosomal replication initiator protein DnaA		dnaA	TIGR00362
+patatin-like phospholipase family protein			PF01734.17
+drug resistance transporter, Bcr/CflA subfamily protein			TIGR00710
+50S ribosome-binding GTPase family protein			PF01926.18
+peptidyl-tRNA hydrolase	3.1.1.29	pth	TIGR00447
+ribosomal protein L25, Ctc-form			TIGR00731
+radical SAM superfamily protein			PF04055.16
+ribosomal protein L35		rpmI	TIGR00001
+ribosomal protein L20		rplT	TIGR01032
+ribonuclease P protein component	3.1.26.5	rnpA	TIGR00188
+ankyrin repeats family protein			PF13637.1
+			
+			
+conserved hypothetical protein			UniRef100_A4EB57
+HAMP domain protein			PF00672.20
+ribosomal protein S21		rpsU	TIGR00030
+COQ9 family protein			PF08511.6
+isoleucine--tRNA ligase	6.1.1.5	ileS	TIGR00392
+propionyl-CoA carboxylase, alpha subunit	6.4.1.3	pccA	UniRef100_Q5LUF3
+propionyl-CoA carboxylase, beta subunit	6.4.1.3	pccB	UniRef100_Q168G2
+major Facilitator Superfamily protein			PF07690.11
+fecCD transport family protein			PF01032.13
+3-demethylubiquinone-9 3-O-methyltransferase	2.1.1.64	ubiG	TIGR01983
+glutamate--tRNA ligase	6.1.1.17	gltX	TIGR00464
+HD domain protein			PF13328.1
+region found in RelA / SpoT s family protein			PF04607.12
+chaperonin GroL		groL	TIGR02348
+10 kDa chaperonin		groS	UniRef100_P80469
+ribonuclease PH	2.7.7.56	rph	TIGR01966
+grpE family protein			PF01025.14
+conserved hypothetical protein			PF01594.11
+bacterial dnaA family protein			PF00308.13
+ribosomal protein S20		rpsT	TIGR00029
+ribosomal protein L17		rplQ	TIGR00059
+DNA-directed RNA polymerase, alpha subunit	2.7.7.6	rpoA	TIGR02027
+30S ribosomal protein S11		rpsK	TIGR03632
+30S ribosomal protein S13		rpsM	TIGR03631
+adenylate kinase family protein	2.7.4.-		TIGR01351
+preprotein translocase, SecY subunit		secY	TIGR00967
+ribosomal protein L15		rplO	TIGR01071
+ribosomal protein L30		rpmD	TIGR01308
+ribosomal protein S5		rpsE	TIGR01021
+ribosomal protein L18		rplR	TIGR00060
+ribosomal protein L6		rplF	TIGR03654
+ribosomal S8 family protein			PF00410.14
+ribosomal S14p/S29e family protein			PF00253.16
+ribosomal L5 family protein			PF00281.14
+ribosomal protein L24		rplX	TIGR01079
+ribosomal protein L14		rplN	TIGR01067
+30S ribosomal protein S17		rpsQ	TIGR03635
+ribosomal protein L29		rpmC	TIGR00012
+ribosomal protein L16		rplP	TIGR01164
+ribosomal protein S3		rpsC	TIGR01009
+ribosomal protein L22		rplV	TIGR01044
+ribosomal protein S19		rpsS	TIGR01050
+ribosomal protein L2		rplB	TIGR01171
+50S ribosomal protein L23		rplW	UniRef100_Q6N4T7
+50S ribosomal protein L4		rplD	TIGR03953
+50S ribosomal protein L3		rplC	TIGR03625
+ribosomal protein S10		rpsJ	TIGR01049
+translation elongation factor Tu		tuf	TIGR00485
+RNA 2'-O ribose methyltransferase substrate binding family protein			PF08032.7
+fumarate hydratase, class II	4.2.1.2	fumC	TIGR00979
+cell division protein FtsZ		ftsZ	TIGR00065
+scaffold Nfu/NifU N terminal family protein			PF08712.6
+major Facilitator Superfamily protein			PF07690.11
+helicase conserved C-terminal domain protein			PF00271.26
+'Cold-shock' DNA-binding domain protein			PF00313.17
+conserved hypothetical protein			UniRef100_C4YYD7
+dimethyladenosine transferase	2.1.1.-	ksgA	TIGR00755
+surA N-terminal domain protein			PF13624.1
+organic solvent tolerance family protein			PF04453.9
+exodeoxyribonuclease VII, large subunit	3.1.11.6	xseA	TIGR00237
+exodeoxyribonuclease III	3.1.11.2	xth	TIGR00195
+			
+ribosome-associated GTPase EngA		engA	TIGR03594
+2-polyprenylphenol 6-hydroxylase	1.14.13.-	ubiB	TIGR01982
+conserved hypothetical protein			UniRef100_Q9ZCP4
+ubiquinone/menaquinone biosynthesis methyltransferase family protein	2.1.1.-		TIGR01934
+polyhydroxyalkanoate depolymerase, intracellular family protein	3.1.1.-	phaZ	TIGR01849
+hydrolase, TatD family protein			TIGR00010
+methionine--tRNA ligase	6.1.1.10	metG	TIGR00398
+thymidylate kinase	2.7.4.9	tmk	TIGR00041
+sugar (and other) transporter family protein			PF00083.19
+4-hydroxybenzoate polyprenyl transferase	2.5.1.-	ubiA	TIGR01474
+valine--tRNA ligase	6.1.1.9	valS	TIGR00422
+licD family protein			PF04991.8
+licD family protein			PF04991.8
+rmuC family protein			PF02646.11
+conserved hypothetical protein			UniRef100_Q1RJ77
+ATP-dependent Clp protease, ATP-binding subunit ClpX		clpX	TIGR00382
+acetyltransferase family protein			PF00583.19
+queuosine biosynthesis protein QueC		queC	TIGR00364
+ABC transporter family protein			PF00005.22
+conserved hypothetical protein			PF10880.3
+sugar (and other) transporter family protein			PF00083.19
+liporeleasing system, transmembrane , LolC/E family protein			TIGR02212
+ABC transporter family protein			PF00005.22
+conserved hypothetical protein			UniRef100_A8GPL2
+transporter associated domain protein			PF03471.12
+cytochrome C assembly family protein			PF01578.15
+outer membrane protein B		ompB	UniRef100_Q53020
+glycosyl hydrolase family 3 N terminal domain protein			PF00933.16
+rickettsial palindromic element RPE3 domain protein			TIGR03775
+bacterial DNA-binding family protein			PF00216.16
+conserved hypothetical protein			UniRef100_D5AXX2
+conserved hypothetical protein			UniRef100_D5AXX3
+conserved hypothetical protein			UniRef100_Q9ZCL6
+hypothetical protein			default
+transposase, Mutator family protein			PF00872.13
+transposase, Mutator family protein			PF00872.13
+resolvase, N terminal domain protein			PF00239.16
+putative glutamine amidotransferase-like protein			UniRef100_D5AXY2
+peptidase C26 family protein			PF07722.8
+ankyrin repeat family protein			PF00023.25
+putative transposase			UniRef100_C4YZN9
+transposase, YhgA-like family protein			PF04754.7
+transposase, YhgA-like family protein			PF04754.7
+conserved hypothetical protein			UniRef100_Q9ZCL2
+type IV secretory system Conjugative DNA transfer family protein			PF02534.9
+bacterial lipid A biosynthesis acyltransferase family protein			PF03279.8
+tetraacyldisaccharide 4'-kinase	2.7.1.130	lpxK	TIGR00682
+DNA ligase, NAD-dependent	6.5.1.2	ligA	TIGR00575
+queuine tRNA-ribosyltransferase	2.4.2.29	tgt	TIGR00430
+conserved hypothetical protein			UniRef100_Q9ZCK7
+conserved hypothetical protein			UniRef100_Q9ZCK6
+mce related family protein			PF02470.15
+conserved hypothetical protein			PF05071.11
+RNase H family protein			PF00075.19
+stringent starvation B family protein			PF04386.8
+			
+conserved hypothetical protein			PF06230.6
+dephospho-CoA kinase	2.7.1.24	coaE	TIGR00152
+DNA polymerase III, epsilon subunit	2.7.7.7	dnaQ	TIGR01406
+SURF1 family protein			PF02104.10
+uvrD/REP helicase N-terminal domain protein			PF00580.16
+malonyl CoA-acyl carrier protein transacylase	2.3.1.39	fabD	TIGR00128
+acetyl-CoA C-acetyltransferase family protein			TIGR01930
+alpha/beta hydrolase fold family protein			PF00561.15
+ADP/ATP carrier family protein			TIGR00769
+hemolysin C		tlyC	UniRef100_Q68W10
+conserved hypothetical protein			PF02130.12
+lipoyl synthase	2.8.1.8	lipA	TIGR00510
+serine hydroxymethyltransferase 2	2.1.2.1	glyA2	UniRef100_Q3JGP5
+phospholipase/Carboxylesterase family protein			PF02230.11
+monothiol glutaredoxin, Grx4 family		grxD	TIGR00365
+endonuclease III	4.2.99.18	nth	TIGR01083
+conserved hypothetical protein			UniRef100_D5AY14
+tetrapyrrole (Corrin/Porphyrin) Methylases family protein			PF00590.15
+lppC lipofamily protein			PF04348.8
+twin arginine-targeting translocase, TatA/E family protein		tatA	TIGR01411
+phosphatidylglycerophosphatase A family protein			PF04608.8
+ribosomal protein L21		rplU	TIGR00061
+ribosomal protein L27		rpmA	TIGR00062
+aspartate kinase domain protein	2.7.2.4		TIGR00657
+cro/C1-type HTH DNA-binding domain protein			PF13443.1
+sugar (and other) transporter family protein			PF00083.19
+			
+cell division ZapA family protein			PF05164.8
+conserved hypothetical protein			UniRef100_A8GUP3
+			
+helix-turn-helix domain protein			PF13413.1
+bacterial NAD-glutamate dehydrogenase family protein			PF05088.7
+tRNA modification GTPase TrmE	3.6.-.-	trmE	TIGR00450
+conserved hypothetical protein			UniRef100_Q92GE7
+protein RecA		recA	TIGR02012
+3-oxoacyl-[acyl-carrier-protein] reductase	1.1.1.100	fabG	TIGR01830
+acyl carrier protein		acpP	TIGR00517
+beta-ketoacyl-acyl-carrier-protein synthase II	2.3.1.179	fabF	TIGR03150
+guanylate kinase	2.7.4.8	gmk	TIGR03263
+helix-turn-helix family protein			PF01381.17
+rod shape-determining protein MreC		mreC	TIGR00219
+cell shape determining , MreB/Mrl family protein			TIGR00904
+putative permease YjgP/YjgQ family protein			PF03739.9
+peptidoglycan-associated lipoprotein		pal	TIGR02802
+3-oxoacyl-[acyl-carrier-] synthase III family protein	2.3.1.180	fabH	TIGR00747
+ribosomal protein L32		rpmF	TIGR01031
+smpA / OmlA family protein			PF04355.8
+signal recognition particle-docking protein FtsY		ftsY	TIGR00064
+DNA polymerase I family protein	2.7.7.7	polA	TIGR00593
+S-adenosylmethionine synthetase, central domain protein			PF02772.11
+methionine adenosyltransferase	2.5.1.6	metK	TIGR01034
+DNA polymerase III subunit alpha	2.7.7.7	dnaE1	UniRef100_B8GWS6
+nucleotide sugar dehydrogenase family protein			TIGR03026
+conserved hypothetical protein			PF13116.1
+major Facilitator Superfamily protein			PF07690.11
+twin arginine-targeting protein translocase TatC		tatC	TIGR00945
+serine--tRNA ligase	6.1.1.11	serS	TIGR00414
+type IV secretion/conjugal transfer ATPase, VirB4 family protein			TIGR00929
+conserved hypothetical protein			UniRef100_Q92GA5
+integral membrane , TerC family protein			TIGR03718
+putative heat resistant agglutinin			UniRef100_C4YXW1
+conserved hypothetical protein			UniRef100_Q7P9W3
+methyltransferase domain protein			PF08242.7
+NADH-ubiquinone/plastoquinone oxidoreductase chain 6 family protein			PF00499.15
+NADH-ubiquinone/plastoquinone oxidoreductase chain 4L family protein			PF00420.19
+proton-translocating NADH-quinone oxidoreductase, chain L family protein	1.6.-.-		TIGR01974
+proton-translocating NADH-quinone oxidoreductase, chain M family protein			TIGR01972
+heme ABC exporter, ATP-binding protein CcmA	3.6.3.41	ccmA	TIGR01189
+NADH-quinone oxidoreductase, chain I family protein			TIGR01971
+NADH-ubiquinone oxidoreductase chain 1	1.6.5.3	ND1	UniRef100_P92558
+NADH dehydrogenase (quinone), G subunit	1.6.99.5	nuoG	TIGR01973
+putative membrane protein			TMHMM
+aconitate hydratase 1	4.2.1.3	acnA	TIGR01341
+ATP synthase F1, epsilon subunit	3.6.3.14	atpC	TIGR01216
+ATP synthase F1, beta subunit	3.6.3.14	atpD	TIGR01039
+ATP synthase F1, gamma subunit	3.6.3.14	atpG	TIGR01146
+ATP synthase F1, alpha subunit	3.6.3.14	atpA	TIGR00962
+ATP synthase F1, delta subunit	3.6.3.14	atpH	TIGR01145
+dihydrolipoyl dehydrogenase	1.8.1.4	lpdA	TIGR01350
+ferritin-like domain protein			PF00210.19
+penicillin-binding , 1A family protein			TIGR02074
+tRNA-i(6)A37 thiotransferase enzyme MiaB	2.-.-.-	miaB	TIGR01574
+bacterial SH3 domain protein			PF06347.8
+proton antiporter-2 family protein			TIGR00932
+oligomerisation domain protein			PF02410.10
+bolA-like family protein			PF01722.13
+translation initiation factor IF-1		infA	TIGR00008
+septum formation protein Maf		maf	TIGR00172
+RNA polymerase-binding protein DksA		dksA	TIGR02420
+phage integrase family protein			PF00589.17
+phasin family domain protein			TIGR01841
+phospholipase D	3.1.4.4	pld	UniRef100_Q92G53
+poly(R)-hydroxyalkanoic acid synthase, class I family protein		phaC	TIGR01838
+ubiD decarboxylase family protein	4.1.1.-	ubiD	TIGR00148
+surA N-terminal domain protein			PF13624.1
+			
+ftsK/SpoIIIE family protein			PF01580.13
+methionine aminopeptidase, type I	3.4.11.18	map	TIGR00500
+conserved hypothetical protein			UniRef100_D5AYA9
+glycosyl transferase 4 family protein			PF00953.16
+conserved hypothetical protein			PF05258.7
+putative adhesin RC1281			UniRef100_Q92G43
+putative adhesin RC1281			UniRef100_Q92G43
+4Fe-4S binding domain protein			PF00037.22
+heme exporter CcmC family protein		ccmC	TIGR01191
+cytidine and deoxycytidylate deaminase		codA	UniRef100_A9CK16
+cation diffusion facilitator transporter family protein			TIGR01297
+glycine zipper family protein			PF13488.1
+ABC transporter family protein			PF00005.22
+excinuclease ABC subunit A	3.1.25.-	uvrA	TIGR00630
+single-stranded DNA-binding family protein		ssb	TIGR00621
+serine hydrolase family protein			PF03959.8
+conserved hypothetical protein			PF02594.11
+histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein			PF02518.21
+5-aminolevulinic acid synthase	2.3.1.37	hemA	TIGR01821
+trigger factor	5.2.1.8	tig	TIGR00115
+obg family GTPase CgtA		cgtA	TIGR02729
+citrate (Si)-synthase	2.3.3.1	gltA	TIGR01798
+uracil-DNA glycosylase, 4 family protein	3.2.2.-		TIGR00758
+pseudouridine synthase, RluA family protein	5.4.99.-		TIGR00005
+telomere recombination family protein			PF01300.13
+protein-(glutamine-N5) methyltransferase, release factor-specific	2.1.1.-	prmC	TIGR03534
+glycine--tRNA ligase, beta subunit	6.1.1.14	glyS	TIGR00211
+glycine--tRNA ligase, alpha subunit	6.1.1.14	glyQ	TIGR00388
+conserved hypothetical protein			UniRef100_P44068
+H+ symporter family protein			TIGR00883
+conserved hypothetical protein			UniRef100_Q92G03
+conserved hypothetical protein			UniRef100_Q92G02
+putative glycyl-tRNA synthetase subunit alpha			UniRef100_A8F077
+alanine--tRNA ligase	6.1.1.7	alaS	TIGR00344
+tRNA pseudouridine(38-40) synthase	5.4.99.12	truA	TIGR00071
+RNA polymerase sigma factor RpoD		rpoD	TIGR02393
+DNA primase	2.7.7.-	dnaG	TIGR01391
+cytidylyltransferase family protein			PF01148.15
+transcription elongation factor GreA domain protein		greA	TIGR01462
+conserved hypothetical protein			PF12769.2
+NAD(P) transhydrogenase subunit alpha part 1	1.6.1.2	pntAA	UniRef100_Q2RSB2
+outer membrane lipocarrier LolA family protein			PF03548.10
+DNA polymerase III, subunit gamma and tau	2.7.7.7	dnaX	TIGR02397
+DNA-binding protein, YbaB/EbfC family			TIGR00103
+clan AA aspartic protease, TIGR02281 family protein	3.4.23.-		TIGR02281
+arginine transport ATP-binding protein ArtM		artM	UniRef100_P54537
+metallo-beta-lactamase superfamily protein			PF00753.22
+PAP2 superfamily protein			PF01569.16
+putative permease YjgP/YjgQ family protein			PF03739.9
+DNA polymerase III chi subunit, HolC family protein			PF04364.8
+succinyl-diaminopimelate desuccinylase	3.5.1.18	dapE	TIGR01246
+conserved hypothetical protein			PF02698.12
+lipoyl(octanoyl) transferase	2.3.1.181	lipB	TIGR00214
+ribosomal protein S16		rpsP	TIGR00002
+ribosomal protein L33		rpmG	TIGR01023
+DNA mismatch repair MutL family protein		mutL	TIGR00585
+zinc-finger domain protein			PF10276.4
+sugar (and other) transporter family protein			PF00083.19
+coproporphyrinogen III oxidase family protein			PF01218.13
+conserved hypothetical protein			PF03653.8
+ferrochelatase	4.99.1.1	hemH	TIGR00109
+uroporphyrinogen decarboxylase	4.1.1.37	hemE	TIGR01464

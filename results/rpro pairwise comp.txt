@@ -1,0 +1,892 @@
+kinase/pyrophosphorylase family protein			Uncharacterized protein conserved in bacteria		CDS	Hypothetical protein DUF2999			0	0	lit-s	
+thioredoxin		trxA	thioredoxin		CDS	Thioredoxin			base_lit-s	lit-s	lit-s	
+ABC transporter family protein			ABC-type polysaccharide/polyol phosphate transport system, ATPase component		CDS	O-antigen export system ATP-binding protein RfbE			0	0	0	
+ABC-2 type transporter family protein			ABC-type polysaccharide/polyol phosphate export systems, permease component		CDS	O-antigen export system permease protein RfbD			0	0	gs-sh	
+conserved hypothetical protein			hypothetical protein		CDS	Glutamate synthase [NADPH] small chain	1.4.1.13		lit-s	base_one HP	base_one HP	
+pyridine nucleotide-disulfide oxidoreductase family protein			NADPH-dependent glutamate synthase beta chain and related oxidoreductases		CDS	Glutamate synthase [NADPH] small chain	1.4.1.13		0	0	0	
+acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase	2.3.1.129	lpxA	acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)	2.3.1.129	CDS	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase	2.3.1.129		base_tigr	base_ec	base_ec	
+beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ	4.2.1.-	fabZ	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.-)	4.2.1.-	CDS	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase	4.2.1.-		base_tigr	orth	map	
+UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	2.3.1.-	lpxD	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)	2.3.1.191	CDS	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	2.3.1.-		base_tigr	base_lit-s	lit-s	
+TIM-barrel , nifR3 family protein			tRNA-U20-dihydrouridine synthase		CDS	tRNA dihydrouridine synthase B	1.-.-.-		0	0	gs-sh	
+rickettsial palindromic element RPE3 domain protein			Rickettsial palindromic element RPE3 domain		CDS	FIG01015516: hypothetical protein			base_tigr	0	0	
+conserved hypothetical protein			ATPase, YjeE family		CDS	"ATPase YjeE, predicted to have essential role in cell wall biosynthesis"			base_one HP	base_one HP	0	
+periplasmic solute binding family protein			ABC-type metal ion transport system, periplasmic component/surface adhesin		CDS	Zinc/manganese ABC transporter substrate binding protein			0	0	orth	
+poly A polymerase head domain protein			tRNA nucleotidyltransferase/poly(A) polymerase	2.7.7.19	CDS	tRNA nucleotidyltransferase	2.7.7.21, 2.7.7.25		0	0	base_ec-d	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01016995: hypothetical protein			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	cell surface antigen			lit-s	base_one HP	base_one HP	
+outer membrane autotransporter barrel domain protein			outer membrane autotransporter barrel domain		CDS	cell surface antigen			base_tigr	0	0	
+hypothetical protein						hypothetical protein			base_one HP	base_lit-s	base_one HP	
+ATP synthase B/B' CF family protein			F0F1-type ATP synthase, subunit b	3.6.3.14	CDS	ATP synthase B' chain	3.6.3.14		0	0	base_ec	
+ATP synthase B/B' CF family protein			F0F1-type ATP synthase, subunit b	3.6.3.14	CDS	ATP synthase B chain	3.6.3.14		0	0	base_ec	
+ATP synthase subunit C family protein			F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	3.6.3.14	CDS	ATP synthase C chain	3.6.3.14		map	lit-s	base_ec	
+ATP synthase F0, A subunit	3.6.3.14	atpB	ATP synthase F0 subcomplex A subunit	3.6.3.14	CDS	ATP synthase A chain	3.6.3.14		base_tigr	base_ec	base_ec	
+F0F1-ATPase subunit family protein			Putative F0F1-ATPase subunit (ATPase_gene1).		CDS	FIG048548: ATP synthase protein I2			0	0	0	
+thioredoxin family protein			Thiol:disulfide interchange protein DsbC		CDS	Periplasmic thiol:disulfide interchange protein DsbA			0	0	0	
+carD-like/TRCF domain protein			transcriptional regulator, CarD family		CDS	CarD-like transcriptional regulator			gs-sh	0	0	
+putative methyltransferase regulatory domain protein			Predicted regulatory domain of a methyltransferase		CDS	Methyltransferase	2.1.1.-		0	0	0	
+methyltransferase domain protein			Methyltransferase domain.		CDS	Methyltransferase	2.1.1.-		lit-s	lit-s	lit-s	
+DNA replication and repair RecF family protein		recF	DNA replication and repair protein RecF		CDS	DNA recombination and repair protein RecF			base_tigr	gs-sh	gs-sh	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01015934: hypothetical protein			lit-s	base_one HP	base_one HP	
+SCO1/SenC family protein			Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis of respiratory and photosynthetic systems		CDS	"Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, putative copper metallochaperone"			0	0	0	
+conserved hypothetical protein			Putative transcriptional regulator		CDS	DUF179 domain-containing protein			base_one HP	base_one HP	0	
+colicin V production family protein			Uncharacterized membrane protein, required for colicin V production		CDS	Colicin V production protein			tf_idf	lit-s	tf_idf	
+conserved hypothetical protein			Protein of unknown function (DUF2748).		CDS	FIG01016308: hypothetical protein			base_one HP	base_one HP	lit-s	
+acetoacetyl-CoA reductase family protein	1.1.1.36	phbB	3-oxoacyl-[acyl-carrier-protein] reductase	1.1.1.36,1.1.1.100	CDS	Acetoacetyl-CoA reductase	1.1.1.36		base_tigr	base_ec	base_ec-d	
+ATP-dependent chaperone protein ClpB		clpB	ATP-dependent chaperone ClpB		CDS	ClpB protein			base_tigr	gs-sh	tf_idf	
+metallohydrolase, glycoprotease/Kae1 family protein			O-sialoglycoprotein endopeptidase (EC 3.4.24.57)	3.4.24.57	CDS	"TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA"			0	0	gs-sh	
+fatty acid desaturase family protein			Fatty-acid desaturase	1.14.19.1	CDS	Fatty acid desaturase; Delta-9 fatty acid desaturase	1.14.19.1, 1.14.19.1		0	tf_idf	base_ec-d	
+ribosomal protein S6		rpsF	SSU ribosomal protein S6P		CDS	SSU ribosomal protein S6p			base_tigr	orth	lit-s	
+ribosomal protein S18		rpsR	SSU ribosomal protein S18P		CDS	"SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent"			base_tigr	0	0	
+ribosomal protein L9		rplI	LSU ribosomal protein L9P		CDS	LSU ribosomal protein L9p			base_tigr	orth	lit-s	
+tRNA(Ile)-lysidine synthetase	6.3.4.-	tilS	tRNA(Ile)-lysidine synthetase, N-terminal domain		CDS	tRNA(Ile)-lysidine synthetase			base_tigr	base_lit-s	lit-s	
+ATP-dependent metallopeptidase HflB family protein	3.4.24.-	hflB	ATP-dependent metalloprotease FtsH	3.4.24.-	CDS	Cell division protein FtsH	3.4.24.-		base_tigr	gs-sh	gs-sh	
+succinate dehydrogenase and fumarate reductase iron-sulfur family protein			succinate dehydrogenase subunit B	1.3.99.1,1.3.5.1	CDS	Succinate dehydrogenase iron-sulfur protein	1.3.99.1		base_tigr	0	base_ec-d	
+S-adenosyl-L-methionine-dependent methyltransferase family protein			Uncharacterized conserved protein		CDS	COG1565: Uncharacterized conserved protein			0	0	lit-s	
+prolipoprotein diacylglyceryl transferase	2.4.99.-	lgt	Prolipoprotein diacylglyceryl transferase	2.-	CDS	Prolipoprotein diacylglyceryl transferase	2.4.99.-		base_tigr	lit-s	base_lit-s	
+mechanosensitive ion channel family protein			Small-conductance mechanosensitive channel		CDS	Small-conductance mechanosensitive channel			0	0	base_lit-s	
+membrane protein insertase, YidC/Oxa1 family, N-terminal domain		yidC	protein translocase subunit yidC		CDS	"Inner membrane protein translocase component YidC, long form"			gs-sh	gs-sh	gs-sh	
+CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)	2.7.8.5	CDS	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5		base_tigr	base_lit-s	base_ec	
+conserved hypothetical protein			hypothetical protein		CDS	Carbonic anhydrase	4.2.1.1		lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01015574: hypothetical protein			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01017631: hypothetical protein			lit-s	base_one HP	base_one HP	
+ADP,ATP carrier protein 1		tlcA	ADP/ATP carrier protein family		CDS	"ADP/ATP Translocase, NTT1"			gs-sh	0	0	
+major Facilitator Superfamily protein			Sugar phosphate permease		CDS	Glycerol-3-phosphate transporter			0	0	orth	
+nucleoside diphosphate kinase family protein			nucleoside diphosphate kinase (EC 2.7.4.6)	2.7.4.6	CDS	Nucleoside diphosphate kinase	2.7.4.6		lit-s	lit-s	base_ec	
+tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA		gidA	glucose-inhibited division protein A		CDS	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA			base_tigr	base_lit-s	gs-sh	
+16S rRNA (guanine(527)-N(7))-methyltransferase GidB	2.1.1.170	gidB	16S rRNA (guanine(527)-N(7))-methyltransferase GidB	2.1.1.170	CDS	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB			base_lit-s	pfam-sh	pfam-sh	
+cobQ/CobB/MinD/ParA nucleotide binding domain protein			chromosome segregation ATPase		CDS	Chromosome (plasmid) partitioning protein ParA / Sporulation initiation inhibitor protein Soj			gs-sh	pfam-sh	gs-sh	
+parB/RepB/Spo0J family partition domain protein			chromosome segregation DNA-binding protein		CDS	Chromosome (plasmid) partitioning protein ParB / Stage 0 sporulation protein J			base_tigr	gs-sh	gs-sh	
+heme ABC exporter, ATP-binding protein CcmA	3.6.3.41	ccmA	ATP-binding cassette protein, ChvD family		CDS	ABC transporter ATP-binding protein			gs-sh	gs-sh	map	
+conserved hypothetical protein			Protein of unknown function (DUF2672).		CDS	putative membrane protein			base_one HP	base_one HP	0	
+3-deoxy-8-phosphooctulonate synthase	2.5.1.55	kdsA	3-deoxy-8-phosphooctulonate synthase	2.5.1.55	CDS	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase	2.5.1.55		base_lit-s	base_ec	base_ec	
+iron-sulfur cluster assembly accessory family protein			Iron-sulfur cluster assembly accessory protein		CDS	probable iron binding protein from the HesB_IscA_SufA family			base_tigr	0	0	
+dGTPase family protein	3.1.5.1	dgt	deoxyguanosinetriphosphate triphosphohydrolase, putative	3.1.5.1	CDS	"dNTP triphosphohydrolase, broad substrate specificity, subgroup 2"			base_tigr	0	0	
+arginine--tRNA ligase	6.1.1.19	argS	arginyl-tRNA synthetase (EC 6.1.1.19)	6.1.1.19	CDS	Arginyl-tRNA synthetase	6.1.1.19		base_tigr	base_ec	base_ec	
+sporulation related domain protein			Sporulation related domain.		CDS	Membrane protein containing sporulation/cell division related domain			lit-s	0	0	
+DNA topoisomerase IV, A subunit	5.99.1.-	parC	DNA topoisomerase IV, A subunit, proteobacterial	5.99.1.-	CDS	Topoisomerase IV subunit A	5.99.1.-		base_tigr	gs-sh	tf_idf	
+gram-negative porin family protein			Gram-negative porin.		CDS	FIG01015843: hypothetical protein			lit-s	0	0	
+deoxycytidine triphosphate deaminase	3.5.4.13	dcd	dCTP deaminase (EC 3.5.4.13)	3.5.4.13	CDS	Deoxycytidine triphosphate deaminase	3.5.4.13		base_tigr	base_ec	base_ec	
+protein-export chaperone SecB		secB	protein translocase subunit secB		CDS	"Protein export cytoplasm chaperone protein (SecB, maintains protein to be exported in unfolded state)"			base_tigr	pfam-sh	map	
+cell cycle transcriptional regulator CtrA		ctrA	cell cycle transcriptional regulator CtrA		CDS	Transcriptional activator protein CzcR			base_lit-s	orth	orth	
+queuine synthase	1.7.1.13	queF	7-cyano-7-deazaguanine reductase	1.7.1.13	CDS	NADPH-dependent 7-cyano-7-deazaguanine reductase	1.7.1.-		base_tigr	gs-sh	map	
+conserved hypothetical protein			Uncharacterized protein conserved in bacteria		CDS	FIG01015650: hypothetical protein			base_one HP	base_one HP	lit-s	
+NAD(P) transhydrogenase subunit beta	1.6.1.2	pntB	NAD/NADP transhydrogenase beta subunit	1.6.1.2	CDS	NAD(P) transhydrogenase subunit beta	1.6.1.2		base_ec	base_lit-s	base_ec	
+ompW family protein			Outer membrane protein W		CDS	Outer membrane protein W precursor			gs-sh	0	0	
+S-adenosylmethionine uptake transporter		sam	Permeases of the drug/metabolite transporter (DMT) superfamily		CDS	AdoMet-AdoHcy transporter 2			gs-sh	0	0	
+sugar (and other) transporter family protein			Arabinose efflux permease		CDS	proline/betaine transporter			0	0	0	
+preprotein translocase, SecG subunit		secG	protein translocase subunit secG		CDS	Preprotein translocase subunit SecG (TC 3.A.5.1.1)			base_tigr	lit-s	gs-sh	
+outer membrane autotransporter barrel domain protein			outer membrane autotransporter barrel domain		CDS	190 KD ANTIGEN PRECURSOR (sca2)			base_tigr	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01017330: hypothetical protein			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01017578: hypothetical protein			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01017578: hypothetical protein			lit-s	base_one HP	base_one HP	
+cysteine--tRNA ligase	6.1.1.16	cysS	cysteinyl-tRNA synthetase (EC 6.1.1.16)	6.1.1.16	CDS	Cysteinyl-tRNA synthetase	6.1.1.16		base_tigr	base_ec	base_ec	
+ribosomal protein S2		rpsB	SSU ribosomal protein S2P		CDS	SSU ribosomal protein S2p (SAe)			base_tigr	0	0	
+translation elongation factor Ts		tsf	translation elongation factor Ts (EF-Ts)		CDS	Translation elongation factor Ts			base_tigr	lit-s	tf_idf	
+conserved hypothetical protein			hypothetical protein		CDS	hypothetical protein			lit-s	lit-s	base_lit-s	
+3-Deoxy-D-manno-octulosonic-acid transferase family protein			3-deoxy-D-manno-octulosonic-acid transferase	2.4.99.15, 2.4.99.13, 2.4.99.14, 2.4.99.12	CDS	3-deoxy-D-manno-octulosonic-acid transferase	2.-.-.-		lit-s	lit-s	base_lit-s	
+conserved hypothetical protein			Uncharacterized protein conserved in bacteria		CDS	Protein of unknown function DUF374			base_one HP	base_one HP	lit-s	
+degT/DnrJ/EryC1/StrS aminotransferase family protein			Aspartate/tyrosine/aromatic aminotransferase	2.6.1.1	CDS	Aspartate aminotransferase	2.6.1.1		gs-sh	map	base_ec	
+methyltransferase domain protein			Methyltransferase domain.		CDS	FIG01015563: hypothetical protein			lit-s	0	0	
+vacJ like lipofamily protein			Surface lipoprotein		CDS	VacJ lipoprotein precursor			gs-sh	gs-sh	map	
+toluene tolerance, Ttg2 family protein			ABC-type transport system involved in resistance to organic solvents, auxiliary component		CDS	FIG01015985: hypothetical protein			0	0	0	
+alanine racemase	5.1.1.1	alr	alanine racemase (EC 5.1.1.1)	5.1.1.1	CDS	Alanine racemase	5.1.1.1		base_ec	base_ec	base_ec	
+conserved hypothetical family protein			conserved hypothetical integral membrane protein		CDS	ABC transporter permease protein			base_tigr	0	0	
+ABC transporter family protein			ABC-type transport system involved in resistance to organic solvents, ATPase component		CDS	Ribonucleotide ABC transporter ATP-binding protein			0	tf_idf	0	
+putative membrane protein			hypothetical protein		CDS	FIG01016395: hypothetical protein			base_one HP	0	base_one HP	
+ribosomal protein L28		rpmB	LSU ribosomal protein L28P		CDS	LSU ribosomal protein L28p			base_tigr	orth	lit-s	
+ribosomal protein L31		rpmE	LSU ribosomal protein L31P		CDS	LSU ribosomal protein L31p			base_tigr	map	lit-s	
+ribosome biogenesis GTP-binding protein YsxC		ysxC	ribosome biogenesis GTP-binding protein YsxC/EngB		CDS	GTP-binding protein EngB			gs-sh	0	0	
+type IV secretory pathway, VirB3-like family protein			Type IV secretory pathway, VirB3 components		CDS	Inner membrane protein forms channel for type IV secretion of T-DNA complex (VirB3)			pfam-sh	pfam-sh	pfam-sh	
+type IV secretion/conjugal transfer ATPase, VirB4 family protein			type IV secretion/conjugal transfer ATPase, VirB4 family		CDS	VirB4 protein precursor			base_tigr	0	0	
+trbL/VirB6 plasmid conjugal transfer family protein			Type IV secretory pathway, VirB6 components		CDS	"Inner membrane protein of type IV secretion of T-DNA complex, VirB6"			gs-sh	0	0	
+hypothetical protein						hypothetical protein			base_one HP	base_lit-s	base_one HP	
+trbL/VirB6 plasmid conjugal transfer family protein			Type IV secretory pathway, VirB6 components		CDS	"Inner membrane protein of type IV secretion of T-DNA complex, VirB6"			gs-sh	0	0	
+trbL/VirB6 plasmid conjugal transfer family protein			Type IV secretory pathway, VirB6 components		CDS	FIG00894006: hypothetical protein			gs-sh	0	0	
+trbL/VirB6 plasmid conjugal transfer family protein			Type IV secretory pathway, VirB6 components		CDS	FIG00894020: hypothetical protein			gs-sh	0	0	
+trbL/VirB6 plasmid conjugal transfer family protein			Type IV secretory pathway, VirB6 components		CDS	"Inner membrane protein of type IV secretion of T-DNA complex, VirB6"			gs-sh	0	0	
+phosphate acetyl/butaryl transferase family protein			Phosphotransacetylase	2.3.1.8	CDS	Phosphate acetyltransferase	2.3.1.8		0	0	base_ec	
+acetate kinase	2.7.2.1	ackA	acetate kinase (EC 2.7.2.1)	2.7.2.1	CDS	Acetate kinase	2.7.2.1		base_tigr	base_ec	base_ec	
+tRNA (guanine(37)-N(1))-methyltransferase		trmD	tRNA (Guanine37-N(1)-) methyltransferase	2.1.1.31	CDS	tRNA (Guanine37-N1) -methyltransferase	2.1.1.31		base_tigr	gs-sh	base_ec	
+ribosomal protein L19		rplS	LSU ribosomal protein L19P		CDS	LSU ribosomal protein L19p			base_tigr	map	lit-s	
+conserved hypothetical protein			Uncharacterized protein conserved in bacteria		CDS	unknown			base_one HP	base_one HP	lit-s	
+-export membrane protein SecF		secF	protein translocase subunit secF		CDS	Protein-export membrane protein SecF (TC 3.A.5.1.1)			gs-sh	gs-sh	gs-sh	
+NADH oxidoreductase (quinone), F subunit	1.6.99.5	nuoF	NADH dehydrogenase subunit F (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain F	1.6.5.3		base_tigr	base_ec-d	base_ec	
+signal peptidase I	3.4.21.89	lepB	signal peptidase I (EC:3.4.21.89). Serine peptidase. MEROPS family S26A	3.4.21.89	CDS	Signal peptidase I	3.4.21.89		base_tigr	base_ec	base_ec	
+ribonuclease III	3.1.26.3	rnc	RNAse III (EC 3.1.26.3)	3.1.26.3	CDS	Ribonuclease III	3.1.26.3		base_tigr	base_ec	base_ec	
+GTP-binding protein Era		era	GTP-binding protein Era		CDS	GTP-binding protein Era			base_lit-s	base_lit-s	base_lit-s	
+crossover junction endodeoxyribonuclease RuvC	3.1.22.4	ruvC	Holliday junction endonuclease RuvC (EC 3.1.22.4)	3.1.22.4	CDS	Crossover junction endodeoxyribonuclease RuvC	3.1.22.4		base_tigr	base_ec	base_ec	
+mitochondrial fission ELM1 family protein			Predicted nucleoside-diphosphate-sugar epimerase		CDS	DUF1022 domain-containing protein			0	0	0	
+cobQ/CobB/MinD/ParA nucleotide binding domain protein			ATPases involved in chromosome partitioning		CDS	Mrp protein			gs-sh	0	0	
+hflK protein		hflK	protease FtsH subunit HflK	3.4.-	CDS	HflK protein			base_tigr	lit-s	pfam-sh	
+hflC protein		hflC	protease FtsH subunit HflC	3.4.-	CDS	HflC protein			base_tigr	lit-s	gs-sh	
+peptidase Do family protein	3.4.21.-		periplasmic serine protease, Do/DeqQ family		CDS	HtrA protease/chaperone protein			base_tigr	map	gs-sh	
+rhodanese-like domain protein			Predicted sulfurtransferase		CDS	Rhodanese domain protein			0	0	0	
+succinate dehydrogenase, cytochrome b556 subunit		sdhC	succinate dehydrogenase subunit C	1.3.5.1	CDS	Succinate dehydrogenase cytochrome b-556 subunit			base_tigr	gs-sh	orth	
+succinate dehydrogenase, hydrophobic membrane anchor protein		sdhD	succinate dehydrogenase subunit D	1.3.5.1	CDS	Succinate dehydrogenase hydrophobic membrane anchor protein			base_tigr	lit-s	map	
+succinate dehydrogenase, flavoprotein subunit		sdhA	succinate dehydrogenase subunit A	1.3.99.1,1.3.5.1	CDS	Succinate dehydrogenase flavoprotein subunit	1.3.99.1		gs-sh	lit-s	base_ec-d	
+arginine transport system permease protein ArtQ		artQ	amino acid ABC transporter membrane protein, PAAT family (TC 3.A.1.3.-)		CDS	ABC transporter membrane-spanning permease - glutamine transport			gs-sh	0	0	
+ribosomal protein S12		rpsL	SSU ribosomal protein S12P		CDS	SSU ribosomal protein S12p (S23e)			base_tigr	0	0	
+ribosomal protein S7		rpsG	SSU ribosomal protein S7P		CDS	SSU ribosomal protein S7p (S5e)			base_tigr	0	0	
+translation elongation factor G		fusA	translation elongation factor 2 (EF-2/EF-G)		CDS	Translation elongation factor G			gs-sh	lit-s	map	
+preprotein translocase, SecE subunit		secE	protein translocase subunit secE/sec61 gamma		CDS	Preprotein translocase subunit SecE (TC 3.A.5.1.1)			base_tigr	lit-s	gs-sh	
+transcription termination/antitermination factor NusG		nusG	transcription antitermination protein nusG		CDS	Transcription antitermination protein NusG			base_tigr	pfam-sh	lit-s	
+ribosomal protein L11		rplK	LSU ribosomal protein L11P		CDS	LSU ribosomal protein L11p (L12e)			base_tigr	0	0	
+ribosomal protein L1		rplA	LSU ribosomal protein L1P		CDS	LSU ribosomal protein L1p (L10Ae)			base_tigr	0	0	
+50S ribosomal protein L10		rplJ	LSU ribosomal protein L10P		CDS	LSU ribosomal protein L10p (P0)			gs-sh	0	0	
+ribosomal protein L7/L12		rplL	LSU ribosomal protein L12P		CDS	LSU ribosomal protein L7/L12 (P1/P2)			base_tigr	0	0	
+DNA-directed RNA polymerase, beta subunit	2.7.7.6	rpoB	DNA-directed RNA polymerase subunit beta (EC 2.7.7.6)	2.7.7.6	CDS	DNA-directed RNA polymerase beta subunit	2.7.7.6		base_tigr	base_ec	base_ec	
+DNA-directed RNA polymerase, beta' subunit	2.7.7.6	rpoC	DNA-directed RNA polymerase, beta' subunit, predominant form	2.7.7.6	CDS	DNA-directed RNA polymerase beta' subunit	2.7.7.6		base_tigr	base_ec	base_ec	
+cytosol aminopeptidase family, catalytic domain protein			Leucyl aminopeptidase	3.4.11.1	CDS	Cytosol aminopeptidase PepA	3.4.11.1		map	tf_idf	base_ec	
+cobQ/CobB/MinD/ParA nucleotide binding domain protein			ATPases involved in chromosome partitioning		CDS	FIG01016112: hypothetical protein			gs-sh	0	0	
+putative leucyl aminopeptidase			hypothetical protein		CDS	unknown			base_one HP	0	base_one HP	
+aspartate--tRNA ligase	6.1.1.-	aspS	aspartyl-tRNA synthetase (EC 6.1.1.12)	6.1.1.12	CDS	Aspartyl-tRNA synthetase @ Aspartyl-tRNA(Asn) synthetase	6.1.1.12, 6.1.1.23		base_tigr	gs-sh	base_ec-d	
+conserved hypothetical protein						unknown			base_one HP	base_one HP	base_one miss	
+conserved hypothetical protein						unknown			base_one HP	base_one HP	base_one miss	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+inhibitor of apoptosis-promoting Bax1 family protein			Integral membrane protein, interacts with FtsH		CDS	FIG005935: membrane protein			0	0	0	
+dihydrodipicolinate reductase	1.3.1.26	dapB	dihydrodipicolinate reductase (EC 1.3.1.26)	1.3.1.26	CDS	Dihydrodipicolinate reductase	1.3.1.26		base_tigr	base_ec	base_ec	
+flavin reductase like domain protein			Conserved protein/domain typically associated with flavoprotein oxygenases, DIM6/NTAB family		CDS	Nitrilotriacetate monooxygenase component B	1.14.13.-		0	0	0	
+bacterial extracellular solute-binding s, 3 family protein			amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)		CDS	glutamine-binding periplasmic protein GlnH			0	0	0	
+aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, B subunit	6.3.5.-	gatB	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	6.3.5.7, 6.3.5.6,6.3.5.-	CDS	Aspartyl-tRNA(Asn) amidotransferase subunit B @ Glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6, 6.3.5.7		base_tigr	gs-sh	gs-sh	
+aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, A subunit	6.3.5.-	gatA	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A	6.3.5.7, 6.3.5.6,6.3.5.-	CDS	Aspartyl-tRNA(Asn) amidotransferase subunit A @ Glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6, 6.3.5.7		base_tigr	gs-sh	gs-sh	
+aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C subunit	6.3.5.-	gatC	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C	6.3.5.6, 6.3.5.7,6.3.5.-	CDS	Aspartyl-tRNA(Asn) amidotransferase subunit C @ Glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6, 6.3.5.7		base_tigr	gs-sh	gs-sh	
+ribosome recycling factor		frr	ribosome recycling factor		CDS	Ribosome recycling factor			base_lit-s	lit-s	lit-s	
+UMP kinase	2.7.4.22	pyrH	uridylate kinase (EC 2.7.4.22)	2.7.4.22	CDS	Uridylate kinase	2.7.4.-		base_tigr	gs-sh	lit-s	
+na+/H+ ion antiporter subunit			Multisubunit Na+/H+ antiporter, MnhE subunit		CDS	unknown			tf_idf	0	0	
+H+ antiporter-2 family protein			drug resistance transporter, EmrB/QacA subfamily		CDS	multidrug resistance protein B			base_tigr	map	orth	
+conserved hypothetical protein			Protein of unknown function (DUF2674).		CDS	unknown			base_one HP	base_one HP	lit-s	
+outer membrane assembly complex, YaeT protein		yaeT	Beta-barrel assembly machine subunit BamA		CDS	Outer membrane protein assembly factor YaeT precursor			base_tigr	0	0	
+RIP metalloprotease RseP	3.4.24.-	rseP	site-2 protease. Metallo peptidase. MEROPS family M50B	3.4.24.-	CDS	"Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage"			base_tigr	gs-sh	gs-sh	
+transcription antitermination factor NusB		nusB	NusB antitermination factor		CDS	Transcription termination protein NusB			base_tigr	pfam-sh	pfam-sh	
+ftsJ-like methyltransferase family protein			23S rRNA Um-2552 2'-O-methyltransferase (EC 2.1.1.166)	2.1.1.166	CDS	Cell division protein FtsJ / Ribosomal RNA large subunit methyltransferase E	2.1.1.-		gs-sh	gs-sh	gs-sh	
+conserved hypothetical protein			hypothetical protein		CDS	rickettsial conserved hypothetical protein			lit-s	base_one HP	base_one HP	
+lipase family protein			Protein of unknown function (DUF2974).		CDS	FIG01018132: hypothetical protein			0	0	lit-s	
+polyketide cyclase / dehydrase and lipid transport family protein			Oligoketide cyclase/lipid transport protein		CDS	Putative oligoketide cyclase/dehydratase or lipid transport protein YfjG			0	0	0	
+RNA methyltransferase, RsmE family protein	2.1.1.-		RNA methyltransferase, RsmE family	2.1.1.193	CDS	Ribosomal RNA small subunit methyltransferase E	2.1.1.-		base_tigr	0	0	
+conserved hypothetical protein			Uncharacterized conserved protein		CDS	unknown			base_one HP	base_one HP	lit-s	
+acrB/AcrD/AcrF family protein			Cation/multidrug efflux pump		CDS	RND multidrug efflux transporter; Acriflavin resistance protein			gs-sh	0	0	
+bacterial DNA-binding family protein			Bacterial nucleoid DNA-binding protein		CDS	DNA-binding protein HU-alpha			0	0	0	
+DNA polymerase III, delta subunit			DNA polymerase III, delta prime subunit (EC 2.7.7.7)	2.7.7.7	CDS	DNA polymerase III delta prime subunit	2.7.7.7		tf_idf	tf_idf	base_ec	
+signal recognition particle protein		ffh	signal recognition particle subunit FFH/SRP54 (srp54)		CDS	"Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)"			base_tigr	tf_idf	pfam-sh	
+prolyl oligopeptidase family protein			Serine proteases of the peptidase family S9A	3.4.21.26	CDS	prolyl oligopeptidase family protein			0	base_lit-s	0	
+radical SAM superfamily protein			coproporphyrinogen III oxidase, anaerobic (EC 1.3.99.22)	1.3.99.22	CDS	"Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB"			0	0	0	
+sodium:dicarboxylate symporter family protein			Na+/H+-dicarboxylate symporters		CDS	Proton/glutamate symport protein @ Sodium/glutamate symport protein			0	0	0	
+cutA1 domain protein			Rickettsial palindromic element RPE5 domain		CDS	Periplasmic divalent cation tolerance protein CutA			0	0	0	
+6-pyruvoyl tetrahydropterin synthase family protein			6-pyruvoyl-tetrahydropterin synthase	4.2.3.12	CDS	"Queuosine biosynthesis QueD, PTPS-I"			0	0	gs-sh	
+dihydrolipoyllysine-residue succinyltransferase, E2 component of oxoglutarate dehydrogenase (succinyl-transferring) complex	2.3.1.61	sucB	2-oxoglutarate dehydrogenase E2 component (EC 2.3.1.61)	2.3.1.61	CDS	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex	2.3.1.61		base_tigr	base_ec	base_ec	
+oxoglutarate dehydrogenase (succinyl-transferring), E1 component	1.2.4.2	sucA	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)	1.2.4.2	CDS	2-oxoglutarate dehydrogenase E1 component	1.2.4.2		base_tigr	base_ec	base_ec	
+carboxypeptidase Taq (M32) metallopeptidase family protein			Zn-dependent carboxypeptidase		CDS	Thermostable carboxypeptidase 1	3.4.17.19		0	0	0	
+carboxypeptidase Taq (M32) metallopeptidase family protein			Zn-dependent carboxypeptidase		CDS	Thermostable carboxypeptidase 1	3.4.17.19		0	0	0	
+putative ctaQ			Zn-dependent carboxypeptidase	3.4.17.19	CDS	Thermostable carboxypeptidase 1	3.4.17.19		gs-sh	map	base_ec	
+DNA repair protein RecN		recN	DNA replication and repair protein RecN		CDS	DNA repair protein RecN			base_tigr	base_lit-s	gs-sh	
+outer membrane assembly lipoYfiO family protein		yfiO	Beta-barrel assembly machine subunit BamD		CDS	"competence lipoprotein ComL, putative"			base_tigr	gs-sh	map	
+chaperone protein DnaJ		dnaJ	chaperone protein DnaJ		CDS	Chaperone protein DnaJ			base_lit-s	lit-s	lit-s	
+chaperone protein DnaK		dnaK	chaperone protein DnaK		CDS	Chaperone protein DnaK			base_lit-s	lit-s	lit-s	
+			hypothetical protein		CDS				base_one HP	base_both miss	base_one HP	
+peptidase S7, Flavivirus NS3 serine protease family protein			Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain		CDS	Heat shock protease	3.4.21.-		0	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	heat shock protease			lit-s	base_one HP	base_one HP	
+lipopolysaccharide-assembly family protein			Lipopolysaccharide-assembly.		CDS	unknown			lit-s	0	0	
+conserved hypothetical protein			DNA polymerase III, delta subunit (EC 2.7.7.7)	2.7.7.7	CDS	DNA polymerase III delta subunit	2.7.7.7		base_one HP	base_one HP	base_ec	
+conserved hypothetical protein			Ubiquinone biosynthesis protein COQ7	1.14.13.-	CDS	"2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase"	1.14.13.-		base_one HP	base_one HP	0	
+cytochrome c oxidase subunit III family protein			Heme/copper-type cytochrome/quinol oxidase, subunit 3	1.9.3.1	CDS	Cytochrome c oxidase polypeptide III	1.9.3.1		map	tf_idf	base_ec	
+trbC/VIRB2 family protein			Type IV secretory pathway, VirB2 components (pilins)		CDS	unknown			gs-sh	0	0	
+MJ0042 family finger-like domain protein			zinc-ribbon domain.		CDS	unknown			base_tigr	0	0	
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	2.3.1.117	dapD	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)	2.3.1.117	CDS	"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase"	2.3.1.117		base_tigr	base_ec	base_ec	
+penicillin-binding protein 1C		pbpC	penicillin-binding protein 1C	2.4.1.-	CDS	Multimodular transpeptidase-transglycosylase	2.4.1.129, 3.4.-.-		base_lit-s	gs-sh	map	
+transglycosylase family protein			Membrane carboxypeptidase/penicillin-binding protein PbpC		CDS	Multimodular transpeptidase-transglycosylase	2.4.1.129, 3.4.-.-		0	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	hypothetical protein			lit-s	lit-s	base_lit-s	
+universal stress family protein			Universal stress protein UspA and related nucleotide-binding proteins		CDS	Universal stress protein family 3			orth	0	0	
+TRAP transporter solute receptor, TAXI family protein			TRAP transporter solute receptor, TAXI family		CDS	TRAP-type uncharacterized transport system			base_tigr	gs-sh	gs-sh	
+conserved hypothetical protein			hypothetical protein		CDS	rickettsial conserved			lit-s	base_one HP	base_one HP	
+2Fe-2S iron-sulfur cluster binding domain protein			Ferredoxin		CDS	"Ferredoxin, 2Fe-2S"			0	0	orth	
+hsp70 family protein			Chaperone protein HscA		CDS	Chaperone protein HscA			0	0	base_lit-s	
+fe-S protein assembly co-chaperone HscB		hscB	Co-chaperone protein HscB		CDS	Chaperone protein HscB			base_tigr	map	orth	
+ribonuclease HII family protein			RNase HII (EC 3.1.26.4)	3.1.26.4	CDS	Ribonuclease HII	3.1.26.4		map	lit-s	base_ec	
+excinuclease ABC subunit B	3.1.25.-	uvrB	Excinuclease ABC subunit B		CDS	Excinuclease ABC subunit B			base_tigr	lit-s	base_lit-s	
+glutaredoxin 3		grxC	Glutaredoxin, GrxC family		CDS	Glutaredoxin 3			base_tigr	lit-s	map	
+ABC transporter family protein			ABC-type transport system involved in Fe-S cluster assembly, permease and ATPase components		CDS	Multidrug resistance protein Atm1			0	0	0	
+DNA gyrase, A subunit	5.99.1.3	gyrA	DNA gyrase subunit A (EC 5.99.1.3)	5.99.1.3	CDS	DNA gyrase subunit A	5.99.1.3		base_tigr	base_ec	base_ec	
+			Hypoxia induced protein conserved region.		CDS				base_one miss	base_both miss	base_one miss	
+peptide deformylase	3.5.1.88	def	peptide deformylase (EC 3.5.1.88)	3.5.1.88	CDS	Peptide deformylase	3.5.1.88		base_tigr	base_ec	base_ec	
+methionyl-tRNA formyltransferase	2.1.2.9	fmt	methionyl-tRNA formyltransferase (EC 2.1.2.9)	2.1.2.9	CDS	Methionyl-tRNA formyltransferase	2.1.2.9		base_tigr	base_ec	base_ec	
+conserved hypothetical protein									base_one HP	base_one HP	base_both miss	
+									base_both miss	base_both miss	base_both miss	
+									base_both miss	base_both miss	base_both miss	
+archaeal ATPase family protein			Predicted ATPase		CDS	putative ATPase n2B			0	0	orth	
+tRNA ribosyltransferase-isomerase	5.-.-.-	queA	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	5.-	CDS	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	5.-.-.-		base_tigr	gs-sh	map	
+ABC transporter family protein			ABC-type multidrug transport system, ATPase and permease components		CDS	multidrug resistance ABC transporter ATP-binding protein			0	tf_idf	0	
+conserved hypothetical protein			Protein of unknown function (DUF2671).		CDS	FIG01015543: hypothetical protein			base_one HP	base_one HP	lit-s	
+bacterial Cytochrome Ubiquinol Oxidase family protein			cytochrome bd-I ubiquinol oxidase subunit 1 apoprotein	1.10.3.-,1.10.3.10	CDS	"putative Cytochrome bd2, subunit I"			0	0	0	
+cytochrome d ubiquinol oxidase, subunit II	1.10.3.-	cydB	cytochrome bd-I ubiquinol oxidase subunit 2 apoprotein	1.10.3.-,1.10.3.10	CDS	"putative Cytochrome bd2, subunit II"			base_tigr	gs-sh	map	
+glycosyl transferase 2 family protein			Glycosyltransferases involved in cell wall biogenesis		CDS	"Beta 1,4 glucosyltransferase"			0	0	0	
+peptidase M16 inactive domain protein			Predicted Zn-dependent peptidases		CDS	Mitochondrial processing peptidase-like protein	3.4.24.64		0	0	0	
+SAICAR synthetase family protein			phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)	6.3.2.6	CDS	Phosphoribosylaminoimidazole-succinocarboxamide synthase	6.3.2.6		0	0	base_ec	
+threonine--tRNA ligase	6.1.1.3	thrS	threonyl-tRNA synthetase	6.1.1.3	CDS	Threonyl-tRNA synthetase	6.1.1.3		base_tigr	base_ec	base_ec	
+conserved hypothetical protein			Protein of unknown function (DUF2660).		CDS	FIG01015958: hypothetical protein			base_one HP	base_one HP	lit-s	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01015692: hypothetical protein			lit-s	base_one HP	base_one HP	
+outer membrane efflux family protein			Outer membrane protein		CDS	"Type I secretion outer membrane protein, TolC precursor"			tf_idf	tf_idf	gs-sh	
+conserved hypothetical protein			Protein of unknown function (DUF2497).		CDS	FIG01015557: hypothetical protein			base_one HP	base_one HP	lit-s	
+ankyrin repeats family protein			hypothetical protein		CDS	FIG01015925: hypothetical protein			base_one HP	0	base_one HP	
+DNA topoisomerase IV, B subunit	5.99.1.-	parE	DNA topoisomerase IV, B subunit, proteobacterial	5.99.1.-	CDS	Topoisomerase IV subunit B	5.99.1.-		base_tigr	gs-sh	tf_idf	
+C-terminal processing peptidase family protein	3.4.21.-		C-terminal processing peptidase-3. Serine peptidase. MEROPS family S41A	3.4.21.102	CDS	Carboxyl-terminal protease	3.4.21.102		base_tigr	map	base_ec	
+his Kinase A domain protein			Signal transduction histidine kinase	2.7.13.3	CDS	histidine kinase sensor protein			0	0	tf_idf	
+tol-pal system protein YbgF		ygbF	tol-pal system protein YbgF		CDS	TPR repeat containing exported protein; Putative periplasmic protein contains a protein prenylyltransferase domain			base_lit-s	0	0	
+conserved hypothetical protein			Protein of unknown function (DUF2659).		CDS	unknown			base_one HP	base_one HP	lit-s	
+PQQ enzyme repeat family protein			WD-40 repeat-containing protein		CDS	unknown			0	0	0	
+ribosomal protein L13		rplM	LSU ribosomal protein L13P		CDS	LSU ribosomal protein L13p (L13Ae)			base_tigr	0	0	
+ribosomal S9/S16 family protein			SSU ribosomal protein S9P		CDS	SSU ribosomal protein S9p (S16e)			0	0	0	
+NUDIX domain protein			NTP pyrophosphohydrolases including oxidative damage repair enzymes	3.6.1.-	CDS	Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase	3.6.1.-		0	0	0	
+response regulator	2.7.7.65	pleD	response regulator receiver modulated diguanylate cyclase		CDS	Pole remodelling regulatory diguanylate cyclase			gs-sh	0	0	
+translation elongation factor P		efp	translation elongation factor P (EF-P)		CDS	Translation elongation factor P			base_tigr	lit-s	tf_idf	
+inositol monophosphatase family protein			Archaeal fructose-1,6-bisphosphatase and related enzymes of inositol monophosphatase family	3.1.3.25	CDS	Inositol-1-monophosphatase	3.1.3.25		0	0	base_ec	
+conserved hypothetical protein			Domain of unknown function (DUF2610).		CDS	FIG01015537: hypothetical protein			base_one HP	base_one HP	lit-s	
+phosphatidylserine decarboxylase family protein			phosphatidylserine decarboxylase precursor-related protein	4.1.1.65	CDS	Phosphatidylserine decarboxylase	4.1.1.65		map	lit-s	base_ec	
+CDP-alcohol phosphatidyltransferase family protein			Phosphatidylserine synthase	2.7.8.8	CDS	CDP-diacylglycerol--serine O-phosphatidyltransferase	2.7.8.8		0	0	base_ec	
+efflux transporter, RND family, MFP subunit			Multidrug resistance efflux pump		CDS	multidrug resistance protein A			0	0	orth	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+bolA-like family protein			Stress-induced morphogen (activity unknown)		CDS	Cell division protein BolA			gs-sh	0	0	
+EAL domain protein			FOG: EAL domain		CDS	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)			lit-s	0	0	
+UDP-N-acetylmuramate--alanine ligase	6.3.2.8	murC	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	6.3.2.8	CDS	UDP-N-acetylmuramate--alanine ligase	6.3.2.8		base_tigr	base_lit-s	base_ec	
+UDP-N-acetylenolpyruvoylglucosamine reductase	1.1.1.158	murB	UDP-N-acetylmuramate dehydrogenase (EC 1.1.1.158)	1.1.1.158	CDS	UDP-N-acetylenolpyruvoylglucosamine reductase	1.1.1.158		base_tigr	base_lit-s	base_ec	
+D-alanine--D-alanine ligase family protein	6.3.2.4		D-alanine--D-alanine ligase (EC 6.3.2.4)	6.3.2.4	CDS	D-alanine--D-alanine ligase	6.3.2.4		base_tigr	base_ec	base_ec	
+cell division FtsQ family protein			Cell division septal protein		CDS	Cell division protein FtsQ			gs-sh	lit-s	gs-sh	
+cell division protein FtsA		ftsA	cell division protein FtsA		CDS	Cell division protein FtsA			base_lit-s	lit-s	lit-s	
+nfeD-like C-terminal, partner-binding family protein			Membrane protein implicated in regulation of membrane protease activity		CDS	Putative activity regulator of membrane protease YbbK			gs-sh	0	0	
+cytochrome c family protein			Cytochrome c2		CDS	membrane c-type cytochrome cy			orth	0	0	
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase	3.5.1.-	lpxC	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)	3.5.1.108	CDS	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase	3.5.1.-		base_tigr	base_lit-s	lit-s	
+putative membrane protein			hypothetical protein		CDS	unknown			base_one HP	0	base_one HP	
+ribonuclease, Rne/Rng family domain protein	3.1.4.-		RNAse E (EC 3.1.26.12)	3.1.26.12	CDS	Cytoplasmic axial filament protein CafA and Ribonuclease G	3.1.4.-		base_tigr	map	gs-sh	
+cytochrome oxidase assembly family protein			Uncharacterized protein required for cytochrome oxidase assembly		CDS	"Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA"			tf_idf	0	0	
+RNA pseudouridylate synthase family protein			ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24)	5.4.99.24	CDS	Ribosomal large subunit pseudouridine synthase C	4.2.1.70		0	0	base_ec-d	
+beta-lactamase family protein			Beta-lactamase class C and other penicillin binding proteins		CDS	Penicillin-binding protein 4*			0	orth	0	
+exodeoxyribonuclease III	3.1.11.2	xth	exodeoxyribonuclease III	3.1.11.2	CDS	Exodeoxyribonuclease III	3.1.11.2		base_lit-s	base_ec	base_ec	
+pyruvate dehydrogenase (acetyl-transferring) E1 component, alpha subunit	1.2.4.1	pdhA	pyruvate dehydrogenase E1 component, alpha subunit	1.2.4.1	CDS	Pyruvate dehydrogenase E1 component alpha subunit	1.2.4.1		base_tigr	base_ec	base_ec	
+transketolase, pyrimidine binding domain protein			Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, eukaryotic type, beta subunit	1.2.4.1	CDS	Pyruvate dehydrogenase E1 component beta subunit	1.2.4.1		0	0	base_ec	
+GTP-binding protein TypA/BipA		typA	GTP-binding protein TypA/BipA		CDS	GTP-binding protein TypA/BipA			base_lit-s	base_lit-s	base_lit-s	
+outer membrane family protein			periplasmic chaperone for outer membrane proteins Skp		CDS	Outer membrane protein H precursor			0	0	0	
+isocitrate dehydrogenase	1.1.1.-	icd	isocitrate dehydrogenase	1.1.1.42	CDS	Isocitrate dehydrogenase [NADP]	1.1.1.42		base_lit-s	tf_idf	base_ec	
+monovalent cation/proton antiporter, MnhG/PhaG subunit			monovalent cation/proton antiporter, MnhG/PhaG subunit		CDS	Na(+) H(+) antiporter subunit G			base_lit-s	0	0	
+conserved hypothetical protein			Predicted subunit of the Multisubunit Na+/H+ antiporter		CDS	"Multisubunit Na+/H+ antiporter, MnhB subunit"			base_one HP	base_one HP	gs-sh	
+ccmB family protein			ABC-type transport system involved in cytochrome c biogenesis, permease component		CDS	"ABC transporter involved in cytochrome c biogenesis, CcmB subunit"			gs-sh	0	0	
+conserved hypothetical protein			Protein of unknown function (DUF2670).		CDS	unknown			base_one HP	base_one HP	lit-s	
+ubiquinol-cytochrome c reductase, iron-sulfur subunit	1.10.2.2	petA	ubiquinol-cytochrome c reductase, iron-sulfur subunit	1.10.2.2	CDS	Ubiquinol-cytochrome C reductase iron-sulfur subunit	1.10.2.2		base_lit-s	base_ec	base_ec	
+cytochrome b		petB	Cytochrome b subunit of the bc complex		CDS	"Ubiquinol--cytochrome c reductase, cytochrome B subunit"	1.10.2.2		gs-sh	tf_idf	map	
+cytochrome C1 family protein			Cytochrome c1		CDS	"ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit"			lit-s	tf_idf	orth	
+hsp20/alpha crystallin family protein			Molecular chaperone (small heat shock protein)		CDS	HEAT SHOCK PROTEIN (hsp22)			0	0	0	
+peptide chain release factor 2		prfB	bacterial peptide chain release factor 2 (bRF-2)		CDS	Peptide chain release factor 2; programmed frameshift-containing			base_tigr	0	0	
+GTP-binding protein LepA	3.6.5.-	lepA	GTP-binding protein LepA		CDS	Translation elongation factor LepA			base_lit-s	pfam-sh	pfam-sh	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+			hypothetical protein		CDS				base_one HP	base_both miss	base_one HP	
+rod shape-determining protein RodA		mrdB	rod shape-determining protein RodA		CDS	Rod shape-determining protein RodA			base_lit-s	lit-s	lit-s	
+prolyl oligopeptidase family protein			oligopeptidase B (EC:3.4.21.83). Serine peptidase. MEROPS family S09A	3.4.21.83	CDS	oligopeptidase B			0	0	0	
+NADH-Ubiquinone/plastoquinone (complex I), various chains family protein			Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit		CDS	NADH-ubiquinone oxidoreductase chain N	1.6.5.3		0	0	0	
+NADH-Ubiquinone/plastoquinone (complex I), various chains family protein			Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit		CDS	NADH-ubiquinone oxidoreductase chain L	1.6.5.3		0	0	0	
+NADH-Ubiquinone/plastoquinone (complex I), various chains family protein			Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit		CDS	NADH-ubiquinone oxidoreductase chain N	1.6.5.3		0	0	0	
+NADH-ubiquinone/plastoquinone oxidoreductase chain 4L family protein			Multisubunit Na+/H+ antiporter, MnhC subunit		CDS	PH adaptation potassium efflux system protein C; sodium- potassium/hydrogen antiporter subunit C			0	0	0	
+P-type conjugative transfer protein VirB9		virB9	P-type conjugative transfer protein VirB9		CDS	Forms the bulk of type IV secretion complex that spans outer membrane and periplasm (VirB9)			base_lit-s	0	0	
+virB8 family protein			Type IV secretory pathway, component VirB8		CDS	"Inner membrane protein forms channel for type IV secretion of T-DNA complex, VirB8"			tf_idf	map	pfam-sh	
+			Protein of unknown function (DUF2706).		CDS				base_one miss	base_both miss	base_one miss	
+virB8 family protein			Type IV secretory pathway, component VirB8		CDS	"Inner membrane protein forms channel for type IV secretion of T-DNA complex, VirB8"			0	0	pfam-sh	
+conjugal transfer family protein			Type IV secretory pathway, VirB9 components		CDS	Forms the bulk of type IV secretion complex that spans outer membrane and periplasm (VirB9)			0	0	0	
+bacterial conjugation TrbI-like family protein			Type IV secretory pathway, VirB10 components		CDS	Inner membrane protein forms channel for type IV secretion of T-DNA complex (VirB10)			gs-sh	0	0	
+P-type DNA transfer ATPase VirB11		virB11	P-type DNA transfer ATPase VirB11		CDS	"ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex, VirB11"			base_lit-s	0	0	
+type IV secretory system Conjugative DNA transfer family protein			Type IV secretory pathway, VirD4 components		CDS	"Coupling protein VirD4, ATPase required for T-DNA transfer"			0	0	0	
+ppx/GppA phosphatase family protein			Exopolyphosphatase	3.6.1.40, 3.6.1.11	CDS	Guanosine pentaphosphate phosphohydrolase	3.6.1.11, 3.6.1.40		gs-sh	0	base_ec-d	
+			hypothetical protein		CDS				base_one HP	base_both miss	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS				lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			Protein of unknown function (DUF2608).		CDS	unknown			base_one HP	base_one HP	lit-s	
+conserved hypothetical protein			Protein of unknown function (DUF2608).		CDS	unknown			base_one HP	base_one HP	lit-s	
+inositol monophosphatase family protein			3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)	3.1.3.7	CDS	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase			0	orth	0	
+DNA mismatch repair protein MutS		mutS	DNA mismatch repair protein MutS		CDS	DNA mismatch repair protein MutS			base_lit-s	base_lit-s	base_lit-s	
+ribose 5-phosphate isomerase B	5.3.1.6	rpiB	ribose 5-phosphate isomerase B	5.3.1.6	CDS	Ribose 5-phosphate isomerase B / Galactose 6-phosphate isomerase	5.3.1.6		base_lit-s	base_ec	base_ec	
+peptidase M23 family protein			Membrane-bound metallopeptidase		CDS	outer membrane antigenic lipoprotein B precursor			0	0	0	
+thymidylate synthase, flavin-dependent	2.1.1.148	thyX	thymidylate synthase, flavin-dependent	2.1.1.148	CDS	Thymidylate synthase thyX	2.1.1.-		base_lit-s	gs-sh	gs-sh	
+tol-Pal system beta propeller repeat protein TolB		tolB	tol-pal system beta propeller repeat protein TolB		CDS	"tolB protein precursor, periplasmic protein involved in the tonb-independent uptake of group A colicins"			base_tigr	gs-sh	gs-sh	
+alternative sigma factor RpoH		rpoH	RNA polymerase, sigma 32 subunit, RpoH		CDS	RNA polymerase sigma factor RpoH			gs-sh	gs-sh	map	
+cytochrome c oxidase assembly CtaG/Cox11 family protein			Cytochrome oxidase assembly factor		CDS	"Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1"			tf_idf	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	2.1.1.61	trmU	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	2.8.1.-,2.1.1.61	CDS	tRNA-specific 2-thiouridylase MnmA			base_lit-s	gs-sh	gs-sh	
+amino acid transporter family protein			amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)		CDS	AtrC1-like cationic amino acid transporter protein			base_tigr	tf_idf	map	
+histidine--tRNA ligase	6.1.1.21	hisS	histidyl-tRNA synthetase (EC 6.1.1.21)	6.1.1.21	CDS	Histidyl-tRNA synthetase	6.1.1.21		base_tigr	base_ec	base_ec	
+ABC transporter ATP-binding domain protein									base_one miss	base_one miss	base_both miss	
+protein TolQ		tolQ	Cell division and transport-associated protein TolQ (TC 2.C.1.2.1)		CDS	MotA/TolQ/ExbB proton channel family protein			base_tigr	gs-sh	gs-sh	
+protein TolR		tolR	Cell division and transport-associated protein TolR (TC 2.C.1.2.1)		CDS	Biopolymer transport protein ExbD/TolR			base_tigr	gs-sh	gs-sh	
+putative periplasmic protein TonB, links inner and outer membranes			Cell division and transport-associated protein TolA (TC 2.C.1.2.1)		CDS	Putative TolA protein			gs-sh	gs-sh	pfam-sh	
+sugar (and other) transporter family protein			Sugar phosphate permease		CDS	proline/betaine transporter			0	0	0	
+HD domain protein			Guanosine polyphosphate pyrophosphohydrolases/synthetases		CDS	similarity to (p)ppGpp 3-pyrophosphohydrolase			0	0	0	
+type I secretion membrane fusion , HlyD family protein			type I secretion membrane fusion protein, HlyD family		CDS	Alkaline protease secretion protein AprE			base_tigr	orth	gs-sh	
+type I secretion system ATPase family protein			type I secretion system ABC transporter, PrtD family		CDS	alkaline protease secretion ATP-binding protein AprD			base_tigr	0	0	
+aspartate-semialdehyde dehydrogenase	1.2.1.11	asd	aspartate semialdehyde dehydrogenase (EC 1.2.1.11)	1.2.1.11	CDS	Aspartate-semialdehyde dehydrogenase	1.2.1.11		base_tigr	base_ec	base_ec	
+HIT domain protein			Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases		CDS	Protein kinase C inhibitor 1			pfam-sh	0	0	
+conserved hypothetical protein			Protein of unknown function (DUF2628).		CDS	FIG01015774: hypothetical protein			base_one HP	base_one HP	lit-s	
+ATP-dependent protease HslVU, peptidase subunit	3.4.25.2	hslV	ATP-dependent protease HslVU, peptidase subunit	3.4.25.2	CDS	ATP-dependent protease HslV	3.4.25.-		base_lit-s	gs-sh	gs-sh	
+ATP-dependent protease HslVU, ATPase subunit		hslU	ATP-dependent protease HslVU, ATPase subunit		CDS	ATP-dependent hsl protease ATP-binding subunit HslU			base_lit-s	gs-sh	gs-sh	
+lipid-A-disaccharide synthase	2.4.1.182	lpxB	lipid-A-disaccharide synthase (EC 2.4.1.182)	2.4.1.182	CDS	Lipid-A-disaccharide synthase	2.4.1.182		base_tigr	base_ec	base_ec	
+yceG-like family protein			conserved hypothetical protein, YceG family		CDS	FIG004453: protein YceG like			gs-sh	gs-sh	pfam-sh	
+iron donor protein CyaY		cyaY	iron donor protein CyaY		CDS	"Frataxin homolog CyaY, facilitates iron supply for heme A synthesis or Fe-S cluster assembly"			base_lit-s	0	0	
+bioY family protein			Uncharacterized conserved protein		CDS	Substrate-specific component BioY of biotin ECF transporter			gs-sh	gs-sh	gs-sh	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+glutamate--tRNA ligase	6.1.1.17	gltX	glutamyl-tRNA synthetase, bacterial family	6.1.1.17	CDS	Glutamyl-tRNA(Gln) synthetase	6.1.1.24		base_tigr	base_ec-d	base_ec-d	
+DNA topoisomerase I	5.99.1.2	topA	DNA topoisomerase I (EC 5.99.1.2)	5.99.1.2	CDS	DNA topoisomerase I	5.99.1.2		base_tigr	base_lit-s	base_ec	
+						hypothetical protein			base_both miss	base_one HP	base_one HP	
+putative peroxiredoxin			Peroxiredoxin	1.11.1.15	CDS	Thioredoxin peroxidase 1	1.6.4.-		lit-s	map	orth	
+stomatin-like protein 2		STOML2	SPFH domain, Band 7 family protein		CDS	Putative stomatin/prohibitin-family membrane protease subunit YbbK			gs-sh	0	0	
+sulfatase family protein			phosphatidylethanolamine:Kdo2-lipid A phosphoethanolamine transferase		CDS	Integral membrane protein			0	0	0	
+conserved hypothetical protein			RNAse H-fold protein YqgF	3.1.-	CDS	Putative Holliday junction resolvase YggF			base_one HP	base_one HP	0	
+conserved hypothetical protein									base_one HP	base_one HP	base_both miss	
+dihydrodipicolinate reductase, family protein			dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)	1.1.1.133	CDS	dTDP-4-dehydrorhamnose reductase	1.1.1.133		0	0	base_ec	
+UDP-glucose 4-epimerase	5.1.3.2	capD	Predicted nucleoside-diphosphate sugar epimerases		CDS	"UDP-N-acetylglucosamine 4,6-dehydratase"	4.2.1.-		gs-sh	0	0	
+UDP-N-acetylglucosamine 2-epimerase	5.1.3.14		UDP-N-acetylglucosamine 2-epimerase	5.1.3.14	CDS	UDP-N-acetylglucosamine 2-epimerase	5.1.3.14		base_lit-s	base_lit-s	base_lit-s	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01016355: hypothetical protein			lit-s	base_one HP	base_one HP	
+glycosyl transferases group 1 family protein			Glycosyltransferase		CDS	Glycosyltransferase	2.4.1.-		0	0	base_lit-s	
+glycosyl transferases group 1 family protein			Glycosyl transferases group 1.		CDS	FIG01017353: hypothetical protein			lit-s	0	0	
+acyltransferase family protein			Uncharacterized protein conserved in bacteria		CDS	"Membrane protein, putative"			0	0	0	
+glycosyl transferase 2 family protein			Glycosyltransferases involved in cell wall biogenesis		CDS	Glycosyltransferase			0	0	0	
+glycosyl transferases group 1 family protein			Glycosyltransferase		CDS	FIG01016142: hypothetical protein			0	0	0	
+efflux transporter, RND family, MFP subunit			RND family efflux transporter, MFP subunit		CDS	Probable efflux transporter			base_tigr	0	0	
+conserved hypothetical protein			Protein of unknown function (DUF2608).		CDS	FIG01015959: hypothetical protein			base_one HP	base_one HP	lit-s	
+esterase family protein			Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)		CDS	2-hydroxymuconic semialdehyde hydrolase	3.1.1.-		0	0	0	
+glycosyl transferases group 1 family protein			Glycosyltransferase		CDS	Glycosyltransferase			0	0	base_lit-s	
+ribosomal protein S4		rpsD	SSU ribosomal protein S4P		CDS	SSU ribosomal protein S4p (S9e)			base_tigr	0	0	
+protoheme IX farnesyltransferase	2.5.1.-	cyoE	protoheme IX farnesyltransferase	2.5.1.-	CDS	"Heme O synthase, protoheme IX farnesyltransferase COX10-CtaB"	2.5.1.-		base_lit-s	0	0	
+asmA family protein			Uncharacterized protein involved in outer membrane biogenesis		CDS	OUTER MEMBRANE ASSEMBLY PROTEIN (asmA)			gs-sh	gs-sh	gs-sh	
+16S rRNA processing protein RimM		rimM	16S rRNA processing protein RimM		CDS	16S rRNA processing protein RimM			base_lit-s	base_lit-s	base_lit-s	
+asmA-like C-terminal region family protein			AsmA-like C-terminal region.		CDS	FIG01015469: hypothetical protein			lit-s	0	0	
+exodeoxyribonuclease VII, small subunit	3.1.11.6	xseB	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	3.1.11.6	CDS	Exodeoxyribonuclease VII small subunit	3.1.11.6		base_tigr	base_ec	base_ec	
+DNA-3-methyladenine glycosylase family protein	3.2.2.-		DNA-3-methyladenine glycosylase (3mg)	3.2.2.21	CDS	DNA-3-methyladenine glycosylase II	3.2.2.21		base_tigr	map	base_ec	
+haemolytic domain protein			conserved hypothetical protein YidD		CDS	Protein YidD			0	0	0	
+NADH-quinone oxidoreductase, E subunit		nuoE	NADH dehydrogenase subunit E (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain E	1.6.5.3		base_tigr	gs-sh	base_ec	
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 2	1.6.99.3	NAD7	NADH dehydrogenase subunit D (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain D	1.6.5.3		base_ec-d	base_ec-d	base_ec	
+NADH (or F420H2) dehydrogenase, subunit C family protein		nuoC	NADH dehydrogenase subunit C (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain C	1.6.5.3		base_tigr	gs-sh	base_ec	
+NADH-quinone oxidoreductase, B subunit			NADH dehydrogenase subunit B (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain B	1.6.5.3		base_tigr	map	base_ec	
+NADH-ubiquinone/plastoquinone oxidoreductase, chain 3 family protein			NADH dehydrogenase subunit A (EC 1.6.5.3)	1.6.5.3	CDS	NADH ubiquinone oxidoreductase chain A	1.6.5.3		0	0	base_ec	
+O-Antigen ligase family protein			Lipid A core - O-antigen ligase and related enzymes		CDS	Lipid A core - O-antigen ligase and related enzymes			0	0	base_lit-s	
+conserved hypothetical protein			Uncharacterized protein conserved in bacteria		CDS	unknown			base_one HP	base_one HP	lit-s	
+tyrosine recombinase XerD		xerD	tyrosine recombinase XerD subunit		CDS	integrase/recombinase			base_tigr	gs-sh	orth	
+conserved hypothetical protein			hypothetical protein		CDS	rickettsial conserved hypothetical protein			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01015573: hypothetical protein			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01016044: hypothetical protein			lit-s	base_one HP	base_one HP	
+enoyl-[acyl-carrier-protein] reductase [NADH]	1.3.1.9	fabI	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)	1.3.1.9	CDS	Enoyl-[acyl-carrier-protein] reductase [NADH]	1.3.1.9		base_ec	base_ec	base_ec	
+apolipoprotein N-acyltransferase	2.3.1.-	lnt	Apolipoprotein N-acyltransferase	2.3.1.-	CDS	Apolipoprotein N-acyltransferase	2.3.1.-		base_tigr	lit-s	base_lit-s	
+periplasmic binding s and sugar binding domain of LacI family protein			ABC-type uncharacterized transport system, periplasmic component		CDS	FIG01016181: hypothetical protein			gs-sh	0	0	
+branched-chain amino acid transport system / permease component family protein			ABC-type uncharacterized transport system, permease component		CDS	ABC transporter permease protein			0	0	0	
+			hypothetical protein		CDS				base_one HP	base_both miss	base_one HP	
+ABC transporter family protein			ABC-type uncharacterized transport system, ATPase component		CDS	putative ABC transporter ATP-binding protein			0	tf_idf	0	
+disulfide bond formation DsbB family protein			Thiol:disulfide interchange protein DsbB		CDS	"Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation"			pfam-sh	pfam-sh	pfam-sh	
+lysine--tRNA ligase	6.1.1.6	lysS	lysyl-tRNA synthetase, class I (EC 6.1.1.6)	6.1.1.6	CDS	Lysyl-tRNA synthetase (class I)	6.1.1.6		base_tigr	base_ec	base_ec	
+membrane transport family protein			Predicted permeases		CDS	FIG01015590: hypothetical protein			0	0	0	
+NADP-dependent malic enzyme	1.1.1.40	tme	Malic enzyme	1.1.1.40	CDS	NADP-dependent malic enzyme	1.1.1.40		base_ec	base_lit-s	base_ec	
+sec7 domain protein			SEC7 domain proteins		CDS	Sec7-domain containing protein transport protein			lit-s	0	0	
+sugar (and other) transporter family protein			Sugar phosphate permease		CDS	proline/betaine transporter			0	0	0	
+malate dehydrogenase, NAD-dependent	1.1.1.37	mdh	malate dehydrogenase (NAD) (EC 1.1.1.37)	1.1.1.37	CDS	Malate dehydrogenase	1.1.1.37		base_tigr	base_ec	base_ec	
+ADP,ATP carrier protein 1		tlcA	ADP/ATP carrier protein family		CDS	"NAD transporter of enosymbionts, possible"			gs-sh	0	0	
+CTP synthase	6.3.4.2	pyrG	CTP synthase (EC 6.3.4.2)	6.3.4.2	CDS	CTP synthase	6.3.4.2		base_tigr	base_lit-s	base_ec	
+3-deoxy-D-manno-octulosonate cytidylyltransferase	2.7.7.38	kdsB	3-deoxy-D-manno-octulosonate cytidylyltransferase	2.7.7.38	CDS	3-deoxy-manno-octulosonate cytidylyltransferase	2.7.7.38		base_lit-s	base_ec	base_ec	
+cytochrome C and Quinol oxidase polypeptide I family protein			Cytochrome C and Quinol oxidase polypeptide I.		CDS	FIG01015680: hypothetical protein			lit-s	0	0	
+GTP cyclohydrolase I	3.5.4.16	folE	GTP cyclohydrolase I (EC 3.5.4.16)	3.5.4.16	CDS	GTP cyclohydrolase I type 1	3.5.4.16		base_tigr	base_ec	base_ec	
+proline--tRNA ligase	6.1.1.15	proS	prolyl-tRNA synthetase (EC 6.1.1.15)	6.1.1.15	CDS	"Prolyl-tRNA synthetase, bacterial type"	6.1.1.15		base_tigr	base_ec	base_ec	
+			hypothetical protein		CDS				base_one HP	base_both miss	base_one HP	
+holliday junction DNA helicase RuvA	3.6.4.12	ruvA	Holliday junction DNA helicase subunit RuvA	3.6.4.12	CDS	Holliday junction DNA helicase RuvA			base_tigr	lit-s	lit-s	
+holliday junction DNA helicase RuvB	3.6.4.12	ruvB	Holliday junction DNA helicase subunit RuvB	3.6.4.12	CDS	Holliday junction DNA helicase RuvB			base_tigr	lit-s	lit-s	
+ABC transporter family protein			ABC-type multidrug transport system, ATPase and permease components		CDS	Lipid A export ATP-binding/permease protein MsbA			0	0	0	
+ABC transporter family protein			ABC-type multidrug transport system, ATPase and permease components		CDS	Lipid A export ATP-binding/permease protein MsbA			0	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	hypothetical protein			lit-s	lit-s	base_lit-s	
+D-alanyl-D-alanine carboxypeptidase family protein			D-alanyl-D-alanine carboxypeptidase	3.4.16.4	CDS	D-alanyl-D-alanine carboxypeptidase	3.4.16.4		lit-s	lit-s	base_lit-s	
+rare lipoA family protein		rlpA	rare lipoprotein A		CDS	rare lipoprotein A precursor			gs-sh	gs-sh	orth	
+BON domain protein			Predicted periplasmic or secreted lipoprotein		CDS	21 kDa hemolysin precursor			0	0	0	
+intracellular septation protein A		ispZ	intracellular septation protein A		CDS	Intracellular septation protein A			base_lit-s	lit-s	lit-s	
+iron permease FTR1 family protein			High-affinity Fe2+/Pb2+ permease		CDS	FTR1 family protein			map	pfam-sh	orth	
+cupredoxin-like domain protein			Heme/copper-type cytochrome/quinol oxidases, subunit 2		CDS	putative exported protein			0	0	0	
+FKBP-type peptidyl-prolyl cis-trans isomerase family protein			FKBP-type peptidyl-prolyl cis-trans isomerases 2		CDS	FIG01015491: hypothetical protein			pfam-sh	0	0	
+			hypothetical protein		CDS				base_one HP	base_both miss	base_one HP	
+dioxygenase family protein			Protocatechuate 3,4-dioxygenase beta subunit	1.13.11.3	CDS	"Protocatechuate 3,4-dioxygenase alpha chain"	1.13.11.3		0	0	base_ec	
+ahpC/TSA family protein			Thiol-disulfide isomerase and thioredoxins		CDS	Thiol:disulfide interchange protein tlpA			gs-sh	gs-sh	gs-sh	
+clp protease family protein			Periplasmic serine proteases (ClpP class)		CDS	"Signal peptide peptidase SppA, 36K type"			0	0	gs-sh	
+dUTP diphosphatase family protein	3.6.1.23	dut	deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	3.6.1.23	CDS	Deoxyuridine 5'-triphosphate nucleotidohydrolase	3.6.1.23		base_tigr	base_ec	base_ec	
+transglycosylase SLT domain protein			Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains)	3.2.1.-	CDS	Soluble lytic murein transglycosylase precursor	3.2.1.-		0	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01015995: hypothetical protein			lit-s	base_one HP	base_one HP	
+LD-carboxypeptidase family protein			Uncharacterized proteins, homologs of microcin C7 resistance protein MccF	3.4.17.13	CDS	Muramoyltetrapeptide carboxypeptidase	3.4.17.13		0	0	base_ec	
+PD-(D/E)XK nuclease superfamily protein			DNA helicase/exodeoxyribonuclease V, subunit B	3.1.11.5	CDS	hypothetical protein			0	base_one HP	base_one HP	
+glutamine amidotransferase class-I family protein			Predicted glutamine amidotransferases		CDS	glutamine amidotransferase (GATase1)			0	0	0	
+cytochrome c oxidase, subunit I	1.9.3.1	ctaD	cytochrome c oxidase, subunit I	1.9.3.1	CDS	Cytochrome c oxidase polypeptide I	1.9.3.1		base_lit-s	base_ec	base_ec	
+cytochrome c oxidase, subunit II	1.9.3.1	coxB	cytochrome c oxidase, subunit II	1.9.3.1	CDS	Cytochrome c oxidase polypeptide II	1.9.3.1		base_lit-s	base_ec	base_ec	
+peptidase M23 family protein			Membrane proteins related to metalloendopeptidases		CDS	unknown			0	0	0	
+signal peptidase II	3.4.23.36	lspA	signal peptidase II (EC:3.4.23.36). Aspartic peptidase. MEROPS family A08	3.4.23.36	CDS	Lipoprotein signal peptidase	3.4.23.36		base_tigr	base_ec	base_ec	
+conserved hypothetical protein			Beta-barrel assembly machine subunit BamF		CDS	unknown			base_one HP	base_one HP	0	
+UDP-N-acetylmuramoylalanine--D-glutamate ligase	6.3.2.9	murD	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	6.3.2.9	CDS	UDP-N-acetylmuramoylalanine--D-glutamate ligase	6.3.2.9		base_tigr	base_lit-s	base_ec	
+cell division protein FtsW		ftsW	cell division protein FtsW		CDS	Cell division protein FtsW			base_lit-s	lit-s	lit-s	
+undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	2.4.1.227	murG	UDP-N-acetylglucosamine-N-acetylmuramylpentapeptide N-acetylglucosamine transferase	2.4.1.227	CDS	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	2.4.1.227		base_tigr	base_ec	base_ec	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+glycosyl transferases group 1 family protein			Glycosyltransferase		CDS	Glycosyltransferase			0	0	base_lit-s	
+diaminopimelate epimerase	5.1.1.7	dapF	diaminopimelate epimerase (EC 5.1.1.7)	5.1.1.7	CDS	Diaminopimelate epimerase	5.1.1.7		base_tigr	base_ec	base_ec	
+radical SAM methylthiotransferase, MiaB/RimO family protein			MiaB-like tRNA modifying enzyme		CDS	"MiaB family protein, possibly involved in tRNA or rRNA modification"			gs-sh	gs-sh	gs-sh	
+phenylalanine--tRNA ligase, alpha subunit	6.1.1.20	pheS	phenylalanyl-tRNA synthetase, alpha subunit (EC 6.1.1.20)	6.1.1.20	CDS	Phenylalanyl-tRNA synthetase alpha chain	6.1.1.20		base_tigr	base_ec	base_ec	
+phenylalanine--tRNA ligase, beta subunit	6.1.1.20	pheT	phenylalanyl-tRNA synthetase beta subunit (EC 6.1.1.20)	6.1.1.20	CDS	Phenylalanyl-tRNA synthetase beta chain	6.1.1.20		base_tigr	base_ec	base_ec	
+DNA polymerase III, beta subunit	2.7.7.7	dnaN	DNA polymerase III, beta subunit (EC 2.7.7.7)	2.7.7.7	CDS	DNA polymerase III beta subunit	2.7.7.7		base_tigr	base_ec	base_ec	
+conserved hypothetical protein			Domain of unknown function (DUF3576).		CDS	FIG01015895: hypothetical protein			base_one HP	base_one HP	lit-s	
+leucine--tRNA ligase	6.1.1.4	leuS	leucyl-tRNA synthetase (EC 6.1.1.4)	6.1.1.4	CDS	Leucyl-tRNA synthetase	6.1.1.4		base_tigr	base_ec	base_ec	
+3'-5' exonuclease family protein			Ribonuclease D	3.1.13.5	CDS	Ribonuclease D related protein			0	0	lit-s	
+septum formation initiator family protein			Septum formation initiator		CDS	Septum formation initiator			lit-s	lit-s	base_lit-s	
+cytidylyltransferase family protein			CDP-diglyceride synthetase	2.7.7.41	CDS	Phosphatidate cytidylyltransferase	2.7.7.41		0	0	base_ec	
+di-trans,poly-cis-decaprenylcistransferase	2.5.1.31	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	2.5.1.31	CDS	Undecaprenyl diphosphate synthase	2.5.1.31		base_tigr	base_ec	base_ec	
+HAMP domain protein			Signal transduction histidine kinase	2.7.13.3	CDS	Osmolarity sensory histidine kinase EnvZ			gs-sh	0	0	
+transcriptional regulatory , C terminal family protein			Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain		CDS	response regulator protein OmpR			0	0	gs-sh	
+aminotransferase class IV family protein			branched chain amino acid aminotransferase apoenzyme (EC 2.6.1.42)	2.6.1.42	CDS	Branched-chain amino acid aminotransferase	2.6.1.42		0	0	base_ec	
+dihydrodipicolinate synthase	4.2.1.52	dapA	dihydrodipicolinate synthase (EC 4.2.1.52)	4.2.1.52	CDS	Dihydrodipicolinate synthase	4.2.1.52		base_tigr	base_ec	base_ec	
+ssrA-binding protein		smpB	SsrA-binding protein		CDS	tmRNA-binding protein SmpB			base_tigr	gs-sh	gs-sh	
+DSBA-like thioredoxin domain protein			Thiol:disulfide interchange protein DsbA		CDS	Similarity to thiol:disulfide interchange protein dsbA			0	0	gs-sh	
+succinyl-CoA ligase [GDP-forming] subunit alpha, mitochondrial	6.2.1.4	scsA	succinyl-CoA synthetase (ADP-forming) alpha subunit (EC 6.2.1.5)	6.2.1.5	CDS	Succinyl-CoA ligase [ADP-forming] alpha chain	6.2.1.5		base_ec-d	base_ec-d	base_ec	
+succinate-CoA ligase, beta subunit	6.2.1.-	sucC	succinyl-CoA synthetase (ADP-forming) beta subunit (EC 6.2.1.5)	6.2.1.5	CDS	Succinyl-CoA ligase [ADP-forming] beta chain	6.2.1.5		base_tigr	gs-sh	base_ec	
+tim44-like domain protein			Uncharacterized protein conserved in bacteria		CDS	FIG01016483: hypothetical protein			0	0	lit-s	
+ribosome-binding factor A		rbfA	ribosome-binding factor A		CDS	Ribosome-binding factor A			base_lit-s	lit-s	lit-s	
+conserved hypothetical protein			Predicted membrane protein		CDS	unknown			base_one HP	base_one HP	0	
+RDD family protein			Predicted membrane protein/domain		CDS	unknown			0	0	0	
+recombination protein RecR		recR	DNA replication and repair protein RecR		CDS	Recombination protein RecR			base_tigr	lit-s	pfam-sh	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01017549: hypothetical protein			lit-s	base_one HP	base_one HP	
+ATP-NAD kinase family protein			Predicted sugar kinase	2.7.1.23	CDS	NAD kinase	2.7.1.23		0	0	base_ec	
+metallo-beta-lactamase superfamily protein			Predicted hydrolase of the metallo-beta-lactamase superfamily		CDS	"Metallo-beta-lactamase family protein, RNA-specific"			orth	0	0	
+NAD-dependent glycerol-3-phosphate dehydrogenase family protein			Glycerol-3-phosphate dehydrogenase	1.1.1.94	CDS	Glycerol-3-phosphate dehydrogenase [NAD(P)+]	1.1.1.94		tf_idf	tf_idf	base_ec	
+membrane transport family protein			Predicted permeases		CDS	FIG01015509: hypothetical protein			0	0	0	
+alpha/beta hydrolase fold family protein			Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)		CDS	FIG01015604: hypothetical protein			0	0	0	
+thioredoxin-disulfide reductase	1.8.1.9	trxB	thioredoxin-disulfide reductase	1.8.1.9	CDS	Thioredoxin reductase	1.8.1.9		base_lit-s	base_ec	base_ec	
+glycosyl transferase 2 family protein			Glycosyltransferases involved in cell wall biogenesis		CDS	Dolichol-phosphate mannosyltransferase in lipid-linked oligosaccharide synthesis cluster	2.4.1.83		0	0	0	
+ATP-dependent DNA helicase PcrA	3.6.4.12	pcrA	ATP-dependent DNA helicase, Rep family	3.6.4.12	CDS	ATP-dependent DNA helicase UvrD/PcrA			base_tigr	gs-sh	gs-sh	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+pyridoxal-phosphate dependent enzyme family protein			L-threonine ammonia-lyase (EC 4.3.1.19)	4.3.1.19	CDS	Threonine dehydratase	4.3.1.19		0	0	base_ec	
+ATP-dependent protease La	3.4.21.53	lon	ATP-dependent proteinase. Serine peptidase. MEROPS family S16	3.4.21.53	CDS	ATP-dependent protease La Type I	3.4.21.53		base_tigr	base_ec	base_ec	
+			hypothetical protein		CDS				base_one HP	base_both miss	base_one HP	
+outer membrane autotransporter barrel domain protein			outer membrane autotransporter barrel domain		CDS	cell surface antigen Sca3			base_tigr	0	0	
+isopentenyl-diphosphate delta-isomerase, type 2	5.3.3.2	fni	isopentenyl-diphosphate delta-isomerase (EC 5.3.3.2)	5.3.3.2	CDS	"Isopentenyl-diphosphate delta-isomerase, FMN-dependent"	5.3.3.2		base_tigr	base_ec	base_ec	
+conserved hypothetical protein			N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch acetyltransferase domains)	2.7.7.23	CDS	N-acetylglucosamine-1-phosphate uridyltransferase	2.7.7.23		base_one HP	base_one HP	base_ec	
+DNA-binding regulatory , YebC/PmpR family protein			DNA-binding regulatory protein, YebC/PmpR family		CDS	FIG000859: hypothetical protein YebC			base_tigr	0	0	
+transglycosylase SLT domain protein			Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains)		CDS	"Peptidoglycan hydrolase VirB1, involved in T-DNA transfer"			0	0	0	
+conserved hypothetical protein			Protein of unknown function (DUF2532).		CDS	hypothetical protein			base_one HP	lit-s	base_one HP	
+ubiE/COQ5 methyltransferase family protein			Methylase involved in ubiquinone/menaquinone biosynthesis		CDS	"SAM-dependent methyltransferase, BioC-like"			gs-sh	0	0	
+dihydrolipoyl dehydrogenase	1.8.1.4	lpdA	dihydrolipoamide dehydrogenase	1.8.1.4	CDS	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase	1.8.1.4		base_tigr	base_ec	base_ec	
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2		5,10-methenyltetrahydrofolate synthetase	6.3.3.2	CDS	5-formyltetrahydrofolate cyclo-ligase	6.3.3.2		base_tigr	base_lit-s	base_ec	
+3'-5' exonuclease family protein			Ribonuclease D	3.1.13.5	CDS	Ribonuclease D	3.1.26.3		0	0	base_lit-s	
+conserved hypothetical protein			Uncharacterized conserved protein		CDS	hypothetical protein			base_one HP	lit-s	base_one HP	
+glycine cleavage T-C-terminal barrel domain protein			folate-binding protein YgfZ		CDS	Folate-dependent protein for Fe/S cluster synthesis/repair in oxidative stress			0	0	0	
+sodium:solute symporter family protein			Na+/proline symporter		CDS	ALKALINE PHOSPHATASE SYNTHESIS SENSOR PROTEIN PHOR (phoR)			0	0	gs-sh	
+porphobilinogen deaminase	2.5.1.61	hemC	hydroxymethylbilane synthase (EC 2.5.1.61)	2.5.1.61	CDS	Porphobilinogen deaminase	2.5.1.61		base_tigr	base_ec	base_ec	
+tryptophan--tRNA ligase	6.1.1.2	trpS	tryptophanyl-tRNA synthetase (EC 6.1.1.2)	6.1.1.2	CDS	Tryptophanyl-tRNA synthetase	6.1.1.2		base_tigr	base_ec	base_ec	
+acyltransferase family protein			1-acyl-sn-glycerol-3-phosphate acyltransferase	2.3.1.51	CDS	POSSIBLE 1-ACYL-SN-GLYCEROL-3-PHOSPHATE ACYLTRANSFERASE (plsC)			tf_idf	gs-sh	gs-sh	
+required for attachment to host cells family protein			Protein required for attachment to host cells		CDS	unknown			lit-s	0	0	
+dienelactone hydrolase family protein			Predicted hydrolase of the alpha/beta superfamily		CDS	FIG01016191: hypothetical protein			0	0	0	
+hemY family protein			Uncharacterized enzyme of heme biosynthesis		CDS	unknown			gs-sh	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+rickettsial palindromic element RPE1 domain protein			Uroporphyrinogen-III synthase		CDS	FIG01015948: hypothetical protein			base_tigr	0	0	
+ampG-like permease family protein			AmpG-related permease		CDS	AmpG permease			base_tigr	gs-sh	map	
+glycosyl transferase 8 family protein			Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases		CDS	"UDP-galactose:(galactosyl) LPS alpha1,2-galactosyltransferase WaaW"	2.4.1.-		0	0	0	
+ADP,ATP carrier protein 1		tlcA	ADP/ATP carrier protein family		CDS	"Nucleotide related transporter , NTT family"			gs-sh	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+polyprenyl synthetase family protein			Geranylgeranyl pyrophosphate synthase	2.5.1.90	CDS	octaprenyl-diphosphate synthase			0	0	orth	
+metallopeptidase M24 family protein			Xaa-Pro aminopeptidase	3.4.11.9	CDS	Xaa-Pro aminopeptidase	3.4.11.9		0	0	base_lit-s	
+amino acid permease family protein			amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)		CDS	putrescine-ornithine antiporter			0	0	0	
+iron-sulfur cluster assembly accessory family protein			Iron-sulfur cluster assembly accessory protein		CDS	Iron binding protein IscA for iron-sulfur cluster assembly			base_tigr	0	0	
+nifU-like protein		nifU	FeS assembly scaffold apoprotein IscU		CDS	Iron-sulfur cluster assembly scaffold protein IscU			gs-sh	gs-sh	gs-sh	
+cysteine desulfurase IscS	2.8.1.7	iscS	cysteine desulfurase IscS	2.8.1.7	CDS	"Cysteine desulfurase, IscS subfamily"	2.8.1.7		base_lit-s	base_ec	base_ec	
+aminotransferase class-V family protein			Cysteine sulfinate desulfinase/cysteine desulfurase and related enzymes	2.8.1.7	CDS	Cysteine desulfurase	2.8.1.7		0	0	base_ec	
+transcriptional regulator family protein			Predicted transcriptional regulator		CDS	FIG01017577: hypothetical protein			lit-s	0	0	
+putative membrane protein			hypothetical protein		CDS	FIG01016630: hypothetical protein			base_one HP	0	base_one HP	
+glutathione S-transferase, C-terminal domain protein			Glutathione S-transferase	2.5.1.18	CDS	Glutathione S-transferase family protein			lit-s	lit-s	lit-s	
+									base_both miss	base_both miss	base_both miss	
+pyruvate, phosphate dikinase	2.7.9.1	ppdK	pyruvate phosphate dikinase (EC 2.7.9.1)	2.7.9.1	CDS	"Pyruvate,phosphate dikinase"	2.7.9.1		base_tigr	base_ec	base_ec	
+class II Aldolase and Adducin N-terminal domain protein			Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases		CDS	Erythrocyte adducin alpha subunit			0	0	0	
+multi-copper polyphenol oxidoreductase laccase family protein			uncharacterized protein, YfiH family		CDS	COG1496: Uncharacterized conserved protein			0	0	0	
+glutamine synthetase, catalytic domain protein			Glutamine synthetase	6.3.1.2	CDS	"Putative glutamine synthetase, Rickettsiales type"	6.3.1.2		orth	tf_idf	base_ec	
+yihY family inner membrane domain protein		yihY	Predicted membrane protein		CDS	hypothetical protein			base_tigr	base_one HP	base_one HP	
+helix-turn-helix family protein			Predicted transcriptional regulators		CDS	"Transcriptional regulator, Cro/CI family"			0	0	tf_idf	
+120 KDa Rickettsia surface antigen family protein			120 KDa Rickettsia surface antigen.		CDS	cell surface antigen			lit-s	0	0	
+120 KDa Rickettsia surface antigen family protein			120 KDa Rickettsia surface antigen.		CDS	cell surface antigen			lit-s	0	0	
+ADP,ATP carrier protein 1		tlcA	ADP/ATP carrier protein family		CDS	"Nucleoside-triphosphate transporter, NTT2"			gs-sh	0	0	
+tRNA pseudouridine(55) synthase	5.4.99.25	truB	tRNA pseudouridine 55 synthase	5.4.99.25	CDS	tRNA pseudouridine synthase B	4.2.1.70		base_tigr	base_ec-d	base_ec-d	
+putative tRNA pseudouridine synthase B			hypothetical protein	5.4.99.25	CDS	tRNA pseudouridine synthase B	4.2.1.70		base_one HP	lit-s	base_one HP	
+ribosomal protein S15		rpsO	SSU ribosomal protein S15P		CDS	SSU ribosomal protein S15p (S13e)			base_tigr	0	0	
+polyribonucleotide nucleotidyltransferase	2.7.7.8	pnp	polyribonucleotide nucleotidyltransferase	2.7.7.8	CDS	Polyribonucleotide nucleotidyltransferase	2.7.7.8		base_lit-s	base_ec	base_ec	
+sugar isomerase, KpsF/GutQ family protein			KpsF/GutQ family protein	5.3.1.13	CDS	Arabinose 5-phosphate isomerase	5.3.1.13		base_tigr	map	base_ec	
+lipopolysaccharide-assembly, LptC-related family protein			Uncharacterized protein conserved in bacteria		CDS	unknown			0	0	lit-s	
+ostA-like family protein			Uncharacterized protein conserved in bacteria		CDS	DNA polymerase I	2.7.7.7		gs-sh	0	0	
+ABC transporter family protein			ABC-type (unclassified) transport system, ATPase component	3.6.3.-	CDS	"Lipopolysaccharide ABC transporter, ATP-binding protein LptB"			0	tf_idf	0	
+phosphomannomutase/phosphoglucomutase	5.4.2.8	algC	phosphomannomutase (EC 5.4.2.8)	5.4.2.8	CDS	Phosphomannomutase	5.4.2.8		base_ec	base_ec	base_ec	
+tRNA dimethylallyltransferase	2.5.1.75	miaA	tRNA dimethylallyltransferase	2.5.1.75	CDS	tRNA dimethylallyltransferase	2.5.1.75		base_lit-s	base_lit-s	base_lit-s	
+pentapeptide repeats family protein			hypothetical protein		CDS	FIG01015619: hypothetical protein			base_one HP	0	base_one HP	
+ribonucleotide reductase, small chain family protein			Ribonucleotide reductase, beta subunit	1.17.4.1	CDS	"Ribonucleotide reductase of class Ia (aerobic), beta subunit"	1.17.4.1		0	0	base_ec	
+ribonucleoside-diphosphate reductase, alpha subunit	1.17.4.1		Ribonucleotide reductase, alpha subunit	1.17.4.1	CDS	"Ribonucleotide reductase of class Ia (aerobic), alpha subunit"	1.17.4.1		base_ec	base_ec	base_ec	
+pyridine nucleotide-disulfide oxidoreductase family protein			Thioredoxin reductase	1.8.1.9	CDS	Thioredoxin reductase	1.8.1.9		0	0	base_lit-s	
+bifunctional protein FolD	3.5.4.9	folD	methenyltetrahydrofolate cyclohydrolase/5,10-methylenetetrahydrofolate dehydrogenase (NADP+)	1.5.1.5, 3.5.4.9,3.5.4.9, 1.5.1.5	CDS	Methylenetetrahydrofolate dehydrogenase (NADP+) / Methenyltetrahydrofolate cyclohydrolase	1.5.1.5, 3.5.4.9		base_ec-d	base_ec-d	base_ec-d	
+hexapeptide transferase family protein			Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily		CDS	"carbonic anhydrase, family 3"			0	0	0	
+ribosomal subunit interface protein		raiA	ribosomal subunit interface protein		CDS	Ribosomal subunit interface protein			base_lit-s	lit-s	lit-s	
+ATP-dependent Clp endopeptidase, proteolytic subunit ClpP	3.4.21.92	clpP	ATP-dependent Clp protease proteolytic subunit ClpP (EC 3.4.21.92)	3.4.21.92	CDS	ATP-dependent Clp protease proteolytic subunit	3.4.21.92		base_tigr	base_ec	base_ec	
+ribosomal protein S1		rpsA	SSU ribosomal protein S1P		CDS	SSU ribosomal protein S1p			base_tigr	map	lit-s	
+cytidylate kinase	2.7.4.14	cmk	cytidylate kinase (EC 2.7.4.14)	2.7.4.14	CDS	Cytidylate kinase	2.7.4.14		base_tigr	base_ec	base_ec	
+bacterial DNA-binding family protein			Bacterial nucleoid DNA-binding protein		CDS	Integration host factor beta subunit			0	0	0	
+signal peptide peptidase SppA, 36K type	3.4.-.-	sppA	signal peptide peptidase A. Serine peptidase. MEROPS family S49	3.4.21.-	CDS	Protease IV	3.4.-.-		base_tigr	gs-sh	map	
+transcription termination factor Rho	3.6.4.-	rho	transcription termination factor Rho		CDS	Transcription termination factor Rho			base_lit-s	lit-s	lit-s	
+ubiE/COQ5 methyltransferase family protein			2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase		CDS	Putative methyltransferase			gs-sh	gs-sh	map	
+single-stranded-DNA-specific exonuclease RecJ	3.1.-.-	recJ	exonuclease RecJ	3.1.-,3.1.-.-	CDS	Single-stranded-DNA-specific exonuclease RecJ	3.1.-.-		base_tigr	lit-s	gs-sh	
+peptide chain release factor 1		prfA	bacterial peptide chain release factor 1 (bRF-1)		CDS	Peptide chain release factor 1			base_tigr	lit-s	tf_idf	
+pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase	2.3.1.12		pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase, long form	2.3.1.12	CDS	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	2.3.1.12		base_tigr	base_ec	base_ec	
+translation initiation factor IF-3		infC	bacterial translation initiation factor 3 (bIF-3)		CDS	Translation initiation factor 3			base_tigr	gs-sh	map	
+conserved hypothetical protein			Predicted membrane protein		CDS	unknown			base_one HP	base_one HP	0	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+biotin--[acetyl-CoA-carboxylase] ligase	6.3.4.15		birA, biotin-[acetyl-CoA-carboxylase] ligase region	6.3.4.15	CDS	Biotin-protein ligase	6.3.4.15		base_tigr	base_ec	base_ec	
+patatin-like phospholipase family protein			Predicted esterase of the alpha-beta hydrolase superfamily		CDS	similarity to RP534			0	0	0	
+superoxide dismutase [Fe]	1.15.1.1	sodB	Superoxide dismutase	1.15.1.1	CDS	Superoxide dismutase [Fe]	1.15.1.1		base_ec	base_ec	base_ec	
+bifunctional FolC family protein	6.3.2.-	folC	folylpolyglutamate synthase/dihydrofolate synthase	6.3.2.17, 6.3.2.12	CDS	Dihydrofolate synthase / Folylpolyglutamate synthase	6.3.2.12, 6.3.2.17		base_tigr	0	base_ec-d	
+conserved hypothetical protein			hypothetical protein		CDS	hypothetical protein			lit-s	lit-s	base_lit-s	
+putative delta-aminolevulinic acid dehydratase			hypothetical protein		CDS	FIG01016610: hypothetical protein			base_one HP	0	base_one HP	
+proton-translocating NADH-quinone oxidoreductase, chain N family protein			NADH dehydrogenase subunit N (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain N	1.6.5.3		base_tigr	map	base_ec	
+delta-aminolevulinic acid dehydratase	4.2.1.24	hemB	porphobilinogen synthase (EC 4.2.1.24)	4.2.1.24	CDS	Porphobilinogen synthase	4.2.1.24		base_ec	base_ec	base_ec	
+primosomal protein N'	3.6.1.-	priA	replication restart DNA helicase PriA	3.6.4.-	CDS	Helicase PriA essential for oriC/DnaA-independent DNA replication			base_tigr	gs-sh	gs-sh	
+phenolic acid decarboxylase subunit B	4.1.1.61	bsdB	polyprenyl P-hydroxybenzoate and phenylacrylic acid decarboxylases	4.1.1.-	CDS	3-polyprenyl-4-hydroxybenzoate carboxy-lyase UbiX	4.1.1.-		gs-sh	gs-sh	gs-sh	
+replicative DNA helicase	3.6.4.12	dnaB	primary replicative DNA helicase	3.6.4.12,3.6.1.-	CDS	Replicative DNA helicase	3.6.1.-		base_tigr	lit-s	tf_idf	
+			hypothetical protein		CDS				base_one HP	base_both miss	base_one HP	
+pseudouridine synthase family protein	5.4.99.-		pseudouridine synthase	5.4.99.22	CDS	Ribosomal large subunit pseudouridine synthase B	4.2.1.70		base_tigr	tf_idf	base_ec-d	
+rickettsial palindromic element RPE1 domain protein			N6-adenine-specific methylase	2.1.1.171	CDS	probable methylase( EC:2.1.1.- )			base_tigr	0	0	
+DNA repair protein RadA		radA	DNA repair protein RadA		CDS	DNA repair protein RadA			base_lit-s	base_lit-s	base_lit-s	
+putative dNA repair protein RecO			hypothetical protein		CDS	unknown			base_one HP	0	base_one HP	
+DNA repair protein RecO		recO	DNA repair protein RecO		CDS	DNA recombination and repair protein RecO			base_lit-s	pfam-sh	pfam-sh	
+DNA repair protein RecO		recO	DNA repair protein RecO		CDS	DNA recombination and repair protein RecO			base_lit-s	pfam-sh	pfam-sh	
+glycoprotease family protein			universal bacterial protein YeaZ		CDS	"Inactive homolog of metal-dependent proteases, putative molecular chaperone"			0	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	hypothetical protein			lit-s	lit-s	base_lit-s	
+conserved hypothetical protein			hypothetical protein		CDS	hypothetical protein			lit-s	lit-s	base_lit-s	
+translation initiation factor IF-2		infB	bacterial translation initiation factor 2 (bIF-2)		CDS	Translation initiation factor 2			gs-sh	0	0	
+transcription termination factor NusA, C-terminal duplication		nusA	NusA antitermination factor		CDS	Transcription termination protein NusA			pfam-sh	pfam-sh	pfam-sh	
+putative ribosome maturation factor rimP			hypothetical protein		CDS	COG0779: clustered with transcription termination protein NusA			base_one HP	0	base_one HP	
+conserved hypothetical protein			Uncharacterized protein conserved in bacteria		CDS	FIG000325: clustered with transcription termination protein NusA			base_one HP	base_one HP	lit-s	
+hemolysin TlyA family protein			hemolysin TlyA family protein		CDS	RNA binding methyltransferase FtsJ like			base_lit-s	map	gs-sh	
+tyrosine--tRNA ligase	6.1.1.1	tyrS	tyrosyl-tRNA synthetase (EC 6.1.1.1)	6.1.1.1	CDS	Tyrosyl-tRNA synthetase	6.1.1.1		base_tigr	base_ec	base_ec	
+conserved hypothetical protein									base_one HP	base_one HP	base_both miss	
+alpha-2-macroglobulin MG1 domain protein			Large extracellular alpha-helical protein		CDS	FIG01016335: hypothetical protein			0	0	0	
+alpha-2-macroglobulin family protein			Large extracellular alpha-helical protein		CDS	FIG01016335: hypothetical protein			0	0	0	
+enoyl-CoA hydratase/isomerase family protein			3-hydroxyacyl-CoA dehydrogenase	5.1.2.3, 1.1.1.35, 4.2.1.17,1.1.1.35	CDS	"Enoyl-CoA hydratase / 3,2-trans-enoyl-CoA isomerase / 3-hydroxyacyl-CoA dehydrogenase"	4.2.1.17, 5.3.3.8, 1.1.1.35		0	0	base_ec-d	
+2-polyprenyl-6-methoxyphenol 4-hydroxylase domain protein	1.14.13.-	ubiH	hypothetical protein		CDS	2-octaprenyl-6-methoxyphenol hydroxylase	1.14.13.-		base_one HP	gs-sh	base_one HP	
+ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6 family protein	1.14.13.-		2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase (EC 1.14.13.-)	1.14.13.-	CDS	2-octaprenyl-6-methoxyphenol hydroxylase	1.14.13.-		base_tigr	0	0	
+bacterial regulatory , Fis family protein			Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains		CDS	nitrogen assimilation regulatory protein NtrX			0	0	orth	
+pentapeptide repeats family protein			Uncharacterized low-complexity proteins		CDS	FIG01015767: hypothetical protein			0	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+penicillin-binding protein 2		mrdA	peptidoglycan glycosyltransferase	2.4.1.129	CDS	Cell division protein FtsI [Peptidoglycan synthetase]	2.4.1.129		base_tigr	gs-sh	base_ec	
+putative membrane protein			hypothetical protein		CDS	FIG01018003: hypothetical protein			base_one HP	0	base_one HP	
+penicillin binding transpeptidase domain protein			Cell division protein FtsI/penicillin-binding protein 2	2.4.1.129	CDS	Cell division protein FtsI [Peptidoglycan synthetase]	2.4.1.129		0	0	base_ec	
+conserved hypothetical protein			Predicted secreted (periplasmic) protein		CDS	Cell division protein FtsL			base_one HP	base_one HP	gs-sh	
+S-adenosyl-methyltransferase MraW	2.1.1.-	mraW	S-adenosyl-methyltransferase MraW	2.1.1.199	CDS	rRNA small subunit methyltransferase H			base_lit-s	gs-sh	gs-sh	
+mraZ family protein			Uncharacterized protein conserved in bacteria		CDS	Cell division protein MraZ			gs-sh	gs-sh	gs-sh	
+sodium:solute symporter family protein			Na+/proline symporter		CDS	"sodium-solute symporter, putative"			0	0	0	
+excinuclease ABC subunit C	3.1.25.-	uvrC	Excinuclease ABC subunit C		CDS	Excinuclease ABC subunit C			base_tigr	lit-s	base_lit-s	
+conserved hypothetical protein			Uncharacterized protein conserved in bacteria		CDS	FIG01016182: hypothetical protein			base_one HP	base_one HP	lit-s	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+preprotein translocase, SecA subunit		secA	protein translocase subunit secA		CDS	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)			base_tigr	gs-sh	gs-sh	
+PPIC-type PPIASE domain protein			Parvulin-like peptidyl-prolyl isomerase	5.2.1.8	CDS	Foldase protein PrsA precursor	5.2.1.8		gs-sh	gs-sh	base_ec	
+holo-[acyl-carrier-protein] synthase	2.7.8.7	acpS	holo-[acyl-carrier-protein] synthase	2.7.8.7	CDS	Holo-[acyl-carrier protein] synthase	2.7.8.7		base_lit-s	base_ec	base_ec	
+DNA-directed RNA polymerase, omega subunit	2.7.7.6	rpoZ	DNA-directed RNA polymerase subunit omega (EC 2.7.7.6)	2.7.7.6	CDS	DNA-directed RNA polymerase omega subunit	2.7.7.6		base_tigr	base_ec	base_ec	
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase	2.5.1.7	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	2.5.1.7	CDS	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	2.5.1.7		base_tigr	base_lit-s	base_ec	
+DNA gyrase, B subunit	5.99.1.3	gyrB	DNA gyrase subunit B (EC 5.99.1.3)	5.99.1.3	CDS	DNA gyrase subunit B	5.99.1.3		base_tigr	base_ec	base_ec	
+HAD hydrolase, IIA family protein			HAD-superfamily class IIA hydrolase, TIGR01459		CDS	FIG01015971: hypothetical protein			pfam-sh	0	0	
+magnesium transporter		mgtE	Mg2+ transporter (mgtE)		CDS	Mg/Co/Ni transporter MgtE / CBS domain			base_tigr	0	0	
+preprotein translocase, YajC subunit		yajC	protein translocase subunit yajC		CDS	Preprotein translocase subunit YajC (TC 3.A.5.1.1)			base_tigr	lit-s	gs-sh	
+-export membrane protein SecD		secD	protein-export membrane protein, SecD/SecF family		CDS	Protein-export membrane protein SecD (TC 3.A.5.1.1)			gs-sh	0	0	
+SCO1/SenC family protein			Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis of respiratory and photosynthetic systems		CDS	"Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, putative copper metallochaperone"			0	0	0	
+ccmE family protein			Cytochrome c-type biogenesis protein CcmE		CDS	"Cytochrome c-type biogenesis protein CcmE, heme chaperone"			gs-sh	map	pfam-sh	
+inorganic pyrophosphatase	3.6.1.1	ppa	Inorganic pyrophosphatase	3.6.1.1	CDS	Inorganic pyrophosphatase	3.6.1.1		base_ec	base_ec	base_lit-s	
+integral membrane protein MviN		mviN	integral membrane protein MviN		CDS	Proposed peptidoglycan lipid II flippase MurJ			base_lit-s	0	0	
+traX family protein			TraX protein.		CDS	unknown			lit-s	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+helicase conserved C-terminal domain protein			ATP-dependent DNA helicase RecG	3.6.4.12,3.6.1.-	CDS	ATP-dependent DNA helicase RecG	3.6.1.-		0	0	base_lit-s	
+hypothetical protein			hypothetical protein		CDS	hypothetical protein			base_lit-s	base_lit-s	base_lit-s	
+phospho-N-acetylmuramoyl-pentapeptide-transferase	2.7.8.13	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	2.7.8.13	CDS	Phospho-N-acetylmuramoyl-pentapeptide-transferase	2.7.8.13		base_tigr	base_ec	base_ec	
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase family protein	6.3.2.10	murF	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)	6.3.2.10	CDS	"UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase"	6.3.2.10		base_tigr	base_ec	base_ec	
+UDP-N-acetylmuramyl-tripeptide synthetase family protein		murE	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)	6.3.2.13	CDS	"UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase"	6.3.2.13		base_tigr	gs-sh	base_ec	
+transcription-repair coupling factor	3.6.1.-	mfd	transcription-repair coupling factor	3.6.4.-	CDS	Transcription-repair coupling factor			base_lit-s	lit-s	lit-s	
+flavinator of succinate dehydrogenase family protein			Uncharacterized conserved protein		CDS	YgfY COG2938			0	0	0	
+rhodanese-like domain protein			Rhodanese-related sulfurtransferase		CDS	Rhodanese-related sulfurtransferase			orth	orth	base_lit-s	
+chromosomal replication initiator protein DnaA		dnaA	chromosomal replication initiator protein DnaA		CDS	Chromosomal replication initiator protein DnaA			base_lit-s	lit-s	lit-s	
+patatin-like phospholipase family protein			Patatin		CDS	patatin b1 precursor			0	0	0	
+drug resistance transporter, Bcr/CflA subfamily protein			drug resistance transporter, Bcr/CflA subfamily		CDS	MFS-type bicyclomycin resistance protein			lit-s	0	0	
+50S ribosome-binding GTPase family protein			GTP-binding protein YchF		CDS	GTP-binding and nucleic acid-binding protein YchF			0	0	gs-sh	
+peptidyl-tRNA hydrolase	3.1.1.29	pth	peptidyl-tRNA hydrolase (EC 3.1.1.29)	3.1.1.29	CDS	Peptidyl-tRNA hydrolase	3.1.1.29		base_tigr	base_ec	base_ec	
+ribosomal protein L25, Ctc-form			LSU ribosomal protein L25P		CDS	LSU ribosomal protein L25p			base_tigr	map	lit-s	
+radical SAM superfamily protein			Organic radical activating enzymes		CDS	Queuosine Biosynthesis QueE Radical SAM			0	0	gs-sh	
+ribosomal protein L35		rpmI	LSU ribosomal protein L35P		CDS	LSU ribosomal protein L35p			base_tigr	orth	lit-s	
+ribosomal protein L20		rplT	LSU ribosomal protein L20P		CDS	LSU ribosomal protein L20p			base_tigr	map	lit-s	
+ribonuclease P protein component	3.1.26.5	rnpA	ribonuclease P protein component, eubacterial	3.1.26.5	CDS	Ribonuclease P protein component	3.1.26.5		base_tigr	base_ec	base_ec	
+ankyrin repeats family protein			hypothetical protein		CDS	FIG01016994: hypothetical protein			base_one HP	0	base_one HP	
+									base_both miss	base_both miss	base_both miss	
+									base_both miss	base_both miss	base_both miss	
+conserved hypothetical protein									base_one HP	base_one HP	base_both miss	
+HAMP domain protein			His Kinase A (phospho-acceptor) domain./HAMP domain./Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase.	2.7.13.3	CDS	Nitrogen regulation protein NtrY			gs-sh	0	0	
+ribosomal protein S21		rpsU	SSU ribosomal protein S21P		CDS	SSU ribosomal protein S21p			base_tigr	orth	lit-s	
+COQ9 family protein			rpsU-divergently transcribed protein		CDS	FIG01015741: hypothetical protein			0	0	0	
+isoleucine--tRNA ligase	6.1.1.5	ileS	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	6.1.1.5	CDS	Isoleucyl-tRNA synthetase	6.1.1.5		base_tigr	base_ec	base_ec	
+propionyl-CoA carboxylase, alpha subunit	6.4.1.3	pccA	Acetyl/propionyl-CoA carboxylase, alpha subunit	6.4.1.3	CDS	Biotin carboxylase of acetyl-CoA carboxylase / Biotin carboxyl carrier protein of acetyl-CoA carboxylase; Propionyl-CoA carboxylase alpha chain	6.3.4.14, 6.4.1.3		base_ec	base_ec-d	base_ec-d	
+propionyl-CoA carboxylase, beta subunit	6.4.1.3	pccB	Acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha and beta)	6.4.1.3	CDS	Acetyl-coenzyme A carboxyl transferase alpha chain / Acetyl-coenzyme A carboxyl transferase beta chain; Propionyl-CoA carboxylase beta chain	6.4.1.2, 6.4.1.2, 6.4.1.3		base_ec	base_ec-d	base_ec-d	
+major Facilitator Superfamily protein			Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II	2.3.1.40, 6.2.1.20	CDS	Long-chain-fatty-acid--CoA ligase	6.2.1.3		0	0	base_ec-d	
+fecCD transport family protein			ABC-type Mn2+/Zn2+ transport systems, permease components		CDS	zinc/manganese ABC transporter permease protein			0	0	0	
+3-demethylubiquinone-9 3-O-methyltransferase	2.1.1.64	ubiG	3-demethylubiquinone-9 3-methyltransferase (EC 2.1.1.64)	2.1.1.64	CDS	3-demethylubiquinol 3-O-methyltransferase	2.1.1.64		base_tigr	base_ec	base_ec	
+glutamate--tRNA ligase	6.1.1.17	gltX	glutamyl-tRNA synthetase (EC 6.1.1.17)	6.1.1.17	CDS	Glutamyl-tRNA synthetase	6.1.1.17		base_tigr	base_ec	base_ec	
+HD domain protein			Guanosine polyphosphate pyrophosphohydrolases/synthetases		CDS	"guanosine-3,5-bis(diphosphate) 3-pyrophosphohydrolase SpoTb"			0	0	0	
+region found in RelA / SpoT s family protein			Guanosine polyphosphate pyrophosphohydrolases/synthetases	2.7.6.5	CDS	"guanosine-3,5-bis(diphosphate) 3-pyrophosphohydrolase SpoTc"			gs-sh	0	0	
+chaperonin GroL		groL	chaperonin GroL		CDS	Heat shock protein 60 family chaperone GroEL			base_lit-s	0	0	
+10 kDa chaperonin		groS	Co-chaperonin GroES (HSP10)		CDS	Heat shock protein 60 family co-chaperone GroES			gs-sh	0	0	
+ribonuclease PH	2.7.7.56	rph	RNAse PH (EC 2.7.7.56)	2.7.7.56	CDS	Ribonuclease PH	2.7.7.56		base_tigr	base_ec	base_ec	
+grpE family protein			Molecular chaperone GrpE (heat shock protein)		CDS	Heat shock protein GrpE			gs-sh	gs-sh	pfam-sh	
+conserved hypothetical protein			Predicted permease		CDS	Putative permease often clustered with de novo purine synthesis			base_one HP	base_one HP	0	
+bacterial dnaA family protein			regulatory inactivation of DnaA Hda protein		CDS	Chromosomal replication initiator protein DnaA			gs-sh	gs-sh	pfam-sh	
+ribosomal protein S20		rpsT	ribosomal protein S20		CDS	SSU ribosomal protein S20p			base_lit-s	orth	orth	
+ribosomal protein L17		rplQ	LSU ribosomal protein L17P		CDS	LSU ribosomal protein L17p			base_tigr	map	lit-s	
+DNA-directed RNA polymerase, alpha subunit	2.7.7.6	rpoA	DNA-directed RNA polymerase subunit alpha (EC 2.7.7.6)	2.7.7.6	CDS	DNA-directed RNA polymerase alpha subunit	2.7.7.6		base_tigr	base_ec	base_ec	
+30S ribosomal protein S11		rpsK	SSU ribosomal protein S11P		CDS	SSU ribosomal protein S11p (S14e)			base_tigr	0	0	
+30S ribosomal protein S13		rpsM	SSU ribosomal protein S13P		CDS	SSU ribosomal protein S13p (S18e)			base_tigr	0	0	
+adenylate kinase family protein	2.7.4.-		Adenylate kinase (EC 2.7.4.3)	2.7.4.3	CDS	Adenylate kinase	2.7.4.3		base_tigr	lit-s	base_ec	
+preprotein translocase, SecY subunit		secY	protein translocase subunit secY/sec61 alpha		CDS	Preprotein translocase secY subunit (TC 3.A.5.1.1)			base_tigr	lit-s	gs-sh	
+ribosomal protein L15		rplO	LSU ribosomal protein L15P		CDS	LSU ribosomal protein L15p (L27Ae)			base_tigr	0	0	
+ribosomal protein L30		rpmD	LSU ribosomal protein L30P		CDS	LSU ribosomal protein L30p (L7e)			base_tigr	0	0	
+ribosomal protein S5		rpsE	SSU ribosomal protein S5P		CDS	SSU ribosomal protein S5p (S2e)			base_tigr	0	0	
+ribosomal protein L18		rplR	LSU ribosomal protein L18P		CDS	LSU ribosomal protein L18p (L5e)			base_tigr	0	0	
+ribosomal protein L6		rplF	LSU ribosomal protein L6P		CDS	LSU ribosomal protein L6p (L9e)			base_tigr	0	0	
+ribosomal S8 family protein			SSU ribosomal protein S8P		CDS	SSU ribosomal protein S8p (S15Ae)			0	0	0	
+ribosomal S14p/S29e family protein			SSU ribosomal protein S14P		CDS	"SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent"			0	0	0	
+ribosomal L5 family protein			LSU ribosomal protein L5P		CDS	LSU ribosomal protein L5p (L11e)			0	0	0	
+ribosomal protein L24		rplX	LSU ribosomal protein L24P		CDS	LSU ribosomal protein L24p (L26e)			base_tigr	0	0	
+ribosomal protein L14		rplN	LSU ribosomal protein L14P		CDS	LSU ribosomal protein L14p (L23e)			base_tigr	0	0	
+30S ribosomal protein S17		rpsQ	SSU ribosomal protein S17P		CDS	SSU ribosomal protein S17p (S11e)			base_tigr	0	0	
+ribosomal protein L29		rpmC	LSU ribosomal protein L29P		CDS	LSU ribosomal protein L29p (L35e)			base_tigr	0	0	
+ribosomal protein L16		rplP	LSU ribosomal protein L16P		CDS	LSU ribosomal protein L16p (L10e)			base_tigr	0	0	
+ribosomal protein S3		rpsC	SSU ribosomal protein S3P		CDS	SSU ribosomal protein S3p (S3e)			base_tigr	0	0	
+ribosomal protein L22		rplV	LSU ribosomal protein L22P		CDS	LSU ribosomal protein L22p (L17e)			base_tigr	0	0	
+ribosomal protein S19		rpsS	SSU ribosomal protein S19P		CDS	SSU ribosomal protein S19p (S15e)			base_tigr	0	0	
+ribosomal protein L2		rplB	LSU ribosomal protein L2P		CDS	LSU ribosomal protein L2p (L8e)			base_tigr	0	0	
+50S ribosomal protein L23		rplW	LSU ribosomal protein L23P		CDS	LSU ribosomal protein L23p (L23Ae)			gs-sh	0	0	
+50S ribosomal protein L4		rplD	LSU ribosomal protein L4P		CDS	LSU ribosomal protein L4p (L1e)			base_tigr	0	0	
+50S ribosomal protein L3		rplC	LSU ribosomal protein L3P		CDS	LSU ribosomal protein L3p (L3e)			base_tigr	0	0	
+ribosomal protein S10		rpsJ	SSU ribosomal protein S10P		CDS	SSU ribosomal protein S10p (S20e)			base_tigr	0	0	
+translation elongation factor Tu		tuf	translation elongation factor 1A (EF-1A/EF-Tu)		CDS	Translation elongation factor Tu			gs-sh	lit-s	map	
+RNA 2'-O ribose methyltransferase substrate binding family protein			rRNA methylase, putative, group 3	2.1.1.185	CDS	23S rRNA (guanosine-2'-O-) -methyltransferase rlmB	2.1.1.-		0	0	gs-sh	
+fumarate hydratase, class II	4.2.1.2	fumC	fumarase, class II (EC 4.2.1.2)	4.2.1.2	CDS	Fumarate hydratase class II	4.2.1.2		base_tigr	base_ec	base_ec	
+cell division protein FtsZ		ftsZ	cell division protein FtsZ		CDS	Cell division protein FtsZ	3.4.24.-		base_lit-s	lit-s	lit-s	
+scaffold Nfu/NifU N terminal family protein			Thioredoxin-like proteins and domains		CDS	NifU-like protein			gs-sh	pfam-sh	gs-sh	
+major Facilitator Superfamily protein			Arabinose efflux permease		CDS	AmpG permease			0	0	0	
+helicase conserved C-terminal domain protein			Superfamily II DNA and RNA helicases		CDS	Cold-shock DEAD-box protein A			0	0	0	
+'Cold-shock' DNA-binding domain protein			cold-shock DNA-binding protein family		CDS	Cold shock protein CspA			0	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01016353: hypothetical protein			lit-s	base_one HP	base_one HP	
+dimethyladenosine transferase	2.1.1.-	ksgA	dimethyladenosine transferase	2.1.1.182,2.1.1.-	CDS	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase	2.1.1.182		base_lit-s	gs-sh	gs-sh	
+surA N-terminal domain protein			SurA N-terminal domain.		CDS	FIG01015681: hypothetical protein			lit-s	0	0	
+organic solvent tolerance family protein			Organic solvent tolerance protein OstA		CDS	Organic solvent tolerance protein precursor			tf_idf	tf_idf	orth	
+exodeoxyribonuclease VII, large subunit	3.1.11.6	xseA	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)	3.1.11.6	CDS	Exodeoxyribonuclease VII large subunit	3.1.11.6		base_tigr	base_ec	base_ec	
+exodeoxyribonuclease III	3.1.11.2	xth	Exodeoxyribonuclease III (EC 3.1.11.2)	3.1.11.2	CDS	Exodeoxyribonuclease III	3.1.11.2		base_ec	base_ec	base_ec	
+			hypothetical protein		CDS				base_one HP	base_both miss	base_one HP	
+ribosome-associated GTPase EngA		engA	ribosome-associated GTPase EngA		CDS	GTP-binding protein EngA			base_lit-s	0	0	
+2-polyprenylphenol 6-hydroxylase	1.14.13.-	ubiB	2-octaprenylphenol hydroxylase	1.14.13.-	CDS	Ubiquinone biosynthesis monooxygenase UbiB			base_tigr	gs-sh	gs-sh	
+conserved hypothetical protein			hypothetical protein		CDS	Ubiquinone biosynthesis monooxygenase UbiB			lit-s	base_one HP	base_one HP	
+ubiquinone/menaquinone biosynthesis methyltransferase family protein	2.1.1.-		2-octaprenyl-6-methoxy-1,4-benzoquinone methylase/demethylmenaquinone methyltransferase	2.1.1.201, 2.1.1.163,2.1.1.-, 2.1.1.163	CDS	Ubiquinone/menaquinone biosynthesis methyltransferase UbiE	2.1.1.-		base_tigr	tf_idf	gs-sh	
+polyhydroxyalkanoate depolymerase, intracellular family protein	3.1.1.-	phaZ	polyhydroxyalkanoate depolymerase, intracellular	3.1.1.75	CDS	Poly-beta-hydroxyalkanoate depolymerase			base_tigr	gs-sh	orth	
+hydrolase, TatD family protein			hydrolase, TatD family	3.1.21.-	CDS	Putative deoxyribonuclease YcfH			base_tigr	0	0	
+methionine--tRNA ligase	6.1.1.10	metG	methionyl-tRNA synthetase (EC 6.1.1.10)	6.1.1.10	CDS	Methionyl-tRNA synthetase	6.1.1.10		base_tigr	base_ec	base_ec	
+thymidylate kinase	2.7.4.9	tmk	thymidylate kinase	2.7.4.9	CDS	Thymidylate kinase	2.7.4.9		base_lit-s	base_ec	base_ec	
+sugar (and other) transporter family protein			Sugar (and other) transporter.		CDS	proline/betaine transporter			lit-s	0	0	
+4-hydroxybenzoate polyprenyl transferase	2.5.1.-	ubiA	4-hydroxybenzoate polyprenyltransferase	2.5.1.-,2.5.1.39	CDS	4-hydroxybenzoate polyprenyltransferase	2.5.1.39		base_tigr	gs-sh	base_lit-s	
+valine--tRNA ligase	6.1.1.9	valS	valyl-tRNA synthetase (EC 6.1.1.9)	6.1.1.9	CDS	Valyl-tRNA synthetase	6.1.1.9		base_tigr	base_ec	base_ec	
+licD family protein			LPS biosynthesis protein		CDS	FIG01015468: hypothetical protein			gs-sh	0	0	
+licD family protein			LPS biosynthesis protein		CDS	FIG01015468: hypothetical protein			gs-sh	0	0	
+rmuC family protein			Uncharacterized protein conserved in bacteria		CDS	DNA recombination protein RmuC			gs-sh	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+ATP-dependent Clp protease, ATP-binding subunit ClpX		clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	3.4.21.92	CDS	ATP-dependent Clp protease ATP-binding subunit ClpX			base_tigr	lit-s	base_lit-s	
+acetyltransferase family protein			Acetyltransferases, including N-acetylases of ribosomal proteins	2.3.1.128	CDS	Ribosomal-protein-alanine acetyltransferase			0	0	0	
+queuosine biosynthesis protein QueC		queC	preQ(0) biosynthesis protein QueC		CDS	Queuosine Biosynthesis QueC ATPase			base_tigr	0	0	
+ABC transporter family protein			ABC-type multidrug transport system, ATPase and permease components		CDS	lipid A export ATP-binding/permease protein MsbA			0	0	0	
+conserved hypothetical protein			Protein of unknown function (DUF2673).		CDS	FIG01016234: hypothetical protein			base_one HP	base_one HP	lit-s	
+sugar (and other) transporter family protein			Arabinose efflux permease		CDS	bicyclomycin resistance protein			0	0	0	
+liporeleasing system, transmembrane , LolC/E family protein			lipoprotein releasing system, transmembrane protein, LolC/E family		CDS	Lipoprotein releasing system transmembrane protein LolC			base_tigr	0	0	
+ABC transporter family protein			ABC-type antimicrobial peptide transport system, ATPase component	3.6.3.-	CDS	Lipoprotein releasing system ATP-binding protein LolD			0	0	gs-sh	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01016663: hypothetical protein			lit-s	base_one HP	base_one HP	
+transporter associated domain protein			Putative Mg2+ and Co2+ transporter CorB		CDS	FIG01017764: hypothetical protein			0	0	0	
+cytochrome C assembly family protein			Cytochrome c biogenesis factor		CDS	Putative cytochrome c-type biogenesis protein related to CcmF			0	0	gs-sh	
+outer membrane protein B		ompB	outer membrane autotransporter barrel domain		CDS	outer membrane protein B (cell surface antigen sca5)			gs-sh	0	0	
+glycosyl hydrolase family 3 N terminal domain protein			Beta-glucosidase-related glycosidases	3.2.1.21	CDS	Beta N-acetyl-glucosaminidase	3.2.1.52		0	0	base_ec-d	
+rickettsial palindromic element RPE3 domain protein			Rickettsial palindromic element RPE3 domain		CDS	FIG01016517: hypothetical protein			base_tigr	0	0	
+bacterial DNA-binding family protein			Bacterial nucleoid DNA-binding protein		CDS	integration host factor alpha subunit			0	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01017389: hypothetical protein			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein						hypothetical protein			base_one HP	lit-s	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	Patatin-like phospholipase			lit-s	base_one HP	base_one HP	
+hypothetical protein			hypothetical protein		CDS	hypothetical protein			base_lit-s	base_lit-s	base_lit-s	
+transposase, Mutator family protein			Transposase and inactivated derivatives		CDS	Mobile element protein			0	0	0	
+transposase, Mutator family protein			Transposase and inactivated derivatives		CDS	Mobile element protein			0	0	0	
+resolvase, N terminal domain protein			Site-specific recombinases, DNA invertase Pin homologs		CDS				0	base_one miss	base_one miss	
+putative glutamine amidotransferase-like protein			hypothetical protein		CDS	Predicted glutamine amidotransferase			base_one HP	0	base_one HP	
+peptidase C26 family protein			Predicted glutamine amidotransferases		CDS	FIG01017698: hypothetical protein			0	0	0	
+ankyrin repeat family protein			FOG: Ankyrin repeat		CDS	BRCA1 associated RING domain 1			lit-s	0	0	
+putative transposase			hypothetical protein		CDS	Mobile element protein			base_one HP	0	base_one HP	
+transposase, YhgA-like family protein			Putative transposase, YhgA-like.		CDS	Transposase			lit-s	0	0	
+transposase, YhgA-like family protein			Putative transposase, YhgA-like.		CDS	Mobile element protein			lit-s	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	Ankyrin repeat			lit-s	base_one HP	base_one HP	
+type IV secretory system Conjugative DNA transfer family protein			Type IV secretory pathway, VirD4 components		CDS	Type IV secretion system protein VirD4			0	0	0	
+bacterial lipid A biosynthesis acyltransferase family protein			Lauroyl/myristoyl acyltransferase	2.3.1.-	CDS	Lipid A biosynthesis lauroyl acyltransferase	2.3.1.-		0	tf_idf	0	
+tetraacyldisaccharide 4'-kinase	2.7.1.130	lpxK	lipid-A-disaccharide kinase (EC 2.7.1.130)	2.7.1.130	CDS	Tetraacyldisaccharide 4'-kinase	2.7.1.130		base_tigr	base_ec	base_ec	
+DNA ligase, NAD-dependent	6.5.1.2	ligA	DNA ligase, NAD-dependent	6.5.1.2	CDS	DNA ligase	6.5.1.2		base_lit-s	base_ec	base_ec	
+queuine tRNA-ribosyltransferase	2.4.2.29	tgt	tRNA-guanine transglycosylase (EC 2.4.2.29)	2.4.2.29	CDS	tRNA-guanine transglycosylase	2.4.2.29		base_ec	base_ec	base_ec	
+conserved hypothetical protein			hypothetical protein		CDS	rickettsial conserved			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01016275: hypothetical protein			lit-s	base_one HP	base_one HP	
+mce related family protein			ABC-type transport system involved in resistance to organic solvents, periplasmic component		CDS	ABC transporter substrate binding protein			0	0	0	
+conserved hypothetical protein			NADH:ubiquinone oxidoreductase 17.2 kD subunit		CDS	NADH:ubiquinone oxidoreductase 17.2 kD subunit			base_one HP	base_one HP	base_lit-s	
+RNase H family protein			RNase HI (EC 3.1.26.4)	3.1.26.4	CDS	Ribonuclease HI	3.1.26.4		0	0	base_ec	
+stringent starvation B family protein			Uncharacterized protein conserved in bacteria		CDS	rickettsial conserved			0	0	0	
+									base_both miss	base_both miss	base_both miss	
+conserved hypothetical protein			Uncharacterized protein conserved in bacteria		CDS	"UDP-2,3-diacylglucosamine pyrophosphatase"			base_one HP	base_one HP	0	
+dephospho-CoA kinase	2.7.1.24	coaE	dephospho-CoA kinase	2.7.1.24	CDS	Dephospho-CoA kinase	2.7.1.24		base_lit-s	base_ec	base_ec	
+DNA polymerase III, epsilon subunit	2.7.7.7	dnaQ	DNA polymerase III, epsilon subunit (EC 2.7.7.7)	2.7.7.7	CDS	DNA polymerase III epsilon subunit	2.7.7.7		base_ec	base_ec	base_ec	
+SURF1 family protein			Uncharacterized conserved protein		CDS	"Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion"			0	0	0	
+uvrD/REP helicase N-terminal domain protein			DNA helicase/exodeoxyribonuclease V, subunit A	3.1.11.5	CDS	FIG061771: ATP-dependent nuclease subunit A			gs-sh	0	0	
+malonyl CoA-acyl carrier protein transacylase	2.3.1.39	fabD	[Acyl-carrier-protein] S-malonyltransferase (EC 2.3.1.39)	2.3.1.39	CDS	Malonyl CoA-acyl carrier protein transacylase	2.3.1.39		base_tigr	base_ec	base_ec	
+acetyl-CoA C-acetyltransferase family protein			acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	CDS	3-ketoacyl-CoA thiolase @ Acetyl-CoA acetyltransferase	2.3.1.16, 2.3.1.9		base_tigr	0	base_ec-d	
+alpha/beta hydrolase fold family protein			Poly(3-hydroxyalkanoate) synthetase	2.3.1.-	CDS	Polyhydroxyalkanoic acid synthase			0	0	0	
+ADP/ATP carrier family protein			ADP/ATP carrier protein family		CDS	"NAD transporter of enosymbionts, possible"			base_tigr	0	0	
+hemolysin C		tlyC	Hemolysins and related proteins containing CBS domains		CDS	Hemolysins and related proteins containing CBS domains			gs-sh	map	base_lit-s	
+conserved hypothetical protein			metalloprotein, YbeY/UPF0054 family		CDS	FIG000233: metal-dependent hydrolase			base_one HP	base_one HP	0	
+lipoyl synthase	2.8.1.8	lipA	lipoate synthase	2.8.1.8	CDS	Lipoate synthase			base_tigr	gs-sh	lit-s	
+serine hydroxymethyltransferase 2	2.1.2.1	glyA2	serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	CDS	Serine hydroxymethyltransferase	2.1.2.1		base_ec	base_ec	base_ec	
+phospholipase/Carboxylesterase family protein			Predicted esterase		CDS	Phospholipase/carboxylesterase family protein	3.1.-.-		0	lit-s	0	
+monothiol glutaredoxin, Grx4 family		grxD	monothiol glutaredoxin, Grx4 family		CDS	Probable monothiol glutaredoxin GrlA			base_lit-s	0	0	
+endonuclease III	4.2.99.18	nth	DNA-(apurinic or apyrimidinic site) lyase/endonuclease III	4.2.99.18,4.2.99.18, 3.2.2.-	CDS	Endonuclease III	4.2.99.18		base_tigr	base_ec	map	
+conserved hypothetical protein						hypothetical protein			base_one HP	lit-s	base_one HP	
+tetrapyrrole (Corrin/Porphyrin) Methylases family protein			probable S-adenosylmethionine-dependent methyltransferase, YraL family	2.1.1.198	CDS	rRNA small subunit methyltransferase I			0	0	gs-sh	
+lppC lipofamily protein			amino acid/amide ABC transporter substrate-binding protein, HAAT family (TC 3.A.1.4.-)		CDS	"ABC-type branched-chain amino acid transport systems, periplasmic component"			gs-sh	0	0	
+twin arginine-targeting translocase, TatA/E family protein		tatA	twin arginine-targeting protein translocase, TatA/E family		CDS	Twin-arginine translocation protein TatA			base_tigr	gs-sh	gs-sh	
+phosphatidylglycerophosphatase A family protein			phosphatidylglycerophosphatase (EC 3.1.3.27)	3.1.3.27	CDS	Phosphatidylglycerophosphatase A	3.1.3.27		map	lit-s	base_ec	
+ribosomal protein L21		rplU	LSU ribosomal protein L21P		CDS	LSU ribosomal protein L21p			base_tigr	map	lit-s	
+ribosomal protein L27		rpmA	LSU ribosomal protein L27P		CDS	LSU ribosomal protein L27p			base_tigr	map	lit-s	
+aspartate kinase domain protein	2.7.2.4		aspartate kinase (EC 2.7.2.4)	2.7.2.4	CDS	Aspartokinase	2.7.2.4		base_tigr	base_ec	base_ec	
+cro/C1-type HTH DNA-binding domain protein			Cro/C1-type HTH DNA-binding domain.		CDS	FIG01015506: hypothetical protein			lit-s	0	0	
+sugar (and other) transporter family protein			Nitrate/nitrite transporter		CDS	proline/betaine transporter			0	0	0	
+									base_both miss	base_both miss	base_both miss	
+cell division ZapA family protein			Uncharacterized protein conserved in bacteria		CDS	FIG01015813: hypothetical protein			0	0	lit-s	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01015595: hypothetical protein			lit-s	base_one HP	base_one HP	
+			hypothetical protein		CDS	FIG01015904: hypothetical protein			base_one HP	base_one miss	base_one HP	
+helix-turn-helix domain protein			Helix-turn-helix domain.		CDS	hypothetical protein			lit-s	base_one HP	base_one HP	
+bacterial NAD-glutamate dehydrogenase family protein			NAD-specific glutamate dehydrogenase	1.4.1.2	CDS	"NAD-specific glutamate dehydrogenase, large form"	1.4.1.2		0	0	base_ec	
+tRNA modification GTPase TrmE	3.6.-.-	trmE	tRNA modification GTPase trmE	3.6.-	CDS	GTPase and tRNA-U34 5-formylation enzyme TrmE			lit-s	pfam-sh	gs-sh	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01016675: hypothetical protein			lit-s	base_one HP	base_one HP	
+protein RecA		recA	RecA protein		CDS	RecA protein			base_tigr	lit-s	base_lit-s	
+3-oxoacyl-[acyl-carrier-protein] reductase	1.1.1.100	fabG	3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100)	1.1.1.100	CDS	3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100		base_tigr	base_ec	base_ec	
+acyl carrier protein		acpP	acyl carrier protein		CDS	Acyl carrier protein			base_lit-s	lit-s	lit-s	
+beta-ketoacyl-acyl-carrier-protein synthase II	2.3.1.179	fabF	3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179,2.3.1.41	CDS	"3-oxoacyl-[acyl-carrier-protein] synthase, KASII"	2.3.1.41		base_tigr	base_ec-d	base_ec-d	
+guanylate kinase	2.7.4.8	gmk	guanylate kinase (EC 2.7.4.8)	2.7.4.8	CDS	Guanylate kinase	2.7.4.8		base_tigr	base_ec	base_ec	
+helix-turn-helix family protein			Helix-turn-helix.		CDS	unknown			lit-s	0	0	
+rod shape-determining protein MreC		mreC	rod shape-determining protein MreC		CDS	Rod shape-determining protein MreC			base_lit-s	lit-s	lit-s	
+cell shape determining , MreB/Mrl family protein			rod shape-determining protein MreB		CDS	Rod shape-determining protein MreB			base_tigr	gs-sh	lit-s	
+putative permease YjgP/YjgQ family protein			Predicted permeases		CDS	unknown			0	0	0	
+peptidoglycan-associated lipoprotein		pal	peptidoglycan-associated lipoprotein		CDS	18K peptidoglycan-associated outer membrane lipoprotein; Peptidoglycan-associated lipoprotein precursor; Outer membrane protein P6; OmpA/MotB precursor			base_lit-s	gs-sh	gs-sh	
+3-oxoacyl-[acyl-carrier-] synthase III family protein	2.3.1.180	fabH	3-oxoacyl-[acyl-carrier-protein] synthase III	2.3.1.180,2.3.1.41	CDS	"3-oxoacyl-[acyl-carrier-protein] synthase, KASIII"	2.3.1.41		base_tigr	base_ec-d	base_ec-d	
+ribosomal protein L32		rpmF	LSU ribosomal protein L32P		CDS	LSU ribosomal protein L32p			base_tigr	orth	lit-s	
+smpA / OmlA family protein			Beta-barrel assembly machine subunit BamE		CDS	Outer membrane lipoprotein OmlA			gs-sh	gs-sh	map	
+signal recognition particle-docking protein FtsY		ftsY	signal recognition particle-docking protein FtsY		CDS	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)			base_lit-s	gs-sh	gs-sh	
+DNA polymerase I family protein	2.7.7.7	polA	DNA polymerase I (EC 2.7.7.7)	2.7.7.7	CDS	DNA polymerase I	2.7.7.7		base_tigr	base_ec	base_ec	
+S-adenosylmethionine synthetase, central domain protein			S-adenosylmethionine synthetase		CDS	S-adenosylmethionine synthetase	2.5.1.6		0	0	base_lit-s	
+methionine adenosyltransferase	2.5.1.6	metK	S-adenosylmethionine synthetase		CDS	S-adenosylmethionine synthetase	2.5.1.6		base_tigr	base_ec	base_lit-s	
+DNA polymerase III subunit alpha	2.7.7.7	dnaE1	DNA-directed DNA polymerase III (polc)	2.7.7.7	CDS	DNA polymerase III alpha subunit	2.7.7.7		base_ec	base_ec	base_ec	
+nucleotide sugar dehydrogenase family protein			nucleotide sugar dehydrogenase	1.1.1.22	CDS	UDP-glucose dehydrogenase	1.1.1.22		base_tigr	map	base_ec	
+conserved hypothetical protein			Predicted membrane protein		CDS	unknown			base_one HP	base_one HP	0	
+major Facilitator Superfamily protein			Major Facilitator Superfamily.		CDS	AmpG permease			lit-s	0	0	
+twin arginine-targeting protein translocase TatC		tatC	Twin arginine targeting (Tat) protein translocase TatC		CDS	Twin-arginine translocation protein TatC			base_tigr	pfam-sh	pfam-sh	
+serine--tRNA ligase	6.1.1.11	serS	seryl-tRNA synthetase (EC 6.1.1.11)	6.1.1.11	CDS	Seryl-tRNA synthetase	6.1.1.11		base_tigr	base_ec	base_ec	
+type IV secretion/conjugal transfer ATPase, VirB4 family protein			type IV secretion/conjugal transfer ATPase, VirB4 family		CDS	VirB4 protein precursor			base_tigr	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	FIG01015714: hypothetical protein			lit-s	base_one HP	base_one HP	
+integral membrane , TerC family protein			integral membrane protein, TerC family		CDS	tellurium resistance protein TerC			base_tigr	pfam-sh	pfam-sh	
+putative heat resistant agglutinin			hypothetical protein		CDS	unknown			base_one HP	0	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+methyltransferase domain protein			Predicted regulatory domain of a methyltransferase		CDS	Methyltransferase	2.1.1.-		0	lit-s	0	
+NADH-ubiquinone/plastoquinone oxidoreductase chain 6 family protein			NADH dehydrogenase subunit J (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain J	1.6.5.3		0	0	base_ec	
+NADH-ubiquinone/plastoquinone oxidoreductase chain 4L family protein			NADH dehydrogenase subunit K (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain K	1.6.5.3		0	0	base_ec	
+proton-translocating NADH-quinone oxidoreductase, chain L family protein	1.6.-.-		NADH dehydrogenase subunit L (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain L	1.6.5.3		base_tigr	map	base_ec	
+proton-translocating NADH-quinone oxidoreductase, chain M family protein			NADH dehydrogenase subunit M (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain M	1.6.5.3		base_tigr	map	base_ec	
+heme ABC exporter, ATP-binding protein CcmA	3.6.3.41	ccmA	heme ABC exporter, ATP-binding protein CcmA	3.6.3.41	CDS	"ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA"			base_lit-s	gs-sh	gs-sh	
+NADH-quinone oxidoreductase, chain I family protein			NADH dehydrogenase subunit I (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain I	1.6.5.3		base_tigr	map	base_ec	
+NADH-ubiquinone oxidoreductase chain 1	1.6.5.3	ND1	NADH dehydrogenase subunit H (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain H	1.6.5.3		base_ec	base_ec	base_ec	
+NADH dehydrogenase (quinone), G subunit	1.6.99.5	nuoG	NADH dehydrogenase subunit G (EC 1.6.5.3)	1.6.5.3	CDS	NADH-ubiquinone oxidoreductase chain G	1.6.5.3		base_tigr	base_ec-d	base_ec	
+putative membrane protein			Predicted membrane protein		CDS	FIG01015625: hypothetical protein			lit-s	0	0	
+aconitate hydratase 1	4.2.1.3	acnA	aconitase (EC 4.2.1.3)	4.2.1.3	CDS	Aconitate hydratase	4.2.1.3		base_tigr	base_ec	base_ec	
+ATP synthase F1, epsilon subunit	3.6.3.14	atpC	ATP synthase F1 subcomplex epsilon subunit	3.6.3.14	CDS	ATP synthase epsilon chain	3.6.3.14		base_tigr	base_ec	base_ec	
+ATP synthase F1, beta subunit	3.6.3.14	atpD	ATP synthase F1 subcomplex beta subunit	3.6.3.14	CDS	ATP synthase beta chain	3.6.3.14		base_tigr	base_ec	base_ec	
+ATP synthase F1, gamma subunit	3.6.3.14	atpG	ATP synthase, F1 gamma subunit	3.6.3.14	CDS	ATP synthase gamma chain	3.6.3.14		base_tigr	base_ec	base_ec	
+ATP synthase F1, alpha subunit	3.6.3.14	atpA	ATP synthase F1 subcomplex alpha subunit	3.6.3.14	CDS	ATP synthase alpha chain	3.6.3.14		base_tigr	base_ec	base_ec	
+ATP synthase F1, delta subunit	3.6.3.14	atpH	ATP synthase F1 subcomplex delta subunit	3.6.3.14	CDS	ATP synthase delta chain	3.6.3.14		base_tigr	base_ec	base_ec	
+dihydrolipoyl dehydrogenase	1.8.1.4	lpdA	dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	CDS	Dihydrolipoamide dehydrogenase	1.8.1.4		base_tigr	base_ec	base_ec	
+ferritin-like domain protein			DNA-binding ferritin-like protein (oxidative damage protectant)		CDS	Non-specific DNA-binding protein Dps / Iron-binding ferritin-like antioxidant protein / Ferroxidase	1.16.3.1		0	0	0	
+penicillin-binding , 1A family protein			penicillin-binding protein, 1A family	3.4.-, 2.4.1.-	CDS	Monofunctional biosynthetic peptidoglycan transglycosylase	2.4.2.-		base_tigr	0	0	
+tRNA-i(6)A37 thiotransferase enzyme MiaB	2.-.-.-	miaB	tRNA-i(6)A37 thiotransferase enzyme MiaB		CDS	tRNA-i(6)A37 methylthiotransferase			base_lit-s	gs-sh	gs-sh	
+bacterial SH3 domain protein			Uncharacterized protein conserved in bacteria		CDS	hypothetical protein shared among alpha-Proteobacteria			0	0	0	
+proton antiporter-2 family protein			Kef-type potassium/proton antiporter, CPA2 family (TC 2.A.37.1)		CDS	putative Glutathione-regulated potassium-efflux system protein KefB			base_tigr	map	gs-sh	
+oligomerisation domain protein			iojap-like ribosome-associated protein		CDS	Iojap protein			0	0	0	
+bolA-like family protein			Stress-induced morphogen (activity unknown)		CDS	YrbA protein			gs-sh	0	0	
+translation initiation factor IF-1		infA	bacterial translation initiation factor 1 (bIF-1)		CDS	Translation initiation factor 1			base_tigr	gs-sh	map	
+septum formation protein Maf		maf	MAF protein		CDS	Septum formation protein Maf			base_tigr	lit-s	map	
+RNA polymerase-binding protein DksA		dksA	transcriptional regulator, TraR/DksA family		CDS	"C4-type zinc finger protein, DksA/TraR family"			base_tigr	gs-sh	gs-sh	
+phage integrase family protein			tyrosine recombinase XerC subunit		CDS	tyrosine recombinase			orth	orth	orth	
+phasin family domain protein			phasin family protein		CDS	unknown			base_tigr	0	0	
+phospholipase D	3.1.4.4	pld	Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes		CDS	FIG01015674: hypothetical protein			gs-sh	0	0	
+poly(R)-hydroxyalkanoic acid synthase, class I family protein		phaC	poly(R)-hydroxyalkanoic acid synthase, class I	2.3.1.-	CDS	Polyhydroxyalkanoic acid synthase			base_tigr	gs-sh	orth	
+ubiD decarboxylase family protein	4.1.1.-	ubiD	3-octaprenyl-4hydroxybenzoate decarboxylase (EC 4.1.1.-)	4.1.1.-	CDS	3-polyprenyl-4-hydroxybenzoate carboxy-lyase	4.1.1.-		base_tigr	gs-sh	map	
+surA N-terminal domain protein			Parvulin-like peptidyl-prolyl isomerase		CDS	Peptidyl-prolyl cis-trans isomerase PpiD	5.2.1.8		gs-sh	0	0	
+			hypothetical protein		CDS				base_one HP	base_both miss	base_one HP	
+ftsK/SpoIIIE family protein			DNA translocase FtsK		CDS	Cell division protein FtsK			gs-sh	gs-sh	gs-sh	
+methionine aminopeptidase, type I	3.4.11.18	map	methionine aminopeptidase, type I (EC 3.4.11.18)	3.4.11.18	CDS	Methionine aminopeptidase	3.4.11.18		base_tigr	base_ec	base_ec	
+conserved hypothetical protein			hypothetical protein		CDS	hypothetical protein			lit-s	lit-s	base_lit-s	
+glycosyl transferase 4 family protein			UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase		CDS	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase	2.7.8.-		0	0	0	
+conserved hypothetical protein			Protein of unknown function (DUF721).		CDS	"Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives"			base_one HP	base_one HP	0	
+putative adhesin RC1281			Opacity protein and related surface antigens		CDS	possible outer surface protein			0	0	0	
+putative adhesin RC1281			Opacity protein and related surface antigens		CDS	possible outer surface protein			0	0	0	
+4Fe-4S binding domain protein			Indolepyruvate ferredoxin oxidoreductase, alpha and beta subunits		CDS	Ferredoxin			0	0	0	
+heme exporter CcmC family protein		ccmC	heme exporter protein CcmC		CDS	"Cytochrome c-type biogenesis protein CcmC, putative heme lyase for CcmE"			base_tigr	gs-sh	gs-sh	
+cytidine and deoxycytidylate deaminase		codA	Cytosine/adenosine deaminases		CDS	tRNA-specific adenosine-34 deaminase	3.5.4.-		gs-sh	gs-sh	gs-sh	
+cation diffusion facilitator transporter family protein			cation diffusion facilitator family transporter		CDS	Cobalt-zinc-cadmium resistance protein			base_tigr	0	0	
+glycine zipper family protein			Surface antigen		CDS	rickettsial 17 kDa surface antigen precursor			0	0	tf_idf	
+ABC transporter family protein			ABC-type Mn/Zn transport systems, ATPase component	3.6.3.-	CDS	"Zinc ABC transporter, ATP-binding protein ZnuC"			0	0	gs-sh	
+excinuclease ABC subunit A	3.1.25.-	uvrA	excinuclease ABC, A subunit		CDS	Excinuclease ABC subunit A			base_tigr	lit-s	lit-s	
+single-stranded DNA-binding family protein		ssb	single-strand binding protein		CDS	Single-stranded DNA-binding protein			base_tigr	lit-s	map	
+serine hydrolase family protein			Alpha/beta hydrolase family.		CDS	FIG01016485: hypothetical protein			0	0	0	
+conserved hypothetical protein			Uncharacterized conserved protein		CDS	FIG01015917: hypothetical protein			base_one HP	base_one HP	lit-s	
+histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein			Molecular chaperone, HSP90 family		CDS	Chaperone protein HtpG			pfam-sh	map	gs-sh	
+5-aminolevulinic acid synthase	2.3.1.37	hemA	5-aminolevulinate synthase (EC 2.3.1.37)	2.3.1.37	CDS	5-aminolevulinate synthase	2.3.1.37		base_tigr	base_ec	base_ec	
+trigger factor	5.2.1.8	tig	trigger factor		CDS	Cell division trigger factor	5.2.1.8		base_lit-s	base_ec	map	
+obg family GTPase CgtA		cgtA	Obg family GTPase CgtA		CDS	GTP-binding protein Obg			lit-s	0	0	
+citrate (Si)-synthase	2.3.3.1	gltA	citrate synthase (EC 2.3.3.1)	2.3.3.1	CDS	Citrate synthase (si)	2.3.3.1		base_tigr	base_ec	base_ec	
+uracil-DNA glycosylase, 4 family protein	3.2.2.-		uracil-DNA glycosylase, family 4	2.7.7.7	CDS	"Uracil-DNA glycosylase, family 4"			base_tigr	lit-s	lit-s	
+pseudouridine synthase, RluA family protein	5.4.99.-		ribosomal large subunit pseudouridine synthase D	5.4.99.23,5.4.99.-	CDS	Ribosomal large subunit pseudouridine synthase D	4.2.1.70		base_tigr	map	lit-s	
+telomere recombination family protein			translation factor SUA5		CDS	TsaC protein (YrdC-Sua5 domains) required for threonylcarbamoyladenosine t(6)A37 modification in tRNA			0	0	gs-sh	
+protein-(glutamine-N5) methyltransferase, release factor-specific	2.1.1.-	prmC	tRNA (guanine-N(7)-)-methyltransferase/protein-(glutamine-N5) methyltransferase, release factor-specific	2.1.1.-	CDS	"Protein-N(5)-glutamine methyltransferase PrmC, methylates polypeptide chain release factors RF1 and RF2 / tRNA (guanine46-N7-)-methyltransferase"	2.1.1.33		gs-sh	gs-sh	gs-sh	
+glycine--tRNA ligase, beta subunit	6.1.1.14	glyS	glycyl-tRNA synthetase beta chain (EC 6.1.1.14)	6.1.1.14	CDS	Glycyl-tRNA synthetase beta chain	6.1.1.14		base_tigr	base_ec	base_ec	
+glycine--tRNA ligase, alpha subunit	6.1.1.14	glyQ	glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)	6.1.1.14	CDS	Glycyl-tRNA synthetase alpha chain	6.1.1.14		base_tigr	base_ec	base_ec	
+conserved hypothetical protein			Uncharacterized protein conserved in bacteria		CDS	FIG053235: Diacylglucosamine hydrolase like			base_one HP	base_one HP	0	
+H+ symporter family protein			metabolite-proton symporter		CDS	Permeases of the major facilitator superfamily			base_tigr	0	0	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+conserved hypothetical protein			hypothetical protein		CDS	unknown			lit-s	base_one HP	base_one HP	
+putative glycyl-tRNA synthetase subunit alpha			hypothetical protein		CDS	unknown			base_one HP	0	base_one HP	
+alanine--tRNA ligase	6.1.1.7	alaS	alanyl-tRNA synthetase (EC 6.1.1.7)	6.1.1.7	CDS	Alanyl-tRNA synthetase	6.1.1.7		base_tigr	base_ec	base_ec	
+tRNA pseudouridine(38-40) synthase	5.4.99.12	truA	pseudouridylate synthase I	5.4.99.12	CDS	tRNA pseudouridine synthase A	4.2.1.70		base_tigr	base_ec-d	base_ec-d	
+RNA polymerase sigma factor RpoD		rpoD	RNA polymerase, sigma 70 subunit, RpoD		CDS	RNA polymerase sigma factor RpoD			gs-sh	base_lit-s	gs-sh	
+DNA primase	2.7.7.-	dnaG	DNA primase (EC 2.7.7.-)	2.7.7.-	CDS	DNA primase	2.7.7.-		base_tigr	base_lit-s	lit-s	
+cytidylyltransferase family protein			Dolichol kinase		CDS	phytol kinase			orth	0	0	
+transcription elongation factor GreA domain protein		greA	transcription elongation factor GreA		CDS	Transcription elongation factor GreA			base_tigr	lit-s	lit-s	
+conserved hypothetical protein			NAD/NADP transhydrogenase alpha subunit	1.6.1.2	CDS	NAD(P) transhydrogenase alpha subunit	1.6.1.2		base_one HP	base_one HP	base_ec	
+NAD(P) transhydrogenase subunit alpha part 1	1.6.1.2	pntAA	NAD/NADP transhydrogenase alpha subunit	1.6.1.2	CDS	NAD(P) transhydrogenase alpha subunit	1.6.1.2		base_ec	base_ec	base_ec	
+outer membrane lipocarrier LolA family protein			Outer membrane lipoprotein-sorting protein		CDS	unknown			0	0	0	
+DNA polymerase III, subunit gamma and tau	2.7.7.7	dnaX	DNA polymerase III, subunit gamma and tau	2.7.7.7	CDS	DNA polymerase III subunits gamma and tau	2.7.7.7		base_lit-s	base_ec	base_ec	
+DNA-binding protein, YbaB/EbfC family			DNA-binding protein, YbaB/EbfC family		CDS	FIG000557: hypothetical protein co-occurring with RecR			base_lit-s	map	gs-sh	
+clan AA aspartic protease, TIGR02281 family protein	3.4.23.-		Predicted aspartyl protease		CDS	FIG01016030: hypothetical protein			base_tigr	0	0	
+arginine transport ATP-binding protein ArtM		artM	amino acid ABC transporter ATP-binding protein, PAAT family (TC 3.A.1.3.-)	3.6.3.21	CDS	Glutamine transport ATP-binding protein GlnQ (TC 3.A.1.3.2)			gs-sh	gs-sh	gs-sh	
+metallo-beta-lactamase superfamily protein			Metal-dependent hydrolases of the beta-lactamase superfamily I		CDS	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein			0	0	gs-sh	
+PAP2 superfamily protein			Membrane-associated phospholipid phosphatase		CDS	unknown			0	0	0	
+putative permease YjgP/YjgQ family protein			Predicted permeases		CDS	FIG01018249: hypothetical protein			0	0	0	
+DNA polymerase III chi subunit, HolC family protein			DNA polymerase III, chi subunit (EC 2.7.7.7)	2.7.7.7	CDS	DNA polymerase III chi subunit	2.7.7.7		tf_idf	tf_idf	base_ec	
+succinyl-diaminopimelate desuccinylase	3.5.1.18	dapE	succinyldiaminopimelate desuccinylase (EC 3.5.1.18)	3.5.1.18	CDS	"N-succinyl-L,L-diaminopimelate desuccinylase"	3.5.1.18		base_tigr	base_ec	base_ec	
+conserved hypothetical protein			Uncharacterized conserved protein		CDS	FIG01016909: hypothetical protein			base_one HP	base_one HP	lit-s	
+lipoyl(octanoyl) transferase	2.3.1.181	lipB	lipoate-protein ligase B	2.3.1.181	CDS	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase			base_tigr	0	0	
+ribosomal protein S16		rpsP	SSU ribosomal protein S16P		CDS	SSU ribosomal protein S16p			base_tigr	orth	lit-s	
+ribosomal protein L33		rpmG	LSU ribosomal protein L33P		CDS	"LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent"			base_tigr	0	0	
+DNA mismatch repair MutL family protein		mutL	DNA mismatch repair protein MutL		CDS	DNA mismatch repair protein MutL			base_tigr	lit-s	base_lit-s	
+zinc-finger domain protein			Uncharacterized protein conserved in bacteria		CDS	FIG01015953: hypothetical protein			0	0	lit-s	
+sugar (and other) transporter family protein			Arabinose efflux permease		CDS	proline/betaine transporter			0	0	0	
+coproporphyrinogen III oxidase family protein			coproporphyrinogen oxidase (EC 1.3.3.3)	1.3.3.3	CDS	"Coproporphyrinogen III oxidase, aerobic"	1.3.3.3		tf_idf	tf_idf	base_ec	
+conserved hypothetical protein			Predicted membrane protein		CDS	"Protoporphyrinogen IX oxidase, novel form, HemJ"	1.3.-.-		base_one HP	base_one HP	0	
+ferrochelatase	4.99.1.1	hemH	ferrochelatase (EC 4.99.1.1)	4.99.1.1	CDS	"Ferrochelatase, protoheme ferro-lyase"	4.99.1.1		base_tigr	base_ec	base_ec	
+uroporphyrinogen decarboxylase	4.1.1.37	hemE	uroporphyrinogen decarboxylase (EC 4.1.1.37)	4.1.1.37	CDS	Uroporphyrinogen III decarboxylase	4.1.1.37		base_tigr	base_ec	base_ec	

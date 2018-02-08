@@ -1,0 +1,102 @@
+base_both miss	10	0.62%
+base_one miss	13	0.81%
+base_ec	59	3.69%
+base_ec-d	11	0.69%
+base_tigr	370	23.11%
+base_gs	0	0
+base_one HP	220	13.74%
+base_lit-s	103	6.43%
+lit-s	294	18.36%
+pfam-sh	6	0.37%
+gs-sh	130	8.12%
+orth	11	0.69%
+tf_idf	20	1.25%
+map	18	1.12%
+0	336	20.99%
+Entire gene number	1601
+----------------------------------
+base_both miss	15	0.94%
+base_one miss	2	0.12%
+base_ec	228	14.24%
+base_ec-d	24	1.50%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	296	18.49%
+base_lit-s	37	2.31%
+lit-s	140	8.74%
+pfam-sh	21	1.31%
+gs-sh	115	7.18%
+orth	19	1.19%
+tf_idf	81	5.06%
+map	45	2.81%
+0	578	36.10%
+Entire gene number	1601
+----------------------------------
+base_both miss	15	0.94%
+base_one miss	24	1.50%
+base_ec	308	19.24%
+base_ec-d	41	2.56%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	286	17.86%
+base_lit-s	66	4.12%
+lit-s	121	7.56%
+pfam-sh	20	1.25%
+gs-sh	165	10.31%
+orth	31	1.94%
+tf_idf	52	3.25%
+map	27	1.69%
+0	445	27.80%
+Entire gene number	1601
+----------------------------------
+base_both miss	10	0.62%
+base_one miss	13	0.81%
+base_ec	59	3.69%
+base_ec-d	11	0.69%
+base_tigr	370	23.11%
+base_gs	0	0
+base_one HP	220	13.74%
+base_lit-s	103	6.43%
+lit-s	294	18.36%
+pfam-sh	6	0.37%
+gs-sh	130	8.12%
+orth	11	0.69%
+tf_idf	20	1.25%
+map	18	1.12%
+0	336	20.99%
+Entire gene number	1601
+----------------------------------
+base_both miss	15	0.94%
+base_one miss	2	0.12%
+base_ec	228	14.24%
+base_ec-d	24	1.50%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	296	18.49%
+base_lit-s	37	2.31%
+lit-s	140	8.74%
+pfam-sh	21	1.31%
+gs-sh	115	7.18%
+orth	19	1.19%
+tf_idf	81	5.06%
+map	45	2.81%
+0	578	36.10%
+Entire gene number	1601
+----------------------------------
+base_both miss	15	0.94%
+base_one miss	24	1.50%
+base_ec	308	19.24%
+base_ec-d	41	2.56%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	286	17.86%
+base_lit-s	66	4.12%
+lit-s	121	7.56%
+pfam-sh	20	1.25%
+gs-sh	165	10.31%
+orth	31	1.94%
+tf_idf	52	3.25%
+map	27	1.69%
+0	445	27.80%
+Entire gene number	1601
+----------------------------------

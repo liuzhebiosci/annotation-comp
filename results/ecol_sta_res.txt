@@ -1,0 +1,153 @@
+base_both miss	75	1.71%
+base_one miss	81	1.84%
+base_ec	335	7.62%
+base_ec-d	63	1.43%
+base_tigr	776	17.66%
+base_gs	0	0
+base_one HP	630	14.34%
+base_lit-s	309	7.03%
+lit-s	269	6.12%
+pfam-sh	33	0.75%
+gs-sh	1144	26.04%
+orth	19	0.43%
+tf_idf	15	0.34%
+map	13	0.30%
+0	632	14.38%
+Entire gene number	4394
+----------------------------------
+base_both miss	136	3.10%
+base_one miss	16	0.36%
+base_ec	630	14.34%
+base_ec-d	98	2.23%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	609	13.86%
+base_lit-s	131	2.98%
+lit-s	457	10.40%
+pfam-sh	62	1.41%
+gs-sh	481	10.95%
+orth	145	3.30%
+tf_idf	80	1.82%
+map	118	2.69%
+0	1431	32.57%
+Entire gene number	4394
+----------------------------------
+base_both miss	61	1.39%
+base_one miss	117	2.66%
+base_ec	752	17.11%
+base_ec-d	96	2.18%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	265	6.03%
+base_lit-s	100	2.28%
+lit-s	318	7.24%
+pfam-sh	90	2.05%
+gs-sh	504	11.47%
+orth	152	3.46%
+tf_idf	96	2.18%
+map	320	7.28%
+0	1523	34.66%
+Entire gene number	4394
+----------------------------------
+base_both miss	75	1.71%
+base_one miss	81	1.84%
+base_ec	335	7.62%
+base_ec-d	63	1.43%
+base_tigr	776	17.66%
+base_gs	0	0
+base_one HP	630	14.34%
+base_lit-s	309	7.03%
+lit-s	269	6.12%
+pfam-sh	33	0.75%
+gs-sh	1144	26.04%
+orth	19	0.43%
+tf_idf	15	0.34%
+map	13	0.30%
+0	632	14.38%
+Entire gene number	4394
+----------------------------------
+base_both miss	136	3.10%
+base_one miss	16	0.36%
+base_ec	630	14.34%
+base_ec-d	98	2.23%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	609	13.86%
+base_lit-s	131	2.98%
+lit-s	457	10.40%
+pfam-sh	62	1.41%
+gs-sh	481	10.95%
+orth	145	3.30%
+tf_idf	80	1.82%
+map	118	2.69%
+0	1431	32.57%
+Entire gene number	4394
+----------------------------------
+base_both miss	61	1.39%
+base_one miss	117	2.66%
+base_ec	752	17.11%
+base_ec-d	96	2.18%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	265	6.03%
+base_lit-s	100	2.28%
+lit-s	318	7.24%
+pfam-sh	90	2.05%
+gs-sh	504	11.47%
+orth	152	3.46%
+tf_idf	96	2.18%
+map	320	7.28%
+0	1523	34.66%
+Entire gene number	4394
+----------------------------------
+base_both miss	75	1.71%
+base_one miss	81	1.84%
+base_ec	335	7.62%
+base_ec-d	63	1.43%
+base_tigr	776	17.66%
+base_gs	0	0
+base_one HP	630	14.34%
+base_lit-s	309	7.03%
+lit-s	269	6.12%
+pfam-sh	33	0.75%
+gs-sh	1144	26.04%
+orth	19	0.43%
+tf_idf	15	0.34%
+map	13	0.30%
+0	632	14.38%
+Entire gene number	4394
+----------------------------------
+base_both miss	136	3.10%
+base_one miss	16	0.36%
+base_ec	630	14.34%
+base_ec-d	98	2.23%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	609	13.86%
+base_lit-s	131	2.98%
+lit-s	457	10.40%
+pfam-sh	62	1.41%
+gs-sh	481	10.95%
+orth	145	3.30%
+tf_idf	80	1.82%
+map	118	2.69%
+0	1431	32.57%
+Entire gene number	4394
+----------------------------------
+base_both miss	61	1.39%
+base_one miss	117	2.66%
+base_ec	752	17.11%
+base_ec-d	96	2.18%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	265	6.03%
+base_lit-s	100	2.28%
+lit-s	318	7.24%
+pfam-sh	90	2.05%
+gs-sh	504	11.47%
+orth	152	3.46%
+tf_idf	96	2.18%
+map	320	7.28%
+0	1523	34.66%
+Entire gene number	4394
+----------------------------------

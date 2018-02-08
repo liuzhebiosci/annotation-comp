@@ -1,0 +1,1093 @@
+DNA polymerase III beta subunit (EC 2.7.7.7)			
+dnaJ-like protein			
+dnaJ-like protein			
+DNA gyrase subunit B (EC 5.99.1.3)			
+DNA gyrase subunit B (EC 5.99.1.3)			
+DNA gyrase subunit B (EC 5.99.1.3)			
+DNA gyrase subunit B (EC 5.99.1.3)			
+DNA gyrase subunit A (EC 5.99.1.3)			
+Seryl-tRNA synthetase (EC 6.1.1.11)			
+Seryl-tRNA synthetase (EC 6.1.1.11)			
+Seryl-tRNA synthetase (EC 6.1.1.11)			
+Thymidylate kinase (EC 2.7.4.9)			
+DNA polymerase III delta prime subunit (EC 2.7.7.7)			
+DNA polymerase III delta prime subunit (EC 2.7.7.7)			
+			
+GTPase and tRNA-U34 5-formylation enzyme TrmE			
+			
+Putative deoxyribonuclease YcfH			
+			
+DNA primase (EC 2.7.7.-)			
+			
+			
+FIG00834660: hypothetical protein			
+Ribosomal protein S6 glutaminyl transferase			
+Ribosomal protein S6 glutaminyl transferase			
+			
+Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)			
+transport ATP-binding protein			
+transport ATP-binding protein			
+transport ATP-binding protein			
+Lipid A export ATP-binding/permease protein MsbA (EC 3.6.3.25)			
+Lipid A export ATP-binding/permease protein MsbA (EC 3.6.3.25)			
+Lipid A export ATP-binding/permease protein MsbA (EC 3.6.3.25)			
+SWF/SNF family helicase			
+SWF/SNF family helicase			
+SWF/SNF family helicase			
+SWF/SNF family helicase			
+			
+Chaperone protein DnaJ			
+Proline iminopeptidase (EC 3.4.11.5)			
+Proline iminopeptidase (EC 3.4.11.5)			
+Proline iminopeptidase (EC 3.4.11.5)			
+Methionyl-tRNA synthetase (EC 6.1.1.10)			
+Methionyl-tRNA synthetase (EC 6.1.1.10)			
+Methionyl-tRNA synthetase (EC 6.1.1.10)			
+DNA-directed RNA polymerase delta subunit (EC 2.7.7.6)			
+Fructose-bisphosphate aldolase class II (EC 4.1.2.13)			
+Fructose-bisphosphate aldolase class II (EC 4.1.2.13)			
+GTP-binding and nucleic acid-binding protein YchF			
+GTP-binding and nucleic acid-binding protein YchF			
+sugar transferase			
+			
+Translation elongation factor P			
+FIG00834682: hypothetical protein			
+FIG00834682: hypothetical protein			
+FIG00834840: hypothetical protein			
+hypothetical protein			
+FIG00834840: hypothetical protein			
+Uracil phosphoribosyltransferase (EC 2.4.2.9)			
+DNA polymerase III polC-type (EC 2.7.7.7)			
+DNA polymerase III polC-type (EC 2.7.7.7)			
+DNA polymerase III polC-type (EC 2.7.7.7)			
+DNA polymerase III polC-type (EC 2.7.7.7)			
+DNA polymerase III polC-type (EC 2.7.7.7)			
+DNA polymerase III polC-type (EC 2.7.7.7)			
+DNA polymerase III polC-type (EC 2.7.7.7)			
+"DNA polymerase III, alpha subunit, Gram-positive type( EC:2.7.7.7 )"			
+"DNA polymerase III, alpha subunit, Gram-positive type( EC:2.7.7.7 )"			
+membrane export protein family			
+membrane export protein family			
+Glycerol uptake facilitator protein			
+			
+			
+Histidyl-tRNA synthetase (EC 6.1.1.21)			
+Histidyl-tRNA synthetase (EC 6.1.1.21)			
+			
+Aspartyl-tRNA synthetase (EC 6.1.1.12)			
+Aspartyl-tRNA synthetase (EC 6.1.1.12)			
+			
+Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)			
+Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)			
+			
+Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)			
+Glycerol kinase (EC 2.7.1.30)			
+Glycerol kinase (EC 2.7.1.30)			
+hypothetical protein			
+			
+Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)			
+Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)			
+"COG1744: Uncharacterized ABC-type transport system, periplasmic component/surface lipoprotein"			
+"COG1744: Uncharacterized ABC-type transport system, periplasmic component/surface lipoprotein"			
+"COG1744: Uncharacterized ABC-type transport system, periplasmic component/surface lipoprotein"			
+			
+"Phosphotransferase system, phosphocarrier protein HPr"			
+Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)			
+Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)			
+Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)			
+			
+Spermidine Putrescine ABC transporter permease component PotB (TC 3.A.1.11.1)			
+			
+Spermidine Putrescine ABC transporter permease component potC (TC_3.A.1.11.1)			
+Spermidine Putrescine ABC transporter permease component potC (TC_3.A.1.11.1)			
+			
+Probable spermidine/putrescine substrate binding protein in Mollicutes			
+Probable spermidine/putrescine substrate binding protein in Mollicutes			
+			
+"TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA"			
+o-sialoglycoprotein endopeptidase			
+S-adenosylmethionine synthetase (EC 2.5.1.6)			
+S-adenosylmethionine synthetase (EC 2.5.1.6)			
+			
+			
+hypothetical protein			
+"Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)"			
+"Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)"			
+Purine nucleoside phosphorylase (EC 2.4.2.1)			
+Purine nucleoside phosphorylase (EC 2.4.2.1)			
+Deoxyribose-phosphate aldolase (EC 4.1.2.4)			
+Thymidine phosphorylase (EC 2.4.2.4)			
+Thymidine phosphorylase (EC 2.4.2.4)			
+Cytidine deaminase (EC 3.5.4.5)			
+"D-Ribose 1,5-phosphomutase (EC 5.4.2.7)"			
+"D-Ribose 1,5-phosphomutase (EC 5.4.2.7)"			
+Transcription antitermination protein NusG			
+"D-Ribose 1,5-phosphomutase (EC 5.4.2.7)"			
+Transcription antitermination protein NusG			
+			
+Preprotein translocase subunit SecE (TC 3.A.5.1.1)			
+			
+FIG00834433: hypothetical protein			
+			
+rRNA small subunit methyltransferase I			
+			
+Ribonuclease M5 (EC 3.1.26.8)			
+Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)			
+			
+tmRNA-binding protein SmpB			
+COG0463: Glycosyltransferases involved in cell wall biogenesis			
+COG0463: Glycosyltransferases involved in cell wall biogenesis			
+			
+			
+Uncharacterized protein MG061			
+Uncharacterized protein MG061			
+Uncharacterized protein MG061			
+"PTS system, fructose-specific IIA component (EC 2.7.1.69) / PTS system, fructose-specific IIB component (EC 2.7.1.69) / PTS system, fructose-specific IIC component (EC 2.7.1.69)"			
+"PTS system, fructose-specific IIA component (EC 2.7.1.69) / PTS system, fructose-specific IIB component (EC 2.7.1.69) / PTS system, fructose-specific IIC component (EC 2.7.1.69)"			
+Tagatose-6-phosphate kinase (EC 2.7.1.144) / 1-phosphofructokinase (EC 2.7.1.56)			
+hypothetical protein			
+FIG00836948: hypothetical protein			
+FIG00836948: hypothetical protein			
+FIG00836948: hypothetical protein			
+FIG00836948: hypothetical protein			
+FIG00836948: hypothetical protein			
+FIG00836948: hypothetical protein			
+			
+glutamine transport ATP-binding protein			
+glutamine transport ATP-binding protein			
+			
+Transketolase (EC 2.2.1.1)			
+Transketolase (EC 2.2.1.1)			
+"lipoprotein, putative"			
+"lipoprotein, putative"			
+			
+"lipoprotein, putative"			
+hypothetical protein			
+			
+hypothetical protein			
+COG2855: Predicted membrane protein			
+FIG00835189: hypothetical protein			
+hypothetical protein			
+			
+MgPa adhesin			
+			
+hypothetical protein			
+hypothetical protein			
+			
+			
+"PTS system, glucose-specific IIABC component (ptsG)"			
+"PTS system, glucose-specific IIABC component (ptsG)"			
+"PTS system, glucose-specific IIABC component (ptsG)"			
+"PTS system, glucose-specific IIABC component (ptsG)"			
+SSU ribosomal protein S2p (SAe)			
+SSU ribosomal protein S2p (SAe)			
+"Cation-transporting ATPase, E1-E2 family"			
+"Cation-transporting ATPase, E1-E2 family"			
+"Cation-transporting ATPase, E1-E2 family"			
+"Cation-transporting ATPase, E1-E2 family"			
+"Cation-transporting ATPase, E1-E2 family"			
+"Cation-transporting ATPase, E1-E2 family"			
+Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)			
+Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)			
+Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)			
+Excinuclease ABC subunit B			
+FIG00835758: hypothetical protein			
+			
+FIG00835300: hypothetical protein			
+FIG00834468: hypothetical protein			
+FIG00835300: hypothetical protein			
+Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)			
+Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)			
+Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)			
+Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)			
+Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)			
+			
+Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)			
+Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)			
+Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)			
+			
+LSU ribosomal protein L11p (L12e)			
+LSU ribosomal protein L1p (L10Ae)			
+LSU ribosomal protein L1p (L10Ae)			
+Peptidyl-tRNA hydrolase (EC 3.1.1.29)			
+tRNA(Ile)-lysidine synthetase			
+tRNA(Ile)-lysidine synthetase			
+HPr kinase/phosphorylase (EC 2.7.1.-) (EC 2.7.4.-)			
+Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)			
+Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)			
+SSU ribosomal protein S12p (S23e)			
+SSU ribosomal protein S7p (S5e)			
+Translation elongation factor G			
+Translation elongation factor G			
+SSU ribosomal protein S6p			
+			
+Single-stranded DNA-binding protein			
+"SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent"			
+LSU ribosomal protein L9p			
+Replicative DNA helicase (EC 3.6.1.-)			
+Replicative DNA helicase (EC 3.6.1.-)			
+FIG00835158: hypothetical protein			
+FIG00835158: hypothetical protein			
+FIG00835158: hypothetical protein			
+membrane export protein family			
+membrane export protein family			
+"Uracil-DNA glycosylase, family 1"			
+			
+Substrate-specific component FolT of folate ECF transporter / Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)			
+Substrate-specific component FolT of folate ECF transporter / Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)			
+Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)			
+Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)			
+			
+Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)			
+FIG00834062: hypothetical protein			
+Thioredoxin reductase (EC 1.8.1.9)			
+hypothetical protein			
+			
+FIG00834146: hypothetical protein			
+3'-to-5' exoribonuclease RNase R			
+3'-to-5' exoribonuclease RNase R			
+3'-to-5' exoribonuclease RNase R			
+			
+Uncharacterized protein MG105			
+Peptide deformylase (EC 3.5.1.88)			
+Guanylate kinase (EC 2.7.4.8)			
+"Protein serine/threonine phosphatase PrpC, regulation of stationary phase"			
+"Protein serine/threonine phosphatase PrpC, regulation of stationary phase"			
+"Serine/threonine protein kinase PrkC, regulator of stationary phase, short form"			
+			
+Ribosome small subunit-stimulated GTPase EngC			
+			
+Glucose-6-phosphate isomerase (EC 5.3.1.9)			
+Glucose-6-phosphate isomerase (EC 5.3.1.9)			
+			
+Ribulose-phosphate 3-epimerase (EC 5.1.3.1)			
+Asparaginyl-tRNA synthetase (EC 6.1.1.22)			
+Asparaginyl-tRNA synthetase (EC 6.1.1.22)			
+Asparaginyl-tRNA synthetase (EC 6.1.1.22)			
+CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)			
+			
+Competence/damage-inducible protein CinA			
+FIG00835803: hypothetical protein			
+FIG00835803: hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+UDP-glucose 4-epimerase (EC 5.1.3.2)			
+			
+Methylgalactoside permease ATP-binding protein			
+Methylgalactoside permease ATP-binding protein			
+"COG4603: ABC-type uncharacterized transport system, permease component"			
+"COG4603: ABC-type uncharacterized transport system, permease component"			
+"COG4603: ABC-type uncharacterized transport system, permease component"			
+"COG1079: Uncharacterized ABC-type transport system, permease component"			
+"COG1079: Uncharacterized ABC-type transport system, permease component"			
+hypothetical protein			
+			
+DNA topoisomerase I (EC 5.99.1.2)			
+DNA topoisomerase I (EC 5.99.1.2)			
+DNA topoisomerase I (EC 5.99.1.2)			
+FIG00833885: hypothetical protein			
+FIG00833885: hypothetical protein			
+			
+FIG00836795: hypothetical protein			
+Tryptophanyl-tRNA synthetase (EC 6.1.1.2)			
+FIG00836795: hypothetical protein			
+Arsenate reductase family protein			
+NAD kinase (EC 2.7.1.23)			
+FIG00835296: hypothetical protein			
+uncharacterized domain HDIG			
+			
+FIG00834653: hypothetical protein			
+Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases			
+FIG00834960: hypothetical protein			
+			
+Uncharacterized protein MG133			
+Uncharacterized protein MG133			
+FIG00835178: hypothetical protein			
+FIG00835166: hypothetical protein			
+FIG00835178: hypothetical protein			
+Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)			
+Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)			
+Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)			
+UDP-galactopyranose mutase (EC 5.4.99.9)			
+UDP-galactopyranose mutase (EC 5.4.99.9)			
+			
+Translation elongation factor LepA			
+Ribonuclease J1 (endonuclease and 5' exonuclease)			
+			
+hypothetical protein			
+			
+MgPa adhesin			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+			
+			
+hypothetical protein			
+			
+			
+			
+			
+hypothetical protein			
+Superfamily I DNA and RNA helicases and helicase subunits			
+Superfamily I DNA and RNA helicases and helicase subunits			
+Superfamily I DNA and RNA helicases and helicase subunits			
+Superfamily I DNA and RNA helicases and helicase subunits			
+Superfamily I DNA and RNA helicases and helicase subunits			
+			
+Transcription termination protein NusA			
+Transcription termination protein NusA			
+Transcription termination protein NusA			
+FIG00835259: hypothetical protein			
+Translation initiation factor 2			
+Ribosome-binding factor A			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+			
+Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)			
+Hemolysins and related proteins containing CBS domains			
+Hemolysins and related proteins containing CBS domains			
+Hemolysins and related proteins containing CBS domains			
+FIG00836376: hypothetical protein			
+FIG00836376: hypothetical protein			
+FIG00834281: hypothetical protein			
+FIG00834281: hypothetical protein			
+FIG00834281: hypothetical protein			
+			
+FIG00834442: hypothetical protein			
+			
+FIG00834980: hypothetical protein			
+SSU ribosomal protein S10p (S20e)			
+LSU ribosomal protein L3p (L3e)			
+LSU ribosomal protein L3p (L3e)			
+LSU ribosomal protein L4p (L1e)			
+LSU ribosomal protein L23p (L23Ae)			
+LSU ribosomal protein L2p (L8e)			
+SSU ribosomal protein S19p (S15e)			
+LSU ribosomal protein L22p (L17e)			
+SSU ribosomal protein S3p (S3e)			
+LSU ribosomal protein L16p (L10e)			
+hypothetical protein			
+LSU ribosomal protein L16p (L10e)			
+			
+			
+SSU ribosomal protein S17p (S11e)			
+			
+LSU ribosomal protein L14p (L23e)			
+LSU ribosomal protein L24p (L26e)			
+LSU ribosomal protein L5p (L11e)			
+			
+"SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent"			
+			
+SSU ribosomal protein S8p (S15Ae)			
+LSU ribosomal protein L6p (L9e)			
+			
+LSU ribosomal protein L18p (L5e)			
+SSU ribosomal protein S5p (S2e)			
+LSU ribosomal protein L15p (L27Ae)			
+Preprotein translocase secY subunit (TC 3.A.5.1.1)			
+Adenylate kinase (EC 2.7.4.3)			
+Methionine aminopeptidase (EC 3.4.11.18)			
+Translation initiation factor 1			
+SSU ribosomal protein S13p (S18e)			
+hypothetical protein			
+			
+SSU ribosomal protein S11p (S14e)			
+DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)			
+DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)			
+LSU ribosomal protein L17p			
+ATPase component of general energizing module of ECF transporters			
+			
+ATPase component of general energizing module of ECF transporters			
+Transmembrane component of general energizing module of ECF transporters			
+Transmembrane component of general energizing module of ECF transporters			
+Transmembrane component of general energizing module of ECF transporters			
+tRNA pseudouridine synthase A (EC 4.2.1.70)			
+Oligoendopeptidase F			
+Oligoendopeptidase F			
+Oligoendopeptidase F			
+			
+adenine-specific methyltransferase EcoRI			
+adenine-specific methyltransferase EcoRI			
+FIG00837614: hypothetical protein			
+FIG00837614: hypothetical protein			
+FIG00837614: hypothetical protein			
+hypothetical protein			
+MgPa adhesin			
+MgPa adhesin			
+hypothetical protein			
+hypothetical protein			
+			
+hypothetical protein			
+Lipoprotein			
+Lipoprotein			
+Lipoprotein			
+			
+"Multiple sugar ABC transporter, ATP-binding protein"			
+"Multiple sugar ABC transporter, ATP-binding protein"			
+"Multiple sugar ABC transporter, ATP-binding protein"			
+"Multiple sugar ABC transporter, ATP-binding protein"			
+"N-Acetyl-D-glucosamine ABC transport system, permease protein"			
+"N-Acetyl-D-glucosamine ABC transport system, permease protein"			
+			
+ABC transporter permease protein			
+ABC transporter permease protein			
+FIG00834008: hypothetical protein			
+"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"			
+			
+hypothetical protein			
+hypothetical protein			
+MgPa adhesin			
+MgPa adhesin			
+MgPa adhesin			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+			
+hypothetical protein			
+hypothetical protein			
+			
+			
+			
+hypothetical protein			
+Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)			
+Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)			
+Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)			
+Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)			
+Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)			
+Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)			
+Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)			
+Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)			
+Translation initiation factor 3			
+LSU ribosomal protein L35p			
+Ribonuclease HIII (EC 3.1.26.4)			
+LSU ribosomal protein L20p			
+DnaJ domain protein			
+DnaJ domain protein			
+Heat shock protein GrpE			
+Heat shock protein GrpE			
+FIG00834597: hypothetical protein			
+Topoisomerase IV subunit B (EC 5.99.1.-)			
+Topoisomerase IV subunit B (EC 5.99.1.-)			
+Topoisomerase IV subunit A (EC 5.99.1.-)			
+Heat-inducible transcription repressor HrcA			
+Topoisomerase IV subunit A (EC 5.99.1.-)			
+Heat-inducible transcription repressor HrcA			
+Excinuclease ABC subunit C			
+"Inactive homolog of metal-dependent proteases, putative molecular chaperone"			
+COG0622: Predicted phosphoesterase			
+Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)			
+Lipoprotein signal peptidase (EC 3.4.23.36)			
+Lipoprotein signal peptidase (EC 3.4.23.36)			
+FIG00835711: hypothetical protein			
+			
+SSU ribosomal protein S21p			
+FIG00836825: hypothetical protein			
+			
+			
+1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)			
+1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)			
+Dihydrofolate reductase (EC 1.5.1.3) / Segregation and condensation protein A			
+Dihydrofolate reductase (EC 1.5.1.3) / Segregation and condensation protein A			
+Segregation and condensation protein B			
+6-phosphofructokinase (EC 2.7.1.11)			
+6-phosphofructokinase (EC 2.7.1.11)			
+Pyruvate kinase (EC 2.7.1.40)			
+Pyruvate kinase (EC 2.7.1.40)			
+			
+			
+proline-rich P65 protein			
+FIG00834532: hypothetical protein			
+FIG00834532: hypothetical protein			
+FIG00834532: hypothetical protein			
+FIG00835098: hypothetical protein			
+FIG00835098: hypothetical protein			
+FIG00835098: hypothetical protein			
+FIG00836556: hypothetical protein			
+Cell division protein MraZ			
+rRNA small subunit methyltransferase H			
+FIG00834277: hypothetical protein			
+Cell division protein FtsZ (EC 3.4.24.-)			
+Cell division protein FtsZ (EC 3.4.24.-)			
+Potassium efflux system KefA protein / Small-conductance mechanosensitive channel			
+Potassium efflux system KefA protein / Small-conductance mechanosensitive channel			
+FIG00836867: hypothetical protein			
+hypothetical protein			
+FIG00836867: hypothetical protein			
+			
+Thymidylate synthase (EC 2.1.1.45)			
+Thymidylate synthase (EC 2.1.1.45)			
+Dihydrofolate reductase (EC 1.5.1.3)			
+Dihydrofolate reductase (EC 1.5.1.3)			
+"Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)"			
+Ribonucleotide reduction protein NrdI			
+"Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)"			
+"Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)"			
+LSU ribosomal protein L21p			
+FIG139598: Potential ribosomal protein			
+LSU ribosomal protein L27p			
+Endonuclease IV (EC 3.1.21.2)			
+			
+FIG00836347: hypothetical protein			
+FIG00835193: hypothetical protein			
+Cell division trigger factor (EC 5.2.1.8)			
+ATP-dependent protease La (EC 3.4.21.53) Type I			
+"Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) / Hydrolase (HAD superfamily), YqeK"			
+ATP-dependent protease La (EC 3.4.21.53) Type I			
+"Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) / Hydrolase (HAD superfamily), YqeK"			
+"Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) / Hydrolase (HAD superfamily), YqeK"			
+FIG00837455: hypothetical protein			
+FIG00837455: hypothetical protein			
+FIG00837455: hypothetical protein			
+FIG00834426: hypothetical protein			
+FIG00834426: hypothetical protein			
+FIG00834426: hypothetical protein			
+FIG00834426: hypothetical protein			
+			
+FIG00834213: hypothetical protein			
+ATP-dependent DNA helicase UvrD/PcrA			
+ATP-dependent DNA helicase UvrD/PcrA			
+ATP-dependent DNA helicase UvrD/PcrA			
+5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)			
+hypothetical protein			
+			
+Phosphoesterase family protein			
+hypothetical protein			
+Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY			
+Putative tRNA-m1A22 methylase			
+RNA polymerase sigma factor RpoD			
+RNA polymerase sigma factor RpoD			
+RNA polymerase sigma factor RpoD			
+DNA primase (EC 2.7.7.-)			
+DNA primase (EC 2.7.7.-)			
+DNA primase (EC 2.7.7.-)			
+DNA primase (EC 2.7.7.-)			
+			
+Glycyl-tRNA synthetase (EC 6.1.1.14)			
+Glycyl-tRNA synthetase (EC 6.1.1.14)			
+Glycyl-tRNA synthetase (EC 6.1.1.14)			
+Glycyl-tRNA synthetase (EC 6.1.1.14)			
+			
+23S rRNA (guanosine-2'-O-) -methyltransferase rlmB (EC 2.1.1.-) ## LSU rRNA Gm2251			
+hypothetical protein			
+			
+hypothetical protein			
+Cysteinyl-tRNA synthetase (EC 6.1.1.16)			
+Cysteinyl-tRNA synthetase (EC 6.1.1.16)			
+			
+DNA ligase (EC 6.5.1.2)			
+DNA ligase (EC 6.5.1.2)			
+hypothetical protein			
+hypothetical protein			
+			
+FIG00836137: hypothetical protein			
+FIG00836137: hypothetical protein			
+FIG00836137: hypothetical protein			
+"LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent"			
+Peptide chain release factor 1			
+Peptide chain release factor 1			
+"YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA / Protein methyltransferase HemK homolog (EC 2.1.1.-)"			
+"YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA / Protein methyltransferase HemK homolog (EC 2.1.1.-)"			
+"YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA / Protein methyltransferase HemK homolog (EC 2.1.1.-)"			
+FIG00837614: hypothetical protein			
+FIG00837614: hypothetical protein			
+hypothetical protein			
+			
+MgPa adhesin			
+			
+hypothetical protein			
+hypothetical protein			
+FIG00834323: hypothetical protein			
+DNA polymerase III alpha subunit (EC 2.7.7.7)			
+DNA polymerase III alpha subunit (EC 2.7.7.7)			
+DNA polymerase III alpha subunit (EC 2.7.7.7)			
+DNA polymerase III alpha subunit (EC 2.7.7.7)			
+			
+Probable 5'-3' exonuclease Bsu YpcP			
+Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)			
+HAD superfamily hydrolase/phosphatase			
+			
+Dephospho-CoA kinase (EC 2.7.1.24)			
+Hydrolase (HAD superfamily)			
+			
+Leucyl-tRNA synthetase (EC 6.1.1.4)			
+Leucyl-tRNA synthetase (EC 6.1.1.4)			
+Leucyl-tRNA synthetase (EC 6.1.1.4)			
+Leucyl-tRNA synthetase (EC 6.1.1.4)			
+FIG00834695: hypothetical protein			
+			
+Deoxyadenosine kinase (EC 2.7.1.76) / Deoxyguanosine kinase (EC 2.7.1.113)			
+Deoxyadenosine kinase (EC 2.7.1.76) / Deoxyguanosine kinase (EC 2.7.1.113)			
+FIG00836294: hypothetical protein			
+Uncharacterized protein MG269.1 homolog			
+			
+Lipoate-protein ligase A			
+Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)			
+Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)			
+Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)			
+Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)			
+Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)			
+Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)			
+Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)			
+Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)			
+NADH oxidase (EC 1.6.99.3)			
+NADH oxidase (EC 1.6.99.3)			
+Adenine phosphoribosyltransferase (EC 2.4.2.7)			
+			
+Uncharacterized protein MG277 homolog			
+Uncharacterized protein MG277 homolog			
+Uncharacterized protein MG277 homolog			
+Uncharacterized protein MG277 homolog			
+"GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I"			
+"GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I"			
+"GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I"			
+FIG00835895: hypothetical protein			
+			
+FIG00834342: hypothetical protein			
+FIG00835825: hypothetical protein			
+FIG00835825: hypothetical protein			
+Transcription elongation factor GreA			
+"Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type"			
+"Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type"			
+			
+FIG00835610: hypothetical protein			
+FIG00835610: hypothetical protein			
+FIG00835610: hypothetical protein			
+FIG00834673: hypothetical protein			
+			
+Acyl carrier protein			
+hypothetical protein			
+			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+membrane export protein family			
+hypothetical protein			
+hypothetical protein			
+FIG00834143: hypothetical protein			
+FIG00834143: hypothetical protein			
+FIG00834143: hypothetical protein			
+Phosphonate ABC transporter ATP-binding protein (TC 3.A.1.9.1)			
+Phosphonate ABC transporter ATP-binding protein (TC 3.A.1.9.1)			
+hypothetical protein			
+Transport system permease protein p69			
+Transport system permease protein p69			
+Putative Holliday junction resolvase YggF			
+Transport system permease protein p69			
+Alanyl-tRNA synthetase (EC 6.1.1.7)			
+Alanyl-tRNA synthetase (EC 6.1.1.7)			
+Alanyl-tRNA synthetase (EC 6.1.1.7)			
+Alanyl-tRNA synthetase (EC 6.1.1.7)			
+Alanyl-tRNA synthetase (EC 6.1.1.7)			
+			
+hypothetical protein			
+Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)			
+			
+permease			
+permease			
+permease			
+permease			
+tRNA-specific 2-thiouridylase MnmA			
+tRNA-specific 2-thiouridylase MnmA			
+tRNA-specific 2-thiouridylase MnmA			
+FIG00835486: hypothetical protein			
+Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)			
+Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)			
+Chromosome partition protein smc			
+Chromosome partition protein smc			
+Chromosome partition protein smc			
+			
+Phosphate acetyltransferase (EC 2.3.1.8)			
+			
+Phosphoglycerate kinase (EC 2.7.2.3)			
+NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)			
+			
+Transmembrane component of general energizing module of ECF transporters			
+ATPase component of general energizing module of ECF transporters			
+ATPase component of general energizing module of ECF transporters			
+			
+Chaperone protein DnaK			
+			
+Permease			
+Permease			
+FIG00835342: hypothetical protein			
+FIG00835342: hypothetical protein			
+FIG00835342: hypothetical protein			
+FIG00835342: hypothetical protein			
+FIG00835342: hypothetical protein			
+			
+FIG00834919: hypothetical protein			
+FIG00834919: hypothetical protein			
+hypothetical protein			
+			
+FIG00835298: hypothetical protein			
+FIG00835298: hypothetical protein			
+FIG00835298: hypothetical protein			
+COG0596: Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)			
+COG0596: Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)			
+			
+			
+SSU ribosomal protein S4p (S9e)			
+cytadherence accessory protein HMW1			
+cytadherence accessory protein HMW1			
+Substrate-specific component FolT of folate ECF transporter			
+FIG00835371: hypothetical protein			
+FIG00835371: hypothetical protein			
+FIG00835371: hypothetical protein			
+DNA polymerase III delta subunit (EC 2.7.7.7)			
+DNA polymerase III delta subunit (EC 2.7.7.7)			
+			
+"competence locus operon protein 3 homolog; similar to Swiss-Prot Accession Number P39695, from B. subtilis"			
+			
+FIG00835827: hypothetical protein			
+FIG00835827: hypothetical protein			
+Twitching motility protein PilT			
+Twitching motility protein PilT			
+FIG00835782: hypothetical protein			
+			
+FIG00835407: hypothetical protein			
+FIG00835407: hypothetical protein			
+			
+FIG00833974: hypothetical protein			
+FIG00833974: hypothetical protein			
+hypothetical protein			
+"potassium uptake protein, TrkH family, putative"			
+TrkA			
+			
+			
+			
+FIG00836312: hypothetical protein			
+FIG00836312: hypothetical protein			
+			
+"Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)"			
+"Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)"			
+50S ribosomal protein L33			
+DegV family protein			
+DegV family protein			
+Triacylglycerol lipase (EC 3.1.1.3)			
+FIG00833893: hypothetical protein			
+FIG00833893: hypothetical protein			
+GTP-binding protein EngA			
+Cytidylate kinase (EC 2.7.4.14)			
+			
+hypothetical protein			
+FIG00833967: hypothetical protein			
+FIG000859: hypothetical protein YebC			
+FMN-dependent NADH-azoreductase			
+FMN-dependent NADH-azoreductase			
+			
+Valyl-tRNA synthetase (EC 6.1.1.9)			
+Valyl-tRNA synthetase (EC 6.1.1.9)			
+Valyl-tRNA synthetase (EC 6.1.1.9)			
+GTP-binding protein EngB			
+M. genitalium predicted coding region MG335.1			
+Uncharacterized glycosyltransferase MG335.2 (EC 2.-.-.-)			
+Uncharacterized glycosyltransferase MG335.2 (EC 2.-.-.-)			
+Uncharacterized glycosyltransferase MG335.2 (EC 2.-.-.-)			
+"Cysteine desulfurase (EC 2.8.1.7), SufS subfamily"			
+"Cysteine desulfurase (EC 2.8.1.7), SufS subfamily"			
+FIG00836572: hypothetical protein			
+"Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2"			
+FIG00836572: hypothetical protein			
+FIG00836572: hypothetical protein			
+FIG00836572: hypothetical protein			
+FIG00836572: hypothetical protein			
+FIG00836572: hypothetical protein			
+FIG00836572: hypothetical protein			
+FIG00836572: hypothetical protein			
+RecA protein			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+MgPa adhesin			
+DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)			
+			
+DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)			
+DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)			
+DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)			
+DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)			
+suggest reductase homologue			
+FIG00834086: hypothetical protein			
+FIG00834086: hypothetical protein			
+FIG00834086: hypothetical protein			
+"lipase/esterase, putative"			
+"lipase/esterase, putative"			
+"lipase/esterase, putative"			
+			
+Isoleucyl-tRNA synthetase (EC 6.1.1.5)			
+Isoleucyl-tRNA synthetase (EC 6.1.1.5)			
+Isoleucyl-tRNA synthetase (EC 6.1.1.5)			
+Isoleucyl-tRNA synthetase (EC 6.1.1.5)			
+"RNA methyltransferase, TrmH family, group 2( EC:2.1.1.- )"			
+			
+tRNA (guanine46-N7-)-methyltransferase (EC 2.1.1.33)			
+tRNA (guanine46-N7-)-methyltransferase (EC 2.1.1.33)			
+FIG00834811: hypothetical protein			
+FIG00834811: hypothetical protein			
+FIG00835435: hypothetical protein			
+FIG00835435: hypothetical protein			
+			
+FIG00836804: hypothetical protein			
+FIG00836804: hypothetical protein			
+			
+			
+putative membrane integrated oxidoreductase			
+Inorganic pyrophosphatase (EC 3.6.1.1)			
+Inorganic pyrophosphatase (EC 3.6.1.1)			
+			
+recombination protein U			
+			
+recombination protein U			
+bacterial histone like protein			
+FIG00835180: hypothetical protein			
+ClpB protein			
+hypothetical protein			
+ClpB protein			
+ClpB protein			
+			
+MGA_0931; [M] COG0510 Predicted choline kinase involved in LPS biosynthesis; pfam01636 Phosphotransferase enzyme family; MGR_183			
+Acetate kinase (EC 2.7.2.1)			
+Acetate kinase (EC 2.7.2.1)			
+FIG00835677: hypothetical protein			
+hypothetical protein			
+Holliday junction DNA helicase RuvA			
+DNA polymerase IV (EC 2.7.7.7)			
+Holliday junction DNA helicase RuvB			
+DNA polymerase IV (EC 2.7.7.7)			
+LSU ribosomal protein L10p (P0)			
+LSU ribosomal protein L7/L12 (P1/P2)			
+LSU ribosomal protein L32p			
+SSU ribosomal protein S20p			
+FIG00834055: hypothetical protein			
+FIG00834055: hypothetical protein			
+FIG00834055: hypothetical protein			
+Methionyl-tRNA formyltransferase (EC 2.1.2.9)			
+			
+FIG00834704: hypothetical protein			
+FIG00834704: hypothetical protein			
+			
+Ribonuclease III (EC 3.1.26.3)			
+Ribonuclease III (EC 3.1.26.3)			
+Phosphate:acyl-ACP acyltransferase PlsX			
+Dihydroxyacetone kinase family protein			
+Dihydroxyacetone kinase family protein			
+Ribosomal large subunit pseudouridine synthase C (EC 4.2.1.70)			
+Ribosomal large subunit pseudouridine synthase C (EC 4.2.1.70)			
+"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"			
+"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"			
+"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"			
+tRNA S(4)U 4-thiouridine synthase (former ThiI)			
+			
+FIG00835489: hypothetical protein			
+FIG00835489: hypothetical protein			
+hypothetical protein			
+Threonyl-tRNA synthetase (EC 6.1.1.3)			
+Threonyl-tRNA synthetase (EC 6.1.1.3)			
+Threonyl-tRNA synthetase (EC 6.1.1.3)			
+Threonyl-tRNA synthetase (EC 6.1.1.3)			
+			
+FIG00834865: hypothetical protein			
+FIG00834865: hypothetical protein			
+Arginyl-tRNA synthetase (EC 6.1.1.19)			
+Arginyl-tRNA synthetase (EC 6.1.1.19)			
+Arginyl-tRNA synthetase (EC 6.1.1.19)			
+Arginyl-tRNA synthetase (EC 6.1.1.19)			
+tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA			
+tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA			
+rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB			
+FIG00836202: hypothetical protein			
+Uridine kinase (EC 2.7.1.48)			
+NAD synthetase (EC 6.3.1.5)			
+			
+NAD synthetase (EC 6.3.1.5)			
+			
+GTP-binding protein Obg			
+FIG00834182: hypothetical protein			
+			
+Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)			
+			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+GTP-binding protein Era			
+GTP-binding protein Era			
+			
+FIG00834068: hypothetical protein			
+			
+FIG00834020: hypothetical protein			
+"ABC transporter, ATP-binding protein"			
+"ABC transporter, ATP-binding protein"			
+"ABC transporter, ATP-binding protein"			
+Cytosol aminopeptidase PepA (EC 3.4.11.1)			
+Cytosol aminopeptidase PepA (EC 3.4.11.1)			
+Heat shock protein 60 family chaperone GroEL			
+Heat shock protein 60 family co-chaperone GroES			
+Serine hydroxymethyltransferase (EC 2.1.2.1)			
+Serine hydroxymethyltransferase (EC 2.1.2.1)			
+"lipoprotein, putative"			
+"lipoprotein, putative"			
+			
+Ribose 5-phosphate isomerase B (EC 5.3.1.6)			
+FIG00835181: hypothetical protein			
+FIG00835181: hypothetical protein			
+FIG00835181: hypothetical protein			
+ATP synthase epsilon chain (EC 3.6.3.14)			
+ATP synthase beta chain (EC 3.6.3.14)			
+ATP synthase gamma chain (EC 3.6.3.14)			
+ATP synthase gamma chain (EC 3.6.3.14)			
+ATP synthase alpha chain (EC 3.6.3.14)			
+ATP synthase alpha chain (EC 3.6.3.14)			
+ATP synthase delta chain (EC 3.6.3.14)			
+ATP synthase B chain (EC 3.6.3.14)			
+ATP synthase C chain (EC 3.6.3.14)			
+ATP synthase A chain (EC 3.6.3.14)			
+ATP synthase A chain (EC 3.6.3.14)			
+			
+hypothetical protein			
+Enolase (EC 4.2.1.11)			
+Enolase (EC 4.2.1.11)			
+Phosphate transport system regulatory protein PhoU			
+			
+Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)			
+Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)			
+Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)			
+Phosphate transport system permease protein PstA (TC 3.A.1.7.1) / Phosphate transport system permease protein PstC (TC 3.A.1.7.1)			
+Phosphate transport system permease protein PstA (TC 3.A.1.7.1) / Phosphate transport system permease protein PstC (TC 3.A.1.7.1)			
+Phosphate transport system permease protein PstA (TC 3.A.1.7.1) / Phosphate transport system permease protein PstC (TC 3.A.1.7.1)			
+Phosphate transport system permease protein PstA (TC 3.A.1.7.1) / Phosphate transport system permease protein PstC (TC 3.A.1.7.1)			
+			
+Putative periplasmic phosphate-binding protein PstS (Mycoplasma type)			
+Putative periplasmic phosphate-binding protein PstS (Mycoplasma type)			
+			
+FIG00834245: hypothetical protein			
+FIG00834245: hypothetical protein			
+FIG00834245: hypothetical protein			
+FIG00834245: hypothetical protein			
+			
+FIG00834984: hypothetical protein			
+FIG00834984: hypothetical protein			
+FIG00834984: hypothetical protein			
+SSU ribosomal protein S9p (S16e)			
+			
+LSU ribosomal protein L13p (L13Ae)			
+LSU ribosomal protein L13p (L13Ae)			
+DNA polymerase III subunits gamma and tau (EC 2.7.7.7)			
+DNA polymerase III subunits gamma and tau (EC 2.7.7.7)			
+DNA polymerase III subunits gamma and tau (EC 2.7.7.7)			
+Excinuclease ABC subunit A			
+Excinuclease ABC subunit A			
+FIG00835084: hypothetical protein			
+FIG00835084: hypothetical protein			
+hypothetical protein			
+FIG00835084: hypothetical protein			
+FIG00835084: hypothetical protein			
+FIG00835084: hypothetical protein			
+hypothetical protein			
+hypothetical protein			
+Ribonuclease J2 (endoribonuclease in RNA processing)			
+Ribonuclease J2 (endoribonuclease in RNA processing)			
+SSU ribosomal protein S15p (S13e)			
+ATP-dependent RNA helicase DeaD			
+ATP-dependent RNA helicase DeaD			
+			
+LSU ribosomal protein L28p			
+osmotical inducible protein C like family; inducable by osmotic stress and by organic hydroperoxides			
+			
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)			
+FIG00835707: hypothetical protein			
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)			
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)			
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)			
+"2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1)"			
+			
+Triosephosphate isomerase (EC 5.3.1.1)			
+ABC TRANSPORTER PERMEASE PROTEIN			
+ABC TRANSPORTER PERMEASE PROTEIN			
+ABC TRANSPORTER PERMEASE PROTEIN			
+Translation elongation factor Ts			
+			
+Uridylate kinase (EC 2.7.4.-)			
+hypothetical protein			
+Ribosome recycling factor			
+hypothetical protein			
+			
+specificity determining subunit for restriction enzyme belonging to the K family of S proteins			
+specificity determining subunit for restriction enzyme belonging to the K family of S proteins			
+hypothetical protein			
+hypothetical protein			
+FIG00837396: hypothetical protein			
+FIG00837396: hypothetical protein			
+			
+hypothetical protein			
+50S ribosomal subunit maturation GTPase RbgA (B. subtilis YlqF)			
+FIG00834150: hypothetical protein			
+FIG00834150: hypothetical protein			
+LSU ribosomal protein L19p			
+tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)			
+			
+Na+ driven multidrug efflux pump			
+Na+ driven multidrug efflux pump			
+Na+ driven multidrug efflux pump			
+Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)			
+Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)			
+			
+Phenylalanyl-tRNA synthetase domain protein (Bsu YtpR)			
+			
+FIG00836367: hypothetical protein			
+FIG00836367: hypothetical protein			
+Translation elongation factor Tu			
+FIG00834157: hypothetical protein			
+			
+Organic hydroperoxide resistance protein			
+UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)			
+Tyrosyl-tRNA synthetase (EC 6.1.1.1)			
+Tyrosyl-tRNA synthetase (EC 6.1.1.1)			
+Tyrosyl-tRNA synthetase (EC 6.1.1.1)			
+FIG00835554: hypothetical protein			
+			
+FIG00835554: hypothetical protein			
+FIG00835097: hypothetical protein			
+FIG00835097: hypothetical protein			
+Cell division protein FtsH (EC 3.4.24.-)			
+Cell division protein FtsH (EC 3.4.24.-)			
+FIG00835472: hypothetical protein			
+Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)			
+			
+"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)"			
+			
+L-lactate dehydrogenase (EC 1.1.1.27)			
+hypothetical protein			
+"dNTP triphosphohydrolase, putative"			
+Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)			
+Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)			
+Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)			
+Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)			
+SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)			
+"Inner membrane protein translocase component YidC, long form"			
+"Inner membrane protein translocase component YidC, long form"			
+			
+"ABC transporter, ATP-binding protein"			
+			
+FIG00835159: hypothetical protein			
+FIG00835159: hypothetical protein			
+FIG00835159: hypothetical protein			
+FIG00835159: hypothetical protein			
+FIG00835159: hypothetical protein			
+hypothetical protein			
+FIG00835159: hypothetical protein			
+			
+"ABC transporter, ATP-binding protein"			
+Chromosomal replication initiator protein DnaA			
+			
+FIG00835492: hypothetical protein			
+ParA/Soj			

@@ -1,0 +1,1601 @@
+base_tigr	pfam-sh	pfam-sh	all-same	NusB antitermination factor			3	1, 2, 3
+base_tigr	lit-s	base_ec	all-same	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)	2.5.1.78		3	1, 2, 3
+base_lit-s	base_ec	base_ec	all-same	3-deoxy-8-phosphooctulonate synthase	2.5.1.55		3	1, 2, 3
+lit-s	lit-s	base_lit-s	all-same	Carbonic anhydrase	4.2.1.1		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	orotidine-5'-phosphate decarboxylase (EC 4.1.1.23)	4.1.1.23		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	pantothenate synthetase (EC 6.3.2.1)	6.3.2.1		3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_lit-s	0	0	majority	chaperonin GroL			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_lit-s	lit-s	all-same	DNA primase (EC 2.7.7.-)	2.7.7.-		3	1, 2, 3
+gs-sh	0	0	majority	Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop ATPase domain	2.8.1.-		3	1, 2
+base_one HP	0	base_one HP	majority	putative			1	
+lit-s	0	0	all-same	TrbC/VIRB2 family.			2	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00711213: hypothetical protein			0	1, 2
+base_tigr	0	0	majority	type IV secretion/conjugal transfer ATPase, VirB4 family			3	1, 2
+base_one HP	base_one HP	0	majority	putative lipoprotein			1	
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	lit-s	lit-s	all-same	carboxynorspermidine decarboxylase (EC 4.1.1.-)	4.1.1.-		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_one HP	base_lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+lit-s	tf_idf	base_ec	all-same	citrate synthase (EC 2.3.3.1)	2.3.3.1		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	isocitrate dehydrogenase (NADP) (EC 1.1.1.42)	1.1.1.42		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	dethiobiotin synthase (EC 6.3.3.3)	6.3.3.3		3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710236: hypothetical protein			0	2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710719: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			2	
+0	lit-s	0	all-same	ATP-dependent Clp protease adaptor protein ClpS			2	1, 3
+0	0	base_lit-s	majority	ATP-dependent Clp protease ATP-binding subunit ClpA	3.4.21.92		3	2, 3
+base_tigr	base_ec	base_ec	all-same	L-aspartate 1-decarboxylase (EC 4.1.1.11)	4.1.1.11		3	1, 2, 3
+base_lit-s	0	0	majority	DNA-binding protein, YbaB/EbfC family			3	1, 2
+lit-s	0	0	majority	PDZ domain.			3	1, 2
+gs-sh	0	0	majority	Type IV secretory pathway, TrbL components			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	comB9 competence protein			1	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+gs-sh	0	0	majority	Type IV secretory pathway, VirB10 components			3	1, 2
+base_tigr	0	0	majority	mannose-1-phosphate guanylyltransferase (GDP)/mannose-6-phosphate isomerase, type 2	2.7.7.13,2.7.7.22, 5.3.1.8		3	1, 2
+base_lit-s	base_ec-d	base_ec-d	majority	GDP-mannose 4,6-dehydratase	4.2.1.47		3	1, 2
+0	0	base_ec	majority	Nucleoside-diphosphate-sugar epimerases	1.1.1.271		3	2, 3
+base_tigr	gs-sh	gs-sh	all-same	Hydrogenase maturation protein, carbamoyl dehydratase HypE			3	1, 2, 3
+base_tigr	gs-sh	gs-sh	all-same	[NiFe] hydrogenase maturation protein HypF			3	1, 2, 3
+0	0	base_ec	all-same	Peptidylarginine deiminase and related enzymes	3.5.3.12		2	2, 3
+0	0	base_ec	majority	DNA modification methylase	2.1.1.72		3	2, 3
+base_tigr	base_ec	base_ec	all-same	DNA-methyltransferase (dcm)	2.1.1.37		3	1, 2, 3
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+base_one HP	0	base_one HP	majority	FIG00711123: hypothetical protein			1	
+base_one HP	0	base_one HP	majority	FIG00711648: hypothetical protein			1	
+0	0	0	man-rest	MANUAL-REST			3	
+base_lit-s	gs-sh	gs-sh	all-same	sodium/proline symporter			3	1, 2, 3
+map	tf_idf	base_ec	all-same	NAD-dependent aldehyde dehydrogenases	1.5.99.8, 1.5.1.12		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710639: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710367: hypothetical protein			0	1, 2
+base_one HP	0	base_one HP	majority	FIG00710261: hypothetical protein			1	
+lit-s	base_one HP	base_one HP	all-same	hypothetical protein with 50bp hit to Dihydrolipoamide acetyltransferase			1	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710815: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710451: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			2	
+base_one HP	0	base_one HP	majority	putative			1	
+lit-s	base_one HP	base_one HP	all-same	Cell division protein FtsK			1	1, 2
+gs-sh	gs-sh	gs-sh	all-same	DNA segregation ATPase FtsK/SpoIIIE and related proteins			3	1, 2, 3
+gs-sh	lit-s	gs-sh	all-same	Urease accessory protein UreH			3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	urease accessory protein UreG			3	1, 2, 3
+lit-s	lit-s	base_lit-s	all-same	Urease accessory protein UreF			3	1, 2, 3
+lit-s	lit-s	base_lit-s	all-same	Urease accessory protein UreE			3	1, 2, 3
+gs-sh	gs-sh	map	all-same	AmiS/UreI family transporter.			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	urease. Metallo peptidase. MEROPS family M38	3.5.1.5		3	1, 2, 3
+base_ec	base_ec-d	base_ec-d	majority	urease, beta subunit/urease, gamma subunit	3.5.1.5		3	1, 2
+base_tigr	base_ec	base_ec	all-same	signal peptidase II (EC:3.4.23.36). Aspartic peptidase. MEROPS family A08	3.4.23.36		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	phosphoglucosamine mutase (EC 5.4.2.10)	5.4.2.10		3	1, 2, 3
+base_tigr	map	lit-s	all-same	SSU ribosomal protein S20P			3	1, 2, 3
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+base_tigr	lit-s	tf_idf	all-same	bacterial peptide chain release factor 1 (bRF-1)			3	1, 2, 3
+base_one HP	0	base_one HP	majority	FIG00710214: hypothetical protein			1	
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	dentin sialophosphoprotein preproprotein			1	1, 2
+tf_idf	tf_idf	gs-sh	all-same	Methyl-accepting chemotaxis protein			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	0	0	majority	LSU ribosomal protein L13P			3	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710635: hypothetical protein			0	1, 2
+base_ec	base_ec	base_ec	all-same	Predicted dehydrogenase	1.1.5.4		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+gs-sh	base_lit-s	gs-sh	all-same	RNA polymerase, sigma 70 subunit, RpoD			3	1, 2, 3
+base_tigr	0	0	majority	methylthioadenosine nucleosidase/adenosylhomocysteine nucleosidase	3.2.2.9,3.2.2.16, 3.2.2.9		3	1, 2
+base_lit-s	base_ec	base_ec	all-same	malonyl CoA-acyl carrier protein transacylase	2.3.1.39		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	DpnII restriction endonuclease.	3.1.21.4		3	1, 2, 3
+base_ec	0	0	majority	DNA modification methylase	2.1.1.72		3	1, 2
+lit-s	0	0	all-same	Glycosyl transferase family 11.			2	1, 2
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	FIG00710601: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_tigr	base_ec	base_ec	all-same	L-threonine synthase (EC 4.2.3.1)	4.2.3.1		3	1, 2, 3
+tf_idf	tf_idf	gs-sh	all-same	Methyl-accepting chemotaxis protein			3	1, 2, 3
+base_one HP	base_one HP	0	majority	FIG053235: Diacylglucosamine hydrolase like			1	
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	0	0	all-same	Helicobacter outer membrane protein.			2	1, 2
+0	0	tf_idf	majority	methyl-accepting chemotaxis sensory transducer with Cache sensor			3	2, 3
+0	0	base_ec	majority	5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases	3.1.4.16		3	2, 3
+base_ec	base_ec	base_ec	all-same	S-ribosylhomocysteine lyase (EC 4.4.1.21)/quorum-sensing autoinducer 2 (AI-2) synthesis protein LuxS	4.4.1.21		3	1, 2, 3
+base_ec-d	base_ec-d	base_ec-d	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	FIG00711135: hypothetical protein			0	1, 2
+base_lit-s	lit-s	lit-s	all-same	chaperone protein DnaK			3	1, 2, 3
+gs-sh	gs-sh	pfam-sh	all-same	Molecular chaperone GrpE (heat shock protein)			3	1, 2, 3
+lit-s	lit-s	lit-s	all-same	heat-inducible transcription repressor HrcA			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_one HP	base_one HP	0	majority	Motility accessory factor			1	
+gs-sh	gs-sh	map	all-same	Flagellin and related hook-associated proteins			3	1, 2, 3
+base_tigr	base_lit-s	base_ec	all-same	DNA topoisomerase I (EC 5.99.1.2)	5.99.1.2		3	1, 2, 3
+0	lit-s	0	majority	Fe-S oxidoreductases			3	1, 3
+base_one HP	base_one HP	0	majority	Helicobacter pylori protein of unknown function (DUF874).			1	
+base_one HP	base_one HP	0	majority	Helicobacter pylori protein of unknown function (DUF874).			1	
+base_one miss	0	base_one miss	majority	FIG00711088: hypothetical protein			1	
+base_one HP	base_one HP	0	majority	Helicobacter pylori protein of unknown function (DUF874).			1	
+base_tigr	base_ec	base_ec	all-same	phosphoenolpyruvate synthase (EC 2.7.9.2)	2.7.9.2		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	threonyl-tRNA synthetase	6.1.1.3		3	1, 2, 3
+base_tigr	gs-sh	map	all-same	bacterial translation initiation factor 3 (bIF-3)			3	1, 2, 3
+base_tigr	orth	lit-s	all-same	LSU ribosomal protein L35P			3	1, 2, 3
+base_tigr	map	lit-s	all-same	LSU ribosomal protein L20P			3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	putative			0	2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_tigr	base_ec	base_ec	all-same	L-serine ammonia-lyase (EC 4.3.1.17)	4.3.1.17		3	1, 2, 3
+base_tigr	lit-s	lit-s	all-same	serine transporter			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	3-deoxy-D-arabinoheptulosonate-7-phosphate synthase (EC 2.5.1.54)	2.5.1.54		3	1, 2, 3
+gs-sh	map	base_ec	all-same	Peroxiredoxin	1.11.1.15		3	1, 2, 3
+base_one HP	base_one HP	0	majority	"Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG"			1	
+base_lit-s	0	0	majority	iron-sulfur cluster-binding protein			3	1, 2
+orth	0	0	majority	Fe-S oxidoreductase	1.1.3.15		3	1, 2
+gs-sh	base_lit-s	orth	all-same	L-lactate transport			3	1, 2, 3
+base_tigr	map	orth	all-same	L-lactate transport			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	0	0	majority	anion transporter			3	1, 2
+base_tigr	0	0	majority	anion transporter			3	1, 2
+base_lit-s	base_ec	base_ec	all-same	cytochrome c oxidase, cbb3-type, subunit I	1.9.3.1		3	1, 2, 3
+base_lit-s	base_ec	tf_idf	all-same	cytochrome c oxidase, cbb3-type, subunit II			3	1, 2, 3
+base_tigr	base_ec	tf_idf	all-same	cytochrome c oxidase, cbb3-type, CcoQ subunit, epsilon-Proteobacterial			3	1, 2, 3
+base_lit-s	base_ec	tf_idf	all-same	cytochrome c oxidase, cbb3-type, subunit III			3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710306: hypothetical protein			0	2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710278: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+base_tigr	lit-s	base_lit-s	all-same	RecA protein			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	enolase (EC 4.2.1.11)	4.2.1.11		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710227: hypothetical protein			0	1, 2
+lit-s	0	0	majority	AMIN domain.			3	1, 2
+base_ec	base_ec	base_ec	all-same	shikimate kinase (EC 2.7.1.71)	2.7.1.71		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+gs-sh	0	0	majority	FOG: TPR repeat, SEL1 subfamily			3	1, 2
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+0	0	base_ec	majority	porphobilinogen synthase (EC 4.2.1.24)	4.2.1.24		3	2, 3
+lit-s	0	0	majority	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase.	2.7.13.3		3	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative histidine kinase sensor protein			1	1, 2
+map	gs-sh	gs-sh	all-same	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710688: hypothetical protein			0	1, 2
+base_one HP	0	base_one HP	majority	putative			1	
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	0	base_one HP	majority	FIG00710191: hypothetical protein			1	
+base_lit-s	lit-s	lit-s	all-same	peptide chain release factor 2			3	1, 2, 3
+base_tigr	map	gs-sh	all-same	molybdopterin molybdochelatase	2.10.1.1		3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	flagellar biosynthetic protein FliR			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+gs-sh	gs-sh	base_ec	all-same	Parvulin-like peptidyl-prolyl isomerase	5.2.1.8		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	fructose-bisphosphate aldolase (EC 4.1.2.13)	4.1.2.13		3	1, 2, 3
+base_tigr	lit-s	tf_idf	all-same	translation elongation factor P (EF-P)			3	1, 2, 3
+base_tigr	lit-s	map	all-same	N-acetylneuraminate synthase	2.5.1.56		3	1, 2, 3
+0	tf_idf	0	majority	ABC-type antimicrobial peptide transport system, ATPase component	3.6.3.-		3	1, 3
+base_tigr	0	0	majority	Apolipoprotein N-acyltransferase	2.3.1.-		3	1, 2
+tf_idf	base_one HP	base_one HP	all-same	Uncharacterized membrane protein, required for colicin V production			2	1, 2
+base_tigr	base_ec	base_ec	all-same	lysyl-tRNA synthetase, class II (EC 6.1.1.6)	6.1.1.6		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1		3	1, 2, 3
+base_one HP	lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_one HP	base_one HP	lit-s	all-same	FIG00710388: hypothetical protein			0	2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710388: hypothetical protein			0	2, 3
+base_one HP	base_one HP	0	majority	Putative inner membrane protein (Fragment)			1	
+0	orth	0	majority	Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes			3	1, 3
+base_ec-d	base_ec	base_ec-d	majority	succinate dehydrogenase subunit B	1.3.99.1,1.3.5.1		3	1, 3
+base_ec-d	base_ec	base_ec-d	majority	succinate dehydrogenase subunit A	1.3.99.1,1.3.5.1		3	1, 3
+gs-sh	lit-s	map	all-same	succinate dehydrogenase subunit C	1.3.5.1		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	triosephosphate isomerase (EC 5.3.1.1)	5.3.1.1		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)	1.3.1.9		3	1, 2, 3
+base_tigr	base_lit-s	lit-s	all-same	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)	2.3.1.191		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	methionine adenosyltransferase (EC 2.5.1.6)	2.5.1.6		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	nucleoside diphosphate kinase (EC 2.7.4.6)	2.7.4.6		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00712321: hypothetical protein			0	1, 2
+base_tigr	gs-sh	gs-sh	all-same	phosphate:acyl-[acyl carrier protein] acyltransferase	2.3.1.15		3	1, 2, 3
+base_tigr	base_ec-d	base_ec-d	majority	3-oxoacyl-[acyl-carrier-protein] synthase III	2.3.1.180,2.3.1.41		3	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00711029: hypothetical protein			0	1, 2
+base_one HP	base_one HP	0	majority	ABC-type spermidine/putrescine transport systems, ATPase components			1	
+0	0	0	man-rest	MANUAL-REST			2	
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	lit-s	lit-s	all-same	Putative outer membrane protein.			3	1, 2, 3
+pfam-sh	map	gs-sh	all-same	Molecular chaperone, HSP90 family			3	1, 2, 3
+gs-sh	map	lit-s	all-same	FOG: TPR repeat, SEL1 subfamily			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	succinyldiaminopimelate desuccinylase (EC 3.5.1.18)	3.5.1.18		3	1, 2, 3
+base_tigr	base_lit-s	gs-sh	all-same	glucose-inhibited division protein A			3	1, 2, 3
+base_tigr	0	0	majority	anion transporter			3	1, 2
+0	0	base_ec	majority	CDP-diglyceride synthetase	2.7.7.41		3	2, 3
+base_tigr	base_lit-s	base_ec	all-same	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	1.1.1.267		3	1, 2, 3
+0	lit-s	0	majority	Beta-1,4-N-acetylgalactosaminyltransferase (CgtA).	2.4.1.-		3	1, 3
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	0	0	all-same	Helix-turn-helix domain.			2	1, 2
+base_ec	base_ec	base_ec	all-same	cysteine desulfurase, NifS family, epsilon proteobacteria type	2.8.1.7		3	1, 2, 3
+gs-sh	gs-sh	pfam-sh	all-same	NifU homolog involved in Fe-S cluster formation			3	1, 2, 3
+lit-s	0	0	all-same	Ribbon-helix-helix protein, copG family.			2	1, 2
+base_lit-s	base_lit-s	base_lit-s	all-same	DNA repair protein RadA			3	1, 2, 3
+base_ec-d	base_ec-d	base_ec	majority	methionine-R-sulfoxide reductase/methionine-S-sulfoxide reductase	1.8.4.11, 1.8.4.12		3	2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+tf_idf	tf_idf	tf_idf	all-same	Sulfate permease and related transporters (MFS superfamily)			3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_lit-s	base_ec	base_ec	all-same	3-deoxy-D-manno-octulosonate cytidylyltransferase	2.7.7.38		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	secreted protein involved in flagellar motility			1	1, 2
+0	0	base_ec	majority	Glutathionylspermidine synthase	6.3.1.8		3	2, 3
+lit-s	base_one HP	base_one HP	all-same	INTEGRAL MEMBRANE PROTEIN (Rhomboid family)			1	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	0	0	majority	Cytochrome C oxidase, cbb3-type, subunit III.			3	1, 2
+base_tigr	base_ec	base_ec	all-same	hydroxymethylbilane synthase (EC 2.5.1.61)	2.5.1.61		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	prolyl-tRNA synthetase (EC 6.1.1.15)	6.1.1.15		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	glutamyl-tRNA reductase (EC 1.2.1.70)	1.2.1.70		3	1, 2, 3
+0	0	gs-sh	majority	Geranylgeranyl pyrophosphate synthase	2.5.1.90		3	2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710362: hypothetical protein			0	1, 2
+base_one HP	base_one HP	lit-s	all-same	FIG00711038: hypothetical protein			0	2, 3
+gs-sh	0	0	majority	DNA-binding ferritin-like protein (oxidative damage protectant)			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+gs-sh	orth	orth	all-same	Flagellar basal-body P-ring protein			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	0	0	majority	SPFH domain, Band 7 family protein			3	1, 2
+base_one HP	base_one HP	lit-s	all-same	putative			0	2, 3
+gs-sh	0	0	majority	ATPase components of various ABC-type transport systems, contain duplicated ATPase			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	Adenylosuccinate synthetase (EC 6.3.4.4)	6.3.4.4		3	1, 2, 3
+lit-s	0	0	all-same	Flagellar FliJ protein.			2	1, 2
+gs-sh	0	0	all-same	Flagellar protein FlbB			2	1, 2
+base_tigr	base_one HP	base_one HP	all-same	site-2 protease. Metallo peptidase. MEROPS family M50B	3.4.24.-		2	1, 2
+base_tigr	base_ec	base_ec	all-same	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)	3.1.11.6		3	1, 2, 3
+0	0	base_ec	majority	Adenine specific DNA methylase Mod	2.1.1.72		3	2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00711049: hypothetical protein			0	1, 2
+base_one HP	0	base_one HP	majority	putative			1	
+tf_idf	0	0	majority	DNA modification methylase	2.1.1.72		3	1, 2
+gs-sh	0	0	majority	C-terminal, D2-small domain, of ClpB protein./ATPase family associated with various cellular activities (AAA)./Clp amino terminal domain./AAA domain (Cdc48 subfamily).			3	1, 2
+0	0	gs-sh	majority	Cytochrome c biogenesis protein			3	2, 3
+0	lit-s	0	majority	dihydroorotase (EC 3.5.2.3)	3.5.2.3		3	1, 3
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	FIG00710480: hypothetical protein			0	1, 2
+base_lit-s	gs-sh	gs-sh	all-same	tRNA-i(6)A37 thiotransferase enzyme MiaB			3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	Protein of unknown function DUF374			0	2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710595: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	Putative membrane protein			1	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+0	base_one HP	base_one HP	man-rest	MANUAL-REST			2	
+pfam-sh	0	0	majority	pentatricopeptide repeat domain (PPR motif)			3	1, 2
+lit-s	0	0	all-same	indole-3-glycerol phosphate synthase (EC 4.1.1.48)	4.1.1.48		2	1, 2
+gs-sh	lit-s	map	all-same	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)			3	1, 2, 3
+gs-sh	gs-sh	base_lit-s	all-same	Exopolyphosphatase	3.6.1.40, 3.6.1.11		3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	lipopolysaccharide heptosyltransferase I	2.4.-		3	1, 2, 3
+0	tf_idf	0	majority	Lauroyl/myristoyl acyltransferase	2.3.1.-		3	1, 3
+base_ec	base_ec	base_ec	all-same	tRNA-guanine transglycosylase (EC 2.4.2.29)	2.4.2.29		3	1, 2, 3
+gs-sh	gs-sh	gs-sh	all-same	TrkA domain protein			2	1, 2, 3
+base_tigr	base_lit-s	base_ec	all-same	3-dehydroquinate synthase (EC 4.2.3.4)	4.2.3.4		3	1, 2, 3
+0	lit-s	0	majority	Small-conductance mechanosensitive channel			3	1, 3
+gs-sh	gs-sh	gs-sh	all-same	MiaB-like tRNA modifying enzyme			3	1, 2, 3
+0	0	gs-sh	majority	membrane protease FtsH catalytic subunit	3.4.24.-		3	2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00387961: hypothetical protein			0	1, 2
+base_one HP	base_one HP	0	majority	membrane protein			1	
+lit-s	0	0	majority	Putative vacuolating cytotoxin.			3	1, 2
+base_tigr	base_ec	base_ec	all-same	diaminopimelate decarboxylase (EC 4.1.1.20)	4.1.1.20		3	1, 2, 3
+tf_idf	tf_idf	base_ec	all-same	Chorismate mutase	5.4.99.5		3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710551: hypothetical protein			0	2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_ec	base_ec	base_ec	all-same	Predicted amidohydrolase	3.5.1.4		3	1, 2, 3
+0	0	gs-sh	majority	Flagellin and related hook-associated proteins			3	2, 3
+base_tigr	map	lit-s	all-same	LSU ribosomal protein L21P			3	1, 2, 3
+base_lit-s	0	0	majority	ribosomal protein L27			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	gs-sh	majority	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components			3	2, 3
+0	0	gs-sh	majority	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components			3	2, 3
+base_tigr	map	gs-sh	all-same	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component			3	1, 2, 3
+0	0	gs-sh	majority	ATPase components of various ABC-type transport systems, contain duplicated ATPase			3	2, 3
+lit-s	0	0	majority	Obg family GTPase CgtA			3	1, 2
+lit-s	0	0	all-same	Alginate lyase.			2	1, 2
+lit-s	0	0	majority	YceI-like domain.			3	1, 2
+base_tigr	base_ec	base_ec	all-same	glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)	5.4.3.8		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+base_one HP	0	base_one HP	majority	putative			1	
+orth	0	0	majority	Predicted amidohydrolase			3	1, 2
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	FIG00710175: hypothetical protein			0	1, 2
+gs-sh	0	0	majority	Putative GTPases (G3E family)			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+0	0	gs-sh	majority	Uncharacterized virulence-associated protein D			3	2, 3
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+base_one HP	base_lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_lit-s	gs-sh	map	all-same	heme oxygenase, HugZ family			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	arginyl-tRNA synthetase (EC 6.1.1.19)	6.1.1.19		3	1, 2, 3
+base_tigr	gs-sh	gs-sh	all-same	twin arginine-targeting protein translocase, TatA/E family			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	guanylate kinase (EC 2.7.4.8)	2.7.4.8		3	1, 2, 3
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			3	
+tf_idf	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+tf_idf	tf_idf	tf_idf	all-same	Flagellar basal body L-ring protein			3	1, 2, 3
+base_lit-s	0	0	majority	pseudaminic acid CMP-transferase	2.7.7.43		3	1, 2
+base_tigr	base_ec	base_ec	all-same	lipid-A-disaccharide kinase (EC 2.7.1.130)	2.7.1.130		3	1, 2, 3
+base_one miss	base_both miss	base_one miss	majority	pseudaminic acid biosynthesis N-acetyl transferase	2.3.1.-		1	
+base_ec	base_ec	base_ec	all-same	NH(3)-dependent NAD(+) synthetase (EC 6.3.1.5)	6.3.1.5		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	ketol-acid reductoisomerase (EC 1.1.1.86)	1.1.1.86		3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	septum site-determining protein MinD			3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	cell division topological specificity factor MinE			3	1, 2, 3
+base_lit-s	0	0	majority	DNA protecting protein DprA			3	1, 2
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+base_one HP	base_lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+base_one HP	base_both miss	base_one HP	all-hp	hypothetical protein	HP		0	
+gs-sh	base_one HP	base_one HP	all-same	Sel1 repeat.			2	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+lit-s	tf_idf	base_ec	all-same	Phage lysozyme.	3.2.1.17		3	1, 2, 3
+base_one HP	0	base_one HP	majority	FIG00710335: hypothetical protein			1	
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+base_one HP	base_one HP	0	majority	Predicted membrane protein			1	
+base_one HP	base_one HP	base_lit-s	all-same	hypothetical protein			1	2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00711693: hypothetical protein			0	1, 2
+base_lit-s	base_one HP	base_one HP	all-same	FIG00710644: hypothetical protein			0	1, 2
+0	0	base_ec-d	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	FIG00710644: hypothetical protein			0	1, 2
+base_tigr	lit-s	gs-sh	all-same	exonuclease RecJ	3.1.-,3.1.-.-		3	1, 2, 3
+base_tigr	base_lit-s	base_ec	all-same	CTP synthase (EC 6.3.4.2)	6.3.4.2		3	1, 2, 3
+base_one HP	0	base_one HP	majority	putative			1	
+base_tigr	lit-s	gs-sh	all-same	flagellar basal-body M-ring protein/flagellar hook-basal body protein (fliF)			3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	flagellar motor switch protein FliG			3	1, 2, 3
+gs-sh	lit-s	gs-sh	all-same	Flagellar biosynthesis/type III secretory pathway protein			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7)	2.2.1.7		3	1, 2, 3
+base_lit-s	pfam-sh	pfam-sh	all-same	GTP-binding protein LepA			3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710469: hypothetical protein			0	2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	Outer membrane protein			1	1, 2
+base_tigr	base_ec-d	base_ec-d	majority	pseudouridylate synthase I	5.4.99.12		3	1, 2
+base_tigr	base_lit-s	base_ec	all-same	UDP-glucose-4-epimerase	5.1.3.2		3	1, 2, 3
+0	lit-s	0	majority	Predicted permeases			3	1, 3
+base_tigr	base_ec	base_ec	all-same	protein-L-isoaspartate(D-aspartate) O-methyltransferase	2.1.1.77		3	1, 2, 3
+0	0	base_ec	majority	Ribonucleotide reductase, beta subunit	1.17.4.1		3	2, 3
+base_lit-s	0	0	majority	UDP-4-keto-6-deoxy-N-acetylglucosamine 4-aminotransferase			3	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_one HP	0	base_one HP	majority	putative			1	
+base_one HP	tf_idf	base_one HP	all-same	putative TYPE II DNA MODIFICATION ENZYME (METHYLTRANSFERASE)			2	1, 3
+base_one HP	tf_idf	base_one HP	all-same	putative TYPE II DNA MODIFICATION ENZYME (METHYLTRANSFERASE)			2	1, 3
+base_tigr	base_ec	base_ec-d	all-same	biotin carboxylase/acetyl-CoA carboxylase carboxyltransferase subunit alpha	6.3.4.14, 6.4.1.2,6.3.4.14		3	1, 2, 3
+base_tigr	lit-s	orth	all-same	biotin carboxyl carrier protein			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	dCTP deaminase (EC 3.5.4.13)	3.5.4.13		3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_tigr	0	0	majority	RNA methyltransferase, RsmE family	2.1.1.193		3	1, 2
+base_one HP	0	base_one HP	majority	FIG00710546: hypothetical protein			1	
+base_tigr	base_ec	base_ec	all-same	ferrochelatase (EC 4.99.1.1)	4.99.1.1		3	1, 2, 3
+0	0	lit-s	majority	Thiol:disulfide interchange protein DsbC	5.3.4.1		3	2, 3
+0	tf_idf	0	majority	ABC-type transport system involved in cytochrome c biogenesis, permease component			3	1, 3
+gs-sh	0	0	majority	Glycosyltransferase family 10 (fucosyltransferase).			3	1, 2
+0	0	base_ec	majority	glutamate dehydrogenase (NADP) (EC 1.4.1.4)	1.4.1.4		3	2, 3
+gs-sh	0	0	majority	HemK family putative methylases	2.1.1.-		3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+lit-s	0	0	all-same	Sporulation related domain.			2	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_tigr	gs-sh	gs-sh	all-same	replication restart DNA helicase PriA	3.6.4.-		3	1, 2, 3
+base_tigr	gs-sh	gs-sh	all-same	methyltransferase, putative	2.1.1.-		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	Superoxide dismutase	1.15.1.1		3	1, 2, 3
+0	tf_idf	base_ec-d	majority	thiol peroxidase (atypical 2-Cys peroxiredoxin)	1.11.1.15,1.11.1.5		3	1, 3
+gs-sh	gs-sh	gs-sh	all-same	Chemotaxis signal transduction protein			3	1, 2, 3
+gs-sh	gs-sh	gs-sh	all-same	histidine kinase (EC 2.7.13.3)	2.7.13.3		3	1, 2, 3
+0	0	orth	majority	Chemotaxis signal transduction protein			3	2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+0	0	gs-sh	majority	3-octaprenyl-4hydroxybenzoate decarboxylase (EC 4.1.1.-)	4.1.1.-		3	2, 3
+base_tigr	base_ec	base_ec	all-same	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	1.1.1.95		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_tigr	orth	lit-s	all-same	SSU ribosomal protein S1P			3	1, 2, 3
+base_tigr	base_lit-s	base_ec	all-same	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)	1.17.1.2		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)	2.5.1.19		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	phenylalanyl-tRNA synthetase beta subunit (EC 6.1.1.20)	6.1.1.20		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	phenylalanyl-tRNA synthetase, alpha subunit (EC 6.1.1.20)	6.1.1.20		3	1, 2, 3
+pfam-sh	pfam-sh	pfam-sh	all-same	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases			3	1, 2, 3
+0	0	orth	majority	Selenocysteine lyase			3	2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710213: hypothetical protein			0	2, 3
+base_ec	0	0	majority	molybdopterin guanine dinucleotide-containing S/N-oxide reductases	1.7.2.3		3	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_ec	base_ec-d	base_ec-d	majority	GMP synthase (glutamine-hydrolyzing) (EC 6.3.5.2)	6.3.5.2		3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	0	0	majority	transposase, IS605 OrfB family, central region			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+orth	0	0	majority	Small-conductance mechanosensitive channel			3	1, 2
+base_ec	base_ec	base_ec	all-same	cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)	2.1.1.79		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	methionyl-tRNA synthetase (EC 6.1.1.10)	6.1.1.10		3	1, 2, 3
+base_one HP	0	base_one HP	majority	FIG00710933: hypothetical protein			1	
+base_tigr	gs-sh	gs-sh	all-same	methyltransferase, putative	2.1.1.-		3	1, 2, 3
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+0	0	gs-sh	majority	Glycosyltransferase			3	2, 3
+base_tigr	base_ec	base_ec	all-same	arginine decarboxylase (EC 4.1.1.19)	4.1.1.19		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710585: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710719: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			2	
+base_one HP	base_one HP	lit-s	all-same	FIG00710554: hypothetical protein			0	2, 3
+base_one miss	base_one HP	base_one HP	majority	hypothetical protein			1	
+base_one HP	lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+base_both miss	base_both miss	base_both miss	all-hp	hypothetical protein	HP		0	
+base_both miss	base_both miss	base_both miss	all-hp	hypothetical protein	HP		0	
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+map	lit-s	gs-sh	all-same	Uncharacterized protein encoded in toxicity protection region of plasmid R478, contains von Willebrand factor (vWF) domain			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00712352: hypothetical protein			0	1, 2
+tf_idf	0	0	majority	Serine/threonine protein phosphatase			3	1, 2
+lit-s	tf_idf	tf_idf	all-same	Protein kinase domain.			3	1, 2, 3
+base_one HP	0	base_one HP	majority	FIG00710537: hypothetical protein			1	
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+0	base_one HP	base_one HP	man-rest	MANUAL-REST			2	
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+0	0	gs-sh	majority	Transposase and inactivated derivatives			3	2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+base_tigr	0	0	majority	transposase, IS605 OrfB family, central region			3	1, 2
+map	tf_idf	base_ec	all-same	Topoisomerase IA	5.99.1.2		3	1, 2, 3
+base_tigr	orth	orth	all-same	type IV secretion/conjugal transfer ATPase, VirB4 family			3	1, 2, 3
+base_one HP	base_one HP	base_lit-s	all-same	hypothetical protein			1	2, 3
+base_one HP	0	base_one HP	majority	FIG00710373: hypothetical protein			1	
+base_one HP	base_one HP	0	majority	Protein of unknown function (DUF3991)./Toprim-like.			1	
+base_one HP	0	base_one HP	majority	FIG00711841: hypothetical protein			1	
+base_one HP	0	base_one HP	majority	FIG00710682: hypothetical protein			1	
+lit-s	0	0	majority	AAA domain.			3	1, 2
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00712775: hypothetical protein			0	1, 2
+base_one HP	0	base_one HP	majority	FIG00712599: hypothetical protein			1	
+base_one HP	base_one HP	lit-s	all-same	FIG00712090: hypothetical protein			0	2, 3
+0	base_one HP	base_one HP	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	FIG00710348: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710348: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710348: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710235: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710465: hypothetical protein			0	1, 2
+base_one HP	base_both miss	base_one HP	all-hp	hypothetical protein	HP		0	
+lit-s	base_one HP	base_one HP	all-same	FIG00710633: hypothetical protein			0	1, 2
+base_tigr	0	0	majority	type IV secretion/conjugal transfer ATPase, VirB4 family			3	1, 2
+base_one HP	0	base_one HP	majority	FIG00710516: hypothetical protein			1	
+map	tf_idf	base_ec	all-same	Restriction endonuclease S subunits	3.1.21.3		3	1, 2, 3
+0	0	base_ec	majority	Type I restriction-modification system methyltransferase subunit	2.1.1.72		3	2, 3
+0	0	base_ec	majority	Type I site-specific restriction-modification system, R (restriction) subunit and related helicases	3.1.21.3		3	2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710389: hypothetical protein			0	2, 3
+lit-s	0	0	all-same	Tellurite resistance protein TerB.			2	1, 2
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+base_one HP	base_one HP	0	majority	Heterodisulfide reductase, subunit B			1	
+lit-s	base_one HP	base_one HP	all-same	FIG00710410: hypothetical protein			0	1, 2
+gs-sh	map	gs-sh	all-same	oligoendopeptidase, pepF/M3 family	3.4.24.-		3	1, 2, 3
+map	orth	gs-sh	all-same	Kef-type potassium/proton antiporter, CPA2 family (TC 2.A.37.1)			3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_tigr	gs-sh	gs-sh	all-same	molybdenum ABC transporter, periplasmic molybdate-binding protein			3	1, 2, 3
+base_lit-s	gs-sh	map	all-same	molybdate ABC transporter, permease protein			3	1, 2, 3
+0	0	gs-sh	majority	ABC-type sulfate/molybdate transport systems, ATPase component	3.6.3.29		3	2, 3
+base_tigr	base_ec	base_ec	all-same	glutamyl-tRNA synthetase (EC 6.1.1.17)	6.1.1.17		3	1, 2, 3
+lit-s	0	0	majority	Helicobacter outer membrane protein.			3	1, 2
+base_ec	0	0	majority	Adenine-specific DNA methylase	2.1.1.72		3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+base_lit-s	base_lit-s	base_lit-s	all-same	GTP-binding protein TypA/BipA			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	0	base_one HP	majority	FIG00710779: hypothetical protein			1	
+base_tigr	base_ec	base_ec	all-same	DNA-methyltransferase (dcm)	2.1.1.37		3	1, 2, 3
+base_one HP	0	base_one HP	majority	FIG00710380: hypothetical protein			1	
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+lit-s	lit-s	base_lit-s	all-same	Catalase	1.11.1.6		3	1, 2, 3
+lit-s	lit-s	lit-s	all-same	Putative outer membrane protein.			3	1, 2, 3
+lit-s	lit-s	lit-s	all-same	Putative outer membrane protein.			3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710333: hypothetical protein			0	2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710908: hypothetical protein			0	1, 2
+0	0	orth	majority	K+ transport systems, NAD-binding component			3	2, 3
+base_tigr	orth	lit-s	all-same	LSU ribosomal protein L28P			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	2.7.8.13		3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	putative			0	2, 3
+base_tigr	base_lit-s	base_ec	all-same	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	6.3.2.9		3	1, 2, 3
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+0	tf_idf	0	majority	Outer membrane phospholipase A	3.1.1.32		3	1, 3
+base_tigr	base_ec	base_ec	all-same	DNA polymerase III, beta subunit (EC 2.7.7.7)	2.7.7.7		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	DNA gyrase subunit B (EC 5.99.1.3)	5.99.1.3		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710187: hypothetical protein			0	1, 2
+base_one HP	0	base_one HP	majority	FIG00710187: hypothetical protein			1	
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	base_lit-s	majority	Membrane proteins related to metalloendopeptidases			3	2, 3
+base_ec	base_ec	base_ec	all-same	nudix-type nucleoside diphosphatase, YffH/AdpP family	3.6.1.45		3	1, 2, 3
+base_one HP	0	base_one HP	majority	FIG00710332: hypothetical protein			1	
+base_lit-s	map	base_ec	all-same	glycolate oxidase, subunit GlcD	1.1.3.15		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	dihydrodipicolinate reductase (EC 1.3.1.26)	1.3.1.26		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	L-glutamine synthetase (EC 6.3.1.2)	6.3.1.2		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	RloF			1	1, 2
+base_one HP	base_one HP	0	majority	RloF			1	
+base_tigr	map	lit-s	all-same	LSU ribosomal protein L9P			3	1, 2, 3
+base_lit-s	gs-sh	gs-sh	all-same	ATP-dependent protease HslVU, peptidase subunit	3.4.25.2		3	1, 2, 3
+base_lit-s	gs-sh	gs-sh	all-same	ATP-dependent protease HslVU, ATPase subunit			3	1, 2, 3
+base_lit-s	base_lit-s	base_lit-s	all-same	GTP-binding protein Era			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			2	
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+base_one HP	gs-sh	base_one HP	all-same	cag pathogenicity island protein (cag3)			2	1, 3
+lit-s	0	0	majority	Transglycosylase SLT domain.			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+base_lit-s	0	0	majority	P-type DNA transfer ATPase VirB11			3	1, 2
+lit-s	0	0	majority	CagZ.			3	1, 2
+gs-sh	0	0	majority	Type IV secretory pathway, VirB10 components			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+0	0	pfam-sh	majority	Type IV secretory pathway, component VirB8			3	2, 3
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+gs-sh	tf_idf	lit-s	all-same	Cag pathogenicity island protein Cag12.			3	1, 2, 3
+base_one HP	orth	base_one HP	all-same	cag pathogenicity island protein			2	1, 3
+base_one HP	base_lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+base_one HP	tf_idf	base_one HP	all-same	cag pathogenicity island protein Q			2	1, 3
+base_one HP	lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+base_one HP	tf_idf	base_one HP	all-same	cag island protein			2	1, 3
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+base_one HP	tf_idf	base_one HP	all-same	cag island protein			2	1, 3
+base_one HP	tf_idf	base_one HP	all-same	cag island protein			2	1, 3
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+base_one HP	lit-s	base_one HP	all-same	cag pathogenicity island protein			2	1, 3
+base_tigr	0	0	majority	type IV secretion/conjugal transfer ATPase, VirB4 family			3	1, 2
+base_one HP	lit-s	base_one HP	all-same	cag island protein			2	1, 3
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+base_one HP	lit-s	base_one HP	all-same	cag pathogenicity island protein B			2	1, 3
+gs-sh	0	0	majority	CagA exotoxin.			3	1, 2
+lit-s	0	0	majority	AAA domain.			3	1, 2
+lit-s	0	0	majority	AAA domain.			3	1, 2
+base_tigr	base_ec	base_ec	all-same	glutamate racemase (EC 5.1.1.3)	5.1.1.3		3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	transcription termination factor Rho			3	1, 2, 3
+base_tigr	map	lit-s	all-same	LSU ribosomal protein L31P			3	1, 2, 3
+0	0	gs-sh	majority	probable S-adenosylmethionine-dependent methyltransferase, YraL family	2.1.1.198		3	2, 3
+0	0	gs-sh	majority	rRNA methylase, putative, group 3	2.1.1.185		3	2, 3
+base_one HP	0	base_one HP	majority	FIG00710813: hypothetical protein			1	
+lit-s	base_one HP	base_one HP	all-same	Putative periplasmic protein			1	1, 2
+base_one HP	0	base_one HP	majority	FIG00711802: hypothetical protein			1	
+base_tigr	base_ec	base_ec	all-same	acetyl-CoA carboxylase carboxyltransferase subunit alpha	6.4.1.2		3	1, 2, 3
+base_tigr	base_ec-d	base_ec-d	majority	3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179,2.3.1.41		3	1, 2
+base_lit-s	lit-s	lit-s	all-same	acyl carrier protein			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100)	1.1.1.100		3	1, 2, 3
+base_lit-s	0	0	majority	ribosomal protein S21			3	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710144: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_one HP	base_one HP	gs-sh	all-same	Predicted membrane protein			2	2, 3
+base_tigr	base_ec	base_ec	all-same	diaminopimelate epimerase (EC 5.1.1.7)	5.1.1.7		3	1, 2, 3
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+base_one HP	base_one HP	0	majority	Molybdenum cofactor biosynthesis enzyme and related Fe-S oxidoreductases			1	
+0	0	gs-sh	majority	GTP-binding protein YchF			3	2, 3
+map	tf_idf	base_ec	all-same	Leucyl aminopeptidase	3.4.11.1		3	1, 2, 3
+base_one HP	base_one HP	gs-sh	all-same	Uncharacterized membrane-associated protein			2	2, 3
+base_tigr	base_ec	base_ec	all-same	adenine phosphoribosyltransferase (EC 2.4.2.7)	2.4.2.7		3	1, 2, 3
+base_one HP	0	base_one HP	majority	putative			1	
+base_lit-s	base_ec	base_ec	all-same	ribose 5-phosphate isomerase B	5.3.1.6		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	signal peptidase I, bacterial type	3.4.21.89		3	1, 2, 3
+base_ec-d	base_ec-d	base_ec-d	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	0	base_one HP	majority	putative			1	
+0	pfam-sh	0	majority	Predicted neuraminidase (sialidase)			3	1, 3
+base_tigr	base_ec	base_ec	all-same	dihydroorotase (EC 3.5.2.3)	3.5.2.3		3	1, 2, 3
+base_tigr	gs-sh	pfam-sh	all-same	TonB family C-terminal domain			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_lit-s	lit-s	lit-s	all-same	flagellar motor switch protein FliN			3	1, 2, 3
+base_tigr	base_ec	map	all-same	DNA-(apurinic or apyrimidinic site) lyase/endonuclease III	4.2.99.18,4.2.99.18, 3.2.2.-		3	1, 2, 3
+gs-sh	0	0	all-same	Fe2+ transport system protein A			2	1, 2
+base_one HP	base_one HP	0	majority	Protein of unknown function./AsmA-like C-terminal region.			1	
+0	0	pfam-sh	majority	conserved hypothetical protein, YceG family			3	2, 3
+0	0	base_ec	majority	2-oxoglutarate ferredoxin oxidoreductase, delta subunit (EC 1.2.7.3)	1.2.7.3		3	2, 3
+0	0	base_ec	majority	2-oxoglutarate ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.3)	1.2.7.3		3	2, 3
+base_ec	base_ec	base_ec	all-same	2-oxoglutarate ferredoxin oxidoreductase, beta subunit (EC 1.2.7.3)	1.2.7.3		3	1, 2, 3
+tf_idf	tf_idf	base_ec	all-same	2-oxoglutarate ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.3)	1.2.7.3		3	1, 2, 3
+0	0	base_ec	majority	Restriction endonuclease	3.1.21.5		3	2, 3
+0	0	base_ec	majority	Adenine specific DNA methylase Mod	2.1.1.72		3	2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+lit-s	0	0	majority	Disulfide bond formation protein DsbB			3	1, 2
+base_both miss	base_both miss	base_both miss	all-hp	hypothetical protein	HP		0	
+base_one HP	0	base_one HP	majority	putative			1	
+base_tigr	0	0	majority	penicillin-binding protein, 1A family			3	1, 2
+0	0	base_ec	majority	7-keto-8-aminopelargonate synthetase and related enzymes	2.3.1.47		3	2, 3
+tf_idf	0	0	all-same	Methyl-accepting chemotaxis protein			2	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+gs-sh	gs-sh	map	all-same	Flagellin and related hook-associated proteins			3	1, 2, 3
+0	0	orth	majority	DNA-3-methyladenine glycosylase III	3.2.2.-		3	2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_tigr	base_ec	base_ec	all-same	uroporphyrinogen decarboxylase (EC 4.1.1.37)	4.1.1.37		3	1, 2, 3
+tf_idf	tf_idf	tf_idf	all-same	Outer membrane protein			3	1, 2, 3
+base_tigr	0	0	majority	RND family efflux transporter, MFP subunit			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			2	
+lit-s	0	0	majority	Putative vacuolating cytotoxin.			3	1, 2
+lit-s	0	0	majority	Putative vacuolating cytotoxin.			3	1, 2
+base_one HP	base_one HP	base_lit-s	all-same	hypothetical protein			1	2, 3
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+map	tf_idf	orth	all-same	ABC-type multidrug transport system, ATPase component			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_lit-s	base_ec	base_ec	all-same	DNA ligase, NAD-dependent	6.5.1.2		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	gs-sh	base_ec-d	all-same	aspartyl-tRNA synthetase, bacterial type	6.1.1.12		3	1, 2, 3
+lit-s	lit-s	base_ec	all-same	Adenylate kinase (EC 2.7.4.3)	2.7.4.3		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+base_ec	base_ec	base_lit-s	all-same	Inorganic pyrophosphatase	3.6.1.1		3	1, 2, 3
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+base_tigr	0	0	majority	MutS2 family protein			3	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_tigr	base_lit-s	base_ec	all-same	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	6.3.2.8		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_lit-s	base_ec	base_ec-d	all-same	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase	1.17.7.1,1.17.4.3		3	1, 2, 3
+0	0	base_ec	majority	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)	2.3.1.117		3	2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710621: hypothetical protein			0	1, 2
+0	base_one HP	base_one HP	man-rest	MANUAL-REST			2	
+base_one HP	base_one HP	0	majority	RloF			1	
+0	0	0	man-rest	MANUAL-REST			3	
+base_ec	base_ec	base_ec	all-same	[NiFe]-hydrogenase I apoprotein, small subunit	1.12.5.1		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	Ni,Fe-hydrogenase I large subunit	1.12.5.1		3	1, 2, 3
+base_tigr	orth	orth	all-same	Ni/Fe-hydrogenase, b-type cytochrome subunit			3	1, 2, 3
+base_lit-s	gs-sh	orth	all-same	hydrogenase expression/formation protein	3.4.24.-		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	Protein hydE			1	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710880: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710466: hypothetical protein			0	1, 2
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_tigr	0	0	majority	preQ(0) biosynthesis protein QueC			3	1, 2
+0	0	base_ec-d	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	3-hydroxyacid dehydrogenase			1	1, 2
+gs-sh	0	0	majority	Nitroreductase			3	1, 2
+base_tigr	base_ec-d	base_ec-d	majority	glutamate--tRNA(Gln) ligase	6.1.1.17,6.1.1.24		3	1, 2
+orth	0	0	majority	Predicted integral membrane protein			3	1, 2
+0	0	tf_idf	majority	Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains)	3.2.1.-		3	2, 3
+base_tigr	base_ec	base_ec	all-same	UDP-glucose pyrophosphorylase (EC 2.7.7.9)	2.7.7.9		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_tigr	base_lit-s	base_ec	all-same	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	2.5.1.7		3	1, 2, 3
+base_lit-s	base_ec	base_ec	all-same	aspartate ammonia-lyase	4.3.1.1		3	1, 2, 3
+base_one HP	base_one HP	0	majority	Uracil-DNA glycosylase	2.7.7.7		1	
+gs-sh	0	0	majority	Glycosyltransferase family 10 (fucosyltransferase).			3	1, 2
+base_lit-s	base_ec	base_ec	all-same	phosphoserine phosphatase SerB	3.1.3.3		3	1, 2, 3
+base_ec	0	0	majority	Ferritin-like protein	1.16.3.1		3	1, 2
+lit-s	0	0	majority	putative menaquinone biosynthesis protein, SCO4494 family			3	1, 2
+base_tigr	0	0	majority	Beta-barrel assembly machine subunit BamA			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	gs-sh	gs-sh	all-same	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	6.3.5.6, 6.3.5.7,6.3.5.-		3	1, 2, 3
+lit-s	0	0	all-same	SurA N-terminal domain.			2	1, 2
+lit-s	base_one HP	base_one HP	all-same	Putative periplasmic protein			1	1, 2
+base_ec	base_ec	base_ec	all-same	RNase HI (EC 3.1.26.4)	3.1.26.4		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	RNAse III (EC 3.1.26.3)	3.1.26.3		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	chorismate synthase (EC 4.2.3.5)	4.2.3.5		3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710372: hypothetical protein			0	2, 3
+base_tigr	base_ec	base_ec	all-same	coproporphyrinogen III oxidase, anaerobic (EC 1.3.99.22)	1.3.99.22		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	FIG00710712: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	FIG00711232: hypothetical protein			0	1, 2
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+0	0	base_ec	majority	Aspartate/tyrosine/aromatic aminotransferase	2.6.1.1		3	2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00711689: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710345: hypothetical protein			0	1, 2
+gs-sh	gs-sh	gs-sh	all-same	Site-specific recombinase XerD			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	O-6-methylguanine DNA methyltransferase	2.1.1.63		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+gs-sh	gs-sh	gs-sh	all-same	Predicted dehydrogenases and related proteins	1.1.1.-		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	ribonucleoside-diphosphate reductase class Ia alpha subunit (EC 1.17.4.1)	1.17.4.1		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00711058: hypothetical protein			0	1, 2
+base_one HP	0	base_one HP	majority	FIG00710147: hypothetical protein			1	
+base_tigr	base_ec-d	base_ec-d	majority	glucosamine-1-phosphate N-acetyltransferase	2.3.1.157, 2.7.7.23,2.3.1.157		3	1, 2
+gs-sh	map	lit-s	all-same	Flagellar biosynthesis pathway, component FliP			3	1, 2, 3
+gs-sh	map	lit-s	all-same	Flagellar biosynthesis pathway, component FliP			3	1, 2, 3
+gs-sh	gs-sh	gs-sh	all-same	Outer membrane receptor for Fe3+-dicitrate			3	1, 2, 3
+gs-sh	lit-s	map	all-same	ferrous iron transporter FeoB			3	1, 2, 3
+lit-s	0	0	majority	Predicted 3'-5' exonuclease related to the exonuclease domain of PolB			3	1, 2
+lit-s	0	0	majority	Predicted 3'-5' exonuclease related to the exonuclease domain of PolB			3	1, 2
+base_ec	base_ec-d	base_ec-d	majority	acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9		3	1, 2
+base_ec	base_ec	base_ec	all-same	3-oxoacid CoA-transferase, A subunit	2.8.3.5		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	3-oxoacid CoA-transferase, B subunit	2.8.3.5		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+base_one HP	base_one HP	0	majority	putative outer membrane protein			1	
+base_ec-d	base_ec-d	base_ec-d	man-rest	MANUAL-REST			3	
+base_ec	base_ec	base_ec	all-same	acetone carboxylase, alpha subunit (EC 6.4.1.6)	6.4.1.6		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	acetone carboxylase, gamma subunit (EC 6.4.1.6)	6.4.1.6		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_ec	base_ec	base_ec	all-same	diacylglycerol kinase (EC 2.7.1.107)	2.7.1.107		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	DNA gyrase subunit A (EC 5.99.1.3)	5.99.1.3		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+pfam-sh	0	0	majority	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains			3	1, 2
+base_tigr	lit-s	base_lit-s	all-same	Excinuclease ABC subunit A			3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_lit-s	gs-sh	gs-sh	all-same	S-adenosyl-methyltransferase MraW	2.1.1.199		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+0	0	lit-s	all-same	FIG00638797: hypothetical protein			1	2, 3
+lit-s	0	0	majority	Helicobacter outer membrane protein.			3	1, 2
+orth	orth	base_lit-s	all-same	Competence protein ComGF			3	1, 2, 3
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+0	0	lit-s	all-same	FIG00710230: hypothetical protein			1	2, 3
+base_tigr	gs-sh	gs-sh	all-same	RNA polymerase, sigma 54 subunit, RpoN/SigL			3	1, 2, 3
+0	tf_idf	0	majority	ABC-type (unclassified) transport system, ATPase component	3.6.3.-		3	1, 3
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+base_tigr	base_ec	base_ec	all-same	DNA polymerase III, tau subunit (EC 2.7.7.7)	2.7.7.7		3	1, 2, 3
+gs-sh	map	orth	all-same	Lysine efflux permease			3	1, 2, 3
+base_one HP	lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710111: hypothetical protein			0	1, 2
+base_one HP	base_one HP	0	majority	ABC-type Zn2+ transport system, periplasmic component/surface adhesin			1	
+lit-s	0	0	majority	Helicobacter outer membrane protein.			3	1, 2
+map	lit-s	base_ec	all-same	asparaginase (EC 3.5.1.1)	3.5.1.1		3	1, 2, 3
+base_tigr	tf_idf	tf_idf	all-same	anaerobic c4-dicarboxylate membrane transporter family protein			3	1, 2, 3
+lit-s	0	0	majority	Helicobacter outer membrane protein.			3	1, 2
+lit-s	0	0	all-same	Helicobacter outer membrane protein.			2	1, 2
+0	0	gs-sh	majority	tRNA-dihydrouridine synthase	1.-		3	2, 3
+base_tigr	base_lit-s	lit-s	all-same	tRNA(Ile)-lysidine synthetase, N-terminal domain			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710232: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00711128: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			2	
+base_one HP	base_both miss	base_one HP	all-hp	hypothetical protein	HP		0	
+lit-s	0	0	all-same	50S ribosome-binding GTPase.			2	1, 2
+gs-sh	0	0	majority	SSU ribosomal protein S12P methylthiotransferase	2.-.-.-		3	1, 2
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+0	0	base_ec	majority	Predicted phosphoribosyltransferases	2.4.2.22		3	2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+tf_idf	lit-s	base_ec	all-same	phosphatidylglycerophosphatase (EC 3.1.3.27)	3.1.3.27		3	1, 2, 3
+base_lit-s	base_lit-s	base_lit-s	all-same	D-alanine--D-alanine ligase	6.3.2.4		3	1, 2, 3
+0	tf_idf	0	majority	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)			3	1, 3
+base_ec	base_ec	base_ec	all-same	UDP-N-acetylmuramyl pentapeptide synthase	6.3.2.10		3	1, 2, 3
+0	0	pfam-sh	majority	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases	3.6.1.17		3	2, 3
+base_tigr	base_ec	base_ec	all-same	ribose-phosphate pyrophosphokinase	2.7.6.1		3	1, 2, 3
+base_one miss	base_one miss	base_both miss	majority				1	
+base_one HP	base_one HP	0	majority	Uncharacterized protein/domain associated with GTPases			1	
+0	0	0	man-rest	MANUAL-REST			2	
+base_tigr	map	lit-s	all-same	ribosomal large subunit pseudouridine synthase D	5.4.99.23,5.4.99.-		3	1, 2, 3
+0	orth	0	majority	Fibronectin type 3 domain-containing protein			3	1, 3
+base_tigr	base_ec	base_ec	all-same	tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33)	2.1.1.33		3	1, 2, 3
+0	0	gs-sh	majority	ABC-type antimicrobial peptide transport system, ATPase component			3	2, 3
+gs-sh	gs-sh	gs-sh	all-same	Cell division protein			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+gs-sh	0	0	majority	Uncharacterized flagellar protein FlaG			3	1, 2
+gs-sh	gs-sh	gs-sh	all-same	Flagellar capping protein			3	1, 2, 3
+base_tigr	lit-s	lit-s	all-same	flagellar biosynthetic protein FliS			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+gs-sh	orth	map	all-same	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 1			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+orth	0	0	majority	Predicted permease			3	1, 2
+base_tigr	0	0	all-same	putative efflux protein, MATE family			2	1, 2
+gs-sh	0	0	majority	conserved hypothetical protein YmdA/YtgF			3	1, 2
+base_one miss	0	base_one miss	man-rest	MANUAL-REST			2	
+base_lit-s	base_lit-s	base_lit-s	all-same	5-formyltetrahydrofolate cyclo-ligase	6.3.3.2		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_lit-s	gs-sh	gs-sh	all-same	signal recognition particle-docking protein FtsY			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	FIG00711910: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_tigr	gs-sh	gs-sh	all-same	cyclic pyranopterin monophosphate synthase subunit MoaA	4.1.99.18		3	1, 2, 3
+gs-sh	gs-sh	gs-sh	all-same	molybdenum cofactor guanylyltransferase	2.7.7.77		3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	flagellar biosynthetic protein FlhB			3	1, 2, 3
+base_one HP	0	base_one HP	majority	putative			1	
+lit-s	lit-s	base_lit-s	all-same	N-acetylmuramoyl-L-alanine amidase	3.5.1.28		3	1, 2, 3
+0	0	base_ec-d	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	tyrosyl-tRNA synthetase (EC 6.1.1.1)	6.1.1.1		3	1, 2, 3
+0	0	base_ec-d	man-rest	MANUAL-REST			3	
+base_lit-s	base_ec	base_ec	all-same	DNA-directed RNA polymerase, omega subunit	2.7.7.6		3	1, 2, 3
+base_tigr	gs-sh	lit-s	all-same	uridylate kinase (EC 2.7.4.22)	2.7.4.22		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec-d	all-same	aconitase	4.2.1.99, 4.2.1.3,4.2.1.3		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710694: hypothetical protein			0	1, 2
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+lit-s	base_one HP	base_one HP	all-same	Putative periplasmic protein			1	1, 2
+lit-s	lit-s	lit-s	all-same	Putative outer membrane protein.			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_both miss	base_both miss	base_both miss	all-hp	hypothetical protein	HP		0	
+0	pfam-sh	0	majority	Outer membrane lipoprotein-sorting protein			3	1, 3
+base_tigr	gs-sh	gs-sh	all-same	protein translocase subunit secA			3	1, 2, 3
+gs-sh	map	orth	all-same	ABC-type transport system, involved in lipoprotein release, permease component			3	1, 2, 3
+lit-s	lit-s	lit-s	all-same	Putative outer membrane protein.			3	1, 2, 3
+map	tf_idf	base_ec	all-same	Restriction endonuclease S subunits	3.1.21.3		3	1, 2, 3
+base_ec-d	base_ec-d	base_ec-d	man-rest	MANUAL-REST			3	
+base_one HP	base_one HP	gs-sh	all-same	Mg chelatase-related protein			2	2, 3
+base_tigr	base_ec	base_ec	all-same	peptide deformylase (EC 3.5.1.88)	3.5.1.88		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	ATP-dependent Clp protease proteolytic subunit ClpP (EC 3.4.21.92)	3.4.21.92		3	1, 2, 3
+base_lit-s	base_ec	tf_idf	all-same	trigger factor			3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+map	gs-sh	gs-sh	all-same	Neuraminyllactose-binding hemagglutinin precursor (NLBH).			3	1, 2, 3
+base_tigr	gs-sh	lit-s	all-same	molybdenum cofactor biosynthesis protein MoaC			3	1, 2, 3
+gs-sh	0	0	majority	molybdopterin adenylyltransferase	2.7.7.75		3	1, 2
+gs-sh	0	0	majority	Molybdopterin converting factor, large subunit	2.-		3	1, 2
+gs-sh	gs-sh	gs-sh	all-same	Molybdopterin converting factor, small subunit			3	1, 2, 3
+base_tigr	base_lit-s	base_ec	all-same	GTP cyclohydrolase II (EC 3.5.4.25)	3.5.4.25		3	1, 2, 3
+base_one HP	base_one HP	0	majority	Ubiquitin-protein ligase			1	
+base_ec-d	base_ec-d	base_ec-d	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+gs-sh	gs-sh	gs-sh	all-same	Outer membrane receptor for Fe3+-dicitrate			3	1, 2, 3
+base_lit-s	base_ec	base_ec	all-same	holo-[acyl-carrier-protein] synthase	2.7.8.7		3	1, 2, 3
+gs-sh	pfam-sh	gs-sh	all-same	Flagellar basal body-associated protein			3	1, 2, 3
+base_lit-s	map	gs-sh	all-same	RNA methyltransferase, RsmD family			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	Dihydroneopterin aldolase	4.1.2.25		1	1, 2
+0	0	lit-s	all-same	COG1565: Uncharacterized conserved protein			1	2, 3
+orth	0	0	majority	Zn-dependent hydrolases, including glyoxylases			3	1, 2
+gs-sh	gs-sh	gs-sh	all-same	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2			3	1, 2, 3
+gs-sh	gs-sh	gs-sh	all-same	Flagellar motor component			3	1, 2, 3
+gs-sh	gs-sh	gs-sh	all-same	Flagellar motor protein			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710449: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+lit-s	base_one HP	base_one HP	all-same	FIG00710422: hypothetical protein			0	1, 2
+base_tigr	lit-s	base_lit-s	all-same	Excinuclease ABC subunit C			3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	homoserine dehydrogenase (EC 1.1.1.3)	1.1.1.3		3	1, 2, 3
+base_one HP	base_one HP	0	majority	Predicted endonuclease distantly related to archaeal Holliday junction resolvase			1	
+base_lit-s	lit-s	lit-s	all-same	thioredoxin			3	1, 2, 3
+base_lit-s	base_ec	base_ec	all-same	thioredoxin-disulfide reductase	1.8.1.9		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	ATP synthase F0 subcomplex A subunit	3.6.3.14		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	1.1.1.205		3	1, 2, 3
+base_tigr	gs-sh	gs-sh	all-same	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A	6.3.5.7, 6.3.5.6,6.3.5.-		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	dephospho-CoA kinase (EC 2.7.1.24)	2.7.1.24		3	1, 2, 3
+base_ec	base_ec	base_lit-s	all-same	Spermidine synthase	2.5.1.16		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_lit-s	0	0	majority	ribosome-associated GTPase EngA			3	1, 2
+gs-sh	base_lit-s	orth	all-same	Bacterial nucleoid DNA-binding protein			3	1, 2, 3
+base_one HP	base_one HP	0	majority	Putative lipoprotein required for motility			1	
+0	0	0	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+0	tf_idf	0	majority	Long-chain fatty acid transport protein			3	1, 3
+base_lit-s	0	0	majority	UDP-N-acetylglucosamine 4,6-dehydratase	4.2.1.115		3	1, 2
+base_tigr	base_ec-d	base_ec-d	majority	Phosphopantothenate-cysteine ligase/Phosphopantothenoylcysteine decarboxylase	4.1.1.36, 6.3.2.5,6.3.2.5, 4.1.1.36		3	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710804: hypothetical protein			0	1, 2
+base_ec	base_ec	base_ec	all-same	thiamine-phosphate diphosphorylase	2.5.1.3		3	1, 2, 3
+base_lit-s	base_ec	base_ec-d	all-same	phosphomethylpyrimidine kinase	2.7.4.7, 2.7.1.49		3	1, 2, 3
+base_lit-s	base_ec	base_ec	all-same	hydroxyethylthiazole kinase	2.7.1.50		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	type I site-specific deoxyribonuclease, HsdR family	3.1.21.3		3	1, 2, 3
+0	0	base_ec	majority	Restriction endonuclease S subunits	3.1.21.3		3	2, 3
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+base_tigr	base_ec	base_ec	all-same	type I restriction system adenine methylase (hsdM)	2.1.1.72		3	1, 2, 3
+0	0	base_lit-s	majority	Membrane-associated phospholipid phosphatase			3	2, 3
+base_one HP	base_one HP	0	majority	HrgA protein			1	
+0	tf_idf	0	majority	ATPase components of ABC transporters with duplicated ATPase domains			3	1, 3
+base_tigr	base_ec	base_ec	all-same	guanosine monophosphate reductase, bacterial	1.7.1.7		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	FIG00711080: hypothetical protein			0	1, 2
+base_lit-s	tf_idf	tf_idf	all-same	phosphoheptose isomerase	5.3.1.28,5.3.1.-		3	1, 2, 3
+gs-sh	0	0	majority	rfaE bifunctional protein, domain I/rfaE bifunctional protein, domain II	2.7.1.167, 2.7.7.70		3	1, 2
+base_tigr	base_ec	base_lit-s	all-same	ADP-L-glycero-D-manno-heptose-6-epimerase	5.1.3.20		3	1, 2, 3
+gs-sh	gs-sh	map	all-same	D-alpha,beta-D-heptose 1,7-bisphosphate phosphatase	3.1.3.82, 3.1.3.83,3.1.3.-		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+base_ec	base_ec	base_ec	all-same	pantothenate kinase (EC 2.7.1.33)	2.7.1.33		3	1, 2, 3
+base_one HP	0	base_one HP	majority	putative			1	
+base_one HP	base_one HP	base_lit-s	all-same	hypothetical protein			1	2, 3
+base_tigr	base_ec	base_ec	all-same	deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	3.6.1.23		3	1, 2, 3
+base_tigr	lit-s	lit-s	all-same	transcription elongation factor GreA			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	lipid-A-disaccharide synthase (EC 2.4.1.182)	2.4.1.182		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_tigr	pfam-sh	pfam-sh	all-same	Hydrogenase-3 nickel incorporation protein HypA			3	1, 2, 3
+gs-sh	lit-s	gs-sh	all-same	flagellar hook protein FlgE, epsilon proteobacterial			3	1, 2, 3
+base_tigr	base_lit-s	base_ec	all-same	CDP-diacylglycerol pyrophosphatase, bacterial type	3.6.1.26		3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	alkylphosphonate utilization operon protein PhnA	3.11.1.2		2	2, 3
+base_one HP	0	base_one HP	majority	putative			1	
+base_one HP	0	base_one HP	majority	putative			1	
+base_ec	base_ec	base_lit-s	all-same	Catalase	1.11.1.6		3	1, 2, 3
+gs-sh	0	0	majority	Outer membrane receptor proteins, mostly Fe transport			3	1, 2
+base_tigr	base_ec	base_ec	all-same	Holliday junction endonuclease RuvC (EC 3.1.22.4)	3.1.22.4		3	1, 2, 3
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+0	0	lit-s	all-same	putative			1	2, 3
+base_lit-s	base_one HP	base_one HP	all-same	FIG00712204: hypothetical protein			0	1, 2
+base_one miss	lit-s	base_one miss	all-same	FIG00710333: hypothetical protein			0	1, 3
+base_tigr	lit-s	lit-s	all-same	Holliday junction DNA helicase subunit RuvA	3.6.4.12		3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710176: hypothetical protein			0	2, 3
+base_lit-s	0	0	majority	integral membrane protein MviN			3	1, 2
+base_tigr	base_ec	base_ec	all-same	cysteinyl-tRNA synthetase (EC 6.1.1.16)	6.1.1.16		3	1, 2, 3
+gs-sh	gs-sh	map	all-same	Autotransporter beta-domain./Vacuolating cyotoxin.			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	lit-s	majority	Acyl-CoA hydrolase			3	2, 3
+gs-sh	0	0	all-same	addiction module toxin component, YafQ family/addiction module toxin, RelE/StbE family			2	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710243: hypothetical protein			0	1, 2
+gs-sh	0	0	all-same	addiction module toxin component, YafQ family/addiction module toxin, RelE/StbE family			2	1, 2
+lit-s	base_one HP	base_one HP	all-same	DNA-damage-inducible protein J			1	1, 2
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_one HP	base_one HP	base_both miss	all-hp	hypothetical protein	HP		0	
+base_tigr	pfam-sh	pfam-sh	all-same	Hydrogenase maturation protein HypD			3	1, 2, 3
+base_tigr	gs-sh	gs-sh	all-same	Hydrogenase maturation protein HypC			3	1, 2, 3
+base_tigr	gs-sh	gs-sh	all-same	Hydrogenase nickel incorporation protein HypB			3	1, 2, 3
+lit-s	0	0	all-same	Cupin domain.			2	1, 2
+0	0	base_lit-s	majority	Acetate kinase			3	2, 3
+base_tigr	base_ec	base_ec	all-same	acetate kinase (EC 2.7.2.1)	2.7.2.1		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+lit-s	lit-s	lit-s	all-same	Flagellar hook-length control protein FliK.			3	1, 2, 3
+lit-s	map	gs-sh	all-same	Flagellar hook capping protein			3	1, 2, 3
+base_tigr	map	gs-sh	all-same	fagellar hook-basal body proteins			3	1, 2, 3
+base_one HP	0	base_one HP	majority	putative			1	
+0	0	0	man-rest	MANUAL-REST			3	
+gs-sh	gs-sh	gs-sh	all-same	Superfamily I DNA and RNA helicases	3.6.4.12		3	1, 2, 3
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+lit-s	lit-s	lit-s	all-same	Putative outer membrane protein.			3	1, 2, 3
+gs-sh	0	0	majority	Outer membrane receptor proteins, mostly Fe transport			3	1, 2
+gs-sh	0	0	majority	Outer membrane receptor proteins, mostly Fe transport			3	1, 2
+lit-s	base_one HP	base_one HP	all-same	TsaC protein (YrdC domain) required for threonylcarbamoyladenosine t(6)A37 modification in tRNA			1	1, 2
+base_tigr	base_ec	base_ec	all-same	carbamoyl-phosphate synthase large subunit	6.3.5.5		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_lit-s	gs-sh	base_ec	all-same	glyceraldehyde-3-phosphate dehydrogenase, type I	1.2.1.12		3	1, 2, 3
+lit-s	0	0	majority	Putative vacuolating cytotoxin.			3	1, 2
+lit-s	0	0	majority	Helicobacter outer membrane protein.			3	1, 2
+base_tigr	lit-s	lit-s	all-same	4-oxalocrotonate tautomerase family enzyme	5.3.2.-		3	1, 2, 3
+base_tigr	lit-s	pfam-sh	all-same	DNA replication and repair protein RecR			3	1, 2, 3
+base_tigr	gs-sh	gs-sh	all-same	tRNA pseudouridine synthase, TruD family	5.4.99.27		3	1, 2, 3
+map	gs-sh	gs-sh	all-same	Zn-dependent protease with chaperone function	3.4.24.-		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	GTP cyclohydrolase I (EC 3.5.4.16)	3.5.4.16		3	1, 2, 3
+0	0	base_ec-d	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec-d	all-same	5'-nucleotidase/3'-nucleotidase/exopolyphosphatase	3.1.3.5,3.1.3.5, 3.1.3.6, 3.6.1.11		3	1, 2, 3
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+0	0	gs-sh	majority	6-pyruvoyl-tetrahydropterin synthase	4.2.3.12		3	2, 3
+0	0	gs-sh	majority	Organic radical activating enzymes	1.1.1.220		3	2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	gs-sh	majority	Major Facilitator Superfamily.			3	2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00711094: hypothetical protein			0	2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00711978: hypothetical protein			0	2, 3
+base_tigr	0	0	majority	amino acid ABC transporter membrane protein, PAAT family (TC 3.A.1.3.-)			3	1, 2
+0	0	tf_idf	majority	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)			3	2, 3
+base_tigr	base_ec	base_ec	all-same	alanine racemase (EC 5.1.1.1)	5.1.1.1		3	1, 2, 3
+base_tigr	0	0	majority	amino acid carrier protein			3	1, 2
+0	0	base_ec	majority	Glycine/D-amino acid oxidases (deaminating)	1.4.99.1		3	2, 3
+gs-sh	map	lit-s	all-same	endoribonuclease L-PSP			3	1, 2, 3
+lit-s	map	gs-sh	all-same	TRL-like protein family.			3	1, 2, 3
+gs-sh	0	0	all-same	transporter, NhaC family (TC 2.A.35)			2	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+base_lit-s	base_ec	base_ec	all-same	acetyl-CoA carboxylase, carboxyl transferase, beta subunit	6.4.1.2		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	RecO N terminal.			2	1, 2
+base_tigr	pfam-sh	pfam-sh	all-same	competence/damage-inducible protein CinA C-terminal domain			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+gs-sh	0	0	majority	dihydropteridine reductase	1.5.1.34		3	1, 2
+base_tigr	lit-s	base_lit-s	all-same	Prolipoprotein diacylglyceryl transferase	2.-		3	1, 2, 3
+0	0	base_ec-d	man-rest	MANUAL-REST			3	
+lit-s	lit-s	base_lit-s	all-same	3-deoxy-D-manno-octulosonic-acid transferase	2.4.99.13, 2.4.99.14, 2.4.99.12, 2.4.99.15		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			2	
+base_tigr	base_ec	base_ec	all-same	glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)	6.1.1.14		3	1, 2, 3
+tf_idf	map	base_ec	all-same	Glycerol-3-phosphate dehydrogenase	1.1.1.94		3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	acyl carrier protein			3	1, 2, 3
+lit-s	0	0	all-same	50S ribosome-binding GTPase.			2	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00711336: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	gs-sh	majority	Uncharacterized virulence-associated protein D			3	2, 3
+base_tigr	0	0	majority	heavy metal efflux pump (cobalt-zinc-cadmium)			3	1, 2
+0	0	gs-sh	majority	Membrane-fusion protein			3	2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+base_tigr	base_ec	base_ec	all-same	glycyl-tRNA synthetase beta chain (EC 6.1.1.14)	6.1.1.14		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710594: hypothetical protein			0	1, 2
+base_tigr	base_ec	base_ec	all-same	phosphoglycerate mutase (EC 5.4.2.1)	5.4.2.1		3	1, 2, 3
+base_tigr	gs-sh	gs-sh	all-same	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C	6.3.5.6, 6.3.5.7,6.3.5.-		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	adenosylmethionine-8-amino-7-oxononanoate aminotransferase apoenzyme (EC 2.6.1.62)	2.6.1.62		3	1, 2, 3
+gs-sh	map	base_ec	all-same	Parvulin-like peptidyl-prolyl isomerase	5.2.1.8		3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	cell division protein FtsA			3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	cell division protein FtsZ			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	0	0	majority	Exonuclease VII, large subunit			3	1, 2
+base_one HP	0	base_one HP	majority	FIG00711106: hypothetical protein			1	
+base_one HP	lit-s	base_one HP	all-same	PZ17b			2	1, 3
+base_one HP	base_one HP	base_lit-s	all-same	hypothetical protein			1	2, 3
+0	0	base_lit-s	majority	Small-conductance mechanosensitive channel			3	2, 3
+base_one HP	lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710476: hypothetical protein			0	1, 2
+base_one HP	base_one HP	lit-s	all-same	FIG00712400: hypothetical protein			0	2, 3
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+base_one HP	base_one HP	base_lit-s	all-same	hypothetical protein			0	2, 3
+0	0	gs-sh	majority	Transposase and inactivated derivatives			3	2, 3
+base_tigr	0	0	majority	transposase, IS605 OrfB family, central region			3	1, 2
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00711849: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00711849: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00711516: hypothetical protein			0	1, 2
+base_one HP	base_one HP	0	majority	Nucleotidyl transferase of unknown function (DUF1814).			1	
+map	gs-sh	gs-sh	all-same	Site-specific recombinase XerD			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+base_tigr	0	0	majority	transposase, IS605 OrfB family, central region			3	1, 2
+0	0	gs-sh	majority	Transposase and inactivated derivatives			3	2, 3
+base_one HP	0	base_one HP	majority	FIG00712149: hypothetical protein			1	
+gs-sh	pfam-sh	gs-sh	all-same	plasmid segregation oscillating ATPase ParF			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	FIG00710960: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00711093: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			2	
+base_one HP	0	base_one HP	majority	FIG00711631: hypothetical protein			1	
+0	0	gs-sh	majority	Type IV secretory pathway, VirD4 components			3	2, 3
+base_tigr	0	0	majority	transposase, IS605 OrfB family, central region			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+map	gs-sh	gs-sh	all-same	Site-specific recombinase XerD			3	1, 2, 3
+base_one HP	gs-sh	base_one HP	all-same	integrase/recombinase (xerD)			2	1, 3
+base_one HP	base_one HP	base_both miss	all-hp	hypothetical protein	HP		0	
+base_lit-s	base_ec	base_ec	all-same	polyphosphate kinase 1	2.7.4.1		3	1, 2, 3
+base_tigr	base_ec-d	base_ec-d	majority	dihydroorotate oxidase A	1.3.98.1,1.3.3.1		3	1, 2
+0	0	gs-sh	majority	Predicted Zn-dependent peptidases			3	2, 3
+base_tigr	base_ec	base_ec	all-same	dihydrodipicolinate synthase (EC 4.2.1.52)	4.2.1.52		3	1, 2, 3
+0	0	base_ec-d	man-rest	MANUAL-REST			3	
+base_one HP	0	base_one HP	majority	putative			1	
+base_tigr	base_lit-s	base_ec	all-same	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)	2.7.8.5		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	map	gs-sh	all-same	periplasmic serine protease, Do/DeqQ family	3.4.21.107		3	1, 2, 3
+base_ec-d	base_ec-d	base_ec-d	man-rest	MANUAL-REST			3	
+0	tf_idf	0	majority	FOG: CheY-like receiver			3	1, 3
+0	0	0	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+0	0	pfam-sh	majority	DnaJ-class molecular chaperone with C-terminal Zn finger domain			3	2, 3
+gs-sh	gs-sh	gs-sh	all-same	Predicted transcriptional regulators			3	1, 2, 3
+0	pfam-sh	0	majority	Recombination protein MgsA			3	1, 3
+gs-sh	tf_idf	map	all-same	Fe2+/Zn2+ uptake regulation proteins			3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710586: hypothetical protein			0	2, 3
+base_one HP	base_one HP	0	majority	Beta-galactosidase, beta subunit			1	
+orth	orth	lit-s	all-same	flagellar motor switch protein FliN			3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	flagellar motor switch protein FliM			3	1, 2, 3
+gs-sh	tf_idf	map	all-same	RNA polymerase, sigma 28 subunit, SigD/FliA/WhiG			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	Motility integral membrane protein			1	1, 2
+gs-sh	map	orth	all-same	ATPases involved in chromosome partitioning			3	1, 2, 3
+base_tigr	lit-s	lit-s	all-same	flagellar biosynthetic protein FlhF			3	1, 2, 3
+base_tigr	base_ec	base_lit-s	all-same	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	2.7.6.3		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	3-dehydroquinate dehydratase (EC 4.2.1.10)	4.2.1.10		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+base_tigr	0	0	majority	SSU ribosomal protein S15P			3	1, 2
+base_lit-s	lit-s	lit-s	all-same	flagellar biosynthesis protein FlhA			3	1, 2, 3
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+0	orth	0	majority	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain			3	1, 3
+base_one HP	base_one HP	orth	all-same	Predicted phosphohydrolases			2	2, 3
+base_tigr	base_ec	base_ec	all-same	acetyl-coenzyme A synthetase (EC 6.2.1.1)	6.2.1.1		3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG000325: clustered with transcription termination protein NusA			0	2, 3
+base_lit-s	lit-s	lit-s	all-same	ribosome-binding factor A			3	1, 2, 3
+gs-sh	0	0	majority	bacterial translation initiation factor 2 (bIF-2)			3	1, 2
+base_one HP	base_one HP	0	majority	Predicted nucleic-acid-binding protein implicated in transcription termination			1	
+base_tigr	base_ec	base_ec	all-same	homoserine kinase (EC 2.7.1.39)	2.7.1.39		3	1, 2, 3
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+base_tigr	base_lit-s	lit-s	all-same	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)	3.5.1.108		3	1, 2, 3
+gs-sh	gs-sh	gs-sh	all-same	Septum formation inhibitor			3	1, 2, 3
+base_one HP	base_one HP	0	majority	Membrane proteins related to metalloendopeptidases			1	
+lit-s	0	0	majority	Helicobacter outer membrane protein.			3	1, 2
+lit-s	0	0	majority	Helicobacter outer membrane protein.			3	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710146: hypothetical protein			0	1, 2
+base_tigr	base_lit-s	base_ec	all-same	ketopantoate hydroxymethyltransferase (EC 2.1.2.11)	2.1.2.11		3	1, 2, 3
+base_tigr	lit-s	lit-s	all-same	Holliday junction DNA helicase subunit RuvB	3.6.4.12		3	1, 2, 3
+base_lit-s	gs-sh	map	all-same	twin arginine-targeting protein translocase TatB			3	1, 2, 3
+base_tigr	pfam-sh	pfam-sh	all-same	Sec-independent protein translocase TatC			3	1, 2, 3
+base_tigr	gs-sh	base_lit-s	all-same	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	5.-		3	1, 2, 3
+base_tigr	pfam-sh	gs-sh	all-same	16S rRNA m(7)G-527 methyltransferase (EC 2.1.1.170)	2.1.1.170		3	1, 2, 3
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710407: hypothetical protein			0	1, 2
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_one HP	base_one HP	gs-sh	all-same	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains			2	2, 3
+base_tigr	lit-s	map	all-same	[LSU ribosomal protein L11P]-lysine N-methyltransferase (EC 2.1.1.-)	2.1.1.-		3	1, 2, 3
+gs-sh	gs-sh	gs-sh	all-same	membrane protease FtsH catalytic subunit (EC 3.4.24.-)	3.4.24.-		3	1, 2, 3
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+base_tigr	base_ec	base_ec	all-same	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)	2.7.8.8		3	1, 2, 3
+base_ec	base_ec-d	base_ec-d	majority	copper-(or silver)-translocating P-type ATPase	3.6.3.4		3	1, 2
+gs-sh	orth	orth	all-same	copper ion binding protein			3	1, 2, 3
+base_one HP	lit-s	base_one HP	all-same	FIG00712616: hypothetical protein			0	1, 3
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	FIG00710755: hypothetical protein			0	1, 2
+gs-sh	0	0	majority	high-affinity nickel-transporter, HoxN/HupN/NixA family			3	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00711669: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			2	
+base_one HP	0	base_one HP	majority	putative			1	
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	lit-s	lit-s	all-same	Putative outer membrane protein.			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	aspartate carbamoyltransferase (EC 2.1.3.2)	2.1.3.2		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_lit-s	map	gs-sh	all-same	hemolysin TlyA family protein			3	1, 2, 3
+base_tigr	base_ec-d	base_ec	all-same	riboflavin kinase/FMN adenylyltransferase	2.7.1.26, 2.7.7.2		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	transketolase (EC 2.2.1.1)	2.2.1.1		3	1, 2, 3
+base_one HP	base_one HP	0	majority	Inactivated superfamily I helicase			1	
+gs-sh	gs-sh	gs-sh	all-same	DNA segregation ATPase FtsK/SpoIIIE and related proteins			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+gs-sh	gs-sh	gs-sh	all-same	fagellar hook-basal body proteins			3	1, 2, 3
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+base_tigr	0	0	majority	transposase, IS605 OrfB family, central region			3	1, 2
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+0	0	gs-sh	majority	Transposase and inactivated derivatives			3	2, 3
+gs-sh	0	0	majority	FOG: TPR repeat, SEL1 subfamily			3	1, 2
+base_ec-d	base_ec-d	base_ec-d	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	6-phosphogluconate dehydratase (EC 4.2.1.12)	4.2.1.12		3	1, 2, 3
+0	0	base_ec	majority	glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)	1.1.1.49		3	2, 3
+base_tigr	base_ec	base_ec	all-same	6-phosphogluconolactonase (EC 3.1.1.31)	3.1.1.31		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	glucokinase (EC 2.7.1.2)	2.7.1.2		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	2-oxoacid:acceptor oxidoreductase, gamma subunit, pyruvate/2-ketoisovalerate family	1.2.7.1		3	1, 2, 3
+base_tigr	map	base_ec	all-same	2-oxoacid:acceptor oxidoreductase, delta subunit, pyruvate/2-ketoisovalerate family	1.2.7.1		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, alpha subunit	1.2.7.1		3	1, 2, 3
+0	0	base_ec	majority	Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, beta subunit	1.2.7.1		3	2, 3
+base_tigr	base_ec	base_ec	all-same	Adenylosuccinate lyase (EC 4.3.2.2)	4.3.2.2		3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_tigr	lit-s	base_lit-s	all-same	Excinuclease ABC subunit B			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710908: hypothetical protein			0	1, 2
+base_one HP	base_one HP	lit-s	all-same	FIG00710333: hypothetical protein			0	2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	gamma-glutamyltransferase 1 (EC:2.3.2.2). Threonine peptidase. MEROPS family T03	2.3.2.2		3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	flagellar hook-associated protein FlgK			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710673: hypothetical protein			0	1, 2
+base_tigr	base_ec	base_ec	all-same	DNA-methyltransferase (dcm)	2.1.1.37		3	1, 2, 3
+lit-s	pfam-sh	gs-sh	all-same	Anti-sigma-28 factor, FlgM.			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710166: hypothetical protein			0	1, 2
+base_ec	base_ec	base_ec	all-same	FKBP-type peptidyl prolyl cis-trans isomerase/Apo-metallochaperone SlyD	5.2.1.8		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+gs-sh	orth	orth	all-same	Outer membrane protein and related peptidoglycan-associated (lipo)proteins			3	1, 2, 3
+base_tigr	gs-sh	gs-sh	all-same	Periplasmic component of the Tol biopolymer transport system			3	1, 2, 3
+lit-s	gs-sh	gs-sh	all-same	TonB C terminal.			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	TonB-like; putative TolA function			1	1, 2
+gs-sh	gs-sh	gs-sh	all-same	Cell division and transport-associated protein TolR (TC 2.C.1.2.1)			3	1, 2, 3
+gs-sh	lit-s	gs-sh	all-same	Cell division and transport-associated protein TolQ (TC 2.C.1.2.1)			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	ATP synthase F1 subcomplex epsilon subunit	3.6.3.14		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	ATP synthase, F1 beta subunit	3.6.3.14		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	ATP synthase, F1 gamma subunit	3.6.3.14		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	ATP synthase F1 subcomplex alpha subunit	3.6.3.14		3	1, 2, 3
+map	tf_idf	base_ec	all-same	F0F1-type ATP synthase, delta subunit (mitochondrial oligomycin sensitivity protein)	3.6.3.14		3	1, 2, 3
+0	0	base_ec	majority	F0F1-type ATP synthase, subunit b	3.6.3.14		3	2, 3
+0	0	base_ec	majority	F0F1-type ATP synthase, subunit b	3.6.3.14		3	2, 3
+base_tigr	gs-sh	gs-sh	all-same	chromosome segregation DNA-binding protein			3	1, 2, 3
+gs-sh	pfam-sh	gs-sh	all-same	chromosome segregation ATPase			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	birA, biotin-[acetyl-CoA-carboxylase] ligase region	6.3.4.15		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	methionyl-tRNA formyltransferase (EC 2.1.2.9)	2.1.2.9		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+base_one HP	base_one HP	lit-s	all-same	FIG00711003: hypothetical protein			0	2, 3
+base_one miss	base_one HP	base_one HP	majority	hypothetical protein			1	
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+base_both miss	base_both miss	base_both miss	all-hp	hypothetical protein	HP		0	
+base_both miss	base_both miss	base_both miss	all-hp	hypothetical protein	HP		0	
+lit-s	base_one HP	base_one HP	all-same	FIG00710802: hypothetical protein			0	1, 2
+base_one HP	lit-s	base_one HP	all-same	FIG00710768: hypothetical protein			0	1, 3
+base_tigr	0	0	majority	ribosomal protein L19, bacterial type			3	1, 2
+base_tigr	gs-sh	base_ec	all-same	tRNA (Guanine37-N(1)-) methyltransferase	2.1.1.31		3	1, 2, 3
+base_lit-s	base_lit-s	base_lit-s	all-same	16S rRNA processing protein RimM			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	map	lit-s	all-same	SSU ribosomal protein S16P			3	1, 2, 3
+base_tigr	tf_idf	pfam-sh	all-same	signal recognition particle subunit FFH/SRP54 (srp54)			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	valyl-tRNA synthetase (EC 6.1.1.9)	6.1.1.9		3	1, 2, 3
+gs-sh	pfam-sh	0	all-same	Flagellar assembly factor FliW			2	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	UDP-N-acetylglucosamine-N-acetylmuramylpentapeptide N-acetylglucosamine transferase	2.4.1.227		3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	pyrroline-5-carboxylate reductase (EC 1.5.1.2)	1.5.1.2		3	1, 2, 3
+0	0	orth	majority	Protein involved in cell division			3	2, 3
+base_one HP	base_one HP	gs-sh	all-same	metalloprotein, YbeY/UPF0054 family			2	2, 3
+base_tigr	orth	map	all-same	flavodoxin, long chain			3	1, 2, 3
+base_one HP	base_one HP	gs-sh	all-same	Uncharacterized membrane-associated protein			2	2, 3
+base_lit-s	0	0	majority	cytochrome oxidase maturation protein, cbb3-type			3	1, 2
+0	0	base_lit-s	majority	Thioredoxin reductase	1.8.1.9		3	2, 3
+0	0	gs-sh	majority	Arabinose efflux permease			3	2, 3
+0	0	base_ec	majority	glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9		3	2, 3
+lit-s	lit-s	lit-s	all-same	Putative outer membrane protein.			3	1, 2, 3
+gs-sh	tf_idf	orth	all-same	Carbon starvation protein, predicted membrane protein			3	1, 2, 3
+base_tigr	tf_idf	map	all-same	amino acid ABC transporter membrane protein 1, PAAT family (TC 3.A.1.3.-)			3	1, 2, 3
+base_tigr	0	0	majority	amino acid ABC transporter membrane protein 2, PAAT family (TC 3.A.1.3.-)			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_tigr	0	0	majority	glucose/galactose transporter			3	1, 2
+0	0	orth	majority	Permeases			3	2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+base_tigr	base_ec	base_ec	all-same	purine-nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1		3	1, 2, 3
+base_lit-s	base_ec	base_ec	all-same	phosphopentomutase	5.4.2.7		3	1, 2, 3
+base_tigr	map	orth	all-same	nucleoside transporter			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	gs-sh	majority	Predicted ATPase of the PP-loop superfamily implicated in cell cycle control			3	2, 3
+0	orth	0	majority	transporter, CPA2 family (TC 2.A.37)			3	1, 3
+gs-sh	0	0	majority	Na+-driven multidrug efflux pump			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	base_lit-s	majority	Carbonic anhydrase	4.2.1.1		3	2, 3
+base_one HP	base_one HP	0	majority	Helicobacter pylori protein of unknown function (DUF874).			1	
+base_one HP	base_one HP	0	majority	Helicobacter pylori protein of unknown function (DUF874).			1	
+base_ec	base_ec	base_ec	all-same	aspartate semialdehyde dehydrogenase (EC 1.2.1.11)	1.2.1.11		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	histidyl-tRNA synthetase (EC 6.1.1.21)	6.1.1.21		3	1, 2, 3
+base_lit-s	gs-sh	tf_idf	all-same	lipopolysaccharide heptosyltransferase II	2.4.-		3	1, 2, 3
+base_one HP	0	base_one HP	majority	FIG00710217: hypothetical protein			1	
+0	0	0	man-rest	MANUAL-REST			3	
+gs-sh	lit-s	map	all-same	translation elongation factor 2 (EF-2/EF-G)			3	1, 2, 3
+base_tigr	0	0	majority	SSU ribosomal protein S7P			3	1, 2
+base_tigr	0	0	majority	SSU ribosomal protein S12P			3	1, 2
+base_ec	base_ec-d	base_ec-d	majority	DNA-directed RNA polymerase subunit beta' (EC 2.7.7.6)	2.7.7.6		3	1, 2
+base_tigr	0	0	majority	LSU ribosomal protein L12P			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	0	0	majority	LSU ribosomal protein L1P			3	1, 2
+base_tigr	0	0	majority	LSU ribosomal protein L11P			3	1, 2
+base_tigr	pfam-sh	lit-s	all-same	transcription antitermination protein nusG			3	1, 2, 3
+base_tigr	lit-s	lit-s	all-same	preprotein translocase, SecE subunit, bacterial			3	1, 2, 3
+base_tigr	map	lit-s	all-same	LSU ribosomal protein L33P			3	1, 2, 3
+gs-sh	lit-s	map	all-same	translation elongation factor 1A (EF-1A/EF-Tu)			3	1, 2, 3
+0	0	orth	majority	ABC-type multidrug transport system, ATPase and permease components			3	2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	base_ec	majority	Adenine-specific DNA methylase	2.1.1.72		3	2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	serine O-acetyltransferase (EC 2.3.1.30)	2.3.1.30		3	1, 2, 3
+tf_idf	lit-s	base_ec	all-same	ATP synthase F0 subcomplex C subunit	3.6.3.14		3	1, 2, 3
+base_lit-s	base_ec	base_ec	all-same	polyribonucleotide nucleotidyltransferase	2.7.7.8		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	"Outer membrane protein Imp, required for envelope biogenesis / Organic solvent tolerance protein precursor"			1	1, 2
+gs-sh	0	0	majority	Organic solvent tolerance protein OstA			3	1, 2
+lit-s	0	0	all-same	RDD family.			2	1, 2
+base_tigr	base_ec	base_ec	all-same	phosphoribosylamine--glycine ligase (EC 6.3.4.13)	6.3.4.13		3	1, 2, 3
+map	gs-sh	gs-sh	all-same	ABC-type multidrug transport system, ATPase component			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	2.5.1.31		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			2	
+gs-sh	gs-sh	base_lit-s	all-same	Uroporphyrinogen-III synthase	4.2.1.75		3	1, 2, 3
+gs-sh	gs-sh	gs-sh	all-same	camphor resistance protein CrcB			3	1, 2, 3
+0	0	gs-sh	majority	coproporphyrinogen III oxidase, anaerobic (EC 1.3.99.22)	1.3.99.22		3	2, 3
+orth	0	0	majority	Cytochrome c553			3	1, 2
+gs-sh	0	0	majority	NTP pyrophosphohydrolases including oxidative damage repair enzymes	3.6.1.-		3	1, 2
+base_ec	base_ec	base_ec	all-same	aspartate kinase (EC 2.7.2.4)	2.7.2.4		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	DNA replication regulator.			2	1, 2
+tf_idf	tf_idf	base_ec	all-same	DNA polymerase III, delta prime subunit (EC 2.7.7.7)	2.7.7.7		3	1, 2, 3
+base_lit-s	base_ec	base_ec	all-same	dihydropteroate synthase	2.5.1.15		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	base_one HP	0	majority	Hypothetical protein probably associated with Carbamoyl-phosphate synthase			1	
+base_lit-s	base_ec	base_ec	all-same	carbamoyl-phosphate synthase, small subunit	6.3.5.5		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	Predicted amidohydrolase	3.5.1.49		3	1, 2, 3
+base_tigr	lit-s	orth	all-same	MAF protein			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	alanyl-tRNA synthetase (EC 6.1.1.7)	6.1.1.7		3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710114: hypothetical protein			0	2, 3
+base_one HP	base_lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_tigr	0	0	majority	SSU ribosomal protein S18P			3	1, 2
+gs-sh	lit-s	map	all-same	single-strand binding protein			3	1, 2, 3
+base_tigr	map	lit-s	all-same	SSU ribosomal protein S6P			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	shikimate dehydrogenase (EC 1.1.1.25)	1.1.1.25		3	1, 2, 3
+lit-s	0	0	all-same	Bacterial SH3 domain.			2	1, 2
+0	0	gs-sh	majority	ABC-type uncharacterized transport system, permease component			3	2, 3
+0	0	gs-sh	majority	ABC-type oligopeptide transport system, periplasmic component			3	2, 3
+base_tigr	base_ec	base_ec	all-same	tryptophanyl-tRNA synthetase (EC 6.1.1.2)	6.1.1.2		3	1, 2, 3
+map	gs-sh	gs-sh	all-same	Methylase involved in ubiquinone/menaquinone biosynthesis	2.1.1.197		3	1, 2, 3
+base_tigr	lit-s	pfam-sh	all-same	protein translocase, SecG subunit			3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	ribosome recycling factor			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	orotate phosphoribosyltransferase (EC 2.4.2.10)	2.4.2.10		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	pfam-sh	majority	NAD-dependent protein deacetylases, SIR2 family	3.5.1.-		3	2, 3
+0	0	base_ec	majority	NADH:ubiquinone oxidoreductase subunit 3 (chain A)	1.6.5.3		3	2, 3
+base_ec-d	base_ec-d	base_ec	majority	NADH dehydrogenase subunit B (EC 1.6.5.3)	1.6.5.3		3	2, 3
+base_tigr	gs-sh	base_ec	all-same	NADH dehydrogenase subunit C (EC 1.6.5.3)	1.6.5.3		3	1, 2, 3
+base_tigr	base_ec-d	base_ec	all-same	NADH dehydrogenase subunit D (EC 1.6.5.3)	1.6.5.3		3	1, 2, 3
+base_one HP	lit-s	base_one HP	all-same	NADH-ubiquinone oxidoreductase chain E	1.6.5.3		2	1, 3
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+0	0	base_ec	majority	NADH dehydrogenase subunit G (EC 1.6.5.3)	1.6.5.3		3	2, 3
+0	0	base_ec	majority	NADH dehydrogenase subunit H (EC 1.6.5.3)	1.6.5.3		3	2, 3
+base_tigr	tf_idf	base_ec	all-same	NADH-quinone oxidoreductase, chain I	1.6.5.3		3	1, 2, 3
+0	0	base_ec	majority	NADH dehydrogenase subunit J (EC 1.6.5.3)	1.6.5.3		3	2, 3
+0	0	base_ec	majority	NADH dehydrogenase subunit K (EC 1.6.5.3)	1.6.5.3		3	2, 3
+base_tigr	map	base_ec	all-same	NADH dehydrogenase subunit L (EC 1.6.5.3)	1.6.5.3		3	1, 2, 3
+base_tigr	map	base_ec	all-same	NADH dehydrogenase subunit M (EC 1.6.5.3)	1.6.5.3		3	1, 2, 3
+base_tigr	map	base_ec	all-same	NADH dehydrogenase subunit N (EC 1.6.5.3)	1.6.5.3		3	1, 2, 3
+0	0	gs-sh	all-same	Paralysed flagella protein PflA			2	2, 3
+0	0	base_ec-d	man-rest	MANUAL-REST			3	
+lit-s	0	0	all-same	Telomere-length maintenance and DNA damage repair.			2	1, 2
+base_tigr	base_ec	base_ec	all-same	tryptophan synthase, alpha chain (EC 4.2.1.20)	4.2.1.20		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	tryptophan synthase, beta chain (EC 4.2.1.20)	4.2.1.20		3	1, 2, 3
+lit-s	map	base_ec	all-same	Indole-3-glycerol phosphate synthase	4.1.1.48, 5.3.1.24		3	1, 2, 3
+base_lit-s	base_ec	base_ec	all-same	anthranilate phosphoribosyltransferase	2.4.2.18		3	1, 2, 3
+base_tigr	map	lit-s	all-same	anthranilate synthase, component II (EC 4.1.3.27)	4.1.3.27		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	anthranilate synthase, component I (EC 4.1.3.27)	4.1.3.27		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	orth	majority	ADP-heptose:LPS heptosyltransferase			3	2, 3
+base_lit-s	0	0	majority	5'-nucleotidase, lipoprotein e(P4) family			3	1, 2
+gs-sh	gs-sh	gs-sh	all-same	Protein yceI precursor			2	1, 2, 3
+0	0	base_ec	majority	thiaminase/4-amino-5-aminomethyl-2-methylpyrimidine deaminase	3.5.99.2		3	2, 3
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+base_one HP	0	base_one HP	majority	FIG00713032: hypothetical protein			1	
+base_tigr	0	0	majority	nicotinamide mononucleotide transporter PnuC			3	1, 2
+base_lit-s	base_ec	base_ec	all-same	thiamine pyrophosphokinase	2.7.6.2		3	1, 2, 3
+base_tigr	map	lit-s	all-same	LSU ribosomal protein L17P			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	DNA-directed RNA polymerase subunit alpha (EC 2.7.7.6)	2.7.7.6		3	1, 2, 3
+base_tigr	0	0	majority	SSU ribosomal protein S4P			3	1, 2
+base_tigr	0	0	majority	SSU ribosomal protein S11P			3	1, 2
+base_lit-s	0	0	majority	30S ribosomal protein S13			3	1, 2
+base_tigr	gs-sh	map	all-same	bacterial translation initiation factor 1 (bIF-1)			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	methionine aminopeptidase, type I (EC 3.4.11.18)	3.4.11.18		3	1, 2, 3
+base_tigr	lit-s	gs-sh	all-same	protein translocase subunit secY/sec61 alpha			3	1, 2, 3
+base_tigr	0	0	majority	LSU ribosomal protein L15P			3	1, 2
+base_tigr	0	0	majority	SSU ribosomal protein S5P			3	1, 2
+base_tigr	0	0	majority	LSU ribosomal protein L18P			3	1, 2
+base_tigr	0	0	majority	LSU ribosomal protein L6P			3	1, 2
+gs-sh	0	0	majority	SSU ribosomal protein S8P			3	1, 2
+gs-sh	0	0	majority	LSU ribosomal protein L5P			3	1, 2
+base_tigr	0	0	majority	ribosomal protein L24, bacterial/organelle			3	1, 2
+base_tigr	0	0	majority	LSU ribosomal protein L14P			3	1, 2
+base_tigr	0	0	majority	SSU ribosomal protein S17P			3	1, 2
+base_tigr	0	0	majority	LSU ribosomal protein L29P			3	1, 2
+base_tigr	0	0	majority	LSU ribosomal protein L16P			3	1, 2
+base_tigr	0	0	majority	SSU ribosomal protein S3P			3	1, 2
+base_tigr	0	0	majority	LSU ribosomal protein L22P			3	1, 2
+base_tigr	0	0	majority	SSU ribosomal protein S19P			3	1, 2
+base_tigr	0	0	majority	LSU ribosomal protein L2P			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	0	0	majority	50S ribosomal protein L4, bacterial/organelle			3	1, 2
+base_tigr	0	0	majority	LSU ribosomal protein L3P			3	1, 2
+base_tigr	0	0	majority	SSU ribosomal protein S10P			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+map	lit-s	base_ec	all-same	RNase HII (EC 3.1.26.4)	3.1.26.4		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710606: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710172: hypothetical protein			0	1, 2
+base_tigr	base_ec	base_ec	all-same	fumarase, class II (EC 4.2.1.2)	4.2.1.2		3	1, 2, 3
+lit-s	0	0	all-same	YtkA-like.			2	1, 2
+0	0	gs-sh	majority	Outer membrane protein			3	2, 3
+gs-sh	0	0	majority	Membrane-fusion protein			3	1, 2
+base_tigr	0	0	majority	heavy metal efflux pump (cobalt-zinc-cadmium)			3	1, 2
+tf_idf	lit-s	tf_idf	all-same	Predicted branched-chain amino acid permeases (azaleucine resistance)			3	1, 2, 3
+base_tigr	gs-sh	gs-sh	all-same	4-azaleucine resistance probable transporter AzlC			3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	chaperone protein DnaJ			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+0	0	lit-s	all-same	FIG00712012: hypothetical protein			1	2, 3
+base_lit-s	gs-sh	gs-sh	all-same	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	2.8.1.-,2.1.1.61		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	2.7.7.18		3	1, 2, 3
+gs-sh	0	0	all-same	DnaJ-class molecular chaperone with C-terminal Zn finger domain			2	1, 2
+orth	map	gs-sh	all-same	transcriptional regulator, CopG family			3	1, 2, 3
+base_tigr	0	0	majority	outer membrane transport energization protein ExbB (TC 2.C.1.1.1)			3	1, 2
+base_tigr	pfam-sh	gs-sh	all-same	TonB system transport protein ExbD, group 2			3	1, 2, 3
+base_tigr	gs-sh	pfam-sh	all-same	outer membrane transport energization protein TonB (TC 2.C.1.1.1)			3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+pfam-sh	map	orth	all-same	Membrane protein TerC, possibly involved in tellurium resistance			3	1, 2, 3
+base_tigr	lit-s	gs-sh	all-same	magnesium Mg(2+) and cobalt Co(2+) transport protein (corA)			3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	phosphoglycerate kinase (EC 2.7.2.3)	2.7.2.3		3	1, 2, 3
+base_lit-s	gs-sh	base_ec	all-same	glyceraldehyde-3-phosphate dehydrogenase, type I	1.2.1.12		3	1, 2, 3
+base_tigr	gs-sh	tf_idf	all-same	Uracil-DNA glycosylase	3.2.2.27,3.2.2.-		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	1-acyl-sn-glycerol-3-phosphate acyltransferases	2.3.1.51		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	Putative periplasmic protein			1	1, 2
+base_tigr	0	0	majority	C-terminal peptidase (prc)	3.4.21.102		3	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00712274: hypothetical protein			0	1, 2
+tf_idf	0	0	majority	DNA modification methylase	2.1.1.72		3	1, 2
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	nicotinate-nucleotide pyrophosphorylase [carboxylating] (EC 2.4.2.19)	2.4.2.19		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	quinolinate synthetase (EC 2.5.1.72)	2.5.1.72		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	phosphatidylserine decarboxylase precursor	4.1.1.65		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710119: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+gs-sh	gs-sh	gs-sh	all-same	4-hydroxybenzoate polyprenyltransferase	2.5.1.-,2.5.1.39		3	1, 2, 3
+0	lit-s	0	majority	Predicted membrane metal-binding protein			3	1, 3
+base_tigr	lit-s	tf_idf	all-same	primary replicative DNA helicase	3.6.4.12,3.6.1.-		3	1, 2, 3
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+base_ec	0	0	majority	DNA modification methylase	2.1.1.72		3	1, 2
+tf_idf	0	0	majority	DNA modification methylase	2.1.1.113		3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+gs-sh	lit-s	gs-sh	all-same	Cell shape-determining protein			3	1, 2, 3
+base_tigr	gs-sh	lit-s	all-same	rod shape-determining protein MreB			3	1, 2, 3
+base_tigr	lit-s	base_lit-s	all-same	ATP-dependent Clp protease ATP-binding subunit ClpX	3.4.21.92		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)	2.3.1.129		3	1, 2, 3
+base_tigr	0	0	majority	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.-)	4.2.1.-		3	1, 2
+gs-sh	pfam-sh	0	all-same	Flagellar assembly factor FliW			2	1, 2, 3
+base_tigr	gs-sh	map	all-same	Beta-barrel assembly machine subunit BamD			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	ATP-dependent proteinase. Serine peptidase. MEROPS family S16	3.4.21.53		3	1, 2, 3
+0	0	base_ec	majority	prephenate dehydrogenase (EC 1.3.1.12)	1.3.1.12		3	2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00712372: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+base_one miss	0	base_one miss	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	FIG00710809: hypothetical protein			0	1, 2
+0	0	base_ec	majority	D-fructose 1,6-bisphosphatase (EC 3.1.3.11)	3.1.3.11		3	2, 3
+base_tigr	base_ec	base_ec	all-same	ribulose-5-phosphate 3-epimerase (EC 5.1.3.1)	5.1.3.1		3	1, 2, 3
+base_tigr	tf_idf	gs-sh	all-same	exonuclease, DNA polymerase III, epsilon subunit family	2.7.7.7		3	1, 2, 3
+base_one HP	base_lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00712000: hypothetical protein			0	1, 2
+base_one HP	base_one HP	base_lit-s	all-same	hypothetical protein			0	2, 3
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+gs-sh	gs-sh	gs-sh	all-same	ATPase involved in DNA repair			3	1, 2, 3
+0	0	base_ec	majority	Predicted sugar kinase	2.7.1.23		3	2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710110: hypothetical protein			0	2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG01257004: hypothetical protein			0	2, 3
+base_ec	base_ec	base_ec	all-same	L-alanine dehydrogenase (EC 1.4.1.1)	1.4.1.1		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	arginase (EC 3.5.3.1)	3.5.3.1		3	1, 2, 3
+gs-sh	gs-sh	gs-sh	all-same	Outer membrane receptor for Fe3+-dicitrate			3	1, 2, 3
+base_one HP	base_one HP	lit-s	all-same	Predicted metal-dependent hydrolase			2	2, 3
+base_tigr	base_ec	base_ec	all-same	type I site-specific deoxyribonuclease, HsdR family	3.1.21.3		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	type I restriction system adenine methylase (hsdM)	2.1.1.72		3	1, 2, 3
+base_one HP	lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	biotin synthase (EC 2.8.1.6)	2.8.1.6		3	1, 2, 3
+base_tigr	0	0	majority	Predicted membrane protein			3	1, 2
+base_both miss	base_both miss	base_both miss	all-hp	hypothetical protein	HP		0	
+base_both miss	base_both miss	base_both miss	all-hp	hypothetical protein	HP		0	
+base_one HP	lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+base_one miss	base_one HP	base_one HP	majority	hypothetical protein			1	
+base_one HP	base_one HP	lit-s	all-same	FIG00710554: hypothetical protein			0	2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+lit-s	lit-s	base_lit-s	all-same	hypothetical protein			0	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710585: hypothetical protein			0	1, 2
+base_lit-s	gs-sh	orth	all-same	7-cyano-7-deazaguanine reductase	1.7.1.13		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_lit-s	base_lit-s	base_lit-s	all-same	tRNA dimethylallyltransferase	2.5.1.75		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	base_one HP	base_one HP	man-rest	MANUAL-REST			2	
+0	base_one HP	base_one HP	man-rest	MANUAL-REST			2	
+base_tigr	base_lit-s	base_ec	all-same	UDP-N-acetylmuramate dehydrogenase (EC 1.1.1.158)	1.1.1.158		3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	flagellar biosynthetic protein FliQ			3	1, 2, 3
+base_ec	gs-sh	gs-sh	all-same	ATPase FliI/YscN family	3.6.3.14		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	6.1.1.5		3	1, 2, 3
+base_one HP	base_one HP	base_lit-s	all-same	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)			2	2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710917: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710274: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same				0	1, 2
+base_tigr	gs-sh	map	all-same	23S rRNA m(2)A-2503 methyltransferase (EC 2.1.1.192)	2.1.1.192		3	1, 2, 3
+base_tigr	map	base_ec	all-same	KpsF/GutQ family protein	5.3.1.13		3	1, 2, 3
+base_one HP	0	base_one HP	majority	"Zn-dependent hydrolase, RNA-metabolising"			1	
+base_lit-s	gs-sh	gs-sh	all-same	dimethyladenosine transferase	2.1.1.182,2.1.1.-		3	1, 2, 3
+base_one HP	base_both miss	base_one HP	all-hp	hypothetical protein	HP		0	
+base_one HP	base_lit-s	base_one HP	all-same	hypothetical protein			0	1, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00711868: hypothetical protein			0	1, 2
+base_tigr	base_ec	base_ec	all-same	formyltetrahydrofolate deformylase (EC 3.5.1.10)	3.5.1.10		3	1, 2, 3
+base_lit-s	gs-sh	gs-sh	all-same	signal peptide peptidase SppA, 36K type	3.4.21.-		3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710817: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG311301: hypothetical lipoprotein LppH			1	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710502: hypothetical protein			0	1, 2
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+base_one miss	base_one HP	base_one HP	majority	hypothetical protein			1	
+base_both miss	base_both miss	base_both miss	all-hp	hypothetical protein	HP		0	
+base_both miss	base_both miss	base_both miss	all-hp	hypothetical protein	HP		0	
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+0	0	base_ec	majority	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	5.2.1.8		3	2, 3
+base_tigr	lit-s	gs-sh	all-same	carbon storage regulator, CsrA			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	2.7.1.148		3	1, 2, 3
+base_tigr	gs-sh	gs-sh	all-same	SsrA-binding protein			3	1, 2, 3
+base_tigr	0	0	majority	outer membrane transport energization protein ExbB (TC 2.C.1.1.1)			3	1, 2
+gs-sh	lit-s	gs-sh	all-same	Biopolymer transport protein			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	ribonuclease P protein component, eubacterial	3.1.26.5		3	1, 2, 3
+base_one miss	0	base_one miss	man-rest	MANUAL-REST			2	
+gs-sh	gs-sh	gs-sh	all-same	protein translocase subunit yidC			3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+lit-s	pfam-sh	gs-sh	all-same	tRNA modification GTPase trmE	3.6.-		3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+pfam-sh	0	0	all-same	LPP20 lipoprotein.			2	1, 2
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+lit-s	gs-sh	gs-sh	all-same	LPP20 lipoprotein.			3	1, 2, 3
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+base_one HP	base_one HP	base_both miss	all-hp	hypothetical protein	HP		0	
+lit-s	lit-s	lit-s	all-same	Thioredoxin domain-containing protein			3	1, 2, 3
+base_tigr	tf_idf	base_ec-d	all-same	pseudouridine synthase	5.4.99.22		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	DNA polymerase III, alpha subunit (EC 2.7.7.7)	2.7.7.7		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	Cytochrome c peroxidase	1.11.1.5		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	base_one HP	lit-s	all-same	putative			0	2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+0	tf_idf	0	majority	ABC-type transport system involved in resistance to organic solvents, ATPase component			3	1, 3
+base_tigr	0	orth	all-same	conserved hypothetical integral membrane protein			2	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	branched chain amino acid aminotransferase apoenzyme (EC 2.6.1.42)	2.6.1.42		3	1, 2, 3
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	DNA polymerase I (EC 2.7.7.7)	2.7.7.7		3	1, 2, 3
+lit-s	0	0	majority	Type I restriction modification DNA specificity domain.			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			2	
+base_tigr	base_ec	base_ec	all-same	thymidylate kinase (EC 2.7.4.9)	2.7.4.9		3	1, 2, 3
+base_ec	base_ec	base_ec	all-same	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	2.7.7.3		3	1, 2, 3
+base_tigr	map	gs-sh	all-same	polyprenyl P-hydroxybenzoate and phenylacrylic acid decarboxylases	4.1.1.-		3	1, 2, 3
+base_lit-s	tf_idf	tf_idf	all-same	flagella basal body P-ring formation protein FlgA			3	1, 2, 3
+gs-sh	gs-sh	gs-sh	all-same	Superfamily I DNA and RNA helicases	3.6.4.12		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	seryl-tRNA synthetase (EC 6.1.1.11)	6.1.1.11		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	base_ec	majority	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	3.1.11.6		3	2, 3
+base_tigr	tf_idf	gs-sh	all-same	demethylmenaquinone methyltransferase	2.1.1.163, 2.1.1.201,2.1.1.163		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+base_one HP	base_one HP	0	man-rest	MANUAL-REST			2	
+0	0	lit-s	majority	ABC-type multidrug transport system, permease component			3	2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+gs-sh	0	0	majority	Multidrug resistance efflux pump			3	1, 2
+tf_idf	tf_idf	base_lit-s	all-same	Outer membrane protein			3	1, 2, 3
+0	0	base_lit-s	majority	Hemolysins and related proteins containing CBS domains			3	2, 3
+0	0	0	man-rest	MANUAL-REST			3	
+gs-sh	gs-sh	gs-sh	all-same	Thioredoxin-like proteins and domains			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00711107: hypothetical protein			0	1, 2
+base_tigr	gs-sh	base_ec	all-same	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)	6.3.2.13		3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	transaldolase (EC 2.2.1.2)	2.2.1.2		3	1, 2, 3
+base_tigr	map	lit-s	all-same	LSU ribosomal protein L25P			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	peptidyl-tRNA hydrolase (EC 3.1.1.29)	3.1.1.29		3	1, 2, 3
+0	lit-s	0	majority	Predicted permeases			3	1, 3
+0	0	0	man-rest	MANUAL-REST			2	
+lit-s	tf_idf	tf_idf	all-same	Helicobacter outer membrane protein.			3	1, 2, 3
+0	0	base_ec-d	man-rest	MANUAL-REST			3	
+0	0	lit-s	all-same	FIG00710492: hypothetical protein			1	2, 3
+0	0	gs-sh	majority	Predicted O-methyltransferase			3	2, 3
+gs-sh	0	base_ec-d	majority	diaminohydroxyphosphoribosylaminopyrimidine deaminase	3.5.4.26, 1.1.1.193,3.5.4.26		3	1, 2
+base_tigr	0	0	majority	sodium--glutamate symport carrier (gltS)			3	1, 2
+0	0	lit-s	majority	carboxynorspermidine dehydrogenase	1.5.1.7		3	2, 3
+base_tigr	0	0	majority	cytochrome c oxidase accessory protein FixG			3	1, 2
+base_tigr	0	0	majority	acyl-phosphate glycerol-3-phosphate acyltransferase	2.3.1.15		3	1, 2
+lit-s	gs-sh	base_ec	all-same	FolB domain	4.1.2.25		3	1, 2, 3
+base_one HP	0	base_one HP	majority	putative			1	
+gs-sh	gs-sh	gs-sh	all-same	Outer membrane receptor proteins, mostly Fe transport			3	1, 2, 3
+gs-sh	gs-sh	gs-sh	all-same	L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)	2.9.1.1		3	1, 2, 3
+base_tigr	pfam-sh	pfam-sh	all-same	NusA antitermination factor			3	1, 2, 3
+lit-s	base_one HP	base_one HP	all-same	FIG00710608: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	FIG00710921: hypothetical protein			0	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00712118: hypothetical protein			0	1, 2
+0	0	base_ec	majority	Restriction endonuclease	3.1.21.5		3	2, 3
+base_one HP	0	base_one HP	man-rest	MANUAL-REST			2	
+0	0	base_ec	majority	Adenine specific DNA methylase Mod	2.1.1.72		3	2, 3
+0	0	base_lit-s	majority	ATP-dependent DNA helicase RecG	3.6.4.12,3.6.1.-		3	2, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+base_lit-s	base_ec	base_ec	all-same	exodeoxyribonuclease III	3.1.11.2		3	1, 2, 3
+lit-s	0	0	majority	Helicobacter outer membrane protein.			3	1, 2
+base_one HP	0	base_one HP	majority	putative			1	
+base_lit-s	lit-s	lit-s	all-same	chromosomal replication initiator protein DnaA			3	1, 2, 3
+0	0	gs-sh	majority	Nucleoside phosphorylase			3	2, 3
+base_one HP	base_one HP	lit-s	all-same	FIG00710874: hypothetical protein			0	2, 3
+base_tigr	base_ec	base_ec	all-same	glutamine--fructose-6-phosphate transaminase	2.6.1.16		3	1, 2, 3
+base_lit-s	gs-sh	gs-sh	all-same	thymidylate synthase, flavin-dependent	2.1.1.148		3	1, 2, 3
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+base_tigr	0	0	majority	transposase, IS605 OrfB family, central region			3	1, 2
+0	0	gs-sh	majority	Transposase and inactivated derivatives			3	2, 3
+base_one miss	0	base_one miss	man-rest	MANUAL-REST			2	
+lit-s	base_one HP	base_one HP	all-same	FIG00710438: hypothetical protein			0	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+gs-sh	tf_idf	map	all-same	Cytochrome b subunit of the bc complex			3	1, 2, 3
+base_tigr	base_ec	base_ec	all-same	Rieske Fe-S protein	1.10.2.2		3	1, 2, 3
+base_tigr	lit-s	gs-sh	all-same	transcription-repair coupling factor (mfd)	3.6.4.-		3	1, 2, 3
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	base_lit-s	majority	Membrane proteins related to metalloendopeptidases			3	2, 3
+0	0	gs-sh	majority	Membrane proteins related to metalloendopeptidases			3	2, 3
+base_tigr	0	base_ec-d	majority	folylpolyglutamate synthase/dihydrofolate synthase	6.3.2.17, 6.3.2.12		3	1, 2
+lit-s	0	0	majority	Lipopolysaccharide-assembly.			3	1, 2
+base_tigr	base_ec	base_ec	all-same	leucyl-tRNA synthetase (EC 6.1.1.4)	6.1.1.4		3	1, 2, 3
+base_one HP	0	base_one HP	majority	FIG00388820: hypothetical protein			1	
+gs-sh	gs-sh	gs-sh	all-same	protein translocase subunit secF			3	1, 2, 3
+gs-sh	0	0	majority	protein-export membrane protein, SecD/SecF family			3	1, 2
+base_tigr	lit-s	gs-sh	all-same	protein translocase subunit yajC			3	1, 2, 3
+base_tigr	lit-s	gs-sh	all-same	sodium/proton antiporter, NhaA family (TC 2.A.33.1.1)			3	1, 2, 3
+gs-sh	gs-sh	orth	all-same	ATP-dependent exoDNAse (exonuclease V) beta subunit (contains helicase and exonuclease domains)			3	1, 2, 3
+base_tigr	0	0	majority	SSU ribosomal protein S2P			3	1, 2
+base_tigr	lit-s	tf_idf	all-same	translation elongation factor Ts (EF-Ts)			3	1, 2, 3
+orth	map	base_ec	all-same	Cell division protein FtsI/penicillin-binding protein 2	2.4.1.129		3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	flagellar hook-basal body complex protein FliE			3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	flagellar basal-body rod protein FlgC			3	1, 2, 3
+base_lit-s	lit-s	lit-s	all-same	flagellar basal-body rod protein FlgB			3	1, 2, 3
+0	0	gs-sh	majority	Bacterial cell division membrane protein			3	2, 3
+0	0	gs-sh	majority	ABC-type Fe3+-hydroxamate transport system, periplasmic component			3	2, 3
+0	0	gs-sh	majority	ABC-type Fe3+-hydroxamate transport system, periplasmic component			3	2, 3
+lit-s	0	0	majority	Peroxiredoxin	1.11.1.15		3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+base_one HP	base_one HP	base_one miss	all-hp	hypothetical protein	HP		0	
+base_tigr	gs-sh	base_ec	all-same	peptidoglycan glycosyltransferase	2.4.1.129		3	1, 2, 3
+base_one HP	0	base_one HP	majority	putative			1	
+base_tigr	0	0	majority	ribosome biogenesis GTP-binding protein YsxC/EngB			3	1, 2
+base_lit-s	0	0	majority	lipopolysaccharide transport periplasmic protein LptA			3	1, 2
+lit-s	base_one HP	base_one HP	all-same	FIG00710344: hypothetical protein			0	1, 2
+base_ec	base_ec	base_ec	all-same	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase, YrbI family	3.1.3.45		3	1, 2, 3
+base_tigr	gs-sh	orth	all-same	rare lipoprotein A			3	1, 2, 3
+gs-sh	0	0	majority	Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains)	3.2.1.-		3	1, 2
+base_tigr	0	0	majority	hydrolase, TatD family	3.1.21.-		3	1, 2
+base_tigr	base_ec	base_ec	all-same	riboflavin synthase alpha chain (EC 2.5.1.9)	2.5.1.9		3	1, 2, 3
+gs-sh	0	0	majority	Uncharacterized homolog of the cytoplasmic domain of flagellar protein FhlB			3	1, 2
+0	0	0	man-rest	MANUAL-REST			3	
+0	0	0	man-rest	MANUAL-REST			3	
+0	orth	0	majority	Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases			3	1, 3
+lit-s	base_one HP	base_one HP	all-same	putative			0	1, 2
+0	0	0	man-rest	MANUAL-REST			2	
+0	0	0	man-rest	MANUAL-REST			3	
+base_tigr	base_ec	base_ec	all-same	pyridoxine 5'-phosphate synthase (EC 2.6.99.2)	2.6.99.2		3	1, 2, 3
+base_tigr	base_lit-s	base_ec	all-same	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)	1.1.1.262		3	1, 2, 3
+0	0	gs-sh	majority	O-sialoglycoprotein endopeptidase (EC 3.4.24.57)	3.4.24.57		3	2, 3
+gs-sh	gs-sh	gs-sh	all-same	Flagellar basal body rod protein			3	1, 2, 3
+base_one miss	base_one miss	base_both miss	majority				1	
+0	0	lit-s	all-same	FIG00711192: hypothetical protein			1	2, 3
+0	0	lit-s	all-same	FIG00711288: hypothetical protein			1	2, 3
+0	base_one HP	base_one HP	majority	hypothetical protein			1	

@@ -1,0 +1,1093 @@
+DNA polymerase III, beta subunit (EC 2.7.7.7)	2.7.7.7	CDS	TIGR00663
+			
+DnaJ-class molecular chaperone with C-terminal Zn finger domain		CDS	
+			
+			
+			
+DNA gyrase subunit B (EC 5.99.1.3)	5.99.1.3	CDS	TIGR01059
+DNA gyrase subunit A (EC 5.99.1.3)	5.99.1.3	CDS	TIGR01063
+			
+			
+seryl-tRNA synthetase (EC 6.1.1.11)	6.1.1.11	CDS	TIGR00414
+thymidylate kinase (EC 2.7.4.9)	2.7.4.9	CDS	TIGR00041
+			
+			
+DNA polymerase III, gamma/tau subunits	2.7.7.7	CDS	
+			
+tRNA modification GTPase trmE	3.6.-	CDS	TIGR00450, TIGR00231
+			
+hydrolase, TatD family	3.1.21.-	CDS	TIGR00010
+			
+RimK-like ATP-grasp domain.		CDS	
+DNA primase-related protein	2.7.7.-	CDS	TIGR00646
+			
+SSU ribosomal protein S6P modification protein		CDS	TIGR00768
+			
+5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	1.5.1.5, 3.5.4.9	CDS	
+			
+			
+			
+ABC-type multidrug transport system, ATPase and permease components		CDS	
+			
+			
+ABC-type multidrug transport system, ATPase and permease components		CDS	
+			
+			
+			
+			
+Superfamily II DNA/RNA helicases, SNF2 family		CDS	
+chaperone protein DnaJ		CDS	TIGR02349
+			
+			
+prolyl aminopeptidase (EC:3.4.11.5). Serine peptidase. MEROPS family S33	3.4.11.5	CDS	TIGR01249
+			
+			
+methionyl-tRNA synthetase (EC 6.1.1.10)	6.1.1.10	CDS	TIGR00398
+DNA-directed RNA polymerase, delta subunit		CDS	
+			
+fructose-bisphosphate aldolase (EC 4.1.2.13)	4.1.2.13	CDS	TIGR00167, TIGR01859
+			
+GTP-binding protein YchF		CDS	TIGR00092
+			
+Glycosyltransferases involved in cell wall biogenesis		CDS	
+translation elongation factor P (EF-P)		CDS	TIGR00038
+			
+Transcription termination factor		CDS	
+			
+Putative intracellular protease/amidase		CDS	
+hypothetical protein		CDS	
+uracil phosphoribosyltransferase (EC 2.4.2.9)	2.4.2.9	CDS	TIGR01091
+DNA polymerase III catalytic subunit, PolC type	2.7.7.7	CDS	TIGR00573, TIGR01405
+			
+			
+			
+			
+			
+			
+			
+			
+			
+Membrane protein involved in colicin uptake		CDS	
+			
+thymidine kinase (EC 2.7.1.21)	2.7.1.21	CDS	
+Glycerol uptake facilitator and related permeases (Major Intrinsic Protein Family)		CDS	TIGR00861
+			
+			
+histidyl-tRNA synthetase (EC 6.1.1.21)	6.1.1.21	CDS	TIGR00442
+			
+			
+aspartyl-tRNA synthetase (EC 6.1.1.12)	6.1.1.12	CDS	TIGR00459
+			
+			
+glycerol kinase (EC 2.7.1.30)	2.7.1.30	CDS	TIGR01311
+Nicotinic acid phosphoribosyltransferase		CDS	
+			
+			
+			
+glycerol 3-phosphate oxidase (EC 1.1.3.21)	1.1.5.3	CDS	
+			
+			
+			
+			
+			
+nucleoside-binding protein		CDS	
+Phosphotransferase System HPr (HPr) Family		CDS	TIGR01003
+			
+			
+			
+ABC-type spermidine/putrescine transport systems, ATPase components	3.6.3.31	CDS	
+			
+ABC-type spermidine/putrescine transport system, permease component I		CDS	
+			
+			
+ABC-type spermidine/putrescine transport system, permease component II		CDS	
+			
+			
+Spermidine/putrescine-binding periplasmic protein		CDS	
+			
+O-sialoglycoprotein endopeptidase (EC 3.4.24.57)	3.4.24.57	CDS	TIGR00329, TIGR03723
+			
+			
+methionine adenosyltransferase (EC 2.5.1.6)	2.5.1.6	CDS	TIGR01034
+signal recognition particle subunit FFH/SRP54 (srp54)		CDS	TIGR00959
+hypothetical protein		CDS	
+			
+			
+			
+purine-nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1	CDS	TIGR00107
+deoxyribose-phosphate aldolase	4.1.2.4	CDS	TIGR00126
+			
+thymidine phosphorylase (EC 2.4.2.4)	2.4.2.4	CDS	TIGR02644
+cytidine deaminase (EC 3.5.4.5)	3.5.4.5	CDS	TIGR01354
+			
+			
+NusG family protein		CDS	TIGR01956
+Phosphomannomutase	5.4.2.8	CDS	
+			
+preprotein translocase, SecE subunit, bacterial		CDS	TIGR00964
+			
+Cell fusion glycoprotein K.		CDS	
+			
+probable S-adenosylmethionine-dependent methyltransferase, YraL family	2.1.1.198	CDS	TIGR00096
+			
+RNAse M5 (EC 3.1.26.8)	3.1.26.8	CDS	TIGR00334
+			
+ribose-phosphate pyrophosphokinase	2.7.6.1	CDS	TIGR01251
+SsrA-binding protein		CDS	TIGR00086
+			
+			
+			
+Mycoplasma MFS transporter.		CDS	
+Glycosyltransferases involved in cell wall biogenesis		CDS	
+			
+			
+			
+			
+PTS system D-fructose-specific IIA component (F6P-forming), Fru family (TC 4.A.2.1.7)/PTS system D-fructose-specific IIB component (F6P-forming), Fru family (TC 4.A.2.1.7)/PTS system D-fructose-specific IIC component (F6P-forming), Fru family (TC 4.A.2.1.7)		CDS	TIGR00848, TIGR00829, TIGR01427
+Fructose-1-phosphate kinase and related fructose-6-phosphate kinase (PfkB)	2.7.1.56	CDS	
+hypothetical protein		CDS	
+			
+			
+			
+			
+			
+			
+ABC-type transport system, involved in lipoprotein release, permease component		CDS	
+			
+			
+ABC-type antimicrobial peptide transport system, ATPase component		CDS	
+			
+transketolase (EC 2.2.1.1)	2.2.1.1	CDS	TIGR00232
+			
+			
+Putative peptidase (DUF31).		CDS	
+Putative peptidase (DUF31).		CDS	
+			
+hypothetical protein		CDS	
+			
+			
+hypothetical protein		CDS	
+			
+hypothetical protein		CDS	
+			
+Mycoplasma adhesin P1.		CDS	
+			
+			
+hypothetical protein		CDS	
+hypothetical protein		CDS	
+			
+			
+			
+PTS system D-glucose-specific IIA component, Glc family (TC 4.A.1.1.9)/PTS system D-glucose-specific IIB component, Glc family (TC 4.A.1.1.9)/PTS system D-glucose-specific IIC component, Glc family (TC 4.A.1.1.9)		CDS	TIGR00826, TIGR00830
+			
+SSU ribosomal protein S2P		CDS	TIGR01011
+			
+			
+			
+			
+			
+ATPase, P-type (transporting), HAD superfamily, subfamily IC		CDS	TIGR01494, TIGR01517
+			
+			
+protein translocase subunit secA		CDS	TIGR00963
+Excinuclease ABC subunit B		CDS	TIGR00631
+			
+hypothetical protein		CDS	
+			
+hypothetical protein		CDS	
+hypothetical protein		CDS	
+			
+ABC-type dipeptide/oligopeptide/nickel transport systems, permease components		CDS	
+			
+ABC-type dipeptide/oligopeptide/nickel transport systems, permease components		CDS	
+			
+oligopeptide/dipeptide ABC transporter, ATP-binding protein, C-terminal domain		CDS	TIGR01727
+			
+			
+			
+ABC-type oligopeptide transport system, ATPase component		CDS	
+LSU ribosomal protein L11P		CDS	TIGR01632
+			
+LSU ribosomal protein L1P		CDS	TIGR01169
+peptidyl-tRNA hydrolase (EC 3.1.1.29)	3.1.1.29	CDS	TIGR00447
+			
+tRNA(Ile)-lysidine synthetase, N-terminal domain		CDS	TIGR02432
+Hpr(Ser) kinase/phosphatase (EC 2.7.1.-)	2.7.11.-, 2.7.4.-	CDS	TIGR00679
+			
+Prolipoprotein diacylglyceryl transferase	2.-	CDS	TIGR00544
+SSU ribosomal protein S12P		CDS	TIGR00981
+SSU ribosomal protein S7P		CDS	TIGR01029
+			
+translation elongation factor 2 (EF-2/EF-G)		CDS	TIGR00484, TIGR00231
+			
+SSU ribosomal protein S6P		CDS	TIGR00166
+Single-stranded DNA-binding protein		CDS	
+SSU ribosomal protein S18P		CDS	TIGR00165
+LSU ribosomal protein L9P		CDS	TIGR00158
+			
+primary replicative DNA helicase (EC 3.6.1.-)	3.6.4.12	CDS	TIGR00665
+			
+			
+hypothetical protein		CDS	
+			
+Membrane protein involved in colicin uptake		CDS	
+			
+Uracil-DNA glycosylase (EC 3.2.2.-)	3.2.2.27	CDS	TIGR00628
+			
+aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C (EC 6.3.5.-)		CDS	TIGR00135
+			
+			
+aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A (EC 6.3.5.-)	6.3.5.7, 6.3.5.6	CDS	TIGR00132
+aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (EC 6.3.5.-)	6.3.5.7, 6.3.5.6	CDS	TIGR00133
+transcriptional regulator, GntR family		CDS	
+thioredoxin-disulfide reductase	1.8.1.9	CDS	TIGR01292
+			
+conserved hypothetical protein		CDS	TIGR00647
+protein translocase, SecG subunit		CDS	TIGR00810
+			
+			
+RNAse R (EC 3.1.-.-)	3.1.-	CDS	TIGR00358, TIGR02063
+peptide deformylase (EC 3.5.1.88)	3.5.1.88	CDS	TIGR00079
+TIGR00159 family protein		CDS	TIGR00159, TIGR00159
+			
+guanylate kinase (EC 2.7.4.8)	2.7.4.8	CDS	TIGR03263
+			
+Serine/threonine protein phosphatase	3.1.3.16	CDS	
+			
+Serine/threonine protein kinase	2.7.11.1	CDS	
+			
+ribosome small subunit-dependent GTPase A	3.6.1.-	CDS	TIGR00157
+			
+			
+glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	CDS	
+ribulose-5-phosphate 3-epimerase (EC 5.1.3.1)	5.1.3.1	CDS	TIGR01163
+			
+			
+asparaginyl-tRNA synthetase (EC 6.1.1.22)	6.1.1.22	CDS	TIGR00457
+			
+CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	CDS	TIGR00560
+competence/damage-inducible protein cinA		CDS	TIGR00199
+			
+4-diphosphocytidyl-2-methyl-D-erithritol synthase		CDS	
+			
+hypothetical protein		CDS	
+			
+UDP-glucose-4-epimerase	5.1.3.2	CDS	TIGR01179
+			
+nucleoside ABC transporter ATP-binding protein	3.6.3.17	CDS	
+			
+			
+nucleoside ABC transporter membrane protein		CDS	
+			
+			
+			
+nucleoside ABC transporter membrane protein		CDS	
+			
+			
+DNA topoisomerase I (EC 5.99.1.2)	5.99.1.2	CDS	TIGR01051
+			
+hypothetical protein		CDS	
+thioredoxin		CDS	TIGR01068
+			
+tryptophanyl-tRNA synthetase (EC 6.1.1.2)	6.1.1.2	CDS	TIGR00233
+Predicted hydrolases of the HAD superfamily		CDS	TIGR00099, TIGR01484
+transcriptional regulator, Spx/MgsR family		CDS	TIGR01617
+Predicted sugar kinase	2.7.1.23	CDS	
+Phosphotransferase system IIB components		CDS	
+			
+uncharacterized domain HDIG		CDS	TIGR00277
+hypothetical protein		CDS	
+Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases		CDS	
+hypothetical protein		CDS	
+Protein of unknown function (DUF1600).		CDS	
+			
+			
+hypothetical protein		CDS	
+DNA-binding protein, YbaB/EbfC family		CDS	TIGR00103
+			
+			
+			
+lysyl-tRNA synthetase, class II (EC 6.1.1.6)	6.1.1.6	CDS	TIGR00499
+			
+			
+UDP-galactopyranose mutase	5.4.99.9	CDS	TIGR00031
+GTP-binding protein LepA		CDS	TIGR00231, TIGR01393
+			
+Predicted hydrolase of the metallo-beta-lactamase superfamily	3.1.-	CDS	TIGR00649
+			
+hypothetical protein		CDS	
+Mycoplasma adhesin P1.		CDS	
+			
+			
+			
+MgpC protein precursor.		CDS	
+			
+			
+			
+			
+			
+			
+hypothetical protein		CDS	
+MgpC protein precursor.		CDS	
+			
+			
+			
+			
+			
+AAA domain./Part of AAA domain./Protein of unknown function (DUF4011).		CDS	
+			
+			
+NusA antitermination factor		CDS	TIGR01953
+Predicted nucleic-acid-binding protein implicated in transcription termination		CDS	
+bacterial translation initiation factor 2 (bIF-2)		CDS	TIGR00487, TIGR00231
+ribosome-binding factor A		CDS	TIGR00082
+			
+			
+			
+hypothetical protein		CDS	
+riboflavin kinase/FMN adenylyltransferase	2.7.1.26, 2.7.7.2	CDS	TIGR00083, TIGR00125
+			
+			
+Hemolysins and related proteins containing CBS domains		CDS	
+			
+hypothetical protein		CDS	
+			
+			
+			
+Uncharacterized protein conserved in bacteria		CDS	
+			
+hypothetical protein		CDS	
+hypothetical protein		CDS	
+SSU ribosomal protein S10P		CDS	TIGR01049
+			
+LSU ribosomal protein L3P		CDS	TIGR03625
+LSU ribosomal protein L4P		CDS	TIGR03953
+LSU ribosomal protein L23P		CDS	
+LSU ribosomal protein L2P		CDS	TIGR01171
+SSU ribosomal protein S19P		CDS	TIGR01050
+LSU ribosomal protein L22P		CDS	TIGR01044
+SSU ribosomal protein S3P		CDS	TIGR01009
+			
+			
+			
+LSU ribosomal protein L16P		CDS	TIGR01164
+LSU ribosomal protein L29P		CDS	TIGR00012
+			
+SSU ribosomal protein S17P		CDS	TIGR03635
+LSU ribosomal protein L14P		CDS	TIGR01067
+LSU ribosomal protein L24P		CDS	TIGR01079
+			
+LSU ribosomal protein L5P		CDS	
+			
+SSU ribosomal protein S14P		CDS	
+SSU ribosomal protein S8P		CDS	
+			
+LSU ribosomal protein L6P		CDS	TIGR03654
+LSU ribosomal protein L18P		CDS	TIGR00060
+SSU ribosomal protein S5P		CDS	TIGR01021
+LSU ribosomal protein L15P		CDS	TIGR01071
+protein translocase subunit secY/sec61 alpha		CDS	TIGR00967
+Adenylate kinase (EC 2.7.4.3)	2.7.4.3	CDS	TIGR01351
+methionine aminopeptidase, type I (EC 3.4.11.18)	3.4.11.18	CDS	TIGR00500
+bacterial translation initiation factor 1 (bIF-1)		CDS	TIGR00008
+			
+			
+SSU ribosomal protein S13P		CDS	TIGR03631
+SSU ribosomal protein S11P		CDS	TIGR03632
+			
+DNA-directed RNA polymerase subunit alpha (EC 2.7.7.6)	2.7.7.6	CDS	TIGR02027
+LSU ribosomal protein L17P		CDS	TIGR00059
+			
+ABC-type cobalt transport system, ATPase component		CDS	
+ABC-type cobalt transport system, ATPase component		CDS	
+			
+			
+Cobalt transport protein.		CDS	
+pseudouridylate synthase I	5.4.99.12	CDS	TIGR00071
+			
+			
+			
+oligopeptidase F. Metallo peptidase. MEROPS family M03B	3.4.24.-	CDS	TIGR00181
+			
+Adenine-specific methyltransferase EcoRI.	2.1.1.72	CDS	
+			
+			
+Putative mycoplasma lipoprotein, C-terminal region./Mycoplasma MG185/MG260 protein.		CDS	
+			
+			
+Mycoplasma adhesin P1.		CDS	
+			
+			
+hypothetical protein		CDS	
+			
+			
+			
+			
+hypothetical protein		CDS	
+			
+			
+			
+carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)		CDS	
+			
+			
+carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)		CDS	
+			
+carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)		CDS	
+hypothetical protein		CDS	
+			
+Exopolyphosphatase-related proteins		CDS	
+			
+			
+			
+			
+			
+adhesin P1		CDS	TIGR03839
+			
+			
+			
+			
+			
+MgpC protein precursor.		CDS	
+hypothetical protein		CDS	
+			
+			
+hypothetical protein		CDS	
+Mycoplasma adhesin P1.		CDS	
+hypothetical protein		CDS	
+			
+			
+phenylalanyl-tRNA synthetase, alpha subunit (EC 6.1.1.20)	6.1.1.20	CDS	TIGR00468
+			
+			
+			
+			
+			
+phenylalanyl-tRNA synthetase beta subunit (EC 6.1.1.20)	6.1.1.20	CDS	TIGR00472
+bacterial translation initiation factor 3 (bIF-3)		CDS	TIGR00168
+LSU ribosomal protein L35P		CDS	TIGR00001
+Ribonuclease HIII	3.1.26.4	CDS	TIGR00716
+LSU ribosomal protein L20P		CDS	TIGR01032
+			
+EAGR box		CDS	TIGR03834, TIGR03835
+			
+Molecular chaperone GrpE (heat shock protein)		CDS	
+hypothetical protein		CDS	
+			
+DNA topoisomerase IV subunit B (EC 5.99.1.3)	5.99.1.-	CDS	TIGR01058
+			
+heat-inducible transcription repressor HrcA		CDS	TIGR00331
+DNA topoisomerase IV subunit A (EC 5.99.1.3)	5.99.1.-	CDS	TIGR01061
+			
+Excinuclease ABC subunit C		CDS	TIGR00194
+universal bacterial protein YeaZ		CDS	TIGR03725
+phosphoesterase, MJ0936 family		CDS	TIGR00040
+ribosomal large subunit pseudouridine synthase D (EC 5.4.99.-)	5.4.99.23	CDS	TIGR00005
+lipoprotein signal peptidase	3.4.23.36	CDS	TIGR00077
+			
+			
+hypothetical protein		CDS	
+ribosomal protein S21		CDS	TIGR00030
+			
+DivIVA domain		CDS	TIGR03544
+phosphopantetheine--protein transferase domain	2.7.8.7	CDS	TIGR00516, TIGR00556
+			
+1-acyl-sn-glycerol-3-phosphate acyltransferases	2.3.1.51	CDS	TIGR00530
+			
+condensin subunit ScpA		CDS	
+condensin subunit ScpB		CDS	TIGR00281
+			
+6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	CDS	
+			
+			
+pyruvate kinase (EC 2.7.1.40)	2.7.1.40	CDS	TIGR01064
+			
+hypothetical protein		CDS	
+			
+			
+hypothetical protein		CDS	
+			
+hypothetical protein		CDS	
+hypothetical protein		CDS	
+hypothetical protein		CDS	
+mraZ protein		CDS	TIGR00242
+S-adenosyl-methyltransferase MraW	2.1.1.199	CDS	TIGR00006
+hypothetical protein		CDS	
+			
+cell division protein FtsZ		CDS	TIGR00065
+			
+amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)		CDS	
+			
+			
+amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)		CDS	
+hypothetical protein		CDS	
+			
+thymidylate synthase (EC 2.1.1.45)	2.1.1.45	CDS	TIGR03284
+			
+Dihydrofolate reductase	1.5.1.3	CDS	
+ribonucleoside-diphosphate reductase class Ib beta subunit (EC 1.17.4.1)	1.17.4.1	CDS	TIGR04171
+ribonucleoside-diphosphate reductase 2, operon protein nrdI		CDS	TIGR00333
+			
+ribonucleoside-diphosphate reductase, alpha subunit	1.17.4.1	CDS	TIGR02506, TIGR04170
+LSU ribosomal protein L21P		CDS	TIGR00061
+Predicted ribosomal protein		CDS	
+LSU ribosomal protein L27P		CDS	TIGR00062
+			
+Endonuclease IV (EC 3.1.21.-)	3.1.21.2	CDS	TIGR00587
+Fe2+/Zn2+ uptake regulation proteins		CDS	
+Protein of unknown function (DUF3196).		CDS	
+trigger factor		CDS	TIGR00115
+			
+nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	2.7.7.18	CDS	TIGR00488, TIGR00125, TIGR00482
+Lon-B peptidase. Serine peptidase. MEROPS family S16	3.4.21.53	CDS	TIGR00763
+			
+			
+			
+			
+hypothetical protein		CDS	
+			
+			
+			
+			
+hypothetical protein		CDS	
+RDD family.		CDS	
+			
+			
+Superfamily I DNA and RNA helicases	3.6.4.12	CDS	
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	CDS	TIGR02727
+			
+acyl-phosphate glycerol-3-phosphate acyltransferase	2.3.1.15	CDS	TIGR00023
+metallophosphoesterase, MG_246/BB_0505 family		CDS	TIGR00282
+			
+			
+Predicted SAM-dependent methyltransferase		CDS	
+RNA polymerase sigma factor, sigma-70 family		CDS	TIGR02937, TIGR02393
+			
+			
+DNA primase (EC 2.7.7.-)	2.7.7.-	CDS	TIGR01391
+			
+			
+			
+glycyl-tRNA synthetase (EC 6.1.1.14)	6.1.1.14	CDS	TIGR00389
+			
+			
+			
+			
+rRNA methylase, putative, group 3	2.1.1.185	CDS	TIGR00186
+			
+			
+cysteinyl-tRNA synthetase (EC 6.1.1.16)	6.1.1.16	CDS	TIGR00435
+			
+			
+			
+DNA ligase, NAD-dependent	6.5.1.2	CDS	TIGR00575
+			
+			
+			
+hypothetical protein		CDS	
+			
+			
+			
+hypothetical protein		CDS	
+LSU ribosomal protein L31P		CDS	TIGR00105
+			
+bacterial peptide chain release factor 1 (bRF-1)		CDS	TIGR00019
+			
+			
+Methylase of polypeptide chain release factors		CDS	TIGR00536
+			
+Putative mycoplasma lipoprotein, C-terminal region./Mycoplasma MG185/MG260 protein.		CDS	
+			
+hypothetical protein		CDS	
+			
+Mycoplasma adhesin P1.		CDS	
+			
+MgpC protein precursor.		CDS	
+hypothetical protein		CDS	
+			
+			
+			
+			
+DNA-directed DNA polymerase III (polc)	2.7.7.7	CDS	TIGR00594
+5'-3' exonuclease (including N-terminal domain of PolI)	2.7.7.7	CDS	
+formamidopyrimidine-DNA glycosylase (fpg)	4.2.99.18, 3.2.2.23	CDS	TIGR00577
+			
+HAD-superfamily hydrolase, subfamily IIB		CDS	TIGR00099, TIGR01484
+			
+HAD-superfamily hydrolase, subfamily IIB		CDS	TIGR01484, TIGR00099
+dephospho-CoA kinase	2.7.1.24	CDS	TIGR00152
+leucyl-tRNA synthetase (EC 6.1.1.4)	6.1.1.4	CDS	TIGR00396
+			
+			
+			
+hypothetical protein		CDS	
+Deoxynucleoside kinases		CDS	
+			
+			
+hypothetical protein		CDS	
+hypothetical protein		CDS	
+lipoate-protein ligase (EC 6.-.-.-)	2.7.7.63	CDS	TIGR00545
+			
+dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	CDS	TIGR01350
+			
+Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes	2.3.1.12	CDS	
+Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, eukaryotic type, beta subunit	1.2.4.1	CDS	
+			
+pyruvate dehydrogenase E1 component, alpha subunit	1.2.4.1	CDS	TIGR03181
+			
+			
+Uncharacterized NAD(FAD)-dependent dehydrogenases	1.6.99.3	CDS	
+			
+adenine phosphoribosyltransferase (EC 2.4.2.7)	2.4.2.7	CDS	TIGR01090
+hypothetical protein		CDS	
+			
+			
+			
+			
+			
+			
+			
+hypothetical protein		CDS	
+(p)ppGpp synthetase, RelA/SpoT family	2.7.6.5	CDS	TIGR00691
+hypothetical protein		CDS	
+hypothetical protein		CDS	
+			
+transcription elongation factor GreA		CDS	TIGR01462
+			
+prolyl-tRNA synthetase (EC 6.1.1.15)	6.1.1.15	CDS	TIGR00408
+hypothetical protein		CDS	
+			
+			
+hypothetical protein		CDS	
+			
+hypothetical protein		CDS	
+Acyl carrier protein		CDS	TIGR00517
+			
+hypothetical protein		CDS	
+Mycoplasma adhesin P1.		CDS	
+			
+			
+			
+			
+MG032/MG096/MG288 family 1./MG032/MG096/MG288 family 2.		CDS	
+MgpC protein precursor.		CDS	
+hypothetical protein		CDS	
+			
+			
+High affinity transport system protein p37.		CDS	
+			
+ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components	3.6.3.28	CDS	
+			
+			
+			
+RNAse H-fold protein YqgF	3.1.-	CDS	TIGR00250
+ABC-type phosphate/phosphonate transport system, permease component		CDS	
+alanyl-tRNA synthetase (EC 6.1.1.7)	6.1.1.7	CDS	TIGR00344
+			
+			
+			
+			
+Glycerophosphoryl diester phosphodiesterase	3.1.4.46	CDS	
+			
+			
+Major Facilitator Superfamily.		CDS	
+			
+			
+			
+			
+tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)	2.8.1.-	CDS	TIGR00420
+			
+			
+Mg296 protein.		CDS	
+signal recognition particle-docking protein FtsY		CDS	TIGR00064
+			
+condensin subunit Smc		CDS	
+			
+			
+phosphotransacetylase (EC 2.3.1.8)	2.3.1.8	CDS	TIGR00651
+			
+phosphoglycerate kinase (EC 2.7.2.3)	2.7.2.3	CDS	
+			
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (EC 1.2.1.12)	1.2.1.12	CDS	TIGR01534
+ABC-type cobalt transport system, permease component CbiQ and related transporters		CDS	
+			
+ABC-type cobalt transport system, ATPase component		CDS	
+ABC-type cobalt transport system, ATPase component		CDS	
+chaperone protein DnaK		CDS	TIGR02350
+			
+Predicted integral membrane protein		CDS	
+			
+			
+Protein of unknown function (DUF3713).		CDS	
+			
+			
+			
+			
+Superfamily II DNA and RNA helicases		CDS	
+			
+			
+			
+Protein of unknown function (DUF3713).		CDS	
+			
+			
+			
+			
+			
+Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)		CDS	
+SSU ribosomal protein S4P		CDS	TIGR01017
+			
+cytadherence high molecular weight protein 1 N-terminal region		CDS	TIGR03834, TIGR03836
+			
+Protein of unknown function (DUF3816).		CDS	
+hypothetical protein		CDS	
+			
+			
+DNA polymerase III, delta subunit (EC 2.7.7.7)	2.7.7.7	CDS	
+			
+ComEC/Rec2-related protein		CDS	TIGR00360
+			
+hypothetical protein		CDS	
+			
+			
+ABC-type phosphate transport system, permease component		CDS	
+			
+hypothetical protein		CDS	
+hypothetical protein		CDS	
+			
+			
+hypothetical protein		CDS	
+			
+			
+			
+Trk-type K+ transport systems, membrane components		CDS	
+K+ transport systems, NAD-binding component		CDS	
+			
+			
+hypothetical protein		CDS	
+			
+			
+Xaa-Pro aminopeptidase		CDS	
+			
+			
+LSU ribosomal protein L33P		CDS	TIGR01023
+EDD domain protein, DegV family		CDS	TIGR00762
+			
+Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)		CDS	
+hypothetical protein		CDS	
+			
+ribosome-associated GTPase EngA		CDS	TIGR00231, TIGR00436, TIGR03594
+cytidylate kinase (EC 2.7.4.14)	2.7.4.14	CDS	TIGR00017
+hypothetical protein		CDS	
+			
+			
+DNA-binding regulatory protein, YebC/PmpR family		CDS	TIGR01033
+Acyl carrier protein phosphodiesterase	1.7.-	CDS	
+			
+valyl-tRNA synthetase (EC 6.1.1.9)	6.1.1.9	CDS	TIGR00422
+			
+			
+			
+ribosome biogenesis GTP-binding protein YsxC/EngB		CDS	TIGR00231, TIGR03598
+Uncharacterized protein conserved in bacteria		CDS	
+			
+			
+Glycosyltransferases involved in cell wall biogenesis		CDS	
+			
+Selenocysteine lyase	4.4.1.16, 2.8.1.7	CDS	
+Protein of unknown function (DUF3713).		CDS	
+NifU homolog involved in Fe-S cluster formation		CDS	
+			
+			
+			
+			
+			
+			
+			
+RecA protein		CDS	TIGR02012
+			
+			
+MgpC protein precursor.		CDS	
+			
+hypothetical protein		CDS	
+			
+DNA-directed RNA polymerase, beta' subunit, predominant form	2.7.7.6	CDS	TIGR02386
+Mycoplasma adhesin P1.		CDS	
+			
+DNA-directed RNA polymerase, beta subunit	2.7.7.6	CDS	TIGR02013
+			
+			
+Predicted flavoprotein		CDS	
+hypothetical protein		CDS	
+			
+			
+Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)		CDS	
+			
+			
+Isoleucyl-tRNA synthetase (EC 6.1.1.5)	6.1.1.5	CDS	TIGR00392
+			
+			
+			
+			
+			
+rRNA methylase, putative, group 2	2.1.1.207	CDS	TIGR00185
+			
+tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33)	2.1.1.33	CDS	TIGR00091
+hypothetical protein		CDS	
+			
+			
+			
+replicative DNA helicase loader DnaB		CDS	
+			
+			
+hypothetical protein		CDS	
+hypothetical protein		CDS	
+			
+			
+			
+Inorganic pyrophosphatase	3.6.1.1	CDS	
+			
+Bacterial nucleoid DNA-binding protein		CDS	
+recombination protein U		CDS	TIGR00648
+			
+Domain of unknown function (DUF1951).		CDS	
+ATPases with chaperone activity, ATP-binding subunit		CDS	
+			
+			
+			
+Predicted choline kinase involved in LPS biosynthesis		CDS	
+			
+acetate kinase (EC 2.7.2.1)	2.7.2.1	CDS	TIGR00016
+			
+hypothetical protein		CDS	
+hypothetical protein		CDS	
+Holliday junction DNA helicase subunit RuvA	3.6.4.12	CDS	TIGR00084
+Nucleotidyltransferase/DNA polymerase involved in DNA repair	2.7.7.7	CDS	
+Holliday junction DNA helicase subunit RuvB	3.6.4.12	CDS	TIGR00635
+			
+LSU ribosomal protein L10P		CDS	
+LSU ribosomal protein L12P		CDS	TIGR00855
+LSU ribosomal protein L32P		CDS	TIGR01031
+SSU ribosomal protein S20P		CDS	TIGR00029
+			
+			
+hypothetical protein		CDS	
+			
+methionyl-tRNA formyltransferase (EC 2.1.2.9)	2.1.2.9	CDS	TIGR00460
+			
+			
+Domain of unknown function(DUF2779).		CDS	
+RNAse III (EC 3.1.26.3)	3.1.26.3	CDS	TIGR02191
+			
+phosphate:acyl-[acyl carrier protein] acyltransferase	2.3.1.15	CDS	TIGR00182
+DAK2 domain fusion protein YloV		CDS	TIGR03599
+			
+pseudouridine synthase, RluA family	5.4.99.24	CDS	TIGR00005
+			
+Exopolyphosphatase-related proteins		CDS	
+			
+			
+thiazole biosynthesis/tRNA modification protein ThiI		CDS	TIGR00342
+YqaJ-like viral recombinase domain.		CDS	
+			
+			
+haloacid dehalogenase-like hydrolase.		CDS	
+threonyl-tRNA synthetase (EC 6.1.1.3)	6.1.1.3	CDS	TIGR00418
+			
+			
+			
+Protein of unknown function (DUF3217).		CDS	
+hypothetical protein		CDS	
+			
+arginyl-tRNA synthetase (EC 6.1.1.19)	6.1.1.19	CDS	TIGR00456
+			
+			
+			
+			
+glucose-inhibited division protein A		CDS	TIGR00136
+16S rRNA m(7)G-527 methyltransferase (EC 2.1.1.170)	2.1.1.170	CDS	TIGR00138
+hypothetical protein		CDS	
+			
+NH(3)-dependent NAD(+) synthetase (EC 6.3.1.5)	6.3.1.5	CDS	TIGR00552
+uridine kinase (EC 2.7.1.48)	2.7.1.48	CDS	TIGR00235
+			
+Obg family GTPase CgtA		CDS	TIGR03595, TIGR02729, TIGR00231
+			
+hypothetical protein		CDS	
+Glycerophosphoryl diester phosphodiesterase	3.1.4.46	CDS	
+			
+EAGR box		CDS	TIGR03834
+			
+			
+			
+			
+GTP-binding protein Era		CDS	TIGR00436, TIGR00231
+			
+Predicted metal-dependent hydrolase		CDS	TIGR00043
+			
+hypothetical protein		CDS	
+			
+ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain		CDS	
+			
+			
+Leucyl aminopeptidase	3.4.11.1	CDS	
+			
+chaperonin GroL		CDS	TIGR02348
+Co-chaperonin GroES (HSP10)		CDS	
+serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	CDS	
+			
+Putative peptidase (DUF31).		CDS	
+			
+hypothetical protein		CDS	
+ribose-5-phosphate isomerase (EC 5.3.1.6)	5.3.1.6	CDS	TIGR01120, TIGR00689
+Negative regulator of septation ring formation		CDS	
+			
+			
+F0F1-type ATP synthase, epsilon subunit (mitochondrial delta subunit)	3.6.3.14	CDS	
+ATP synthase F1 subcomplex beta subunit	3.6.3.14	CDS	TIGR01039
+ATP synthase, F1 gamma subunit	3.6.3.14	CDS	TIGR01146
+			
+proton translocating ATP synthase, F1 alpha subunit	3.6.3.14	CDS	TIGR00962
+			
+ATP synthase F1 subcomplex delta subunit	3.6.3.14	CDS	TIGR01145
+ATP synthase, F0 subunit b	3.6.3.14	CDS	TIGR01144
+ATP synthase F0 subcomplex C subunit	3.6.3.14	CDS	TIGR01260
+F0F1-type ATP synthase, subunit a	3.6.3.14	CDS	
+			
+enolase (EC 4.2.1.11)	4.2.1.11	CDS	TIGR01060
+hypothetical protein		CDS	
+			
+			
+phosphate transport system regulatory protein PhoU		CDS	TIGR02135
+methionine-S-sulfoxide reductase	1.8.4.11	CDS	TIGR00401
+phosphate ABC transporter ATP-binding protein, PhoT family (TC 3.A.1.7.1)	3.6.3.27	CDS	TIGR00972
+			
+			
+phosphate ABC transporter membrane protein 2, PhoT family (TC 3.A.1.7.1)		CDS	TIGR00974
+			
+			
+			
+phosphate ABC transporter substrate-binding protein, PhoT family (TC 3.A.1.7.1)		CDS	
+			
+			
+hypothetical protein		CDS	
+			
+			
+			
+			
+hypothetical protein		CDS	
+			
+			
+			
+SSU ribosomal protein S9P		CDS	
+LSU ribosomal protein L13P		CDS	TIGR01066
+			
+			
+DNA polymerase III, subunit gamma and tau	2.7.7.7	CDS	TIGR02397
+			
+			
+Excinuclease ABC subunit A		CDS	TIGR00630
+			
+hypothetical protein		CDS	
+			
+			
+			
+			
+			
+			
+			
+conserved hypothetical protein		CDS	TIGR00649
+			
+SSU ribosomal protein S15P		CDS	TIGR00952
+			
+			
+ATP-dependent RNA helicase DbpA (EC 5.99.1.-)	3.6.4.13	CDS	
+LSU ribosomal protein L28P		CDS	TIGR00009
+			
+Predicted redox protein, regulator of disulfide bond formation		CDS	
+phosphoenolpyruvate--protein phosphotransferase (EC 2.7.3.9)	2.7.3.9	CDS	TIGR01417
+Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain		CDS	TIGR02937
+			
+			
+			
+phosphoglycerate mutase (EC 5.4.2.1)	5.4.2.1	CDS	TIGR01307
+triosephosphate isomerase (EC 5.3.1.1)	5.3.1.1	CDS	TIGR00419
+			
+Uncharacterized conserved protein		CDS	
+			
+			
+			
+translation elongation factor Ts (EF-Ts)		CDS	TIGR00116
+uridylate kinase (EC 2.7.4.22)	2.7.4.22	CDS	TIGR02075
+			
+ribosome recycling factor		CDS	TIGR00496
+			
+phosphatidate cytidylyltransferase (EC 2.7.7.41)	2.7.7.41	CDS	
+			
+Restriction endonuclease S subunits		CDS	
+Lipoprotein.		CDS	
+			
+Lipoprotein.		CDS	
+			
+hypothetical protein		CDS	
+			
+Ras superfamily GTP-binding protein YlqF		CDS	TIGR03596
+Uncharacterized conserved protein		CDS	
+			
+LSU ribosomal protein L19P		CDS	TIGR01024
+tRNA (Guanine37-N(1)-) methyltransferase (EC 2.1.1.31)		CDS	TIGR00088
+SSU ribosomal protein S16P		CDS	TIGR00002
+Na+-driven multidrug efflux pump		CDS	
+			
+			
+Conserved domain frequently associated with peptide methionine sulfoxide reductase	1.8.4.12	CDS	TIGR00357
+			
+EMAP domain		CDS	
+			
+hypothetical protein		CDS	
+EDD domain protein, DegV family		CDS	TIGR00762
+			
+translation elongation factor 1A (EF-1A/EF-Tu)		CDS	TIGR00485, TIGR00231
+			
+Protein of unknown function (DUF1600).		CDS	
+peroxiredoxin, Ohr subfamily		CDS	TIGR03561
+UDP-glucose pyrophosphorylase (EC 2.7.7.9)	2.7.7.9	CDS	TIGR01099
+			
+			
+			
+hypothetical protein		CDS	
+tyrosyl-tRNA synthetase (EC 6.1.1.1)	6.1.1.1	CDS	TIGR00234
+			
+hypothetical protein		CDS	
+			
+membrane protease FtsH catalytic subunit (EC 3.4.24.-)	3.4.24.-	CDS	TIGR01241
+			
+hypothetical protein		CDS	
+hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)	2.4.2.8	CDS	TIGR01203
+2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	4.6.1.12	CDS	TIGR00151
+			
+HD superfamily phosphohydrolases		CDS	
+malate dehydrogenase (NAD) (EC 1.1.1.37)	1.1.1.27	CDS	TIGR01771
+			
+			
+glutamyl-tRNA synthetase (EC 6.1.1.17)	6.1.1.17	CDS	TIGR00464
+			
+			
+			
+dimethyladenosine transferase (EC 2.1.1.-)	2.1.1.182	CDS	TIGR00755
+Preprotein translocase subunit YidC		CDS	TIGR03592
+			
+ribonuclease P protein component, eubacterial	3.1.26.5	CDS	TIGR00188
+ABC-type antimicrobial peptide transport system, ATPase component		CDS	
+ABC-type antimicrobial peptide transport system, permease component		CDS	
+			
+			
+			
+			
+			
+			
+			
+ABC-type antimicrobial peptide transport system, ATPase component		CDS	
+			
+chromosomal replication initiator protein DnaA		CDS	TIGR00362
+hypothetical protein		CDS	
+			
+ATPases involved in chromosome partitioning		CDS	

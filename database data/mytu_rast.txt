@@ -1,0 +1,4242 @@
+Chromosomal replication initiator protein DnaA			
+DNA polymerase III beta subunit (EC 2.7.7.7)			
+DNA recombination and repair protein RecF			
+"Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives"			
+DNA gyrase subunit B (EC 5.99.1.3)			
+DNA gyrase subunit A (EC 5.99.1.3)			
+FIG00822768: hypothetical protein			
+FIG187021: hypothetical protein			
+			
+FIG00822946: hypothetical protein			
+FIG024317: hypothetical protein			
+Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)			
+FIG00822644: hypothetical protein			
+FIG020554: membrane protein			
+FIG018426: putative septation inhibitor protein			
+FIG215594: Membrane spanning protein			
+PknB			
+"Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85) # TrpAb@PabAb"			
+Serine/threonine-protein kinase PknA (EC 2.7.11.1)			
+Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)			
+Cell division protein FtsW			
+Serine/threonine phosphatase PPP (EC 3.1.3.16)			
+FIG00818182: hypothetical protein			
+FIG025441: hypothetical protein			
+FIG00830002: hypothetical protein			
+hypothetical protein			
+WhiB family transcriptional regulator			
+Transcriptional regulatory protein			
+"NlpC/P60 family, cell wall-associated hydrolase, invasion-associated protein"			
+FIG00821242: hypothetical protein			
+FIG00821131: hypothetical protein			
+FIG00822329: hypothetical protein			
+FIG00820005: hypothetical protein			
+Vegetative cell wall protein gp1 precursor			
+FIG00820917: hypothetical protein			
+"aminotransferase, class II"			
+Acyl carrier protein			
+FIG00821634: hypothetical protein			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+FIG00822256: hypothetical protein			
+Possible membrane protein			
+FIG00996838: hypothetical protein			
+Possible membrane protein			
+Proline-rich 28 kDa antigen			
+Leucyl-tRNA synthetase (EC 6.1.1.4)			
+"Transcriptional regulator, MarR family"			
+"Transcriptional regulator, GntR family"			
+Possible oxidoreductase			
+Hydrolase			
+Inositol-1-phosphate synthase (EC 5.5.1.4)			
+"Transcriptional regulator, PadR family"			
+Possible membrane protein			
+hypothetical protein			
+Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)			
+Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)			
+ThiJ/PfpI family protein			
+SSU ribosomal protein S6p			
+Single-stranded DNA-binding protein			
+"SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent"			
+LSU ribosomal protein L9p			
+FIG00822036: hypothetical protein			
+Replicative DNA helicase (EC 3.6.1.-) @ intein-containing			
+FIG00821672: hypothetical protein			
+"ADP-ribose 1""-phosphate phophatase related protein"			
+FIG00822718: hypothetical protein			
+FIG00820573: hypothetical protein			
+Endoglucanase A precursor (EC 3.2.1.4)			
+Oxidoreductase			
+FIG00823318: hypothetical protein			
+INTEGRAL MEMBRANE PROTEIN (Rhomboid family)			
+FIG00821519: hypothetical protein			
+FIG00821043: hypothetical protein			
+Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)			
+"Transcriptional regulator, TetR family"			
+Oxidoreductase/Short-chain dehydrogenase			
+L-serine dehydratase (EC 4.3.1.17)			
+Serine hydroxymethyltransferase (EC 2.1.2.1)			
+Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)			
+Glutamine-transport transmembrane protein ABC transporter			
+Glutamine-transport ATP-binding protein ABC transporter			
+hypothetical protein			
+"Cystathionine beta-lyase, type II (EC 4.4.1.8)"			
+PROBABLE MEMBRANE PROTEIN			
+Oxidoreductase			
+"Transcriptional regulator, TetR family"			
+FIG00822098: hypothetical protein			
+			
+FIG00820894: hypothetical protein			
+FIG033054: hypothetical protein			
+"regulatory protein, ArsR"			
+Formate hydrogenlyase subunit 7			
+Hydrogenase-4 component B (EC 1.-.-.-) / Formate hydrogenlyase subunit 3			
+Formate hydrogenlyase subunit 4			
+Hydrogenase-4 component E (EC 1.-.-.-)			
+Hydrogenase-4 component F (EC 1.-.-.-)			
+Formate hydrogenlyase subunit 5			
+FIG00821781: hypothetical protein			
+Methyltransferase/methylase			
+Possible membrane protein			
+			
+5'-methylthioadenosine nucleosidase (EC 3.2.2.16) / S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)			
+			
+"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"			
+Partial REP13E12 repeat protein			
+Partial REP13E12 repeat protein			
+FIG00821345: hypothetical protein			
+PPE family protein			
+Oxidoreductase			
+FIG00822555: hypothetical protein			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+FIG024827: hypothetical protein			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+"Cytochrome c oxidase caa3-type, assembly factor CtaG-related protein"			
+"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"			
+FIG00823331: hypothetical protein			
+LSU ribosomal protein L28p			
+"Putative metal chaperone, involved in Zn homeostasis, GTPase of COG0523 family"			
+Probable cation-transporting ATPase I (EC 3.6.3.-)			
+FIG00821282: hypothetical protein			
+PE-PGRS FAMILY PROTEIN			
+FIG056164: rhomboid family serine protease			
+Transmembrane acyltransferase (EC:2.3.1.-)			
+"GDP-mannose 4,6 dehydratase (EC 4.2.1.47)"			
+Phosphoheptose isomerase (EC 5.3.1.-)			
+FIG00820450: hypothetical protein			
+			
+"D,D-heptose 7-phosphate kinase"			
+FIG00821503: hypothetical protein			
+Possible membrane protein			
+Oxalyl-CoA decarboxylase (EC 4.1.1.8)			
+Hydrogen peroxide-inducible genes activator			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Translation elongation factor G-related protein			
+PPOX class F420-dependent enzyme			
+FIG00823664: hypothetical protein			
+"DNA-binding protein, CopG family"			
+FIG00824260: hypothetical protein			
+PE-PGRS family protein			
+Serine protease PepA			
+Trehalose synthase (EC 5.4.99.16)			
+"Uncharacterized protein, probably involved in trehalose biosynthesis [Carbohydrate transport and metabolism]"			
+Possible membrane protein			
+Antigen 85-C precursor (85C) (Antigen 85 complex C) (Ag85C) (Mycolyl transferase 85C) (EC 2.3.1.-)			
+Probable enoyl-CoA hydratase 1 (EC 4.2.1.17)			
+PROBABLE ACYL-CoA DEHYDROGENASE FADE1 (EC 1.3.99.-)			
+F420-dependent glucose-6-phosphate dehydrogenase Fgd3			
+Histone acetyltransferase HPA2 and related acetyltransferases			
+"Transcriptional regulator, TetR family"			
+epoxide hydrolase			
+Cytochrome P450 138			
+Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11)			
+FIG00821695: hypothetical protein			
+Dihydroflavonol-4-reductase (EC 1.1.1.219)			
+FIG00820093: hypothetical protein			
+FIG00822464: hypothetical protein			
+FIG00822261: hypothetical protein			
+Chloride channel protein			
+"Transcriptional regulator, TetR family"			
+FIG00823034: hypothetical protein			
+FIG00823034: hypothetical protein			
+Aldehyde dehydrogenase (EC 1.2.1.3)			
+Short-chain dehydrogenase/reductase SDR			
+FIG00820781: hypothetical protein			
+Quinone oxidoreductase (EC 1.6.5.5)			
+PE family protein			
+PE family protein			
+PE-PGRS FAMILY PROTEIN			
+Protein tyrosine phosphatase (EC 3.1.3.48)			
+Butyryl-CoA dehydrogenase (EC 1.3.99.2)			
+NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)			
+NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)			
+NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)			
+"Transcriptional regulator, TetR family"			
+PE family protein			
+PE family protein			
+putative oxidoreductase			
+Alcohol dehydrogenase (EC 1.1.1.1)			
+putative 4-hydroxybenzoyl-CoA thioesterase			
+FIG00820956: hypothetical protein			
+"Predicted regulator PutR for proline utilization, GntR family"			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Conserved hypothetical integral membrane protein YrbE1A			
+Conserved hypothetical integral membrane protein YrbE1B			
+MCE-family protein Mce1A			
+MCE-family protein Mce1B			
+MCE-family protein Mce1C			
+MCE-family protein Mce1D			
+MCE-family lipoprotein LprK (MCE-family lipoprotein Mce1e)			
+MCE-family protein Mce1F			
+FIG033430: Probable conserved MCE associated membrane protein			
+FIG033285: Conserved MCE associated transmembrane protein			
+FIG034772: Probable conserved MCE associated protein			
+FIG030769: Probable conserved MCE associated membrane protein			
+Possible lipoprotein LprO			
+Possible membrane protein			
+Pirin-like protein Rv0181c/MT0192			
+RNA polymerase factor sigma-70			
+"lysophospholipase, putative"			
+FIG00819976: hypothetical protein			
+FIG00820103: hypothetical protein			
+Beta-glucosidase (EC 3.2.1.21)			
+O-methyltransferase			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+Dihydroxy-acid dehydratase (EC 4.2.1.9)			
+FIG00820970: hypothetical protein			
+"Integral membrane protein, sugar transporter"			
+			
+YkuD domain-containing hypothetical lipoprotein			
+FIG00821418: hypothetical protein			
+ATP binding cassette (ABC) transporter homolog			
+"Transcriptional regulator, LuxR family"			
+"Transcriptional regulator, TetR family"			
+Metallopeptidase			
+"Formate dehydrogenase-O, major subunit (EC 1.2.1.2)"			
+Possible membrane protein			
+FIG00821048: hypothetical protein			
+Possible membrane protein			
+Transmembrane transport protein MmpL13			
+POSSIBLE EXPORTED PROTEIN			
+Possible membrane protein			
+Transmembrane transport protein MmpL5			
+Possible membrane protein			
+FIG01001556: hypothetical protein			
+tRNA (guanine46-N7-)-methyltransferase (EC 2.1.1.33)			
+FIG032248: hypothetical protein			
+FIG033897: hypothetical protein			
+Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)			
+"Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1) / Ribosylnicotinamide kinase (EC 2.7.1.22)"			
+POSSIBLE METHYLTRANSFERASE (METHYLASE)			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+putative acyl-CoA dehydrogenase fadE3( EC:1.3.99.- )			
+Esterase LipW			
+hypothetical protein			
+Possible membrane protein			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+Esterase LipC			
+Diacyglycerol O-acyltransferase (EC 2.3.1.20)			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+Aldehyde dehydrogenase (EC 1.2.1.3)			
+POSSIBLE METHYLTRANSFERASE (METHYLASE)			
+Glycosyltransferase (EC 2.4.1.-)			
+Possible membrane protein			
+PROBABLE CONSERVED MEMBRANE PROTEIN			
+Lysophospholipid acyltransferase			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+FIG00821454: hypothetical protein			
+Phosphotriesterase homology protein			
+Acyl-CoA dehydrogenase (EC 1.3.99.3)			
+"Transcriptional regulator, TetR family"			
+Ribonucleotide-diphosphate reductase subunit beta (EC 1.17.4.1)			
+Succinate-semialdehyde dehydrogenase [NAD] (EC 1.2.1.24); Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.16)			
+Possible membrane protein			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+SMALL SECRETED PROTEIN			
+Beta-hexosaminidase (EC 3.2.1.52)			
+"Transcriptional regulator, TetR family"			
+FIG00821638: hypothetical protein			
+FIG00823838: hypothetical protein			
+Acyl dehydratase			
+3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)			
+3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)			
+PROBABLE ACYL-COA DEHYDROGENASE FADE5( EC:1.3.99.- )			
+Nitrilotriacetate monooxygenase component B (EC 1.14.13.-)			
+Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)			
+Possible membrane protein			
+Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)			
+putative succinate dehydrogenase [membrane anchor subunit] (succinic dehydrogenase)			
+FIG00820825: hypothetical protein			
+Heat shock protein hsp			
+Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4)			
+Nitrite reductase [NAD(P)H] small subunit (EC 1.7.1.4)			
+Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)			
+Cobyric acid synthase			
+Predicted cobalt transporter in Mycobacteria			
+FIG00825710: hypothetical protein			
+Sirohydrochlorin ferrochelatase (EC 4.99.1.4)			
+Bifunctional uroporphyrinogen-III synthetase/response regulator domain protein			
+Nitrate/nitrite transporter			
+Aminoglycoside 2'-N-acetyltransferase AAC (AAC(2')-IC)			
+Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)			
+Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)			
+"ABC transporter, periplasmic iron-transport lipoprotein"			
+"Similar to 5-oxoprolinase (EC 3.5.2.9) and Methylhydantoinases A, B (EC 3.5.2.14), contradiction in experimental data (see Annotation)"			
+Nitrate/nitrite transporter			
+FIG00820728: hypothetical protein			
+ATP-dependent DNA ligase (EC 6.5.1.1)			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+FadE6			
+FIG00820646: hypothetical protein			
+"Transcriptional regulator, TetR family"			
+"Transcriptional regulator, TetR family"			
+			
+FIG00820338: hypothetical protein			
+FIG00820219: hypothetical protein			
+FIG00820304: hypothetical protein			
+PE-PGRS FAMILY PROTEIN			
+PE-PGRS FAMILY PROTEIN			
+			
+PPE family protein			
+O-Methyltransferase			
+"AAA family ATPase, ESX-1 secretion system component Rv3868"			
+Type VII secretion protein EccB			
+Type VII secretion protein EccCa			
+PE family protein			
+PPE family protein			
+PE family protein			
+10 kDa antigen CFP7			
+RD1 region associated protein Rv3866			
+ESX-3 secretion system protein EccD3			
+Type VII secretion-associated serine protease mycosin MycP3			
+FIG00821889: hypothetical protein			
+ESX-3 secretion system protein EccE3			
+Sulfotransferase			
+Trans-aconitate 2-methyltransferase (EC 2.1.1.144)			
+Choline-sulfatase (EC 3.1.6.6)			
+PE-PGRS family protein			
+Programmed cell death antitoxin YdcD			
+Programmed cell death toxin YdcE			
+FIG00821978: hypothetical protein			
+FIG036853: hypothetical protein			
+TetR/ACRR family transcriptional regulator			
+"""Oxidoreductase, short-chain dehydrogenase/reductase family"""			
+PPE family protein			
+PPE family protein			
+FIG00820335: hypothetical protein			
+"Cobalamin biosynthesis protein BluB @ 5,6-dimethylbenzimidazole synthase, flavin destructase family"			
+Possible membrane protein			
+FIG019540: hypothetical protein			
+Bile acid 7-alpha dehydratase BaiE (EC 4.2.1.106)			
+FIG00823053: hypothetical protein			
+Proline and threonine rich protein			
+FIG00822480: hypothetical protein			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+"""Possible beta-1,3-glucanase"""			
+Muconolactone isomerase (EC 5.3.3.4)			
+Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)			
+Possible membrane protein			
+Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)			
+Possible conserved exported protein			
+Deoxycytidine triphosphate deaminase (EC 3.5.4.30) (dUMP-forming)			
+FIG030768: hypothetical protein			
+UDP-glucose dehydrogenase (EC 1.1.1.22)			
+"Transcriptional regulator, ArsR family"			
+Methyltransferase (EC 2.1.1.-)			
+Cytochrome P450 135A1			
+Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)			
+FIG034077: hypothetical protein			
+HTH-type transcriptional regulator BetI			
+"Transcriptional regulator, TetR family"			
+Oxidoreductase (flavoprotein)			
+FIG00820643: hypothetical protein			
+FIG00820524: hypothetical protein			
+Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)			
+PE family protein			
+			
+13E12 repeat family protein			
+aspartate aminotransferase AspC			
+Iron-sulphur-binding reductase			
+POSSIBLE TRANSCRIPTIONAL REGULATORY PROTEIN			
+FIG00820657: hypothetical protein			
+Isoniazid inductible protein IniB			
+Isoniazid inductible protein IniA			
+Isoniazid inductible protein IniC			
+Lipoprotein LpqJ			
+hypothetical protein			
+CTP:molybdopterin cytidylyltransferase			
+L-asparagine permease			
+hypothetical protein			
+FIG047027: hypothetical protein			
+FIG00821445: hypothetical protein			
+FIG046367: hypothetical protein			
+FIG00820329: hypothetical protein			
+Chaperone protein DnaK			
+Heat shock protein GrpE			
+Chaperone protein DnaJ			
+"HspR, transcriptional repressor of DnaK operon"			
+PPE family protein			
+PPE family protein			
+FIG00822066: hypothetical protein			
+Adenylosuccinate synthetase (EC 6.3.4.4)			
+FIG00820475: hypothetical protein			
+Possible membrane protein			
+hypothetical protein			
+PROBABLE CONSERVED MEMBRANE PROTEIN			
+Mg/Co/Ni transporter MgtE / CBS domain			
+Fructose-bisphosphate aldolase class II (EC 4.1.2.13)			
+fructose-bisphosphate aldolase family protein			
+DedA protein			
+FIG027960: hypothetical protein			
+FIG00824223: hypothetical protein			
+Carbon monoxide oxidation accessory protein CoxE			
+Carbon monoxide oxidation accessory protein CoxG			
+Carbon monoxide oxidation accessory protein CoxD			
+Uncharacterized MobA-related protein			
+Aerobic carbon monoxide dehydrogenase molybdenum cofactor insertion protein CoxF			
+"Carbon monoxide dehydrogenase form I, large chain( EC:1.2.99.2 )"			
+Carbon monoxide dehydrogenase small chain (EC 1.2.99.2)			
+Carbon monoxide dehydrogenase medium chain (EC 1.2.99.2)			
+"CO dehydrogenases maturation factor, CoxF family"			
+Transcription regulator in CO-DH cluster			
+PE_PGRS family protein			
+Preprotein translocase subunit SecE2			
+probable RNA methyltransferase			
+hypothetical protein Rv0381c			
+Orotate phosphoribosyltransferase (EC 2.4.2.10)			
+Possible membrane protein			
+ClpB protein			
+Flavohemoprotein (Hemoglobin-like protein) (Flavohemoglobin) (Nitric oxide dioxygenase) (EC 1.14.12.17)			
+"Adenylyl cyclase class-3/4/guanylyl cyclase / Disease resistance domain-containing protein / Tetratricopeptide repeat-containing protein / Transcriptional regulator, LuxR family"			
+PPE family protein			
+PPE family protein			
+FIG00822289: hypothetical protein			
+Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)			
+Rhodanese-related sulfurtransferase			
+NADH dehydrogenase (EC 1.6.99.3)			
+O-acetylhomoserine sulfhydrylase (EC 2.5.1.49)			
+CONSERVED 13E12 REPEAT FAMILY PROTEIN			
+13E12 repeat family protein			
+Possible membrane protein			
+FIG00820904: hypothetical protein			
+FIG00821159: hypothetical protein			
+13E12 repeat family protein			
+Possible membrane protein			
+D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)			
+Glutaryl-CoA dehydrogenase (EC 1.3.99.7)			
+Possible membrane protein			
+Transmembrane transport protein MmpL1			
+"membrane protein, MmpS family"			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+			
+Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)			
+F420-dependent glucose-6-phosphate dehydrogenase			
+Phosphate acetyltransferase (EC 2.3.1.8)			
+Acetate kinase (EC 2.7.2.1)			
+serine/threonine protein kinase			
+"""Glutamine ABC transporter, periplasmic glutamine-binding protein (TC 3.A.1.3.2)"""			
+Possible membrane protein			
+Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)			
+"""Possible mutator protein MutT3 (7,8-dihydro-8-oxoguanine-triphosphatase) """			
+Glycine oxidase ThiO (EC 1.4.3.19)			
+sulfur carrier protein ThiS			
+Thiazole biosynthesis protein ThiG			
+FIG00822290: hypothetical protein			
+"Aminopeptidase Y (Arg, Lys, Leu preference) (EC 3.4.11.15)"			
+Possible membrane protein			
+Lipoprotein peptidase LpqM			
+FIG022825: hypothetical protein			
+Phosphomethylpyrimidine kinase (EC 2.7.4.7)			
+Thiamin biosynthesis protein ThiC			
+FIG00821936: hypothetical protein			
+Metal cation transporting P-type ATPase CtpH			
+Possible membrane protein			
+Exodeoxyribonuclease III (EC 3.1.11.2)			
+Histone acetyltransferase HPA2 and related acetyltransferases			
+Peptide deformylase (EC 3.5.1.88)			
+FIG00822394: hypothetical protein			
+Tuberculin related peptide			
+Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)			
+Carboxylate-amine ligase			
+"Uncharacterized protein, similar to the N-terminal domain of Lon protease"			
+Cell division protein FtsH (EC 3.4.24.-)			
+CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)			
+Phosphatidylserine decarboxylase (EC 4.1.1.65)			
+Molybdopterin biosynthesis protein MoeA			
+probable oxidoreductase/Short-chain dehydrogenase			
+Heat shock protein 60 family chaperone GroEL			
+FIG00825576: hypothetical protein			
+PPE family protein			
+FIG00820451: hypothetical protein			
+FIG111991: hypothetical protein			
+alternative RNA polymerase sigma factor SigK			
+FIG005069: Hypothetical protein			
+"Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79), plant type"			
+FIG001571: Hypothetical protein			
+"COG2907: Amine oxidase, flavin-containing"			
+Transmembrane transport protein MmpL4			
+"membrane protein, MmpS family"			
+"Transcriptional regulator, TetR family"			
+PPE family protein			
+FIG00820218: hypothetical protein			
+FIG00821186: hypothetical protein			
+Possible membrane protein			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+PROBABLE PEPTIDASE( EC:3.4.- )			
+Aldehyde dehydrogenase (EC 1.2.1.3)			
+FIG00821442: hypothetical protein			
+Possible membrane protein			
+Possible membrane protein			
+Dihydrolipoamide dehydrogenase (EC 1.8.1.4)			
+Possible membrane protein			
+FIG00821074: hypothetical protein			
+"""Transcriptional regulator, XRE family"""			
+Acyl-ACP thioesterase			
+Isocitrate lyase (EC 4.1.3.1) / Methylisocitrate lyase (EC 4.1.3.30)			
+3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157); 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)			
+POSSIBLE MYCOLIC ACID SYNTHASE UMAA1			
+Mycolic acid synthase (PcaA/UmaA2) (Cyclopropane Synthase)			
+FIG00823681: hypothetical protein			
+FIG00820166: hypothetical protein			
+"""Transcriptional regulator, TetR family"""			
+Possible membrane protein			
+"""Transcriptional regulator, XRE family"""			
+Iron-regulated heparin binding hemagglutinin HbhA (Adhesin)			
+FIG00820770: hypothetical membrane protein			
+POSSIBLE CONSERVED SECRETED PROTEIN			
+Deoxyribose-phosphate aldolase (EC 4.1.2.4)			
+Possible membrane protein			
+Carbon-nitrogen hydrolase			
+Carbon-nitrogen hydrolase			
+FIG00996480: hypothetical protein			
+UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)			
+Serine 3-dehydrogenase			
+Possible lipoprotein LprQ			
+Transcriptional regulatory protein			
+Glycosyltransferase MshA involved in mycothiol biosynthesis (EC 2.4.1.-)			
+Uncharacterized protein Rv0487/MT0505 clustered with mycothiol biosynthesis gene			
+"""Transporter, LysE family"""			
+Phosphoglycerate mutase (EC 5.4.2.1)			
+Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3); Sensor-like histidine kinase senX3 (EC 2.7.13.3)			
+GMC-type oxidoreductase			
+Phosphate regulon transcriptional regulatory protein PhoB (SphR); Sensory transduction protein regX3			
+FIG00823091: hypothetical protein			
+FIG00824158: hypothetical protein			
+"Lactate-responsive regulator LldR in Enterobacteria, GntR family"			
+FIG00820527: hypothetical protein			
+Exopolyphosphatase (EC 3.6.1.11)			
+Possible membrane protein			
+"""AP endonuclease, family protein 2"""			
+TesB-like acyl-CoA thioesterase 3			
+Pyrroline-5-carboxylate reductase (EC 1.5.1.2)			
+"""DNA binding domain protein, excisionase family"""			
+UDP-glucose 4-epimerase (EC 5.1.3.2)			
+Phospholipid/glycerol acyltransferase			
+"Cyclopropane-fatty-acyl-phospholipid synthase 2, CmaA2 (EC 2.1.1.79)"			
+(3R)-hydroxyacyl-ACP dehydratase subunit HadA			
+Phosphoserine phosphatase (EC 3.1.3.3)			
+"membrane protein, MmpS family"			
+Putative membrane protein			
+FIG00822170: hypothetical protein			
+Glutamyl-tRNA reductase (EC 1.2.1.70)			
+Porphobilinogen deaminase (EC 2.5.1.61)			
+Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)			
+Porphobilinogen synthase (EC 4.2.1.24)			
+Transmembrane transport protein MmpL2			
+Possible membrane protein			
+Anti-sigma F factor antagonist (spoIIAA-2); Anti-sigma B factor antagonist RsbV			
+13E12 repeat family protein			
+Membrane acyltransferase			
+Possible membrane protein			
+Possible membrane protein			
+Similar to methyltransferase domain of sarcosine-dimethylglycine methyltransferase			
+POSSIBLE METHYLTRANSFERASE/METHYLASE (FRAGMENT)			
+FIG00820204: hypothetical protein			
+Aromatic amino acid transport protein AroP			
+Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)			
+"Hypothetical, related to broad specificity phosphatases COG0406"			
+Thiol:disulfide oxidoreductase related to ResA			
+Cytochrome c-type biogenesis protein CcdA (DsbD analog)			
+Ccs1/ResB-related putative cytochrome C-type biogenesis protein			
+Cytochrome c-type biogenesis protein CcsA/ResC			
+FIG00822430: hypothetical protein			
+RD1 region associated protein Rv3876			
+Possible membrane protein			
+			
+PE-PGRS family protein			
+"1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)"			
+5'-methylthioadenosine phosphorylase (EC 2.4.2.28)			
+UDP-glucose 4-epimerase (EC 5.1.3.2)			
+Possible membrane protein			
+Possible membrane protein			
+PROBABLE DOLICHYL-PHOSPHATE SUGAR SYNTHASE (DOLICHOL-PHOSPHATE SUGAR SYNTHETASE) (DOLICHOL-PHOSPHATE SUGAR TRANSFERASE) (SUGAR PHOSPHORYLDOLICHOL SYNTHASE)( EC:2.4.1.- )			
+FIG00821404: hypothetical protein			
+Putative ESX-1 secretion system component Rv3877			
+O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)			
+FIG00995255: hypothetical protein			
+Possible membrane protein			
+Probable low-affinity inorganic phosphate transporter			
+FIG020377: hypothetical protein			
+"""Oxidoreductase, short-chain dehydrogenase/reductase family"""			
+Naphthoate synthase (EC 4.1.3.36)			
+"Toxin 1, PIN domain"			
+Antitoxin 1a			
+FIG00821203: hypothetical protein			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Amidohydrolase family protein			
+O-succinylbenzoate synthase (EC 4.2.1.113)			
+"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)"			
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)			
+Possible membrane protein			
+Glycosyltransferase			
+ubiquinone/menaquinone biosynthesis methyltransferase			
+POSSIBLE CONSERVED SECRETED PROTEIN			
+Possible benzoquinone methyltransferase			
+Possible oxidoreductase (EC 1.-.-.-)			
+"Octaprenyl diphosphate synthase (EC 2.5.1.90) / Dimethylallyltransferase (EC 2.5.1.1) / (2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10) / Geranylgeranyl diphosphate synthase (EC 2.5.1.29)"			
+Probable protease htpX homolog (EC 3.4.24.-)			
+Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)			
+Cyclohexanone monooxygenase (EC 1.14.13.22)			
+FIG001943: hypothetical protein YajQ			
+O-methyltransferase			
+Cytochrome P450 135B1			
+FIG00820469: hypothetical protein			
+Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)			
+Phosphoribosyl transferase domain protein			
+FIG00822603: hypothetical protein			
+FIG00820669: hypothetical protein			
+Nicotinate phosphoribosyltransferase (EC 2.4.2.11)			
+Capsule biosynthesis protein CapA			
+Oxidoreductase			
+"Transcriptional regulator, ArsR family"			
+27 kDa antigen Cfp30B			
+PE-PGRS FAMILY PROTEIN			
+FIG00825218: hypothetical protein			
+FIG030357: hypothetical protein			
+FIG00820371: hypothetical protein			
+FIG00821513: hypothetical protein			
+Lipoprotein LpqN			
+			
+"Alpha-1,2-mannosidase"			
+Possible membrane protein			
+"Transcriptional regulator, GntR family"			
+Conserved hypothetical integral membrane protein YrbE1A			
+Conserved hypothetical integral membrane protein YrbE1B			
+MCE-family protein Mce1A			
+MCE-family protein Mce1B			
+MCE-family protein Mce1B			
+MCE-family protein Mce1C			
+MCE-family protein Mce1D			
+MCE-family lipoprotein LprK (MCE-family lipoprotein Mce1e)			
+MCE-family protein Mce1F			
+FIG00822047: hypothetical protein			
+FIG044579: hypothetical protein			
+ATPase			
+"Toxin 1, PIN domain"			
+FIG00822992: hypothetical protein			
+FIG00820380: hypothetical protein			
+PROBABLE TWO COMPONENT SENSOR KINASE [SECOND PART]			
+Integral membrane sensor signal transduction histidine kinase			
+Two component DNA binding Transcriptional regulatory protein TcrA			
+POSSIBLE EXPORTED PROTEIN			
+PROBABLE CONSERVED LIPOPROTEIN LPQO			
+Resolvase			
+Transposase			
+FIG00822227: hypothetical protein			
+FIG036639: hypothetical protein			
+FIG00821655: hypothetical protein			
+FIG00821340: hypothetical protein			
+FIG00822720: hypothetical protein			
+FIG00821968: hypothetical protein			
+hypothetical protein			
+FIG00820918: hypothetical protein			
+hypothetical protein			
+Possible membrane protein			
+Possible membrane protein			
+FIG00820212: hypothetical protein			
+FIG037359: hypothetical protein			
+Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)			
+Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)			
+Galactokinase (EC 2.7.1.6)			
+Possible membrane protein			
+Possible membrane protein			
+FIG00821357: hypothetical protein			
+FIG00825799: hypothetical protein			
+Possible membrane protein			
+FIG00822638: hypothetical protein			
+FIG00821685: hypothetical protein			
+FIG00822946: hypothetical protein			
+Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)			
+Exodeoxyribonuclease V beta chain (EC 3.1.11.5)			
+Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)			
+Enoyl-CoA hydratase			
+Possible membrane protein			
+FIG00822416: hypothetical protein			
+FIG00822280: hypothetical protein			
+"LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent"			
+FIG00995223: hypothetical protein			
+(3R)-hydroxyacyl-ACP dehydratase subunit HadB			
+FIG00820537: hypothetical protein			
+Preprotein translocase subunit SecE (TC 3.A.5.1.1)			
+Transcription antitermination protein NusG			
+LSU ribosomal protein L11p (L12e)			
+LSU ribosomal protein L1p (L10Ae)			
+Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)			
+Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)			
+Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)			
+Methoxy mycolic acid synthase 1 MmaA1 (EC 2.1.1.-)			
+Carboxyl esterase			
+Ubiquinone biosynthesis monooxygenase UbiB			
+Alpha-mannosidase (EC 3.2.1.24)			
+POSSIBLE MALONYL COA-ACYL CARRIER PROTEIN TRANSACYLASE FABD2 (MCT) (EC 2.3.1.39)			
+Sugar kinase			
+LSU ribosomal protein L10p (P0)			
+"Transcriptional regulator, TetR family"			
+LSU ribosomal protein L7/L12 (P1/P2)			
+"""Lignostilbene-alpha,beta-dioxygenase and related enzymes"""			
+Methionine ABC transporter ATP-binding protein			
+hypothetical protein			
+FIG00820147: hypothetical protein			
+FIG00821248: hypothetical protein			
+Possible membrane protein			
+"Death on curing protein, Doc toxin"			
+"Prevent host death protein, Phd antitoxin"			
+FIG00822666: hypothetical protein			
+"""DNA-binding protein, CopG family"""			
+Arylsulfatase (EC 3.1.6.1)			
+			
+FIG00821129: hypothetical protein			
+hypothetical protein			
+DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)			
+DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)			
+Alkaline ceramidase			
+Endonuclease IV (EC 3.1.21.2)			
+Lipoprotein LpqP			
+Acyl-CoA dehydrogenase (EC 1.3.99.3)			
+Enoyl-CoA hydratase			
+Phenylacetic acid degradation operon negative regulatory protein PaaX			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+Transmembrane transport protein MmpL5			
+"membrane protein, MmpS family"			
+FIG00822074: hypothetical protein			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+Possible membrane protein			
+FIG00820507: hypothetical protein			
+"Transcriptional regulator, TetR family"			
+SSU ribosomal protein S12p (S23e)			
+SSU ribosomal protein S7p (S5e)			
+Translation elongation factor G			
+Translation elongation factor Tu			
+FIG025093: Probable membrane protein			
+3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)			
+FIG00822343: hypothetical protein			
+Ferredoxin reductase			
+			
+FIG00821437: hypothetical protein			
+Mycofactocin system transcriptional regulator			
+Mycofactocin precursor			
+Mycofactocin system small protein			
+Mycofactocin radical SAM maturase			
+Mycofactocin system heme/flavin dehydrogenase			
+Cyclic amid hydrolase in mycofactocin cluster			
+Mycofactocin system glycosyltransferase			
+Dehydrogenase in mycofactocin cluster			
+FIG055611: hypothetical protein			
+			
+FIG00820963: hypothetical protein			
+SSU ribosomal protein S10p (S20e)			
+LSU ribosomal protein L3p (L3e)			
+LSU ribosomal protein L4p (L1e)			
+LSU ribosomal protein L23p (L23Ae)			
+LSU ribosomal protein L2p (L8e)			
+SSU ribosomal protein S19p (S15e)			
+LSU ribosomal protein L22p (L17e)			
+SSU ribosomal protein S3p (S3e)			
+LSU ribosomal protein L16p (L10e)			
+LSU ribosomal protein L29p (L35e)			
+SSU ribosomal protein S17p (S11e)			
+Arylsulfatase (EC 3.1.6.1)			
+Sulfatase modifying factor 1 precursor (C-alpha-formyglycine- generating enzyme 1)			
+Possible membrane protein			
+LSU ribosomal protein L14p (L23e)			
+LSU ribosomal protein L24p (L26e)			
+LSU ribosomal protein L5p (L11e)			
+"SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent"			
+SSU ribosomal protein S8p (S15Ae)			
+LSU ribosomal protein L6p (L9e)			
+LSU ribosomal protein L18p (L5e)			
+SSU ribosomal protein S5p (S2e)			
+LSU ribosomal protein L30p (L7e)			
+LSU ribosomal protein L15p (L27Ae)			
+Possible protease IV SppA (endopeptidase IV) (signal peptide peptidase)			
+FIG00819993: hypothetical protein			
+FIG00824343: hypothetical protein			
+L-fuculose phosphate aldolase (EC 4.1.2.17)			
+D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)			
+Putative xylulose kinase (EC 2.7.1.17)			
+FIG00820922: hypothetical protein			
+FIG00819993: hypothetical protein			
+Preprotein translocase secY subunit (TC 3.A.5.1.1)			
+Adenylate kinase (EC 2.7.4.3)			
+Methionine aminopeptidase (EC 3.4.11.18)			
+RNA polymerase sigma-70 factor			
+Possible membrane protein			
+COG0028: Thiamine pyrophosphate-requiring enzymes			
+"Transcriptional regulator, MarR family"			
+FIG00828360: hypothetical protein			
+FIG00822571: hypothetical protein			
+FIG00822485: hypothetical protein			
+FIG00821514: hypothetical protein			
+Mobile element protein			
+PE-PGRS FAMILY PROTEIN			
+FIG00821670: hypothetical protein			
+POSSIBLE TRANSCRIPTIONAL REGULATORY PROTEIN			
+PE-PGRS virulence associated protein			
+PE-PGRS FAMILY PROTEIN			
+FIG00820737: hypothetical protein			
+FIG00820914: hypothetical protein			
+FIG00823268: hypothetical protein			
+3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31)			
+PROBABLE ACYL-COA DEHYDROGENASE FADE9( EC:1.3.99.- )			
+Methylmalonate-semialdehyde dehydrogenase (EC 1.2.1.27)			
+PE-PGRS FAMILY PROTEIN			
+PPE family protein			
+PUTATIVE TRANSPOSASE (FRAGMENT)			
+FIG00820010: hypothetical protein			
+DNA-binding response regulator			
+HIT family protein			
+PhoR			
+"steroid isomerase, putative"			
+Alcohol dehydrogenase (EC 1.1.1.1)			
+FIG00994119: hypothetical protein			
+Ferredoxin			
+Cytochrome P450 51			
+"oxidoreductase, short-chain dehydrogenase/reductase family"			
+putative cytochrome P450 hydroxylase			
+"Transcriptional regulator, TetR family"			
+Aldehyde dehydrogenase (EC 1.2.1.3)			
+3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)			
+PROBABLE DEHYDROGENASE/REDUCTASE( EC:1.1.1.- )			
+4-carboxymuconolactone decarboxylase (EC 4.1.1.44)			
+Gamma-glutamyltranspeptidase (EC 2.3.2.2)			
+Phosphoribosylamine--glycine ligase (EC 6.3.4.13)			
+Gamma-glutamyltranspeptidase (EC 2.3.2.2)			
+FIG00820278: hypothetical protein			
+"Transcriptional regulator, TetR family"			
+Adenylosuccinate lyase (EC 4.3.2.2)			
+POSSIBLE CONSERVED TRANSMEMBRANE PROTEIN			
+Cytochrome P450 126A3			
+Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)			
+Protease II (EC 3.4.21.83)			
+FIG00821840: hypothetical protein			
+Protease II (EC 3.4.21.83)			
+Inner membrane component of tripartite multidrug resistance system			
+FIG00998196: hypothetical protein			
+Fumarate/succinate/L-aspartate dehydrogenases			
+FIG00998332: hypothetical protein			
+FIG00820729: hypothetical protein			
+"Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)"			
+"Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)"			
+FIG00820357: hypothetical protein			
+"Transglutaminase-like enzymes, putative cysteine proteases"			
+"Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases"			
+"PF00070 family, FAD-dependent NAD(P)-disulphide oxidoreductase"			
+FIG00823434: hypothetical protein			
+"PF00070 family, FAD-dependent NAD(P)-disulphide oxidoreductase"			
+Mobile element protein			
+Mobile element protein			
+Encapsulating protein for a DyP-type peroxidase or ferritin-like protein oligomers			
+Mobile element protein			
+"Predicted dye-decolorizing peroxidase (DyP), encapsulated subgroup"			
+Aspartyl aminopeptidase			
+FIG00821487: hypothetical protein			
+glyoxalase family protein superfamily			
+"Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)"			
+"3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17)"			
+probable UDP-glucose-4-epimerase			
+			
+hypothetical protein			
+Amidophosphoribosyltransferase (EC 2.4.2.14)			
+Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)			
+FIG00821405: hypothetical protein			
+Folate-dependent protein for Fe/S cluster synthesis/repair in oxidative stress			
+Aminodeoxychorismate lyase (EC 4.1.3.38)			
+DUF1794			
+hypothetical protein			
+"Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)"			
+Thioredoxin			
+FIG00821015: hypothetical protein			
+GlnR-family transcriptional regulator			
+"Acetyl-CoA:Cys-GlcN-Ins acetyltransferase, mycothiol synthase MshD"			
+Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)			
+Phosphate transport system regulatory protein PhoU			
+"Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily A1 (as in PMID19099556)"			
+tRNA dihydrouridine synthase B (EC 1.-.-.-)			
+Fatty acid desaturase occurring in virulence cluster			
+"Transcriptional regulator, TetR family"			
+FIG00820092: hypothetical protein			
+"transcriptional regulator, ArsR family"			
+Deaminase			
+Mobile element protein			
+O-Methyltransferase involved in polyketide biosynthesis			
+FIG00821728: hypothetical protein			
+PE_PGRS family protein			
+hypothetical protein			
+FIG00823878: hypothetical protein			
+PE_PGRS			
+			
+POSSIBLE LIPOPROTEIN LPQQ			
+FIG00820906: hypothetical protein			
+COG4861: Uncharacterized protein conserved in bacteria			
+FIG00822787: hypothetical protein			
+FIG00821659: hypothetical protein			
+D-alanyl-D-alanine dipeptidase			
+Methyltransferase (EC 2.1.1.-)			
+Proline iminopeptidase (EC 3.4.11.5)			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+PROBABLE DEHYDROGENASE			
+"DNA-binding response regulator, LuxR family"			
+POSSIBLE TWO COMPONENT SENSOR KINASE			
+Multicopper oxidase			
+PROBABLE LIPOPROTEIN LPQS			
+putative cysteine synthase A CysK2			
+PROBABLE CONSERVED INTEGRAL MEMBRANE TRANSPORT PROTEIN			
+short chain dehydrogenase			
+PUTATIVE TRANSPOSASE (FRAGMENT)			
+FIG00826747: hypothetical protein			
+POSSIBLE FATTY-ACID-COA LIGASE FADD16 (FATTY-ACID-COA SYNTHETASE) (FATTY-ACID-COA SYNTHASE)			
+Pyruvate decarboxylase (EC 4.1.1.1); Alpha-keto-acid decarboxylase (EC 4.1.1.-)			
+FIG00823411: hypothetical protein			
+Alpha-methylacyl-CoA racemase (EC 5.1.99.4)			
+FIG00822577: hypothetical protein			
+putative aminotransferase			
+FIG00822577: hypothetical protein			
+3-ketoacyl-CoA thiolase [isoleucine degradation] (EC 2.3.1.16)			
+Enoyl-CoA hydratase [isoleucine degradation] (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)			
+DNA repair helicase			
+hypothetical protein			
+probable DNA-binding protein			
+FIG057355: hypothetical protein			
+Molybdenum cofactor biosynthesis protein MoaC			
+Molybdenum cofactor biosynthesis protein MoaB			
+Molybdenum cofactor biosynthesis protein MoaE			
+FIG00820555: hypothetical protein			
+Molybdenum cofactor biosynthesis protein MoaD			
+Molybdenum cofactor biosynthesis protein MoaA			
+FIG020413: transmembrane protein			
+Cold shock protein CspC			
+PE-PGRS virulence associated protein			
+FadE10			
+FIG00822946: hypothetical protein			
+POSSIBLE CONSERVED EXPORTED PROTEIN			
+possible membrane protein			
+hypothetical protein			
+PPE family protein			
+POSSIBLE CONSERVED TRANSMEMBRANE PROTEIN			
+FIG00824650: hypothetical protein			
+"Transcriptional regulator, MarR family"			
+putative rRNA methylase			
+FIG00996668: hypothetical protein			
+PROBABLE TRANSMEMBRANE PROTEIN			
+Phosphoserine aminotransferase (EC 2.6.1.52)			
+possible transmembrane protein			
+"phnB protein, putative"			
+"Ferredoxin / Ferredoxin--NADP(+) reductase, actinobacterial (eukaryote-like) type (EC 1.18.1.2)"			
+PROBABLE EXPORTED PROTEIN			
+Citrate synthase (si) (EC 2.3.3.1)			
+"Disease resistance domain-containing protein / Transcriptional regulator, LuxR family"			
+Adenylyl cyclase class-3/4/guanylyl cyclase			
+			
+O-Methyltransferase involved in polyketide biosynthesis			
+Cyclohexanone monooxygenase (EC 1.14.13.22)			
+Disease resistance domain-containing protein			
+Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase			
+Citrate synthase (si) (EC 2.3.3.1)			
+Beta-carotene ketolase (EC 1.14.-.-)			
+FIG00821893: hypothetical protein			
+Outer membrane protein			
+POSSIBLE MEMBRANE PROTEIN			
+POSSIBLE CONSERVED EXPORTED OR MEMBRANE PROTEIN			
+Sensor-type histidine kinase prrB (EC 2.7.13.3)			
+DNA-binding response regulator			
+Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+Outer membrane protein romA			
+Beta-lactamase (EC 3.5.2.6)			
+"Cation-transporting ATPase, E1-E2 family"			
+FIG00820576: hypothetical protein			
+FIG00821394: hypothetical protein			
+FIG00820677: hypothetical protein			
+Putative hydroxylase			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+FIG00823217: hypothetical protein			
+"Lignostilbene-alpha,beta-dioxygenase and related enzymes"			
+3-ketoacyl-CoA thiolase (EC 2.3.1.16)			
+PPE family protein			
+PE family protein			
+High-affinity choline uptake protein BetT			
+FIG00821313: hypothetical protein			
+FIG032766: hypothetical protein			
+FIG001353: Acetyltransferase			
+Probable transposase for the insertion element IS2606			
+POSSIBLE RESOLVASE			
+Transposase			
+FIG00823130: hypothetical protein			
+Manganese transport protein MntH			
+BRAMP			
+FIG00820002: hypothetical protein			
+7-alpha-hydroxysteroid dehydrogenase (EC 1.1.1.159)			
+"Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)"			
+Phosphate transport system permease protein PstC (TC 3.A.1.7.1)			
+Serine/threonine-protein kinase pknD (EC 2.7.11.1)			
+Phosphate transport system permease protein PstA (TC 3.A.1.7.1)			
+"Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)"			
+Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)			
+"Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)"			
+Phosphate transport system permease protein PstC (TC 3.A.1.7.1)			
+Ku domain protein			
+Phosphate transport system permease protein PstA (TC 3.A.1.7.1)			
+"ATP-dependent DNA ligase (EC 6.5.1.1) clustered with Ku protein, LigD"			
+hypothetical protein			
+Hydride transferase 1 (Fragment)			
+FIG00823384: hypothetical protein			
+Cyclohexanone monooxygenase (EC 1.14.13.22)			
+Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)			
+"Oxidoreductase, short-chain dehydrogenase/reductase family (EC 1.1.1.-)"			
+Glucose-6-phosphate isomerase (EC 5.3.1.9)			
+FIG00820067: hypothetical protein			
+FIG00820095: hypothetical protein			
+Chorismate mutase I (EC 5.4.99.5)			
+ATP-dependent DNA helicase UvrD/PcrA			
+Phage peptidoglycan binding endopeptidase			
+Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)			
+Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)			
+Hydride transferase 1 (Fragment)			
+antigen 34 kDa			
+PROBABLE CONSERVED INTEGRAL MEMBRANE PROTEIN			
+Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)			
+IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)			
+"Magnesium chelatase, subunit ChlI (EC 6.6.1.1)"			
+FIG019045: long form Mg-chelase associated protein with vWA domain			
+Antitoxin 1			
+"Toxin 1, PIN domain"			
+PROBABLE INTEGRAL MEMBRANE PROTEIN			
+"lipoprotein, putative"			
+Putative secreted protein			
+FIG00821697: hypothetical protein			
+FIG00820456: hypothetical protein			
+FIG00821093: hypothetical protein			
+FIG00821819: hypothetical protein			
+FIG00822349: hypothetical protein			
+"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"			
+probable integral membrane protein			
+Methylglutaconyl-CoA hydratase (EC 4.2.1.18)			
+PROBABLE ACYL-COA DEHYDROGENASE FADE12( EC:1.3.99.- )			
+Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)			
+Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)			
+Isovaleryl-CoA dehydrogenase (EC 1.3.99.10)			
+expressed protein			
+PE-PGRS FAMILY PROTEIN			
+PE_PGRS family protein			
+LSU ribosomal protein L32p			
+PE_PGRS family protein			
+Mycobacterial persistence regulator MprA (Two component response transcriptional regulatory protein)			
+Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)			
+Heat shock protein HtrA			
+Molybdenum cofactor biosynthesis protein MoaB			
+Large-conductance mechanosensitive channel			
+AttE component of AttEFGH ABC transport system			
+AttF component of AttEFGH ABC transport system / AttG component of AttEFGH ABC transport system			
+AttH component of AttEFGH ABC transport system			
+"Octaprenyl diphosphate synthase (EC 2.5.1.90) / Dimethylallyltransferase (EC 2.5.1.1) / (2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10) / Geranylgeranyl diphosphate synthase (EC 2.5.1.29)"			
+Heat shock protein 22.5 (Hsp22.5)			
+Type I antifreeze protein			
+			
+5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)			
+UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)			
+Molybdopterin biosynthesis protein MoeA			
+Ribosomal-protein-S5p-alanine acetyltransferase			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+FIG00822908: hypothetical protein			
+FIG00821497: hypothetical protein			
+methyltransferase			
+cyclic nucleotide-binding protein			
+FIG00820856: hypothetical protein			
+Alkylated DNA repair protein AlkB			
+Arginine deiminase (EC 3.5.3.6)			
+CONSERVED MEMBRANE PROTEIN			
+rRNA small subunit methyltransferase I			
+elastin			
+"Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)"			
+FIG00820568: hypothetical protein			
+Methionyl-tRNA synthetase (EC 6.1.1.10)			
+Putative deoxyribonuclease YcfH			
+Cell wall-binding protein			
+SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)			
+4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Peptidyl-tRNA hydrolase (EC 3.1.1.29)			
+LSU ribosomal protein L25p			
+"lipoprotein, putative"			
+FIG00825050: hypothetical protein			
+Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)			
+N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)			
+FIG00825223: hypothetical protein			
+"Transcriptional regulator, TetR family"			
+Transcription-repair coupling factor			
+Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)			
+FIG00997322: hypothetical protein			
+Enolase (EC 4.2.1.11)			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+FIG004853: possible toxin to DivIC			
+Exopolyphosphatase (EC 3.6.1.11)			
+DNA-binding response regulator KdpE			
+FIG00821068: hypothetical protein			
+Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)			
+Potassium-transporting ATPase A chain (EC 3.6.3.12) (TC 3.A.3.7.1)			
+Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1)			
+Potassium-transporting ATPase C chain (EC 3.6.3.12) (TC 3.A.3.7.1)			
+Sensor protein basS/pmrB (EC 2.7.3.-)			
+DNA-binding response regulator TrcR			
+transposase			
+PROBABLE TRANSPOSASE (FRAGMENT)			
+Mobile element protein			
+ESAT-6-like protein EsxL			
+COG0840: Methyl-accepting chemotaxis protein			
+PPE family protein			
+PPE family protein			
+hypothetical protein			
+FIG00822458: hypothetical protein			
+FIG00824608: hypothetical protein			
+Mobile element protein			
+FIG00821422: hypothetical protein			
+protease-related protein			
+FIG00820089: hypothetical protein			
+FIG00821115: hypothetical protein			
+hypothetical protein			
+Mobile element protein			
+FIG00821061: hypothetical protein			
+FIG00820551: hypothetical protein			
+Organic hydroperoxide resistance transcriptional regulator			
+"Oxidoreductase, short-chain dehydrogenase/reductase family (EC 1.1.1.-)"			
+FIG00821028: hypothetical protein			
+Abortive infection protein AbiGI			
+			
+			
+hypothetical protein			
+			
+Integrase			
+FIG00820480: hypothetical protein			
+"surface antigen, putative"			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+FIG00821199: hypothetical protein			
+FIG00820309: hypothetical protein			
+"glutamine amidotransferases, class-II"			
+"probably phosphoesterase, evidenced by COGnitor"			
+UPF0028 protein YchK			
+PUTATIVE LIPOPROTEIN LPQV			
+FIG00822063: hypothetical protein			
+FIG00820003: hypothetical protein			
+PE-PGRS FAMILY PROTEIN			
+PE-PGRS FAMILY PROTEIN			
+Predicted membrane protein (DUF2319)			
+enoyl-CoA hydratase( EC:4.2.1.17 )			
+3-hydroxyisobutyryl-CoA hydrolase (EC 3.1.2.4)			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+FIG00823211: hypothetical protein			
+3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)			
+CONSERVED EXPORTED PROTEIN			
+esterase			
+Cystathionine beta-synthase (EC 4.2.1.22)			
+Proline-rich antigen homolog			
+Cystathionine gamma-lyase (EC 4.4.1.1)			
+Transcription elongation factor GreA			
+FIG00821098: hypothetical protein			
+Mycothiol S-conjugate amidase Mca			
+probable secreted protein			
+Thymidylate kinase (EC 2.7.4.9)			
+COG1272: Predicted membrane protein hemolysin III homolog			
+"(2E,6Z)-farnesyl diphosphate synthase (EC 2.5.1.68)"			
+hypothetical protein			
+Undecaprenyl diphosphate synthase (EC 2.5.1.31)			
+PE family protein			
+PE family protein			
+hypothetical protein			
+"PROBABLE CELLULASE CELA2B (ENDO-1,4-BETA-GLUCANASE) (ENDOGLUCANASE) (CARBOXYMETHYL CELLULASE) (EC 3.2.1.4)"			
+PE-PGRS FAMILY PROTEIN			
+Pantothenate kinase (EC 2.7.1.33)			
+Serine hydroxymethyltransferase 1 (EC 2.1.2.1)			
+Fatty acid desaturase occurring in virulence cluster			
+Predicted ATPase related to phosphate starvation-inducible protein PhoH			
+Possible glycosyl hydrolase (EC 3.-.-.-)			
+PROBABLE MEMBRANE GLYCINE AND PROLINE RICH PROTEIN			
+Fumarate hydratase class II (EC 4.2.1.2)			
+"Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)"			
+FIG00820022: hypothetical protein			
+CONSERVED MEMBRANE PROTEIN			
+"Death on curing protein, Doc toxin"			
+"Prevent host death protein, Phd antitoxin"			
+Carboxylesterase (EC 3.1.1.1)			
+"Carboxylesterase, type B"			
+"Carboxylesterase, type B"			
+PROBABLE CHOLESTEROL DEHYDROGENASE			
+Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)			
+Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)			
+FIG00997309: hypothetical protein			
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)			
+INTEGRAL MEMBRANE PROTEIN (Rhomboid family)			
+GTP-binding and nucleic acid-binding protein YchF			
+FIG00820531: hypothetical protein			
+PIN domain protein			
+hypothetical protein Rv1115			
+PE family protein			
+			
+FIG00822251: hypothetical protein			
+FIG022780: hypothetical protein			
+hypothetical protein Rv1119c			
+FIG00820811: hypothetical protein			
+lipJ			
+Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)			
+Possible peroxidase bpoB (Non-haem peroxidase) (EC 1.11.1.-)			
+"6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)"			
+FIG00821602: hypothetical protein			
+Probable epoxide hydrolase ephC (EC 3.3.2.9)			
+FIG028963: hypothetical protein			
+FIG00823918: hypothetical protein			
+"Pyruvate,phosphate dikinase (EC 2.7.9.1)"			
+FIG00829478: hypothetical protein			
+"Transcriptional regulator, XRE family"			
+2-methylcitrate dehydratase (EC 4.2.1.79)			
+2-methylcitrate synthase (EC 2.3.3.5)			
+CONSERVED MEMBRANE PROTEIN			
+5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)			
+MTCI65.01 protein			
+PPE family protein			
+ketoacyl-CoA thiolase-related protein			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+FIG00825033: hypothetical protein			
+PUTATIVE OXIDOREDUCTASE			
+FIG00823635: hypothetical protein			
+			
+PROBABLE INTEGRAL MEMBRANE PROTEIN			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+Alpha-methylacyl-CoA racemase (EC 5.1.99.4)			
+3-hydroxyacyl-CoA dehydrogenase [isoleucine degradation] (EC 1.1.1.35)			
+Transmembrane transport protein MmpL13b			
+Transmembrane transport protein MmpL13b			
+Methyltransferase (EC 2.1.1.-)			
+FIG00820117: hypothetical protein			
+Partial REP13E12 repeat protein			
+Partial REP13E12 repeat protein			
+FIG00821422: hypothetical protein			
+Mobile element protein			
+NAD-dependent protein deacetylase of SIR2 family			
+omt (omt)			
+"Transcriptional regulator, GntR family"			
+FIG00820224: hypothetical protein			
+"Pyridoxine 5'-phosphate oxidase, Rv1155"			
+FIG00821392: hypothetical protein			
+FIG00822543: hypothetical protein			
+FIG00824206: hypothetical protein			
+Conserved alanine and proline rich protein			
+Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)			
+probable conserved membrane protein			
+"Mutator mutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)"			
+Respiratory nitrate reductase alpha chain (EC 1.7.99.4)			
+Respiratory nitrate reductase beta chain (EC 1.7.99.4)			
+Respiratory nitrate reductase delta chain (EC 1.7.99.4)			
+Respiratory nitrate reductase gamma chain (EC 1.7.99.4)			
+GTP-binding protein TypA/BipA			
+LpqW			
+"Transcriptional regulator, TetR family"			
+PPE family protein			
+"(MTV005.05c), len: 100. similar to the N-terminal region of the M. tuberculosis PE family of proteinseg. TR:O05297 (EMBL:Z93777) MTCI364.07 (99 aa), fasta scores; opt: 209 z-score: 407.6 E(): 1.6e-15, 37.4% identityin 99 aa overlap. Also simlar to the N-terminus of M. tuberculosis TR:P77909 (EMBL:U76006) ESTERASE/LIPASE (EC 3.1.1.3) (TRIACYLGLYCEROL LIPASE) (437 aa), fasta scores; opt: 193z-score: 381.8 E(): 4.4e-14, 37.2% identity in 94 aa overlap. Contains a helix-turn-heix motiffrom aa 88-109(+2.76 SD)"			
+N-acetyl-1-D-myo-inosityl-2-amino-2-deoxy-alpha-D-glucopyranoside deacetylase MshB			
+FIG00820431: hypothetical protein			
+PE-PGRS FAMILY PROTEIN			
+"7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 1 / 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 2"			
+LOW MOLECULAR WEIGHT T-CELL ANTIGEN TB8.4			
+"2,4-dienoyl-CoA reductase [NADPH] (EC 1.3.1.34)"			
+"Transcriptional regulator, PadR family"			
+"4Fe-4S ferredoxin, iron-sulfur binding"			
+"N-succinyl-L,L-diaminopimelate aminotransferase alternative (EC 2.6.1.17)"			
+DNA or RNA helicases of superfamily II			
+Polyketide synthase			
+Polyketide synthase			
+POSSIBLE CONSERVED POLYKETIDE SYNTHASE ASSOCIATED PROTEIN PAPA2			
+"membrane protein, MmpL family, putative"			
+POSSIBLE EXPORTED PROTEIN			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Regulator of polyketide synthase expression			
+Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12)			
+Proline dehydrogenase (EC 1.5.99.8) (Proline oxidase)			
+putative RNA polymerase sigma factor			
+"hydrolase, alpha/beta hydrolase fold family"			
+putative RNA polymerase sigma factor			
+FIG00820332: hypothetical protein			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Regulator of polyketide synthase expression			
+FIG00822167: hypothetical protein			
+			
+PE family protein			
+PPE family protein			
+ESAT-6-like protein EsxK			
+ESAT-6-like protein EsxL			
+Mobile element protein			
+"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)"			
+Permeases of the major facilitator superfamily			
+FIG00820207: hypothetical protein			
+"N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)"			
+ATPase			
+Lysine decarboxylase family			
+Acetoacetyl-CoA synthetase (EC 6.2.1.16) / Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+FIG00822783: hypothetical protein			
+Non functional Dihydropteroate synthase 2			
+Glycosyltransferases involved in cell wall biogenesis			
+FIG01000442: hypothetical protein			
+DNA-3-methyladenine glycosylase (EC 3.2.2.20)			
+hypothetical protein			
+"Predicted glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21), Actinobacterial type"			
+Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)			
+PE-PGRS FAMILY PROTEIN			
+Cocaine esterase (EC 3.1.1.-)			
+hypothetical protein			
+PROBABLE TETRONASIN-TRANSPORT INTEGRAL MEMBRANE PROTEIN ABC TRANSPORTER			
+"ABC-type multidrug transport system, ATPase component"			
+"Transcriptional regulator, TetR family"			
+PROBABLE METHYLTRANSFERASE (EC 2.1.1.-)			
+"RNA polymerase sigma-70 factor, ECF subfamily"			
+FIG00826611: hypothetical protein			
+conserved hypothetical protein			
+serine protease			
+Twin-arginine translocation protein TatB			
+"HAD-superfamily subfamily IIA hydrolase, hypothetical 2"			
+"transmembrane protein, distant homology with ydbT"			
+"transmembrane protein, distant homology with ydbS"			
+PUTATIVE LIPOPROTEIN LPQX			
+FIG00820789: hypothetical protein			
+Mrp protein homolog			
+POSSIBLE MEMBRANE PROTEIN			
+PROBABLE MEMBRANE PROTEIN			
+Mg/Co/Ni transporter MgtE / CBS domain			
+hypothetical protein			
+FIG00945083: hypothetical protein			
+"Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE"			
+"Maltose/maltodextrin ABC transporter, permease protein MalF"			
+SugB			
+SugC			
+Magnesium and cobalt transport protein CorA			
+Malate dehydrogenase (EC 1.1.1.37)			
+FIG00822111: hypothetical protein			
+FIG00822247: hypothetical protein			
+PE family protein			
+Substrate-binding region of ABC-type glycine betaine transport system			
+Short-chain type dehydrogenase/reductase			
+RelE/StbE replicon stabilization toxin			
+RelB/StbD replicon stabilization protein (antitoxin to RelE/StbE)			
+Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) / 2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)			
+Possible membrane protein			
+Superfamily I DNA and RNA helicases and helicase subunits			
+			
+Putative lipoprotein lprE precursor			
+FIG00820414: hypothetical protein			
+Cold-shock DEAD-box protein A			
+Possible oxidoreductase subunit			
+Acyltransferase			
+Cytochrome P450 130			
+"""Glycolate oxidase, subunit GlcD"""			
+H+ antiporter integral membrane transport protein			
+hypothetical protein			
+Oxidoreductase			
+FIG029194: hypothetical protein			
+Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)			
+Amidase (EC 3.5.1.4)			
+Adenylate cyclase (EC 4.6.1.1)			
+FIG00820425: hypothetical protein			
+Serine/threonine protein kinase (EC 2.7.11.1)			
+Transcriptional regulatory protein EmbR			
+FIG00821408: hypothetical protein			
+FIG00820366: hypothetical protein			
+Possible membrane protein			
+Lipoprotein LprA			
+FIG00820785: hypothetical protein			
+Lipid A export ATP-binding/permease protein MsbA			
+ABC transporter ATP-binding protein			
+Lipoprotein LprB			
+Putative lipoprotein LprC precursor			
+Phosphohistidine phosphatase SixA			
+DNA double-strand break repair protein Mre11			
+DNA double-strand break repair Rad50 ATPase			
+Choline dehydrogenase (EC 1.1.99.1)			
+"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"			
+"Probable ABC transport protein, ATP-binding component"			
+Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)			
+Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)			
+Carbonic anhydrase (EC 4.2.1.1)			
+Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)			
+Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4) / Adenylylsulfate kinase (EC 2.7.1.25)			
+"Predicted transcriptional regulator of sulfate adenylyltransferase, Rrf2 family"			
+Putative esterase			
+FIG00820436: hypothetical protein			
+FIG00820284: hypothetical protein			
+"Mb1322, -, len: 104 aa. Equivalent to Rv1290A, len: 104 aa, from Mycobacterium tuberculosis strain H37Rv, (100% identity in 104 aa overlap). Hypothetical unknown protein, equivalent to AAK45590 from Mycobacterium tuberculosis strain CDC1551 (122 aa) but shorter 18 aa."			
+FIG00823516: hypothetical protein			
+Arginyl-tRNA synthetase (EC 6.1.1.19)			
+Diaminopimelate decarboxylase (EC 4.1.1.20)			
+Homoserine dehydrogenase (EC 1.1.1.3)			
+Threonine synthase (EC 4.2.3.1)			
+hypothetical protein			
+Homoserine kinase (EC 2.7.1.39)			
+			
+unknown			
+Transcription termination factor Rho			
+"LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent"			
+Peptide chain release factor 1			
+"Protein-N(5)-glutamine methyltransferase PrmC, methylates polypeptide chain release factors RF1 and RF2"			
+TsaC protein (YrdC domain) required for threonylcarbamoyladenosine t(6)A37 modification in tRNA			
+Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)			
+hypothetical protein			
+ATP synthase A chain (EC 3.6.3.14)			
+ATP synthase C chain (EC 3.6.3.14)			
+ATP synthase B chain (EC 3.6.3.14)			
+ATP synthase B' chain (EC 3.6.3.14) / ATP synthase delta chain (EC 3.6.3.14)			
+ATP synthase alpha chain (EC 3.6.3.14)			
+ATP synthase gamma chain (EC 3.6.3.14)			
+ATP synthase beta chain (EC 3.6.3.14)			
+ATP synthase epsilon chain (EC 3.6.3.14)			
+Possible membrane protein			
+Mobile element protein			
+Cob(I)alamin adenosyltransferase PduO (EC 2.5.1.17)			
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)			
+			
+			
+			
+			
+Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)			
+Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)			
+Adenylate cyclase (EC 4.6.1.1)			
+Adenylate cyclase (EC 4.6.1.1)			
+Adenylate cyclase (EC 4.6.1.1)			
+FIG00996186: hypothetical protein			
+Methylmalonyl-CoA epimerase (EC 5.1.99.1); Ethylmalonyl-CoA epimerase			
+3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)			
+COG3118: Thioredoxin domain-containing protein EC-YbbN			
+PE-PGRS FAMILY PROTEIN			
+"1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)"			
+Putative glucanase glgE (EC 3.2.1.-)			
+Glycogen phosphorylase (EC 2.4.1.1)			
+DinG family ATP-dependent helicase YoaA			
+Nicotinate phosphoribosyltransferase (EC 2.4.2.11)			
+ATP-dependent Clp protease adaptor protein ClpS			
+Transcriptional regulatory protein			
+possible hydrolase			
+Mec+			
+9.5 kDa culture filtrate antigen Cfp10A			
+Cysteine synthase B (EC 2.5.1.47)			
+Rhomboid membrane family protein			
+Glutamate racemase (EC 5.1.1.3)			
+Metal-dependent hydrolases of the beta-lactamase superfamily III			
+Ribonuclease PH (EC 2.7.7.56)			
+CONSERVED MEMBRANE PROTEIN			
+"Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.15)"			
+Lipoprotein LprD			
+Acyl carrier protein MbtL			
+hypothetical protein			
+acyl-CoA synthase			
+Lysine N-acyltransferase mbtK (EC 2.3.1.-) (N-acyltransferase mbtK) (Mycobactin synthetase protein K)			
+Isovaleryl-CoA dehydrogenase (EC 1.3.99.10)			
+ABC transporter ATP-binding protein			
+ABC transporter ATP-binding protein			
+3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)			
+FIG00821860: hypothetical protein			
+FIG00831546: hypothetical protein			
+"Transcriptional regulator, TetR family"			
+Sensory box/GGDEF family protein			
+Molybdopterin biosynthesis protein MoeY			
+FIG00822688: hypothetical protein			
+Sensory box/GGDEF family protein			
+"Adenylyl cyclase class-3/4/guanylyl cyclase / Disease resistance domain-containing protein / Tetratricopeptide repeat-containing protein / Transcriptional regulator, LuxR family"			
+Adenylyl cyclase class-3/4/guanylyl cyclase			
+FIG00821517: hypothetical protein			
+Oxidoreductase			
+PPE family protein			
+Possible membrane protein			
+Possible membrane protein			
+"Serine phosphatase RsbU, regulator of sigma subunit"			
+Anti-sigma factor antagonist			
+GTP pyrophosphokinase (EC 2.7.6.5)			
+FIG00824301: hypothetical protein			
+Beta-lactamase class C and other penicillin binding proteins			
+Lipoprotein LprF			
+Mobile element protein			
+Mobile element protein			
+Desaturase-related protein			
+Chalcone synthase (EC 2.3.1.74)			
+Glycolipid sulfotransferase			
+FIG00820054: hypothetical protein			
+			
+FIG029924: hypothetical protein			
+HNH nuclease			
+Uracil phosphoribosyltransferase (EC 2.4.2.9) / Pyrimidine operon regulatory protein PyrR			
+Aspartate carbamoyltransferase (EC 2.1.3.2)			
+Dihydroorotase (EC 3.5.2.3)			
+hypothetical protein			
+Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)			
+Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)			
+Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)			
+PE family protein			
+PPE family protein			
+			
+hypothetical protein			
+integration host factor			
+Guanylate kinase (EC 2.7.4.8)			
+DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)			
+Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)			
+S-adenosylmethionine synthetase (EC 2.5.1.6)			
+Cyclohexanone monooxygenase (EC 1.14.13.22)			
+Cytochrome P450 132			
+"Transcriptional regulator, AraC family"			
+hypothetical protein			
+FIG00821201: hypothetical protein			
+"""Transcriptional regulator, CopG family"""			
+Esterase/lipase			
+Esterase/lipase			
+YhhN family membrane protein			
+Helicase PriA essential for oriC/DnaA-independent DNA replication			
+Methyltransferase			
+"Transcriptional regulator, MarR family"			
+Methyltransferase			
+Methionyl-tRNA formyltransferase (EC 2.1.2.9)			
+16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)			
+Ribulose-phosphate 3-epimerase (EC 5.1.3.1)			
+EmrB/QacA family drug resistance transporter			
+Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)			
+Lipoprotein LprG			
+Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)			
+METAL-ACTIVATED PYRIDOXAL ENZYME			
+METAL-ACTIVATED PYRIDOXAL ENZYME			
+"3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)"			
+"6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)"			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+Lipoprotein LprH			
+FIG00821636: hypothetical protein			
+Excinuclease ABC subunit C			
+FIG000506: Predicted P-loop-containing kinase			
+hypothetical protein			
+FIG001886: Cytoplasmic hypothetical protein			
+FIG00820381: hypothetical protein			
+Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase			
+Lipase (EC 3.1.1.3)			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+"""Putative transcriptional regulator, PucR family"""			
+PE family protein			
+Possible membrane protein			
+FIG00823623: hypothetical protein			
+Phytoene dehydrogenase and related proteins			
+FIG00826591: hypothetical protein			
+"""Probable conserved Proline, Glycine, Valine-rich secreted protein"""			
+			
+NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)			
+Phosphoglycerate kinase (EC 2.7.2.3)			
+Triosephosphate isomerase (EC 5.3.1.1)			
+Transcriptional regulatory protein			
+FIG00822160: hypothetical protein			
+FIG00820520: hypothetical protein			
+			
+Preprotein translocase subunit SecG (TC 3.A.5.1.1)			
+PE-PGRS FAMILY PROTEIN			
+Biotin sulfoxide reductase (EC 1.-.-.-)			
+FIG00824621: hypothetical protein			
+FIG00820605: hypothetical protein			
+FIG00820198: hypothetical protein			
+"6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type"			
+"OpcA, an allosteric effector of glucose-6-phosphate dehydrogenase, actinobacterial"			
+Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)			
+Transaldolase (EC 2.2.1.2)			
+Transketolase (EC 2.2.1.1)			
+FIG00825039: hypothetical protein			
+PE_PGRS family protein			
+"Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB"			
+PE_PGRS family protein			
+FIG00822825: hypothetical protein			
+Quinone oxidoreductase (EC 1.6.5.5)			
+Cytochrome oxidase assembly protein			
+			
+"ABC-type multidrug transport system, permease component"			
+"ABC-type multidrug transport system, ATPase component"			
+POSSIBLE CONSERVED INTEGRAL MEMBRANE PROTEIN			
+Iron-sulfur cluster regulator SufR			
+Iron-sulfur cluster assembly protein SufB @ intein-containing			
+Iron-sulfur cluster assembly protein SufD			
+Iron-sulfur cluster assembly ATPase protein SufC			
+"Cysteine desulfurase (EC 2.8.1.7), SufS subfamily"			
+"Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2"			
+PaaD-like protein (DUF59) involved in Fe-S cluster assembly			
+acyl-CoA dehydrogenase FadE15			
+PE family protein			
+"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"			
+Thioredoxin TrxA			
+Thioredoxin TrxB1			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+ABC transporter ATP-binding protein			
+POSSIBLE TRANSCRIPTIONAL REGULATORY PROTEIN			
+"Transcriptional regulator, TetR family"			
+Aconitate hydratase (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)			
+Possible membrane protein			
+NLP/P60 family protein			
+Invasion protein			
+COG0714: MoxR-like ATPases			
+hypothetical protein			
+Possible membrane protein			
+FIG00821775: hypothetical protein			
+3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)			
+Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)			
+hypothetical protein			
+"Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)"			
+Putative activity regulator of membrane protease YbbK			
+Putative stomatin/prohibitin-family membrane protease subunit YbbK			
+FIG00822897: hypothetical protein			
+methylmalonyl-CoA mutase( EC:5.4.99.2 )			
+Possible membrane protein			
+FIG00821853: hypothetical protein			
+DedA family protein paralog			
+"Methylmalonyl-CoA mutase, small subunit (EC 5.4.99.2)"			
+Methylmalonyl-CoA mutase (EC 5.4.99.2)			
+FIG00821542: hypothetical protein			
+FIG00822400: hypothetical protein			
+putative periplasmic protein kinase ArgK and related GTPases of G3E family			
+Esterase LipL			
+Methyltransferase (EC 2.1.1.-)			
+FIG00820700: hypothetical protein			
+FIG00821021: hypothetical protein			
+"Glycosyl transferase, family 2"			
+FIG027348: hypothetical protein			
+FIG00821234: hypothetical protein			
+hypothetical protein			
+4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase			
+Acyltransferase			
+SAM (And some other nucleotide) binding motif			
+SAM (And some other nucleotide) binding motif			
+FIG00821895: hypothetical protein			
+Possible membrane protein			
+FIG00822916: hypothetical protein			
+Methyltransferase domain			
+			
+hypothetical protein			
+"""GDP-mannose 4,6-dehydratase (EC 4.2.1.47)"""			
+GDP-fucose synthetase			
+FkbM family methyltransferase			
+Putative glycosyl transferase			
+FIG00822023: hypothetical protein			
+hypothetical protein Rv1516c			
+hypothetical protein Rv1517			
+Glycosyltransferase PglI (EC 2.4.1.-)			
+FIG00821351: hypothetical protein			
+FIG00820990: hypothetical protein			
+Uncharacterized protein Rv1520/MT1570			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Putative membrane protein MmpL12			
+FIG00820235: hypothetical protein			
+Probable methyltransferase (EC 2.1.1.-)			
+Uncharacterized glycosyltransferase Rv1524/MT1575 (EC 2.-.-.-)			
+Uncharacterized protein Rv1526c/MT1577			
+POSSIBLE RHAMNOSYL TRANSFERASE WBBL2			
+Polyketide synthase			
+PROBABLE CONSERVED POLYKETIDE SYNTHASE ASSOCIATED PROTEIN PAPA4			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Alcohol dehydrogenase (EC 1.1.1.1)			
+Carboxymuconolactone decarboxylase			
+Putative uncharacterized protein BCG_1584c			
+Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9)			
+"Transcriptional regulator, TetR family"			
+			
+Putative uncharacterized protein BCG_1587			
+Isoleucyl-tRNA synthetase (EC 6.1.1.5)			
+L-asparaginase (EC 3.5.1.1)			
+DNA polymerase IV (EC 2.7.7.7)			
+Lipoprotein signal peptidase (EC 3.4.23.36)			
+Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)			
+"""Lipoprotein, LprL"""			
+Cyanoglobin; Hemoglobin-like protein HbN			
+			
+"""Oxidoreductase, short-chain dehydrogenase/reductase family"""			
+Ketoacyl reductase			
+			
+FIG00820144: hypothetical protein			
+DNA polymerase III alpha subunit (EC 2.7.7.7)			
+PPE family protein			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)			
+FIG00821243: hypothetical protein			
+Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)			
+Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)			
+Fumarate reductase subunit C			
+Fumarate reductase subunit D			
+"Transcriptional regulator, TetR family"			
+putative transmembrane transport protein mmpL6			
+AclJ			
+Threonine dehydratase (EC 4.3.1.19)			
+FIG00821924: hypothetical protein			
+FIG00820947: hypothetical protein			
+Malto-oligosyltrehalose trehalohydrolase (EC 3.2.1.141)			
+Malto-oligosyltrehalose synthase (EC 5.4.99.15)			
+Glycogen debranching enzyme (EC 3.2.1.-)			
+O-antigen acetylase			
+Invasion protein			
+FIG00821756: hypothetical protein			
+Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)			
+8-amino-7-oxononanoate synthase (EC 2.3.1.47)			
+Dethiobiotin synthetase (EC 6.3.3.3)			
+FIG00820026: hypothetical protein			
+hypothetical protein			
+Probable phiRV1 phage protein			
+hypothetical protein			
+hypothetical protein			
+Phage major capsid protein			
+			
+"PhiRv1 phage, prohead protease, HK97 family"			
+Probable phiRv1 phage protein			
+Probable phiRv1 phage protein			
+Probable phiRv1 phage protein			
+Probable phiRv1 phage protein			
+			
+"DNA primase/helicase, phage-associated"			
+Probable phiRv1 phage protein			
+Putative phiRv1 phage protein			
+Putative phiRv1 phage protein			
+Probable phiRv1 integrase			
+Partial REP13E12 repeat protein			
+			
+			
+Biotin synthase (EC 2.8.1.6)			
+FIG00820826: hypothetical protein			
+Possible membrane protein			
+Lipase 1 (EC 3.1.1.3)			
+Nudix-related transcriptional regulator NrtR			
+Quinolinate synthetase (EC 2.5.1.72)			
+L-aspartate oxidase (EC 1.4.3.16)			
+Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)			
+Methyltransferase (EC 2.1.1.-)			
+FIG00820654: hypothetical protein			
+Histidinol dehydrogenase (EC 1.1.1.23)			
+Histidinol-phosphate aminotransferase (EC 2.6.1.9)			
+Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)			
+Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)			
+Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16) / Acting phosphoribosylanthranilate isomerase (EC 5.3.1.24)			
+Histidinol-phosphatase [alternative form] (EC 3.1.3.15)			
+Imidazole glycerol phosphate synthase cyclase subunit (EC 4.1.3.-)			
+Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)			
+Calcium/proton antiporter			
+Alkyl hydroperoxide reductase subunit C-like protein			
+"Anthranilate synthase, aminase component (EC 4.1.3.27)"			
+FIG00997095: hypothetical protein			
+Indole-3-glycerol phosphate synthase (EC 4.1.1.48)			
+Tryptophan synthase beta chain (EC 4.2.1.20)			
+Tryptophan synthase alpha chain (EC 4.2.1.20)			
+FIG00821863: hypothetical protein			
+Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)			
+FIG00822583: hypothetical protein			
+Possible membrane protein			
+Pyruvate kinase (EC 2.7.1.40)			
+Acyl-CoA thioesterase II (EC 3.1.2.-)			
+FIG00824830: hypothetical protein			
+Transport ATP-binding protein CydC			
+			
+Transport ATP-binding protein CydD			
+Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)			
+Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)			
+Possible membrane protein			
+Adenylate cyclase (EC 4.6.1.1)			
+response regulator			
+Probable nonspecific lipid-transfer protein			
+FIG00823085: hypothetical protein			
+DNA polymerase I (EC 2.7.7.7)			
+SSU ribosomal protein S1p			
+Dephospho-CoA kinase (EC 2.7.1.24)			
+FIG00996124: hypothetical protein			
+Excinuclease ABC subunit B			
+Possible membrane protein			
+Drug efflux membrane protein			
+FIG00824005: hypothetical protein			
+Universal stress protein UspA and related nucleotide-binding proteins			
+metallo-beta-lactamase superfamily protein			
+Excinuclease ABC subunit A			
+FIG00820127: hypothetical protein			
+FIG00824695: hypothetical protein			
+Putative membrane protein found fused to lysyl-tRNA synthetase like protein / Lysyl-tRNA synthetase (class II) related protein found fused to membrane protein			
+Translation initiation factor 3			
+LSU ribosomal protein L35p			
+LSU ribosomal protein L20p			
+"RNA methyltransferase, TrmH family"			
+FIG00820092: hypothetical protein			
+PE family protein			
+Purine cyclase-related protein			
+Possible membrane protein			
+Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)			
+Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)			
+PE family protein			
+N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)			
+Glutamate N-acetyltransferase (EC 2.3.1.35) / N-acetylglutamate synthase (EC 2.3.1.1)			
+Acetylglutamate kinase (EC 2.7.2.8)			
+Acetylornithine aminotransferase (EC 2.6.1.11)			
+Ornithine carbamoyltransferase (EC 2.1.3.3)			
+"Arginine pathway regulatory protein ArgR, repressor of arg regulon"			
+Argininosuccinate synthase (EC 6.3.4.5)			
+Argininosuccinate lyase (EC 4.3.2.1)			
+Chalcone synthase (EC 2.3.1.74)			
+Probable polyketide synthase pks7			
+Probable polyketide synthase pks7			
+Polyketide synthase Pks17			
+Polyketide synthase			
+Cytochrome P450 139			
+Chalcone synthase (EC 2.3.1.74)			
+"ABC transporter, ATP-binding protein"			
+hypothetical protein Rv1667c			
+FIG00821328: hypothetical protein			
+FIG00820311: hypothetical protein			
+Possible membrane protein			
+Integral membrane transport protein			
+"""Transglutaminase-like enzymes, putative cysteine proteases"""			
+"Transcriptional regulator, ArsR family"			
+"transcriptional regulator, Crp/Fnr family"			
+hypothetical protein			
+FIG00820852: hypothetical protein			
+Lipoprotein DsbF			
+fig|419947.9.peg.2833			
+"Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.99.2)"			
+Phosphonate ABC transporter phosphate-binding periplasmic component (TC 3.A.1.9.1)			
+Molybdopterin biosynthesis protein MoeX			
+AbpS-like protein			
+			
+Polyhydroxyalkanoic acid synthase			
+"Transcriptional regulator, TetR family"			
+FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster			
+"""ABC drug efflux pump, inner membrane subunit, DrrB family"""			
+ABC transporter ATP-binding protein			
+DNA-3-methyladenine glycosylase II (EC 3.2.2.21)			
+Tyrosyl-tRNA synthetase (EC 6.1.1.1)			
+Lipoprotein LprJ			
+TPR-repeat-containing protein			
+4-nitrophenylphosphatase (EC 3.1.3.41)			
+FIG00820006: hypothetical protein			
+RNA binding methyltransferase FtsJ like			
+NAD kinase (EC 2.7.1.23)			
+DNA repair protein RecN			
+FIG005773: conserved membrane protein ML1361			
+FIG007481: hypothetical protein			
+CTP synthase (EC 6.3.4.2)			
+ADP-ribose pyrophosphatase (EC 3.6.1.13)			
+Tyrosine recombinase XerD			
+FIG00829478: hypothetical protein			
+FIG00820900: hypothetical protein			
+Probable catechol-o-methyltransferase (EC 2.1.1.6)			
+D-serine/D-alanine/glycine transporter			
+PPE family protein			
+PPE family protein			
+			
+FIG00821036: hypothetical protein			
+Sulfate permease			
+Chromosome (plasmid) partitioning protein ParA / Sporulation initiation inhibitor protein Soj			
+Segregation and condensation protein A			
+Segregation and condensation protein B			
+Ribosomal large subunit pseudouridine synthase B (EC 4.2.1.70)			
+Cytidylate kinase (EC 2.7.4.14)			
+GTP-binding protein EngA			
+COG1028: Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)			
+3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)			
+Metal-dependent hydrolase			
+FIG041522: hypothetical protein			
+FIG00820704: hypothetical protein			
+"Transcriptional regulator, IclR family"			
+"Toxin 1, PIN domain"			
+Antitoxin 1			
+Biotin carboxylase-like protein			
+6-aminohexanoate-dimer hydrolase (EC 3.5.1.46)			
+FIG00820406: hypothetical protein			
+"Transcriptional regulator, HxlR family"			
+Oxidoreductase			
+FIG00820895: hypothetical protein			
+Possible membrane protein			
+FIG00819993: hypothetical protein			
+Beta-lactamase (EC 3.5.2.6)			
+Aldehyde dehydrogenase (EC 1.2.1.3)			
+Alkyl hydroperoxide reductase and/or thiol-specific antioxidant family (AhpC/TSA) protein			
+Possible membrane protein			
+FIG00821291: hypothetical protein			
+C4-dicarboxylate transporter/malic acid transport protein			
+			
+Tellurite-resistance/Dicarboxylate Transporter (TDT) family			
+Probable nitrate reductase NarX( EC:1.7.99.4 )			
+Nitrate/nitrite transporter co-occurring with respiratory nitrate reductase			
+"FIG041371: hypothetical protein, Rv1738/MT1780"			
+Sulfate transporter			
+FIG00820182: hypothetical protein			
+"Toxin 1, PIN domain"			
+FIG00821912: hypothetical protein			
+Serine/threonine-protein kinase PknE (EC 2.7.11.1)			
+FIG00820409: hypothetical protein			
+			
+Isopentenyl-diphosphate delta-isomerase (EC 5.3.3.2)			
+FIG00830366: hypothetical protein			
+Probable serine/threonine-protein kinase pknF (EC 2.7.11.1)			
+Probable conserved transmembrane ATP-binding protein ABC transporter			
+Possible membrane protein			
+Putative uncharacterized protein BCG_1787			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases			
+			
+FIG00823939: hypothetical protein			
+PPE family protein			
+FIG00821263: hypothetical protein			
+FIG00825719: hypothetical protein			
+Phospholipase C 4 precursor (EC 3.1.4.3)			
+Mobile element protein			
+Mobile element protein			
+Cutinase Cut1			
+PE-PGRS FAMILY PROTEIN			
+FIG00822708: hypothetical protein			
+Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase			
+FIG00820067: hypothetical protein			
+FIG00825647: hypothetical protein			
+Mobile element protein			
+Mobile element protein			
+"Transcriptional regulator, IclR family"			
+PUTATIVE TRANSPOSASE (FRAGMENT)			
+FIG00820648: hypothetical protein			
+Possible carboxymuconolactone decarboxylase family protein (EC 4.1.1.44)			
+PE_PGRS			
+"L-gulono-1,4-lactone oxidase (EC 1.1.3.8)"			
+Putative aminopeptidase			
+"oxidoreductase, FAD-binding"			
+			
+"Transcriptional regulator, IclR family"			
+"oxidoreductase, FAD-binding"			
+FIG00820194: hypothetical protein			
+"Transcriptional regulator, TetR family"			
+Cytochrome P450 144			
+FIG00821218: hypothetical protein			
+FIG00821637: hypothetical protein			
+FIG00820556: hypothetical protein			
+4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)			
+Possible membrane protein			
+"Type VII secretion protein EccCa, FtsK/SpoIIIE family"			
+"Type VII secretion protein EccCa, FtsK/SpoIIIE family"			
+Cytochrome P450 143			
+Putative ferredoxin			
+PPE family protein			
+PE family protein			
+PPE family protein			
+PPE family protein			
+PE family protein			
+ESAT-6-like protein EsxK			
+ESAT-6-like protein EsxL			
+FIG00820957: hypothetical protein			
+Type VII secretion integral membrane protein EccD			
+Type VII secretion-associated serine protease mycosin			
+Type VII secretion protein EccE			
+Type VII secretion AAA-ATPase EccA			
+Lipoprotein LppT			
+PPE family protein			
+PPE family protein			
+PPE family protein			
+PE family protein			
+FIG00819992: hypothetical protein			
+			
+PE family protein			
+PPE family protein			
+PPE family protein			
+PPE family protein			
+FIG00819992: hypothetical protein			
+Mg(2+) transport ATPase protein C			
+NADH dehydrogenase (EC 1.6.99.3)			
+Possible membrane protein			
+Membrane-bound C-5 sterol desaturase Erg3			
+FIG00820470: hypothetical protein			
+"Transcriptional regulator, TetR family"			
+"fumarate reductase/succinate dehydrogenase flavoprotein, N-terminal:FAD dependent oxidoreductase"			
+PE family protein			
+Drugs-transport transmembrane ATP-binding protein ABC transporter			
+FIG00823201: hypothetical protein			
+COG0028: Thiamine pyrophosphate-requiring enzymes			
+Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)			
+CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)			
+FIG030330: hypothetical protein			
+FIG025307: hypothetical protein			
+Division initiation protein			
+Glycine cleavage system H protein			
+FIG00672531: hypothetical protein			
+"Transcriptional regulator, MerR family"			
+hypothetical protein			
+Uncharacterized HTH-type transcriptional regulator			
+			
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)			
+Haloalkane dehalogenase 2 (EC 3.8.1.5)			
+Hydrolase			
+Glutaryl-7-ACA acylase			
+FIG00996932: hypothetical protein			
+Malate synthase G (EC 2.3.3.9)			
+FIG00821467: hypothetical protein			
+			
+FIG034581: hypothetical protein			
+PE family protein			
+Magnesium and cobalt efflux protein CorC			
+Magnesium and cobalt efflux protein CorC			
+Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)			
+"6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)"			
+"Peptidase M48, Ste24p precursor"			
+POSSIBLE TRANSCRIPTIONAL REGULATORY PROTEIN			
+Putative esterase			
+Urease gamma subunit (EC 3.5.1.5)			
+Urease beta subunit (EC 3.5.1.5)			
+Urease alpha subunit (EC 3.5.1.5)			
+Urease accessory protein UreF			
+Urease accessory protein UreG			
+Urease accessory protein UreD			
+NADH dehydrogenase (EC 1.6.99.3)			
+Oxidoreductase			
+"Oxidoreductase, short-chain dehydrogenase/reductase family"			
+"Molybdenum ABC transporter, periplasmic molybdenum-binding protein ModA (TC 3.A.1.8.1)"			
+Molybdenum transport system permease protein ModB (TC 3.A.1.8.1)			
+Molybdenum transport ATP-binding protein ModC (TC 3.A.1.8.1)			
+"Alanine and proline-rich secreted protein Apa, fibronectin attachment protein"			
+Possible membrane protein			
+Alcohol dehydrogenase (EC 1.1.1.1)			
+Possible membrane protein			
+Uncharacterized protein conserved in bacteria			
+"Oxidoreductase, short-chain dehydrogenase/reductase family"			
+Acyl-CoA transferases/carnitine dehydratase			
+Acetyl-CoA acetyltransferase			
+Phosphoenolpyruvate synthase (EC 2.7.9.2)			
+putative reductase( EC:1.- )			
+FIG00820353: hypothetical protein			
+FIG00820081: hypothetical protein			
+L-lactate dehydrogenase (EC 1.1.2.3)			
+NTP pyrophosphohydrolases including oxidative damage repair enzymes			
+FIG00820973: hypothetical protein			
+Pyridoxine 5'-phosphate oxidase			
+FIG00820183: hypothetical protein			
+Bacterioferritin (BFR)			
+EmrB/QacA family drug resistance transporter			
+"Glutamine synthetase (EC 6.3.1.2), putative"			
+Amidohydrolase			
+Cytochrome P450 140			
+Lipoprotein LppE			
+Probable short-chain type dehydrogenase/reductase (EC 1.1.-.-)			
+FIG00820653: hypothetical protein			
+Resuscitation-promoting factor RpfC			
+Periplasmic chorismate mutase I precursor (EC 5.4.99.5)			
+"Esterase, secreted fibronectin-binding protein antigen 85-B FbpB"			
+hypothetical protein			
+Possible membrane protein			
+Possible membrane protein			
+			
+FIG00820450: hypothetical protein			
+O-methyltransferase			
+FIG00820863: hypothetical protein			
+Possible membrane protein			
+Possible membrane protein			
+FIG00822024: hypothetical protein			
+2-nitropropane dioxygenase (EC 1.13.11.32)			
+FIG00823385: hypothetical protein			
+			
+Threonine dehydrogenase and related Zn-dependent dehydrogenases			
+D-tyrosyl-tRNA(Tyr) deacylase			
+Lipoprotein LppD			
+ExtraCellular Mutant; Ecm15p			
+lignin peroxidase LipJ			
+hypothetical protein			
+"Molybdopterin binding motif, CinA N-terminal domain / C-terminal domain of CinA type S"			
+Sialic acid-transport integral membrane protein NanT			
+Possible membrane protein			
+Anti-sigma F factor antagonist (spoIIAA-2); Anti-sigma B factor antagonist RsbV			
+D-amino-acid oxidase (EC 1.4.3.3)			
+FIG00823749: hypothetical protein			
+FIG042201: hypothetical protein			
+Catalase (EC 1.11.1.6) / Peroxidase (EC 1.11.1.7)			
+"Transcriptional regulator, FUR family"			
+Phosphatidylethanolamine-binding protein			
+Phosphatidylethanolamine-binding protein			
+Oxidoreductase FadB5			
+			
+FIG00820307: hypothetical protein			
+Fumarylacetoacetase (EC 3.7.1.2)			
+"Isocitrate lyase (EC 4.1.3.1), group III, Mycobacterial type ICL2"			
+"Isocitrate lyase (EC 4.1.3.1), group III, Mycobacterial type ICL2"			
+PPE family protein			
+			
+PPE family protein			
+FIG00823285: hypothetical protein			
+Acyltransferase family protein			
+Lipoprotein LppF			
+D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)			
+Lipase LipD			
+FIG00827133: hypothetical protein			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Immunogenic protein MPT63/MPB63 precursor			
+Putative uncharacterized protein BCG_1966			
+Probable short-chain type dehydrogenase/reductase (EC 1.-.-.-)			
+FIG00821384: hypothetical protein			
+ThiJ/PfpI family protein			
+"Transcriptional regulator, AraC family"			
+"Transcriptional regulator, AraC family"			
+Butyryl-CoA dehydrogenase (EC 1.3.99.2)			
+"Thiol peroxidase, Tpx-type (EC 1.11.1.15)"			
+Butyryl-CoA dehydrogenase (EC 1.3.99.2)			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+Monooxygenase component A			
+"Monooxygenase, FAD- and [2Fe-2S]-containing component B"			
+Monooxygenase component C / Probable epoxide hydrolase EphB (EC 3.3.2.9)			
+Nitrilotriacetate monooxygenase component B (EC 1.14.13.-)			
+"3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)"			
+short-chain type dehydrogenase-reductase			
+"Death on curing protein, Doc toxin"			
+"Prevent host death protein, Phd antitoxin"			
+FIG033348: hypothetical protein			
+Partial REP13E12 repeat protein			
+FIG00822138: hypothetical protein			
+FIG00820712: hypothetical protein			
+FIG00820058: hypothetical protein			
+FIG032369: hypothetical protein			
+FIG032435: hypothetical protein			
+FIG00830660: hypothetical protein			
+FIG00820949: hypothetical protein			
+FIG00821374: hypothetical protein			
+FIG00820722: hypothetical protein			
+FIG00822499: hypothetical protein			
+Possible transcriptional regulatory protein			
+			
+FIG00821415: hypothetical protein			
+FIG00820831: hypothetical protein			
+FIG00831360: hypothetical protein			
+plasmid stabilization protein ParE			
+Antitoxin ParD1			
+hypothetical protein			
+FIG00820878: hypothetical protein			
+FIG00823469: hypothetical protein			
+"Transcriptional repressor Mce3R, TetR family"			
+			
+Conserved hypothetical integral membrane protein YrbE1A			
+Conserved hypothetical integral membrane protein YrbE1B			
+MCE-family protein Mce1A			
+MCE-family protein Mce1B			
+MCE-family protein Mce1C			
+MCE-family protein Mce1D			
+MCE-family lipoprotein LprK (MCE-family lipoprotein Mce1e)			
+MCE-family protein Mce1F			
+FIG00821219: hypothetical protein			
+MCE associated membrane protein			
+FIG00820120: hypothetical protein			
+FIG00821319: hypothetical protein			
+FIG00820804: hypothetical protein			
+Zn-dependent protease with chaperone function			
+Amino acid permease			
+FIG00822747: hypothetical protein			
+Immunogenic protein MPT64/MPB64 precursor			
+"Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)"			
+"Toxin 1, PIN domain"			
+FIG00824259: hypothetical protein			
+Cutinase precursor Cfp21 (EC 3.1.1.74)			
+PE family protein			
+FIG00821477: hypothetical protein			
+HTH-type transcriptional regulator			
+"Transporter, LysE family"			
+hypothetical protein			
+FIG00823549: hypothetical protein			
+rRNA adenine N-6-methyltransferase (EC 2.1.1.48)			
+FIG00820930: hypothetical protein			
+FIG036251: Hypothetical protein			
+			
+FIG00821945: hypothetical protein			
+			
+FIG00820798: hypothetical protein			
+Programmed cell death antitoxin YdcD			
+"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"			
+FIG00821195: hypothetical protein			
+"Transcriptional regulator, ArsR family"			
+FIG00820119: hypothetical protein			
+Universal stress protein family			
+Probable cation-transporting ATPase F (EC 3.6.3.-)			
+PEP phosphonomutase and related enzymes			
+Uncharacterized transporter Rv1999c/MT2055			
+FIG029313: hypothetical protein Rv2000/MT2056			
+"Acyl-ACP thioesterase, FatA"			
+3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase (EC 1.1.1.53)			
+FIG147732: hypothetical protein Rv2003c/MT2059			
+Phosphoenolpyruvate synthase (EC 2.7.9.2)			
+FIG037390: hypothetical protein Rv2004c/MT2060			
+Universal stress protein family			
+PROBABLE TREHALOSE-6-PHOSPHATE PHOSPHATASE OTSB1 (TREHALOSE-PHOSPHATASE) (TPP)( EC:3.2.1.28 )			
+FdxA			
+AAA family ATPase			
+FIG00821114: hypothetical protein			
+"Toxin 1, PIN domain"			
+hypothetical protein			
+"Transcriptional regulator, MarR family"			
+FIG00821333: hypothetical protein			
+putative helicase			
+FIG00821066: hypothetical protein			
+			
+FIG00823619: hypothetical protein			
+Mobile element protein			
+Mobile element protein			
+"Transcriptional regulator, IclR family"			
+FIG00820622: hypothetical protein			
+Zn peptidase with DNA binding			
+FIG00821748: hypothetical protein			
+FIG00823439: hypothetical protein			
+Putative helicase			
+"Transcriptional regulator, XRE family"			
+hypothetical protein			
+FIG00821878: hypothetical protein			
+putative helicase			
+Cobalt-zinc-cadmium resistance protein			
+Universal stress protein family			
+Histidine kinase response regulator			
+Universal stress protein family			
+Tagatose-6-phosphate kinase (EC 2.7.1.144) / 1-phosphofructokinase (EC 2.7.1.56)			
+Erythromycin esterase homolog			
+14 kDa antigen (16 kDa antigen) (HSP 16.3)			
+"Dinucleotide-utilizing enzyme, Rv2032/acg (acr-coregulated gene)"			
+FIG00820570: hypothetical protein			
+"transcriptional regulator, ArsR family"			
+Putative uncharacterized protein BCG_2054			
+FIG00821723: hypothetical protein			
+lysophospholipase-like family protein			
+"Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)"			
+Probable sugar-transport integral membrane protein ABC transporter			
+Probable sugar-transport integral membrane protein ABC transporter			
+Probable sugar-binding lipoprotein			
+hypothetical protein			
+Nicotinamidase (EC 3.5.1.19)			
+Possible membrane protein			
+Probable carboxylesterase LipT (EC 3.1.1.-)			
+Probable lipoprotein lppI			
+Phosphoenolpyruvate synthase (EC 2.7.9.2)			
+Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)			
+FIG00822025: hypothetical protein			
+Apolipoprotein N-acyltransferase (EC 2.3.1.-) in lipid-linked oligosaccharide synthesis cluster / Dolichol-phosphate mannosyltransferase (EC 2.4.1.83) in lipid-linked oligosaccharide synthesis cluster			
+FIG00820327: hypothetical protein			
+Exoenzymes regulatory protein AepA in lipid-linked oligosaccharide synthesis cluster			
+Cytoplasmic membrane protein FsxA			
+Dienelactone hydrolase family protein			
+"SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent"			
+30S ribosomal protein S14			
+"LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent"			
+LSU ribosomal protein L28p			
+FIG00821360: hypothetical protein			
+			
+			
+FIG00995176: hypothetical protein			
+"Zinc ABC transporter, periplasmic-binding protein ZnuA"			
+CobN component of cobalt chelatase involved in B12 biosynthesis			
+Programmed cell death antitoxin YdcD			
+Programmed cell death toxin YdcE			
+Cobalamin biosynthesis protein CobG			
+Cobalt-precorrin-8x methylmutase (EC 5.4.1.2)			
+			
+Cobalt-precorrin-2 C20-methyltransferase (EC 2.1.1.130) / Cobalt-precorrin-3b C17-methyltransferase			
+Beta-lactamase class A			
+Cobalt-precorrin-6x reductase (EC 1.3.1.54)			
+RNA polymerase sigma-54 factor RpoN			
+Cobalt-precorrin-4 C11-methyltransferase (EC 2.1.1.133)			
+Cobalt-precorrin-6y C5-methyltransferase (EC 2.1.1.-) / Cobalt-precorrin-6y C15-methyltransferase [decarboxylating] (EC 2.1.1.-)			
+"Oxidoreductase, short-chain dehydrogenase/reductase family"			
+FIG01000472: hypothetical protein			
+FIG00822116: hypothetical protein			
+FIG00823547: hypothetical protein			
+Possible membrane protein			
+FIG00823030: hypothetical protein			
+FIG00822376: hypothetical protein			
+FIG033455: hypothetical protein			
+Lipoprotein LppJ			
+FIG031423: hypothetical protein			
+POSSIBLE MEMBRANE PROTEIN			
+			
+			
+FIG031423: hypothetical protein			
+FIG036988: hypothetical protein			
+FIG00821033: hypothetical protein			
+FIG00821326: hypothetical protein			
+putative transposase			
+Serine/threonine protein kinase PknJ (EC 2.7.11.1)			
+Probable dipeptidase PepE (EC 3.4.13.-)			
+putative 5'-3' exonuclease			
+Possible membrane protein			
+FIG005666: putative helicase			
+Twin-arginine translocation protein TatC			
+Twin-arginine translocation protein TatA			
+FIG019733: possible DNA-binding protein			
+FIG005453: Putative DeoR-family transcriptional regulator			
+"Pup ligase PafA, possible component of postulated heterodimer PafA-PafA'"			
+FIG033545: PE-PGRS family protein			
+FIG033545: PE-PGRS family protein			
+FIG034520: hypothetical protein			
+"Helicase, SNF2/RAD54 family"			
+FIG00822827: hypothetical protein			
+FIG006557: hypothetical protein			
+FIG00820845: hypothetical protein			
+FIG00823214: hypothetical protein			
+Mobile element protein			
+Mobile element protein			
+PE family protein			
+PPE family protein			
+"Proteasome subunit alpha (EC 3.4.25.1), bacterial"			
+"Proteasome subunit beta (EC 3.4.25.1), bacterial"			
+Prokaryotic ubiquitin-like protein Pup			
+"Pup ligase PafA' paralog, possible component of postulated heterodimer PafA-PafA'"			
+FIG00822881: hypothetical protein			
+Possible membrane protein			
+FIG00821521: hypothetical protein			
+Bacterial proteasome-activating AAA-ATPase (PAN)			
+Probable conserved lipoprotein lppK			
+YlxP-like protein			
+RNA methyltransferase			
+RecB family exonuclease			
+Hypothetical membrane protein Rv2120c			
+ATP phosphoribosyltransferase (EC 2.4.2.17)			
+Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)			
+5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)			
+PPE family protein			
+hypothetical protein			
+PE_PGRS family protein			
+FIG113212: hypothetical protein			
+L-asparagine permease			
+Possible membrane protein			
+"Oxidoreductase, short-chain dehydrogenase/reductase family"			
+L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC			
+Protein cysQ homolog			
+			
+"DNA-binding protein, CopG family"			
+Phosphatidylinositol 3-and 4-kinase family protein			
+FIG00820819: hypothetical protein			
+Phosphoglycerate mutase family			
+Undecaprenyl-diphosphatase (EC 3.6.1.27)			
+FIG00821698: hypothetical protein			
+Lipoprotein LppL			
+FIG00821060: hypothetical protein			
+Dihydroorotate dehydrogenase (EC 1.3.3.1)			
+Phospholipid-binding protein			
+FIG016551: Putative peptidase			
+FIG00823288: hypothetical protein			
+FIG00823257: hypothetical protein			
+Phosphoribosyl transferase domain protein			
+Probable transmembrane protein			
+"FIG055075: Possibly a cell division protein, antigen 84 in Mycobacteria"			
+FIG021764: Possible membrane protein			
+FIG021292: hypothetical protein			
+"Hypothetical protein YggS, proline synthase co-transcribed bacterial homolog PROSC"			
+COG1496: Uncharacterized conserved protein			
+Cell division protein FtsZ (EC 3.4.24.-)			
+Cell division protein FtsQ			
+UDP-N-acetylmuramate--alanine ligase (EC 6.3.2.8)			
+UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)			
+Cell division protein FtsW			
+UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)			
+Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)			
+"UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase (EC 6.3.2.10)"			
+"UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)"			
+FIG038012: hypothetical protein			
+"Transcriptional regulator, TetR family"			
+Probable F420-dependent oxidoreductase family protein			
+PE-PGRS FAMILY PROTEIN			
+Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)			
+FIG034299: proline rich membrane protein			
+rRNA small subunit methyltransferase H			
+Cell division protein MraZ			
+Mobile element protein			
+Mobile element protein			
+FIG017342: transmembrane protein			
+Acetyltransferase (EC 2.3.1.-)			
+FIG00821173: hypothetical protein			
+Lipoprotein LppM			
+Geranylgeranyl diphosphate synthase (EC 2.5.1.29)			
+Conserved hypothetical regulatory protein			
+Carotene biosynthesis associated membrane protein			
+Probable serine/threonine-protein kinase pknL (EC 2.7.11.1)			
+Mobile element protein			
+FIG00825588: hypothetical protein			
+2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)			
+hypothetical protein			
+Possible membrane protein			
+Possible membrane protein			
+1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)			
+FIG00821592: hypothetical protein			
+Arsenical pump-driving ATPase (EC 3.6.3.16)			
+hypothetical protein			
+FIG00995034: hypothetical protein			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Poly(glycerol-phosphate) alpha-glucosyltransferase (EC 2.4.1.52)			
+FIG00821136: hypothetical protein			
+Probable endopeptidase			
+hypothetical protein			
+Anthranilate phosphoribosyltransferase (EC 2.4.2.18)			
+			
+Cytochrome c oxidase polypeptide III (EC 1.9.3.1)			
+"ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit"			
+Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)			
+"Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2)"			
+Possible membrane protein			
+Putative membrane protein MmpS3			
+Probable cytochrome c oxidase polypeptide 4 (EC 1.9.3.1)			
+Cytochrome c oxidase polypeptide II (EC 1.9.3.1)			
+Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)			
+Adenosine kinase (EC 2.7.1.20)			
+Possible membrane protein			
+probable iron binding protein from the HesB_IscA_SufA family			
+Glycerate kinase (EC 2.7.1.31)			
+"CblZ, a non-orthologous displasment for Alpha-ribazole-5'-phosphate phosphatase"			
+Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)			
+Cobalamin synthase			
+FIG00821894: hypothetical protein			
+Branched-chain amino acid aminotransferase (EC 2.6.1.42)			
+			
+Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)			
+Adenylate cyclase (EC 4.6.1.1)			
+Cytosol aminopeptidase PepA (EC 3.4.11.1)			
+"Oxidoreductase, short-chain dehydrogenase/reductase family (EC 1.1.1.-)"			
+Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)			
+Cell division inhibitor			
+Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase			
+Lipoate synthase			
+"Transmembrane protein MT2276, clustered with lipoate gene"			
+PROBABLE MEMBRANE PROTEIN			
+Glutamine synthetase type I (EC 6.3.1.2)			
+Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)			
+Glutamine synthetase type I (EC 6.3.1.2)			
+Putative hydrolase			
+Probable exported protease [EC:3.4.-.-]			
+FIG00826184: hypothetical protein			
+3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)			
+Chaperonin GroEL (HSP60 family)			
+			
+hypothetical protein Rv2227			
+hypothetical protein Rv2227			
+FIG006762: Phosphoglycerate mutase family			
+FIG137478: Hypothetical protein			
+hypothetical protein			
+L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)			
+hypothetical protein			
+FIG00824339: hypothetical protein			
+Phosphoglycolate phosphatase (EC 3.1.3.18)			
+Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)			
+Adenosylcobinamide-phosphate synthase			
+"Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion"			
+hypothetical protein Rv2237			
+Alkyl hydroperoxide reductase subunit C-like protein			
+hypothetical protein			
+FIG00820323: hypothetical protein			
+Pyruvate dehydrogenase E1 component (EC 1.2.4.1)			
+Regulator of polyketide synthase expression			
+Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)			
+Acyl carrier protein			
+"3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.41)"			
+"3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.41)"			
+Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)			
+FIG00821976: hypothetical protein			
+Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)			
+"Transcriptional regulator, TetR family"			
+Flavoprotein			
+Flavoprotein			
+Diacylglycerol kinase-related protein			
+FIG00820044: hypothetical protein			
+Possible membrane protein			
+FIG039524: hypothetical protein			
+hypothetical protein			
+Beta-lactamase class C and other penicillin binding proteins			
+Possible transcriptional regulatory protein			
+"Formaldehyde dehydrogenase MscR, NAD/mycothiol-dependent (EC 1.2.1.66) / S-nitrosomycothiol reductase MscR"			
+Putative hydrolase in cluster with formaldehyde/S-nitrosomycothiol reductase MscR			
+Apolipoprotein N-acyltransferase (EC 2.3.1.-)			
+Apolipoprotein N-acyltransferase (EC 2.3.1.-)			
+Possible molecular chaperone DnaK			
+"Oxidoreductase, short-chain dehydrogenase/reductase family"			
+FIG00820050: hypothetical protein			
+putative cytochrome P450 hydroxylase			
+FIG00821541: hypothetical protein			
+Cytochrome P450 128			
+Lipoprotein LppN			
+FIG00822175: hypothetical protein			
+Possible membrane protein			
+Possible membrane protein			
+FIG00832386: hypothetical protein			
+FIG032699: hypothetical protein			
+Cytochrome P450 121			
+Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)			
+Mobile element protein			
+Mobile element protein			
+Probable dehydrogenase			
+Probable low-affinity inorganic phosphate transporter			
+Cys regulon transcriptional activator CysB			
+FIG00824482: hypothetical protein			
+			
+Membrane-bound esterase LipM			
+Diacyglycerol O-acyltransferase (EC 2.3.1.20)			
+FIG00820384: hypothetical protein			
+FIG00822662: hypothetical protein			
+Na+/H+ antiporter			
+CDP-diacylglycerol pyrophosphatase (EC 3.6.1.26)			
+Probable conserved lipoprotein lppO			
+"Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)"			
+FIG00821330: hypothetical protein			
+FIG00821330: hypothetical protein			
+Putative cystathionine beta-lyase (EC 4.4.1.8)			
+Colicin E2 tolerance protein CbrC-like protein			
+Haloalkane dehalogenase (EC 3.8.1.5)			
+FIG00821774: hypothetical protein			
+Aldo/keto reductase			
+Chaperone protein HtpG			
+FIG00823255: hypothetical protein			
+Cutinase Cut2 (EC 3.1.1.74)			
+hypothetical protein			
+PROBABLE ANTIBIOTIC-RESISTANCE PROTEIN			
+FIG00820486: hypothetical protein			
+Flagelliform silk protein (Fragment)			
+FIG00821564: hypothetical protein			
+FIG00821865: hypothetical protein			
+Hydrolases of the alpha/beta superfamily			
+			
+			
+FIG00821864: hypothetical protein			
+FIG00820166: hypothetical protein			
+Integrase			
+FIG00822831: hypothetical protein			
+FIG00820785: hypothetical protein			
+"DNA binding domain, excisionase family"			
+Putative ATP-dependent exoDNAse			
+FIG00821808: hypothetical protein			
+FIG00821236: hypothetical protein			
+"TldE/PmbA family protein, Actinobacterial subgroup"			
+"TldD family protein, Actinobacterial subgroup"			
+"Multiple sugar ABC transporter, membrane-spanning permease protein MsmF"			
+"Sugar ABC transporter, permease protein"			
+Periplasmic sugar-binding lipoprotein UspC			
+Universal stress protein family			
+Cationic amino acid transport integral membrane protein RocE			
+Ornithine aminotransferase (EC 2.6.1.13)			
+Ornithine aminotransferase (EC 2.6.1.13) ; N-terminus domain			
+"NG,NG-dimethylarginine dimethylaminohydrolase 1 (EC 3.5.3.18)"			
+"Transcriptional regulator, AsnC family"			
+Transmembrane component of energizing module of ECF transporters in Mycobacteria			
+Candidate substrate-specific domain of ECF transporters in Mycobacteria / Duplicated ATPase component of energizing module of predicted ECF transporter in Mycobacteria			
+"Transcriptional regulator, MarR family"			
+PE family protein			
+Nitrate/nitrite transporter			
+Lipoprotein LppP			
+hypothetical protein			
+"Drug resistance transporter, EmrB/QacA subfamily"			
+NAD-dependent malic enzyme (EC 1.1.1.38)			
+FIG00823263: hypothetical protein			
+Cysteine synthase (EC 2.5.1.47)			
+Serine acetyltransferase (EC 2.3.1.30)			
+FIG00823443: hypothetical protein			
+FIG031860: hypothetical protein			
+Molybdopterin biosynthesis protein MoeW			
+Transmembrane transport protein MmpL9			
+PE family protein			
+FIG00821429: hypothetical protein			
+Lipoprotein LppQ			
+FIG00820230: hypothetical protein			
+DNA primase (EC 2.7.7.-)			
+deoxyguanosinetriphosphate triphosphohydrolase-like protein			
+Possible membrane protein			
+ESAT-6-like protein EsxL			
+ESAT-6-like protein EsxK			
+FIG041762: hypothetical protein			
+Phospholipase C 3 PlcC (EC 3.1.4.3)			
+Phospholipase C 3 PlcC (EC 3.1.4.3)			
+Phospholipase C 3 PlcC (EC 3.1.4.3)			
+FIG00822803: hypothetical protein			
+PPE family protein			
+PPE family protein			
+Mobile element protein			
+Mobile element protein			
+PPE family protein			
+Glycyl-tRNA synthetase (EC 6.1.1.14)			
+"Transcriptional regulator, ArsR family"			
+Zinc uptake regulation protein ZUR			
+FIG00820411: hypothetical protein			
+Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)			
+DNA recombination and repair protein RecO			
+GTP-binding protein Era			
+Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related amidases			
+hypothetical protein			
+Magnesium and cobalt efflux protein CorC			
+"Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly"			
+"Phosphate starvation-inducible protein PhoH, predicted ATPase"			
+Putative transcriptional activator protei			
+PE_PGRS family protein			
+Ribosomal RNA small subunit methyltransferase E (EC 2.1.1.-)			
+Chaperone protein DnaJ			
+Heat-inducible transcription repressor HrcA			
+FIG00996129: hypothetical protein			
+Low molecular weight antigen MTB12 precursor			
+Protein MbtH			
+L-lysine 6-monooxygenase MbtG (EC 1.14.13.59)			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Polyketide synthetase MbtD			
+polyketide synthase			
+Phenyloxazoline synthase MbtB (EC 6.3.2.-)			
+Bifunctional salicyl-AMP ligase/salicyl-S-arcp synthetase MbtA			
+Acetyl hydrolase MbtJ			
+isochorismate synthase MbtI			
+FIG00820609: hypothetical protein			
+"Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type"			
+putative sodium-dependent bicarbonate transporter			
+Resuscitation-promoting factor RpfD			
+Possible membrane protein			
+"Ferredoxin--sulfite reductase, actinobacterial type (EC 1.8.7.1)"			
+Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8) / Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)			
+Sirohydrochlorin ferrochelatase (EC 4.99.1.4)			
+Gamma-glutamyltranspeptidase (EC 2.3.2.2)			
+Oligopeptide transporter			
+FIG00820713: hypothetical protein			
+			
+PE family protein			
+Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)			
+Sulfate transport system permease protein CysW			
+Sulfate transport system permease protein CysT			
+Sulfate and thiosulfate binding protein CysP			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+hypothetical protein			
+Glucoamylase (EC 3.2.1.3)			
+Lipoprotein LppR			
+Translation elongation factor LepA			
+RNA 3'-terminal phosphate cyclase (EC 6.5.1.4)			
+CBS domain protein			
+FIG00822338: hypothetical protein			
+metallo-beta-lactamase family protein			
+"Protein containing transglutaminase-like domain, putative cysteine protease"			
+Protein containing domains DUF403			
+"Protein containing domains DUF404, DUF407"			
+SSU ribosomal protein S20p			
+DNA polymerase III delta subunit (EC 2.7.7.7)			
+DNA internalization-related competence protein ComEC/Rec2			
+Putative competence protein ComEA			
+FIG00820458: hypothetical protein			
+Enhanced intracellular survival protein			
+"Hypothetical protein DUF194, DegV family"			
+FIG00999365: hypothetical protein			
+Phosphoglycerate mutase family			
+Iojap protein			
+Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)			
+			
+FIG00823750: hypothetical protein			
+SAM-dependent methyltransferases			
+Mobile element protein			
+VWA containing CoxE family protein			
+MoxR-like ATPases			
+Gamma-glutamyl phosphate reductase (EC 1.2.1.41)			
+			
+FIG00826286: hypothetical protein			
+FIG00820063: hypothetical protein			
+Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)			
+PPE family protein			
+Alkylhydroperoxidase protein D			
+PE family protein			
+FIG00823203: hypothetical protein			
+FIG00823410: hypothetical protein			
+Small-conductance mechanosensitive channel membrane protein			
+Adenylate cyclase (EC 4.6.1.1)			
+FIG00830561: hypothetical protein			
+			
+Ribokinase (EC 2.7.1.15)			
+FIG00820419: hypothetical protein			
+NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase			
+Putative protein-S-isoprenylcysteine methyltransferase			
+Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA			
+Obg			
+LSU ribosomal protein L27p			
+LSU ribosomal protein L21p			
+FIG00822907: hypothetical protein			
+Ribonuclease E (EC 3.1.26.12)			
+			
+Nucleoside diphosphate kinase (EC 2.7.4.6)			
+Possible membrane protein			
+Dihydrofolate synthase (EC 6.3.2.12) / Folylpolyglutamate synthase (EC 6.3.2.17)			
+Valyl-tRNA synthetase (EC 6.1.1.9)			
+Possible membrane protein			
+Putative saccharopine dehydrogenase			
+Molybdopterin-guanine dinucleotide biosynthesis protein MobA			
+"2-oxoglutarate oxidoreductase, beta subunit (EC 1.2.7.3)"			
+"2-oxoglutarate oxidoreductase, alpha subunit (EC 1.2.7.3)"			
+Integral membrane transport protein			
+ATP-dependent Clp protease ATP-binding subunit ClpX			
+Homocysteine S-methyltransferase (EC 2.1.1.10)			
+Multidrug resistance integral membrane efflux protein EmrB			
+ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)			
+ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)			
+Cell division trigger factor (EC 5.2.1.8)			
+Esterase A			
+Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)			
+Ribose 5-phosphate isomerase B (EC 5.3.1.6) / Galactose 6-phosphate isomerase			
+hypothetical protein			
+Membrane alanine aminopeptidase N (EC 3.4.11.2)			
+FIG00997368: hypothetical protein			
+FIG00821364: hypothetical protein			
+HNH endonuclease family protein			
+Hemoglobin-like protein HbO			
+Alpha-glucosidase (EC 3.2.1.20)			
+			
+hypothetical protein			
+FIG01001213: hypothetical protein			
+FIG00995656: hypothetical protein			
+"NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form"			
+ABC transporter ATP-binding protein			
+Single-strand DNA binding protein			
+Mobile element protein			
+Mobile element protein			
+Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)			
+Phosphoserine phosphatase (EC 3.1.3.3) / 1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)			
+"Acyltransferase, ws/dgat/mgat subfamily protein"			
+FIG00822297: hypothetical protein			
+Carboxylesterase LipQ			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+PE family protein			
+"Adenylyl cyclase class-3/4/guanylyl cyclase / Disease resistance domain-containing protein / Tetratricopeptide repeat-containing protein / Transcriptional regulator, LuxR family"			
+PE family protein			
+FIG00822820: hypothetical protein			
+Rossmann-fold nucleotide-binding protein			
+FIG00824247: hypothetical protein			
+FIG00823232: hypothetical protein			
+"Toxin 1, PIN domain"			
+Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)			
+"Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)"			
+"Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)"			
+Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)			
+Oxidase regulatory-related protein			
+Isovaleryl-CoA dehydrogenase (EC 1.3.99.10)			
+Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)			
+Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)			
+Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)			
+Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)			
+Acetoacetyl-CoA synthetase (EC 6.2.1.16) / Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+"Transcriptional regulator, TetR family"			
+Permease of the major facilitator transporter superfamily			
+POSSIBLE CONSERVED PROLINE RICH MEMBRANE PROTEIN			
+Short-chain dehydrogenase/reductase SDR			
+ATPase			
+3'-to-5' oligoribonuclease (orn)			
+Mobile element protein			
+FIG00820308: hypothetical protein			
+FIG00822709: hypothetical protein			
+FIG00821053: hypothetical protein			
+DNA-binding protein			
+FIG00821793: hypothetical protein			
+FIG00820249: hypothetical protein			
+Lipoprotein LppS			
+PE family protein			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+"Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A"			
+"Thiol peroxidase, Bcp-type (EC 1.11.1.15)"			
+Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)			
+[Acyl-carrier-protein] acetyl transferase of FASI (EC 2.3.1.38) / Enoyl-[acyl-carrier-protein] reductase of FASI (EC 1.3.1.9) / 3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase of FASI (EC 4.2.1.61) / [Acyl-carrier-protein] malonyl transferase of FASI (EC 2.3.1.39) / [Acyl-carrier-protein] palmitoyl transferase of FASI (EC 2.3.1.-) / Acyl carrier protein of FASI / 3-oxoacyl-[acyl-carrier-protein] reductase of FASI (EC 1.1.1.100) / 3-oxoacyl-[acyl-carrier-protein] synthase of FASI (EC 2.3.1.41)			
+Putative secreted protein			
+FIG01257073: hypothetical protein			
+FIG00821417: hypothetical protein			
+Mrr restriction system protein			
+FIG00825978: hypothetical protein			
+ERCC4 domain-containing protein			
+"Toxin 1, PIN domain"			
+FIG00820351: hypothetical protein			
+Arginine decarboxylase (EC 4.1.1.19)			
+FIG00822125: hypothetical protein			
+Transcription termination protein NusB			
+Translation elongation factor P			
+"Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)"			
+Possible membrane protein			
+3-dehydroquinate dehydratase II (EC 4.2.1.10)			
+3-dehydroquinate synthase (EC 4.2.3.4)			
+Shikimate kinase I (EC 2.7.1.71)			
+Chorismate synthase (EC 4.2.3.5)			
+FIG00824306: hypothetical protein			
+POSSIBLE CONSERVED TRANSMEMBRANE PROTEIN			
+Lipoprotein LppA			
+Lipoprotein LppA			
+			
+hypothetical protein Rv2545			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+"DNA-binding protein, CopG family"			
+PIN domain protein			
+FIG00821055: hypothetical protein			
+hypothetical protein Rv2549c			
+"DNA-binding protein, CopG family"			
+probable type IV peptidase			
+Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)			
+FIG004453: protein YceG like			
+Putative Holliday junction resolvase YggF			
+Alanyl-tRNA synthetase (EC 6.1.1.7)			
+FIG027887: hypothetical protein			
+hypothetical protein Rv2558			
+FIG030001: hypothetical protein			
+"ATPase, AAA family"			
+			
+PROBABLE PROLINE AND GLYCINE RICH TRANSMEMBRANE PROTEIN			
+FIG00825530: hypothetical protein			
+			
+FIG00821041: hypothetical protein			
+Glutamine-transport transmembrane protein ABC transporter			
+Glutamine-transport ATP-binding protein ABC transporter GlnQ			
+Uncharacterized NTE family protein			
+Large protein containing transglutaminase-like domain			
+FIG00821164: hypothetical protein			
+"Protein containing domains DUF404, DUF407, DUF403"			
+"Protein containing transglutaminase-like domain, putative cysteine protease"			
+Possible membrane protein			
+FIG00822845: hypothetical protein			
+Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)			
+2-dehydropantoate 2-reductase (EC 1.1.1.169)			
+FIG00820672: hypothetical protein			
+"YpfJ protein, zinc metalloprotease superfamily"			
+Possible membrane protein			
+Acid phosphatase (EC 3.1.3.2)			
+Radical SAM domain protein			
+Haloalkane dehalogenase (EC 3.8.1.5)			
+Histidyl-tRNA synthetase (EC 6.1.1.21)			
+Hydroxyacylglutathione hydrolase (EC 3.1.2.6)			
+Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)			
+"GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I"			
+Adenine phosphoribosyltransferase (EC 2.4.2.7)			
+"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"			
+Protein-export membrane protein SecF (TC 3.A.5.1.1)			
+Protein-export membrane protein SecD (TC 3.A.5.1.1)			
+Preprotein translocase subunit YajC (TC 3.A.5.1.1)			
+Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+PE-PGRS virulence associated protein			
+Holliday junction DNA helicase RuvB			
+Holliday junction DNA helicase RuvA			
+Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)			
+FIG00823117: hypothetical protein			
+"Toxin 1, PIN domain"			
+Possible membrane protein			
+FIG00993990: hypothetical protein			
+Possible membrane protein			
+Possible membrane protein			
+Spermidine synthase (EC 2.5.1.16)			
+FIG00821819: hypothetical protein			
+FIG00820912: hypothetical protein			
+FIG000859: hypothetical protein YebC			
+"Pyridoxine biosynthesis glutamine amidotransferase, glutaminase subunit (EC 2.4.2.-)"			
+Acyl-CoA thioesterase II (EC 3.1.2.-)			
+"Pyridoxine biosynthesis glutamine amidotransferase, synthase subunit (EC 2.4.2.-)"			
+Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)			
+PPE family protein			
+FIG019327: Probable conserved membrane protein			
+Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)			
+Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis (Lauroyl/myristoyl acyltransferase)			
+CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)			
+FIG049476: HIT family protein			
+Threonyl-tRNA synthetase (EC 6.1.1.3)			
+PE_PGRS family protein			
+FIG037376: hypothetical protein			
+Possible membrane protein			
+FIG00821167: hypothetical protein			
+Putative transcriptional regulatory protein			
+Possible membrane protein			
+Putative transcriptional regulatory protein			
+Possible methyltransferase (Methylase)			
+Universal stress protein family			
+Universal stress protein family			
+Probable conserved transmembrane alanine and leucine rich protein			
+CBS domain protein			
+FIG00821576: hypothetical protein			
+FIG00820447: hypothetical protein			
+FIG00822103: hypothetical protein			
+Archease			
+hypothetical protein			
+FIG00823991: hypothetical protein			
+FIG00822335: hypothetical protein			
+FIG00822363: hypothetical protein			
+PE family protein			
+FIG00822113: hypothetical protein			
+DedA protein			
+Anti-sigma F factor antagonist (spoIIAA-2); Anti-sigma B factor antagonist RsbV			
+FIG035174: membrane protein			
+"regulatory protein, ArsR"			
+Lactoylglutathione lyase (EC 4.4.1.5)			
+Arsenical resistance operon repressor			
+PROBABLE ARSENIC-TRANSPORT INTEGRAL MEMBRANE PROTEIN ARSC			
+FIG00823111: hypothetical protein			
+			
+FIG00821032: hypothetical protein			
+phage integrase family protein			
+FIG00822089: hypothetical protein			
+Mobile element protein			
+Mobile element protein			
+hypothetical protein			
+Phage major capsid protein			
+"PhiRv1 phage, prohead protease, HK97 family"			
+Probable phiRv1 phage protein			
+FIG040773: hypothetical phiRv2 prophage protein			
+FIG050287: hypothetical phiRv2 prophage protein			
+FIG00821016: hypothetical phiRv2 prophage protein			
+Probable phiRv1 phage protein			
+"gene 36 protein, putative"			
+FIG00821498: hypothetical protein			
+Integrase			
+"Mb2678c, -, len: 73 aa. Equivalent to Rv2660c, len: 75 aa, from Mycobacterium tuberculosis strain H37Rv, (100.0% identity in 73 aa overlap). (questionable orf). Hypothetical unknown protein. REMARK-M.bovis-M.tuberculosis: In Mycobacterium bovis, a large 10982 bp deletion leads to deletion of genes between Mb2677c and Mb2678c compared to Mycobacterium tuberculosis strain H37Rv."			
+FIG00820863: hypothetical protein			
+FIG00820935: hypothetical protein			
+FIG00821862: hypothetical protein			
+			
+Mobile element protein			
+putative ATP-dependent protease ATP-binding subunit clpX'( EC:3.4.- )			
+Putative alanine and valine rich exported protein			
+putative ATP/GTP-binding integral membrane protein			
+FIG00820775: hypothetical protein			
+5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193) homolog			
+FIG00995896: hypothetical protein			
+Putative membrane protein Q2 colocalized with Q			
+Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)			
+Methyltransferase (EC 2.1.1.-) colocalized with Q			
+hypothetical protein			
+"Protoporphyrinogen IX oxidase, aerobic (EC 1.3.3.4)"			
+Uroporphyrinogen III decarboxylase (EC 4.1.1.37)			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+Uncharacterized protein Q1 colocalized with Q			
+1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)			
+Ribonuclease D (EC 3.1.26.3)			
+hypothetical protein			
+FIG00822000: hypothetical protein			
+Na+/H+ antiporter NhaD type			
+Na+/H+ antiporter NhaD type			
+PROBABLE ANTIBIOTIC-TRANSPORT INTEGRAL MEMBRANE LEUCINE AND ALANINE AND VALINE RICH PROTEIN ABC TRANSPORTER			
+PROBABLE ANTIBIOTIC-TRANSPORT INTEGRAL MEMBRANE LEUCINE AND VALINE RICH PROTEIN ABC TRANSPORTER			
+"ABC transporter, ATP-binding protein"			
+23S rRNA (Uracil-5-) -methyltransferase RumA (EC 2.1.1.-)			
+			
+PROBABLE CONSERVED INTEGRAL MEMBRANE ALANINE AND VALINE AND LEUCINE RICH PROTEIN			
+Trk system potassium uptake protein TrkA			
+Trk system potassium uptake protein TrkA			
+PROBABLE CONSERVED INTEGRAL MEMBRANE ALANINE AND LEUCINE RICH PROTEIN			
+FIG00945047: hypothetical protein			
+FIG00994821: hypothetical protein			
+FIG00822685: hypothetical protein			
+Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)			
+PROBABLE CONSERVED ALANINE RICH TRANSMEMBRANE PROTEIN			
+hypothetical protein			
+Possible secreted alanine rich protein			
+Inositol-1-monophosphatase (EC 3.1.3.25)			
+Polyphosphate glucokinase (EC 2.7.1.63)			
+"COG0568: DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)"			
+			
+"Putative translation initiation inhibitor, YjgF family"			
+FIG00820633: hypothetical protein			
+hypothetical protein			
+FIG00998432: hypothetical protein			
+Possible membrane protein			
+RNA polymerase sigma factor SigB			
+Iron-dependent repressor IdeR/DtxR			
+FIG00999418: hypothetical protein			
+Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)			
+FIG00994994: hypothetical protein			
+"Hydrolase, alpha/beta fold family"			
+Phenazine biosynthesis protein PhzF like			
+DUF1794			
+FIG00821726: hypothetical protein			
+Ribonucleotide reductase transcriptional regulator NrdR			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+SOS-response repressor and protease LexA (EC 3.4.21.88)			
+Possible conserved transmembrane alanine and glycine rich protein			
+Integral membrane protein TerC			
+"putative acyl-CoA dehydrogenase fadE20( EC:1.3.99.-,EC:1.3.99.13 )"			
+GTP-binding protein HflX			
+Diaminopimelate epimerase (EC 5.1.1.7)			
+tRNA dimethylallyltransferase (EC 2.5.1.75)			
+FIG01121091: hypothetical protein			
+"Putative conserved alanine, valine and leucine rich integral membrane protein"			
+FIG00821119: hypothetical protein			
+FIG00820016: hypothetical protein			
+Possible membrane protein			
+ATPase involved in DNA repair			
+tRNA-i(6)A37 methylthiotransferase			
+FIG032330: hypothetical protein			
+			
+Regulatory protein RecX			
+RecA protein @ intein-containing			
+Conserved hypothetical cysteine rich protein			
+FIG00820724: hypothetical protein			
+Alanine rich transferase			
+FIG00820841: hypothetical protein			
+PE family protein			
+FIG00823950: hypothetical protein			
+Possible conserved membrane alanine rich protein			
+FIG00821935: hypothetical protein			
+"Phage shock protein A (IM30) , suppresses sigma54-dependent transcription"			
+"Transcriptional regulator, XRE family"			
+CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)			
+"Acetyltransferase, GNAT family"			
+Cell division protein FtsK			
+Antibiotic biosynthesis monooxygenase			
+Dehydrogenase			
+Ribonuclease J2 (endoribonuclease in RNA processing)			
+O-Methyltransferase involved in polyketide biosynthesis			
+Dihydrodipicolinate synthase (EC 4.2.1.52)			
+Thymidylate synthase thyX (EC 2.1.1.-)			
+			
+"Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72)"			
+"PilT protein, N-terminal"			
+FIG00821100: hypothetical protein			
+"Toxin 1, PIN domain"			
+FIG00820737: hypothetical protein			
+"Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)"			
+hypothetical protein			
+Dihydrofolate reductase (EC 1.5.1.3)			
+Thymidylate synthase (EC 2.1.1.45)			
+Dienelactone hydrolase family			
+3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)			
+hypothetical protein Rv2767c			
+FIG00820771: hypothetical protein			
+PPE family protein			
+PE family protein			
+PPE family protein			
+Multimeric flavodoxin WrbA			
+FIG00820747: hypothetical protein			
+Dihydrodipicolinate reductase (EC 1.3.1.26)			
+"Acetyltransferase, GNAT family"			
+Vanillate O-demethylase oxidoreductase (EC 1.14.13.-)			
+FF domain protein			
+FIG00820821: hypothetical protein			
+"Transcriptional regulator, AsnC family"			
+Alanine dehydrogenase (EC 1.4.1.1)			
+2-nitropropane dioxygenase (EC 1.13.11.32)			
+"FIG007959: peptidase, M16 family"			
+Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)			
+Lipoprotein LppU			
+SSU ribosomal protein S15p (S13e)			
+Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)			
+ATPases involved in chromosome partitioning			
+Mn-dependent transcriptional regulator MntR			
+acyl-CoA dehydrogenase FadE21			
+3-ketoacyl-CoA thiolase (EC 2.3.1.16)			
+Mobile element protein			
+Possible resolvase			
+tRNA pseudouridine synthase B (EC 4.2.1.70)			
+4'-phosphopantetheinyl transferase EntD (EC 2.7.8.-)			
+putative SimX4 homolog			
+PROBABLE CONSERVED LIPOPROTEIN LPPV			
+FIG00822807: hypothetical protein			
+FIG00821480: hypothetical protein			
+Possible membrane protein			
+Possible hydrolase			
+Programmed cell death toxin YdcE			
+Programmed cell death antitoxin YdcD			
+FIG00823567: hypothetical protein			
+FIG00820757: hypothetical protein			
+hypothetical protein			
+GCN5-related N-acetyltransferase; Histone acetyltransferase HPA2 and related acetyltransferases			
+FIG00821656: hypothetical protein			
+FIG00822506: hypothetical protein			
+Possible membrane protein			
+Integrase core domain-containing protein			
+FIG00822019: hypothetical protein			
+FIG00821734: hypothetical protein			
+COG3464: Transposase and inactivated derivatives			
+FIG00820260: hypothetical protein			
+Mobile element protein			
+"Type II secretory pathway, component ExeA"			
+Mobile element protein			
+Mobile element protein			
+CRISPR-associated protein Cas2			
+CRISPR-associated protein Cas1			
+CRISPR-associated protein Csm6			
+"CRISPR-associated protein, Csm5 family"			
+"CRISPR-associated RAMP protein, Csm4 family"			
+CRISPR-associated RAMP Csm3			
+"CRISPR-associated protein, Csm2 family"			
+"CRISPR-associated protein, Csm1 family"			
+CRISPR repeat RNA endoribonuclease Cas6			
+FIG00820705: hypothetical protein			
+FIG00821357: hypothetical protein			
+FIG00820907: hypothetical protein			
+FIG00820705: hypothetical protein			
+COGs COG0840			
+FIG00824270: hypothetical protein			
+FIG00821747: hypothetical protein			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+"Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)"			
+"Glycerol-3-phosphate ABC transporter, periplasmic glycerol-3-phosphate-binding protein (TC 3.A.1.1.3)"			
+"Glycerol-3-phosphate ABC transporter, permease protein UgpE (TC 3.A.1.1.3)"			
+"Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3)"			
+putative DNA-damage-inducible protein F			
+"FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type"			
+Ribosome-binding factor A			
+Translation initiation factor 2			
+FIG00820868: hypothetical protein			
+COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination			
+Transcription termination protein NusA			
+FIG000325: clustered with transcription termination protein NusA			
+PROBABLE CONSERVED TRANSMEMBRANE ALANINE RICH PROTEIN			
+FIG00999285: hypothetical protein			
+prolyl-tRNA synthetase( EC:6.1.1.15 )			
+EmrB/QacA family drug resistance transporter			
+Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)			
+"Cobyrinic acid A,C-diamide synthase"			
+Cob(I)alamin adenosyltransferase (EC 2.5.1.17)			
+ChlI component of cobalt chelatase involved in B12 biosynthesis / ChlD component of cobalt chelatase involved in B12 biosynthesis			
+ElaA protein			
+Malate:quinone oxidoreductase (EC 1.1.5.4)			
+PE-PGRS FAMILY PROTEIN			
+Lysophospholipase (EC 3.1.1.5)			
+NADPH-dependent mycothiol reductase Mtr			
+HoxN/HupN/NixA family nickel/cobalt transporter			
+[NiFe] hydrogenase nickel incorporation-associated protein HypB			
+[NiFe] hydrogenase nickel incorporation-associated protein HypB			
+Short-chain dehydrogenase/reductase in hypothetical Actinobacterial gene cluster			
+Aldehyde dehydrogenase in hypothetical Actinobacterial gene cluster			
+COG2071: predicted glutamine amidotransferases in hypothetical Actinobacterial gene cluster			
+Glutamine synthetase family protein in hypothetical Actinobacterial gene cluster			
+Methionine aminopeptidase (EC 3.4.11.18)			
+FIG020268: hypothetical protein			
+FIG00825957: hypothetical protein			
+Putative uncharacterized protein BCG_2885			
+Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)			
+RelB/StbD replicon stabilization protein (antitoxin to RelE/StbE)			
+RelE/StbE replicon stabilization toxin			
+"GCN5-related N-acetyltransferase, FIGfam019367"			
+1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1)			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)			
+FIG00823326: hypothetical protein			
+FIG00821346: hypothetical protein			
+Immunogenic protein Mpt70			
+FIG00822496: hypothetical protein			
+FIG00823410: hypothetical protein			
+DipZ protein			
+Immunogenic protein Mpt70			
+POSSIBLE CONSERVED TRANSMEMBRANE PROTEIN			
+1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)			
+Soluble secreted antigen MPT53 precursor			
+Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)			
+Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)			
+Phosphatidate cytidylyltransferase (EC 2.7.7.41)			
+Ribosome recycling factor			
+Uridylate kinase (EC 2.7.4.-)			
+Transcriptional regulatory protein glnR			
+Mobile element protein			
+Resolvase			
+"Transcriptional regulator, MarR family"			
+Putative amidase amiC (EC 3.5.1.4)			
+Translation elongation factor Ts			
+SSU ribosomal protein S2p (SAe)			
+FIG00821596: hypothetical protein			
+PPE family protein			
+Tyrosine recombinase XerC			
+POSSIBLE OXIDOREDUCTASE (EC 1.-.-.-)			
+Iron utilization protein			
+Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake			
+MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein			
+Predicted endonuclease distantly related to archaeal Holliday junction resolvase			
+Formate dehydrogenase chain D (EC 1.2.1.2)			
+Putative formate dehydrogenase oxidoreductase protein			
+Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII			
+Ribonuclease HII (EC 3.1.26.4)			
+Signal peptidase I (EC 3.4.21.89)			
+LSU ribosomal protein L19p			
+Putative lipoprotein lppW precursor			
+tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)			
+16S rRNA processing protein RimM			
+KH domain RNA binding protein YlqC			
+SSU ribosomal protein S16p			
+FIG00821456: hypothetical protein			
+D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)			
+"Transcriptional regulator, TetR family"			
+N-acyl-D-glutamate amidohydrolase			
+Transmembrane serine/threonine-protein kinase I PknI (EC 2.7.11.1)			
+"Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)"			
+"Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)"			
+DNA or RNA helicase of superfamily protein II			
+[Protein-PII] uridylyltransferase (EC 2.7.7.59)			
+Nitrogen regulatory protein P-II			
+Ammonium transporter			
+Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)			
+Chromosome partition protein smc			
+"Acylphosphate phosphohydrolase (EC 3.6.1.7), putative"			
+FIG00997866: hypothetical protein			
+Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)			
+Ribonuclease III (EC 3.1.26.3)			
+"COG1399 protein, clustered with ribosomal protein L32p"			
+Cell division initiation protein			
+Thioesterase TesA			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Phenolpthiocerol synthesis polyketide synthase ppsA			
+Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)			
+Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)			
+PHENOLPTHIOCEROL SYNTHESIS TYPE-I POLYKETIDE SYNTHASE PPSD			
+Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)			
+Daunorubicin-DIM-transport ATP-binding protein ABC transporter DrrA			
+Daunorubicin-DIM-transport integral membrane protein ABC transporter DrrB			
+Daunorubicin-DIM-transport integral membrane protein ABC transporter DrrC			
+Putative conserved polyketide synthase-associated protein PapA5			
+putative mycocerosic synthase			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+Putative membrane protein MmpL7			
+FIG00822453: hypothetical protein			
+Mobile element protein			
+			
+Mobile element protein			
+Putative lipoprotein LppX precursor			
+Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)			
+"(MTCY24G1.02), len: 496 aa, Probable polyketide synthase, almost identical to G560508 PKS002B (495 aa), fasta scores, opt: 3270, E(): 0, (99.6% identity in 496 aa overlap); contains PS00606 Beta-ketoacyl synthases active site; similar to MTCY338.20 (49.9% identity in 465 aa overlap) and MTCY24G1.09 (50.2% identity in 454 aa overlap) and MTCY22H8.03 (47.6% identity in 437 aa overlap)"			
+COG0318: Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II			
+			
+"Long-chain fatty-acid-AMP ligase, Mycobacterial subgroup FadD29"			
+FIG00820720: hypothetical protein			
+Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase			
+Phthiotriol/phenolphthiotriol dimycocerosates methyltransferase			
+Trans-acting enoyl reductase			
+FIG00821261: hypothetical protein			
+hypothetical protein			
+"methyltransferase, FkbM family domain protein"			
+gsc			
+PGL/p-HBAD biosynthesis glycosyltransferase			
+FIG00822491: hypothetical protein			
+UDP-glucoronosyl and UDP-glucosyltransferases family protein			
+POSSIBLE METHYLTRANSFERASE (METHYLASE)			
+PROBABLE TRANSPOSASE			
+PGL/p-HBAD biosynthesis rhamnosyltransferase			
+PROBABLE INTEGRAL MEMBRANE PROTEIN			
+Formyltetrahydrofolate deformylase (EC 3.5.1.10)			
+FIG00820984: hypothetical protein			
+Phosphopantetheine adenylyltransferase (EC 2.7.7.3)			
+16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171) ## SSU rRNA m(2)G966			
+Pyruvate carboxyl transferase (EC 6.4.1.1)			
+Putative ESX-1 secretion system component Rv3877			
+POSSIBLE CONSERVED MEMBRANE OR SECRETED PROTEIN			
+lipase-esterase (lipN)			
+"putative oxidoreductase( EC:1.-,EC:1.1.1.274 )"			
+Possible membrane protein			
+ATP-dependent DNA helicase RecG (EC 3.6.1.-)			
+Dihydroxyacetone kinase family protein			
+Dihydroxyacetone kinase family protein			
+LSU ribosomal protein L28p			
+"Uracil-DNA glycosylase, family 1"			
+Thiamine-monophosphate kinase (EC 2.7.4.16)			
+Mobile element protein			
+Resolvase			
+Possible membrane protein			
+D-alanine--D-alanine ligase (EC 6.3.2.4)			
+Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)			
+2-phospho-L-lactate guanylyltransferase (EC 2.7.7.68)			
+Polyphosphate kinase (EC 2.7.4.1)			
+Possible hydrolase mutT1 (EC 3.-.-.-)			
+"DNA-binding protein HU / low-complexity, AKP-rich domain"			
+3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)			
+3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)			
+"Transcriptional regulator, IclR family"			
+Putative uncharacterized protein BCG_3011c			
+FIG00822238: hypothetical protein			
+FIG00820161: hypothetical protein			
+Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)			
+"2-hydroxyhepta-2,4-diene-1,7-dioate isomerase (EC 5.3.3.-) / 5-carboxymethyl-2-oxo-hex-3- ene-1,7-dioate decarboxylase (EC 4.1.1.68)"			
+3-isopropylmalate dehydrogenase (EC 1.1.1.85)			
+			
+D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)			
+Phytoene dehydrogenase and related proteins			
+hypothetical protein			
+FIG00820572: hypothetical protein			
+Putative lipoprotein LppY			
+YbbM seven transmembrane helix protein			
+Ketol-acid reductoisomerase (EC 1.1.1.86)			
+Acetolactate synthase small subunit (EC 2.2.1.6)			
+Acetolactate synthase large subunit (EC 2.2.1.6)			
+Low molecular weight protein antigen 6			
+"Membrane protein 2, distant similarity to thiosulphate:quinone oxidoreductase DoxD"			
+"Glucose/sorbosone dehydrogenase, lipoprotein LppZ"			
+Oxidoreductase			
+Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)			
+FIG00820079: hypothetical protein			
+6-phosphofructokinase (EC 2.7.1.11)			
+Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)			
+Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)			
+hypothetical protein			
+DNA ligase (EC 6.5.1.2)			
+vitamin-B12 independent methionine synthase family protein			
+Lipoprotein LpqA			
+ESAT-6-like protein EsxQ			
+PPE family protein			
+FIG00822816: hypothetical protein			
+10 kDa antigen CFP7			
+PE family protein			
+PPE family protein			
+PE family protein			
+Mobile element protein			
+tRNA-specific 2-thiouridylase MnmA			
+Cysteine desulfurase (EC 2.8.1.7)			
+1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)			
+Putative hemolysin			
+"Electron transfer flavoprotein, alpha subunit"			
+"Electron transfer flavoprotein, beta subunit"			
+Methyltransferase (EC 2.1.1.-)			
+"Glycogen branching enzyme, GH-57-type, archaeal (EC 2.4.1.18)"			
+"Glycosyl transferase, group 1"			
+FIG00820699: hypothetical protein			
+FIG00820106: hypothetical protein			
+Galactoside O-acetyltransferase (EC 2.3.1.18)			
+Possible membrane protein			
+FIG00995884: hypothetical protein			
+Methyltransferase (EC 2.1.1.-)			
+Methyltransferase domain			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+FIG00996530: hypothetical protein			
+ABC transporter ATP-binding protein			
+Phosphoserine phosphatase (EC 3.1.3.3)			
+Cytochrome c oxidase polypeptide I (EC 1.9.3.1)			
+FIG00824201: hypothetical protein			
+"Iron(III) dicitrate transport system, periplasmic iron-binding protein FecB (TC 3.A.1.14.1)"			
+FIG00822200: hypothetical protein			
+Cinnamyl alcohol dehydrogenase/reductase (EC 1.1.1.195) @ Alcohol dehydrogenase (EC 1.1.1.1)			
+FIG00822353: hypothetical protein			
+FIG00821545: hypothetical protein			
+"Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)"			
+"Monooxygenase, flavin-binding family"			
+"Transcriptional regulator, TetR family"			
+"Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)"			
+Ribonucleotide reduction protein NrdI			
+"Glutaredoxin-like protein NrdH, required for reduction of Ribonucleotide reductase class Ib"			
+NADPH:quinone oxidoreductase			
+"Transcriptional regulator, TetR family"			
+DNA polymerase-like protein MT3142			
+Short chain dehydrogenase			
+"Transcriptional regulator, TetR family"			
+Cytochrome P450 136			
+FIG00820792: hypothetical protein			
+"Transcriptional regulator, GntR family"			
+Butyryl-CoA dehydrogenase (EC 1.3.99.2)			
+ATP-dependent DNA ligase (EC 6.5.1.1)			
+Carbon starvation protein A			
+Possible membrane protein			
+Multidrug resistance protein mmr			
+"Transcriptional regulator, TetR family"			
+FIG00823332: hypothetical protein			
+Phosphoglucomutase (EC 5.4.2.2)			
+Protein CrcB homolog 1			
+Protein CrcB homolog 2			
+FIG00822056: hypothetical protein			
+Probable F420-dependent oxidoreductase family protein			
+FIG016027: protein of unknown function YeaO			
+Citrate lyase beta chain (EC 4.1.3.6)			
+FIG029007: hypothetical protein			
+FIG00820680: hypothetical protein			
+Choline-sulfatase (EC 3.1.6.6)			
+Hydroxylaminobenzene mutase hab			
+Probable F420-dependent oxidoreductase family protein			
+"Transcriptional activator of maltose regulon, MalT"			
+FIG00820344: hypothetical protein			
+"Transcriptional regulator, AraC family"			
+"Monooxygenase, flavin-binding family"			
+Esterase/lipase			
+PROBABLE SHORT-CHAIN TYPE DEHYDROGENASE/REDUCTASE (EC 1.-.-.-)			
+Alcohol dehydrogenase (EC 1.1.1.1)			
+Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase			
+Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+FIG00821784: hypothetical protein			
+FIG00821598: hypothetical membrane protein			
+FIG00822615: hypothetical protein			
+"Membrane protein, putative"			
+putative oxidoreductase			
+Pigment protein			
+"Transcriptional regulator, HxlR family"			
+"NADH:flavin oxidoreductases, Old Yellow Enzyme family"			
+"(MTCY164.08c), len: 436. Esterase/lipase, identical to TR:P77909 (EMBL:U76006) ESTERASE/LIPASE (EC 3.1.1.3) (TRIACYLGLYCEROL LIPASE) (437 aa); N-terminal similar to N-terminal of M. tuberculosis PE family members, eg Y03A_MYCTU Q10637 hypothetical glycine-rich 49.6 kd pro (603 aa), fasta scores, opt: 334 E(): 4.8e-13, (43.4% identity in 152 aa overlap). Other relatives include MTCY1A11.25c, 7.8e-14; MTCY21B4.13c, 2.4e-12; MTCY270.06, 5.4e-12; MTCY359.33, 1.2e-11; MTC1A11.04, 1.2ee-11; cY130.seq, 1.3e-11"			
+			
+FIG00822995: hypothetical protein			
+PemK			
+			
+FIG00822482: hypothetical protein			
+tmRNA-binding protein SmpB			
+Cell division protein FtsX			
+"Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)"			
+hypothetical protein			
+Potassium efflux system KefA protein / Small-conductance mechanosensitive channel			
+Peptide chain release factor 2			
+"Ferredoxin--NADP(+) reductase, actinobacterial (eukaryote-like) type (EC 1.18.1.2)"			
+Alkyldihydroxyacetonephosphate synthase (EC 2.5.1.26)			
+hypothetical protein			
+Molybdenum cofactor biosynthesis protein MoaA			
+Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)			
+Molybdenum cofactor biosynthesis protein MoaC			
+			
+"hydrolase, haloacid dehalogenase-like family"			
+FIG00820842: hypothetical protein			
+			
+Mobile element protein			
+Sulfur carrier protein adenylyltransferase ThiF			
+"Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)"			
+probable sseC protein			
+Molybdenum cofactor biosynthesis protein MoaE; Molybdopterin converting factor subunit 2			
+Possible methyltransferase (EC 2.1.1.-)			
+"Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)"			
+hypothetical protein			
+FIG00820138: hypothetical protein			
+			
+hypothetical protein			
+"transcriptional regulator, AfsR/DnrI/RedD family"			
+PPE family protein			
+FIG00820866: hypothetical protein			
+FIG00823168: hypothetical protein			
+FIG00822544: hypothetical protein			
+Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)			
+Mobile element protein			
+Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase			
+probable DNA-binding protein			
+Two component system sensor histidine kinase DevS			
+Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2			
+Two component transcriptional regulatory protein DevR			
+Universal stress protein family			
+PPE family protein			
+PPE family protein			
+hypothetical protein			
+Histidinol-phosphatase [alternative form] (EC 3.1.3.15)			
+"COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like"			
+"Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.99.2)"			
+Probable acyl-CoA dehydrogenase (EC 1.3.99.3)			
+PROBABLE NADPH QUINONE OXIDOREDUCTASE FADB4 (NADPH:QUINONE REDUCTASE) (ZETA-CRYSTALLIN) (EC 1.6.5.5)			
+FIG00820149: hypothetical protein			
+Probable response regulator			
+PPE family protein			
+NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)			
+NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)			
+PPE family protein			
+"Transcriptional regulator, TetR family"			
+"Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases, large terminal subunit"			
+Possible membrane protein			
+POSSIBLE CONSERVED SECRETED PROTEIN			
+Probable methanol dehydrogenase transcriptional regulatory protein MoxR3			
+FIG00997183: hypothetical protein			
+FIG00995849: hypothetical protein			
+"Transcriptional regulator, TetR family"			
+Phosphotransferase			
+Putative uncharacterized protein BCG_3193			
+Non-heme haloperoxidase Hpx			
+Amine oxidase [flavin-containing] A (EC 1.4.3.4)			
+			
+"Transcriptional regulator, TetR family"			
+Putative oxidoreductase			
+Epoxide hydrolase (EC 3.3.2.9)			
+putative amidase			
+"hydrolase, alpha/beta hydrolase fold family"			
+AclJ			
+FIG00821191: hypothetical protein			
+FIG00820682: hypothetical protein			
+ATPase			
+FIG035400: Hypothetical protein			
+FIG031049: Hypothetical protein			
+FIG032362: Hypothetical protein			
+"FIG036183: Transcriptional regulator, XRE family"			
+Mobile element protein			
+Mobile element protein			
+Mobile element protein			
+Mobile element protein			
+FIG046480: Hypothetical protein			
+FIG043360: Hypothetical protein			
+FIG030803: Hypothetical protein			
+FIG069748: Hypothetical protein			
+FIG064496: Hypothetical protein			
+PROBABLE TRANSPOSASE			
+hypothetical protein			
+Oxidoreductase (EC 1.1.1.-)			
+INTEGRAL MEMBRANE PROTEIN (Rhomboid family)			
+FIG00826712: hypothetical protein			
+Lon-like protease with PDZ domain			
+Collagen alpha 1(I) chain precursor			
+FIG00822196: hypothetical protein			
+FIG00822846: hypothetical protein			
+Ubiquinone biosynthesis monooxygenase UbiB			
+WhiB-family transcriptional regulator			
+"ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog"			
+POSSIBLE GLUTAREDOXIN PROTEIN			
+NADH pyrophosphatase (EC 3.6.1.22)			
+Potassium channel protein			
+ATP-dependent DNA helicase SCO5184			
+ATP-dependent DNA helicase SCO5183			
+FIG00823358: hypothetical protein			
+possible lipase			
+Methylated DNA-protein cysteine methyltransferase			
+FIG00994019: hypothetical protein			
+Sulfur carrier protein adenylyltransferase ThiF			
+hypothetical protein			
+putative ATP-binding protein			
+"Transcriptional regulator, TetR family"			
+FIG00819977: hypothetical protein			
+putative membrane protein			
+hypothetical protein			
+putative ATP-dependent RNA helicase			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+Chromosome (plasmid) partitioning protein ParA / Sporulation initiation inhibitor protein Soj			
+putative phosphoglycerate mutase family protein			
+Isochorismate synthase (EC 5.4.4.2)			
+PROBABLE CONSERVED INTEGRAL MEMBRANE PROTEIN			
+Diamine acetyltransferase (EC 2.3.1.57)			
+Transcription regulator [contains diacylglycerol kinase catalytic domain]			
+WhiB-like transcription regulator			
+"Signal transduction histidine kinase, subgroup 2"			
+Biotin carboxyl carrier protein			
+Anti-sigma factor			
+FIG00821786: hypothetical protein			
+RNA polymerase sigma factor RpoE			
+Short-chain dehydrogenase/reductase SDR			
+FIG00823618: hypothetical protein			
+Putative phosphotransferase			
+FIG00996837: hypothetical protein			
+5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)			
+Ribosome small subunit-stimulated GTPase EngC			
+POSSIBLE LINOLEOYL-CoA DESATURASE (DELTA(6)-DESATURASE)			
+Flavodoxin reductases (ferredoxin-NADPH reductases) family 1			
+FIG00996471: hypothetical protein			
+UDP-galactose-lipid carrier transferase (EC 2.-.-.-)			
+Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase			
+Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase			
+FIG00820824: hypothetical protein			
+putative transmembrane transport protein			
+"TrkA, Potassium channel"			
+putative conserved integral membrane protein			
+Multidrug resistance protein B			
+Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)			
+Ribosomal subunit interface protein			
+"Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy"			
+FIG00820662: hypothetical protein			
+LpqB			
+Sensor histidine kinase MtrB (EC 2.7.3.-)			
+DNA-binding response regulator mtrA			
+Thymidylate kinase (EC 2.7.4.9)			
+Adenosylhomocysteinase (EC 3.3.1.1)			
+"Transcriptional regulator, TetR family"			
+Rubredoxin			
+Rubredoxin			
+Alkane-1 monooxygenase (EC 1.14.15.3)			
+Amino acid permease			
+Mannose-6-phosphate isomerase (EC 5.3.1.8)			
+putative secreted protein			
+hypothetical protein			
+Phosphomannomutase (EC 5.4.2.8)			
+hypothetical protein			
+hypothetical protein			
+Sporulation regulatory protein WhiB			
+"Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase"			
+Coenzyme F420-0:L-glutamate ligase @ Coenzyme F420-1:L-glutamate ligase / domain of unknown function			
+probable DNA methylase			
+D-glycero-D-manno-heptose 1-phosphate guanosyltransferase			
+"dTDP-Rha:A-D-GlcNAc-diphosphoryl polyprenol, A-3-L-rhamnosyl transferase WbbL"			
+dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)			
+"Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily A1 (as in PMID19099556)"			
+FIG00996117: hypothetical protein			
+FIG00821109: hypothetical protein			
+Possible membrane protein			
+Probable cation-transporting P-type ATPase C (EC 3.6.3.-) (Metal-transporting ATPase Mta72)			
+L-carnitine dehydratase/bile acid-inducible protein F (EC 2.8.3.16)			
+Butyryl-CoA dehydrogenase (EC 1.3.99.2)			
+Carbonic anhydrase (EC 4.2.1.1)			
+Phosphoribosylaminoimidazole carboxylase catalytic subunit (EC 4.1.1.21)			
+Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)			
+FIG00995613: hypothetical protein			
+FIG00821069: hypothetical protein			
+Biotin-protein ligase (EC 6.3.4.15)			
+Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)			
+FIG00820143: hypothetical protein			
+Septum formation protein Maf			
+"Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)"			
+Sulfur acceptor protein SufE for iron-sulfur cluster assembly			
+Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein of acetyl-CoA carboxylase			
+RNA polymerase sigma factor SigB			
+Serine-protein kinase RsbW (EC 2.7.11.1)			
+Putative uncharacterized protein usfY			
+Possible transmembrane protein			
+Probable L-lysine-epsilon aminotransferase (EC 2.6.1.36) (L-lysine aminotransferase) (Lysine 6-aminotransferase)			
+"Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system"			
+Uncharacterized protein Rv3292/MT3391			
+Aldehyde dehydrogenase B (EC 1.2.1.22)			
+Possible AAA family ATPase			
+"Transcriptional regulator, TetR family"			
+Probable ATP-dependent helicase lhr (EC 3.6.1.-)			
+Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)			
+POSSIBLE ESTERASE LIPOPROTEIN LPQC			
+Arylsulfatase (EC 3.1.6.1)			
+RNA pseudouridylate synthase family protein			
+Phosphate transport system regulatory protein PhoU			
+Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)			
+Dihydrolipoamide dehydrogenase (EC 1.8.1.4)			
+FIG01122412: hypothetical protein			
+Possible N-acyl-L-amino acid amidohydrolase amiA1 (EC 3.5.1.-)			
+"Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A"			
+Purine nucleoside phosphorylase (EC 2.4.2.1)			
+Phosphomannomutase (EC 5.4.2.8)			
+uracil phosphoribosyltransferase			
+Possible acid phosphatase (EC 3.1.3.2)			
+FIG026501: hypothetical protein			
+"Hydrolase, alpha/beta hydrolase fold family"			
+FIG00820553: hypothetical protein			
+SECRETED PROTEIN ANTIGEN			
+Adenosine deaminase (EC 3.5.4.4)			
+Thymidine phosphorylase (EC 2.4.2.4)			
+Cytidine deaminase (EC 3.5.4.5)			
+Succinate dehydrogenase cytochrome b-556 subunit			
+Succinate dehydrogenase hydrophobic membrane anchor protein			
+Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)			
+Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)			
+"Toxin 1, PIN domain"			
+hypothetical protein			
+Possible methyltransferase (EC 2.1.1.-)			
+Molybdenum cofactor biosynthesis protein MoaE			
+Molybdenum cofactor biosynthesis protein MoaC			
+Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)			
+Mobile element protein			
+Mobile element protein			
+			
+Mobile element protein			
+Omega-amino acid--pyruvate aminotransferase (EC 2.6.1.18)			
+FIG00822519: hypothetical protein			
+D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)			
+Sugar-transport integral membrane proteinSugI			
+N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)			
+Hydroxyproline-rich glycoprotein DZ-HRGP precursor			
+			
+Mercuric resistance operon regulatory protein			
+putative membrane protein			
+Tryptophanyl-tRNA synthetase (EC 6.1.1.2)			
+Alpha/beta hydrolase family			
+Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)			
+FIG00822939: hypothetical protein			
+O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)			
+Homoserine O-acetyltransferase (EC 2.3.1.31)			
+Methyltransferase (EC 2.1.1.-)			
+PPE family protein			
+PE_PGRS family protein			
+PE-PGRS FAMILY PROTEIN			
+hypothetical protein			
+PPE family protein			
+Mobile element protein			
+Mobile element protein			
+			
+			
+"ISMsm4, transposase"			
+PPE family protein			
+probable oxidoreductase			
+probable oxidoreductase			
+POSSIBLE OXIDOREDUCTASE			
+Possible lipoprotein LprJ			
+hypothetical protein			
+Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)			
+YefM protein (antitoxin to YoeB)			
+YoeB toxin protein			
+"NADH:flavin oxidoreductases, Old Yellow Enzyme family"			
+pentapeptide repeat family protein			
+ABC transporter ATP-binding protein			
+Putative ATP/GTP-binding protein			
+FIG00995222: hypothetical protein			
+FIG01121836: hypothetical protein			
+putative sensor-like histidine kinase			
+tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207) ## TrmL			
+PE_PGRS family protein			
+putative oxidoreductase			
+FIG00820233: hypothetical protein			
+Error-prone repair homolog of DNA polymerase III alpha subunit (EC 2.7.7.7)			
+hypothetical protein			
+Trehalose-6-phosphate phosphatase (EC 3.1.3.12)			
+PROBABLE ENOYL-COA HYDRATASE ECHA18 (ENOYL HYDRASE) (UNSATURATED ACYL-COA HYDRATASE) (CROTONASE)( EC:4.2.1.17 )			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+Glutamyl-tRNA(Gln) amidotransferase subunit A-like protein			
+hydrolase			
+Ent-copalyl diphosphate synthase			
+			
+1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)			
+			
+Mobile element protein			
+Mobile element protein			
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)			
+POSSIBLE POLYPRENYL SYNTHETASE IDSB (POLYPRENYL TRANSFERASE) (POLYPRENYL DIPHOSPHATE SYNTHASE)			
+FIG00822190: hypothetical protein			
+			
+FIG00821458: hypothetical protein			
+Mobile element protein			
+PROBABLE TRANSPOSASE			
+PE_PGRS family protein			
+Enoyl-CoA hydratase			
+Lipoprotein LpqD			
+"Oxidoreductase, short-chain dehydrogenase/reductase family"			
+Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)			
+Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)			
+DNA polymerase IV-like protein ImuB			
+FIG00821108: hypothetical protein			
+PROBABLE MEMBRANE PROTEIN			
+bifunctional GMP synthase/glutamine amidotransferase protein			
+Phytoene synthase (EC 2.5.1.32)			
+polyprenyl diphosphate synthase			
+O-Methyltransferase involved in polyketide biosynthesis			
+"Hydrolase, haloacid dehalogenase-like family"			
+Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)			
+			
+DegT/DnrJ/EryC1 family protein			
+"Zn-dependent hydrolases, including glyoxylases"			
+Methionyl-tRNA formyltransferase			
+"Transcriptional regulator, TetR family"			
+Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)			
+hypothetical protein			
+FIG00822687: hypothetical protein			
+Cholesterol oxidase (EC 1.1.3.6)			
+Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)			
+Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)			
+hypothetical protein			
+FIG00997706: hypothetical protein			
+RNA polymerase sigma-70 factor			
+FIG00996157: hypothetical protein			
+Sporulation regulatory protein WhiD			
+Heat shock protein 60 family chaperone GroEL			
+Heat shock protein 60 family co-chaperone GroES			
+"TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA"			
+Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.-)			
+"Inactive homolog of metal-dependent proteases, putative molecular chaperone"			
+"ATPase YjeE, predicted to have essential role in cell wall biosynthesis"			
+Alanine racemase (EC 5.1.1.1)			
+PPE family protein			
+hypothetical protein			
+			
+Mobile element protein			
+Mobile element protein			
+Mobile element protein			
+Mobile element protein			
+			
+FIG00822099: hypothetical protein			
+FIG00825126: hypothetical protein			
+Transposase			
+GadB( EC:4.1.1.15 )			
+NAD(P)HX epimerase / NAD(P)HX dehydratase			
+POSSIBLE CONSERVED TRANSMEMBRANE PROTEIN			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+FIG00820835: hypothetical protein			
+Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)			
+POSSIBLE CONSERVED TRANSMEMBRANE PROTEIN			
+FIG00996653: hypothetical protein			
+Conserved alanine and proline rich protein			
+FIG00820542: hypothetical protein			
+Phosphoglucosamine mutase (EC 5.4.2.10)			
+SSU ribosomal protein S9p (S16e)			
+LSU ribosomal protein L13p (L13Ae)			
+probable secreted protein			
+ESAT-6 like protein EsxU			
+Type VII secretion-associated protein			
+FtsK/SpoIIIE family protein			
+FIG00824274: hypothetical protein			
+PROBABLE CONSERVED INTEGRAL MEMBRANE PROTEIN			
+PROBABLE CONSERVED MEMBRANE PROTEIN			
+subtilase family protein			
+"serine esterase, cutinase family"			
+"serine esterase, cutinase family"			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+tRNA pseudouridine synthase A (EC 4.2.1.70)			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+LSU ribosomal protein L17p			
+DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)			
+SSU ribosomal protein S4p (S9e)			
+SSU ribosomal protein S11p (S14e)			
+SSU ribosomal protein S13p (S18e)			
+Translation initiation factor 1			
+"Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases"			
+"dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)"			
+"dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)"			
+Partial REP13E12 repeat protein			
+UDP-glucose 4-epimerase (EC 5.1.3.2)			
+4-hydroxy-2-oxovalerate aldolase (EC 4.1.3.39)			
+Acetohydroxy acid synthase			
+Mannose-6-phosphate isomerase			
+FIG00820398: hypothetical protein			
+Peroxidase BpoA			
+Mobile element protein			
+Mobile element protein			
+dicarboxylic acid transporter PcaT			
+PE family protein			
+PPE family protein			
+POSSIBLE TRANSMEMBRANE PROTEIN			
+Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase			
+PROBABLE INTEGRAL MEMBRANE PROTEIN			
+PROBABLE CONSERVED MEMBRANE PROTEIN			
+Lipoprotein LppP/LprE			
+"Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily A1 (as in PMID19099556)"			
+short chain dehydrogenase			
+putative esterase			
+hypothetical protein			
+"Transcriptional regulator, PadR family"			
+FIG00820754: hypothetical protein			
+"Alpha,alpha-trehalose-phosphate synthase [UDP-forming] (EC 2.4.1.15)"			
+MCE-associated transmembrane protein			
+FIG00820113: hypothetical protein			
+MCE-associated alanine and valine rich protein			
+MCE-family protein Mce1F			
+MCE-family lipoprotein LprK (MCE-family lipoprotein Mce1e)			
+MCE-family protein Mce1D			
+MCE-family protein Mce1C			
+MCE-family protein Mce1B			
+MCE-family protein Mce1A			
+Conserved hypothetical integral membrane protein YrbE1B			
+Conserved hypothetical integral membrane protein YrbE1A			
+Probable short-chain type dehydrogenase/reductase (EC 1.-.-.-)			
+Ferredoxin			
+FadE30			
+"Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.99.2)"			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+hypothetical protein			
+PE-PGRS virulence associated protein			
+COG0028: Thiamine pyrophosphate-requiring enzymes			
+PROBABLE ANTIBIOTIC-RESISTANCE PROTEIN			
+hypothetical protein			
+PE-PGRS family protein			
+Merozoite surface protein 2			
+"peptidase C14, caspase catalytic subunit p20"			
+PE-PGRS virulence associated protein			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+			
+PE-PGRS FAMILY PROTEIN			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+			
+Enoyl-CoA hydratase (EC 4.2.1.17)			
+FIG00821502: hypothetical protein			
+putative cytochrome P450 hydroxylase			
+Acetoacetate decarboxylase family protein			
+Coenzyme F420-dependent oxidoreductase			
+FIG00996312: hypothetical protein			
+Lipid-transfer protein			
+3-ketoacyl-CoA thiolase			
+Serine/threonine protein kinase (EC 2.7.11.1)			
+"carbonic anhydrase, family 3"			
+Terminal oxygenase KshA			
+FIG00820011: hypothetical protein			
+FIG00820460: hypothetical protein			
+FIG00821812: hypothetical protein			
+FIG00822113: hypothetical protein			
+FIG00994930: hypothetical protein			
+short chain dehydrogenase			
+FIG00994788: hypothetical protein			
+PPE family protein			
+PPE family protein			
+4-hydroxy-2-oxovalerate aldolase (EC 4.1.3.39)			
+"Acetaldehyde dehydrogenase, acetylating, (EC 1.2.1.10) in gene cluster for degradation of phenols, cresols, catechol"			
+2-keto-4-pentenoate hydratase			
+3-oxosteroid 1-dehydrogenase (EC 1.3.99.4)			
+Enoyl-CoA hydratase			
+PPE family protein			
+Lipid carrier protein IgrF			
+Enoyl coenzyme A hydratase IgrE			
+Conserved protein IgrD			
+Probable acyl-CoA dehydrogenase FadE29 (EC 1.3.99.-); Acyl-CoA dehydrogenase IgrC			
+Probable acyl-CoA dehydrogenase FadE28 (EC 1.3.99.-); Acyl-CoA dehydrogenase IgrB			
+Putative cytochrome P450 125 (EC 1.14.-.-); Putative cytochrome P450 IgrA			
+Probable acetyl-CoA acetyltransferase FadA5 (EC 2.3.1.9)			
+Putative uncharacterized protein BCG_3611			
+Putative uncharacterized protein (Hypothetical short-chain type dehydrogenase/reductase)			
+Probable short-chain type dehydrogenase/reductase (EC 1.-.-.-)			
+Probable enoyl-CoA hydratase EchA20 (EC 4.2.1.17)			
+Putative CoA-transferase subunit alpha Rv3551/MT3655 (EC 2.8.3.-)			
+Putative CoA-transferase subunit beta Rv3552/MT3656 (EC 2.8.3.-)			
+2-nitropropane dioxygenase (EC 1.13.11.32)			
+Possible electron transfer protein FdxB (EC 1.-.-.-)			
+Putative uncharacterized protein BCG_3619c			
+Probable acetyl-CoA acetyltransferase FadA6 (EC 2.3.1.9)			
+"Transcriptional factor in putative operon for degradation of branched-chain alkanes, nitroalkanes and may be also cyclic ketones, alkenoic acids"			
+PPE family protein			
+3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)			
+FadE30			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+"Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.99.2)"			
+Acyl-CoA dehydrogenase FadE32			
+Acyl-CoA dehydrogenase FadE33			
+Arylamine N-acetyltransferase (EC 2.3.1.5)			
+Valine--pyruvate aminotransferase (EC 2.6.1.66) ## AvtA			
+FIG00824752: hypothetical protein			
+FIG00822596: hypothetical protein			
+Nitrilotriacetate monooxygenase component B (EC 1.14.13.-)			
+"PUTATIVE BIPHENYL-2,3-DIOL 1,2-DIOXYGENASE BPHC (23OHBP OXYGENASE) (2,3-DIHYDROXYBIPHENYL DIOXYGENASE) (2,3-DIHYDROXYBIPHENYL 1,2-DIOXYGENASE) (DHBD)( EC:1.13.11.39 )"			
+"2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase (EC 3.7.1.-)"			
+POSSIBLE OXIDOREDUCTASE			
+"Phenylacetate-CoA oxygenase/reductase, PaaK subunit"			
+FIG00821138: hypothetical protein			
+Acyl-CoA dehydrogenase (EC 1.3.99.-)			
+"Transcriptional regulator kstR (Rv3574), TetR family"			
+"Transcriptional regulator, LacI family"			
+hypothetical protein			
+Serine/threonine protein kinase (EC 2.7.11.1)			
+Zn-dependent hydrolases of the beta-lactamase fold			
+Arsenic efflux pump protein			
+23S rRNA (guanosine-2'-O-) -methyltransferase rlmB (EC 2.1.1.-)			
+Cysteinyl-tRNA synthetase (EC 6.1.1.16)			
+"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)"			
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)			
+CarD-like transcriptional regulator			
+Lipoprotein LpqE			
+DNA repair protein RadA			
+hypothetical protein			
+FIG00820636: hypothetical protein			
+Carbonic anhydrase (EC 4.2.1.1)			
+PE-PGRS virulence associated protein			
+A/G-specific adenine glycosylase (EC 3.2.2.-)			
+PUTATIVE HYDROLASE			
+Antibiotic biosynthesis monooxygenase			
+Beta-lactamase (EC 3.5.2.6)			
+Phage endolysin			
+PE_PGRS family protein			
+"ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB"			
+Histone protein Lsr2			
+Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)			
+"Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)"			
+Aspartate 1-decarboxylase (EC 4.1.1.11)			
+Pantoate--beta-alanine ligase (EC 6.3.2.1)			
+FIG173306: hypothetical protein			
+Possible membrane protein			
+FIG027937: secreted protein			
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)			
+Dihydroneopterin aldolase (EC 4.1.2.25)			
+Dihydropteroate synthase (EC 2.5.1.15)			
+GTP cyclohydrolase I (EC 3.5.4.16) type 1			
+Cell division protein FtsH (EC 3.4.24.-)			
+			
+ESX-1 secretion system protein (Rv3614c)			
+Highly immunodominant RD1 (Region of Difference 1)-dependent secreted antigen specific for Mycobacterium tuberculosis infection			
+ESX-1 secretion system protein (Rv3616c)			
+Epoxide hydrolase (EC 3.3.2.9)			
+"Limonene 1,2-monooxygenase"			
+ESAT-6-like protein EsxL			
+ESAT-6-like protein EsxK			
+PPE family protein			
+PE family protein			
+Lipoprotein LpqG			
+Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)			
+tRNA(Ile)-lysidine synthetase			
+hypothetical protein			
+D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)			
+Inorganic pyrophosphatase (EC 3.6.1.1)			
+Possible membrane protein			
+hypothetical protein			
+Dolichol-phosphate mannosyltransferase (EC 2.4.1.83) in lipid-linked oligosaccharide synthesis cluster			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+Protein involved in biosynthesis of mitomycin antibiotics/polyketide fumonisin			
+UDP-glucose 4-epimerase (EC 5.1.3.2)			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+putative transposase			
+PROBABLE TRANSPOSASE FOR INSERTION SEQUENCE ELEMENT IS1533			
+Mobile element protein			
+Mobile element protein			
+Transposase			
+Cell filamentation protein Fic			
+FIG00821290: hypothetical protein			
+FIG00821200: hypothetical protein			
+DNA polymerase III delta prime subunit (EC 2.7.7.7)			
+DNA topoisomerase I (EC 5.99.1.2)			
+Adenylate cyclase (EC 4.6.1.1)			
+FIG00995018: hypothetical protein			
+Cold shock protein CspA			
+ATP-dependent helicase			
+PE-PGRS FAMILY PROTEIN			
+FIG00821239: hypothetical protein			
+FIG00824171: hypothetical protein			
+PE-PGRS family protein			
+FIG00995606: hypothetical protein			
+FIG00999563: hypothetical protein			
+FIG043778: hypothetical protein			
+FIG054221: Possible conserved alanine rich membrane protein			
+FIG016317: Probable conserved transmembrane protein			
+"Flp pilus assembly protein, ATPase CpaF"			
+Septum site-determining protein MinD @ possible CpaE			
+Phosphoserine phosphatase (EC 3.1.3.3)			
+hypothetical protein			
+Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)			
+Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)			
+Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)			
+"Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)"			
+Acetyl-coenzyme A synthetase (EC 6.2.1.1)			
+Protease			
+FIG00820727: hypothetical protein			
+putative serine protease			
+Epoxide hydrolase (EC 3.3.2.9)			
+Hypothetical nudix hydrolase YeaB			
+Possible membrane-anchored thioredoxin-like protein			
+Endonuclease III (EC 4.2.99.18)			
+POSSIBLE MEMBRANE PROTEIN			
+			
+cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases			
+"FIG146518: Zn-dependent hydrolases, including glyoxylases"			
+FIG137598: hypothetical protein			
+FIG011121: hypothetical protein			
+Arsenical pump-driving ATPase (EC 3.6.3.16)			
+Arsenical pump-driving ATPase (EC 3.6.3.16)			
+WhiB-type transcription regulator			
+Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)			
+putative secreted protein			
+Cysteine synthase (EC 2.5.1.47)			
+Probable cytochrome P450 137 cyp137 (EC 1.14.-.-)			
+FIG00821580: hypothetical protein			
+Anti-sigma F factor antagonist (spoIIAA-2); Anti-sigma B factor antagonist RsbV			
+Transamidase GatB domain protein			
+putative integral membrane protein			
+PROBABLE CONSERVED MEMBRANE PROTEIN			
+FIG00818282: hypothetical protein			
+MoxR-like ATPase			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+POSSIBLE CONSERVED TRANSMEMBRANE PROTEIN			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+Glycerol kinase (EC 2.7.1.30)			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+"DNA-binding protein, CopG family"			
+FIG00820887: hypothetical protein			
+Methyltransferase (EC 2.1.1.-)			
+"Selenocysteine lyase, CsdB"			
+ABC transporter ATP-binding protein			
+Glutamine amidotransferases class-II			
+Serine/threonine kinase			
+"Similar to Glutamate--cysteine ligase (EC 6.3.2.2), function unknown"			
+FIG00820305: hypothetical protein			
+hypothetical protein			
+FIG00820599: hypothetical protein			
+FIG00821722: hypothetical protein			
+Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)			
+Aspartokinase (EC 2.7.2.4)			
+2-isopropylmalate synthase (EC 2.3.3.13)			
+DNA polymerase III subunit epsilon( EC:2.7.7.7 )			
+proposed amino acid ligase found clustered with an amidotransferase			
+Putative amidotransferase similar to cobyric acid synthase			
+FIG00821247: hypothetical protein			
+Recombination protein RecR			
+FIG000557: hypothetical protein co-occurring with RecR			
+probable secreted protein			
+FIG00994252: hypothetical protein			
+FAD/FMN-containing dehydrogenases			
+DNA polymerase III subunits gamma and tau (EC 2.7.7.7)			
+Cyclopropane-fatty-acyl-phospholipid synthase (EC 2.1.1.79)			
+Aspartate transaminase (EC 2.6.1.1)			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+"serine esterase, cutinase family"			
+			
+"serine esterase, cutinase family"			
+Dihydroflavonol-4-reductase (EC 1.1.1.219)			
+			
+"2,3-butanediol dehydrogenase, R-alcohol forming, (R)- and (S)-acetoin-specific (EC 1.1.1.4)"			
+POSSIBLE OXIDOREDUCTASE			
+Multidrug resistance protein B			
+Possible Fe-S oxidoreductase			
+ATP-dependent DNA ligase (EC 6.5.1.1)			
+ATP-dependent DNA ligase (EC 6.5.1.1) LigC			
+FIG00821224: hypothetical protein			
+FIG00820818: hypothetical protein			
+MutT-like protein			
+Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase			
+Probable transmembrane protein			
+"Transcriptional regulator, AraC family"			
+PPE family protein			
+"membrane protein, putative"			
+hypothetical protein			
+Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase			
+"monooxygenase, flavin-binding family"			
+"monooxygenase, flavin-binding family"			
+"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"			
+"Cobalt(II) binding transcription repressor, nmtR"			
+FIG00822941: hypothetical protein			
+PE family protein			
+FIG00820925: hypothetical protein			
+FIG00821869: hypothetical protein			
+FIG00820497: hypothetical protein			
+			
+Excisionase			
+Integrase			
+tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)			
+FIG00994171: hypothetical protein			
+FIG00998044: hypothetical protein			
+Arogenate dehydrogenase (EC 1.3.1.43)			
+Glycine betaine ABC transport system permease protein			
+L-proline glycine betaine ABC transport system permease protein ProW (TC 3.A.1.12.1)			
+L-proline glycine betaine ABC transport system permease protein ProV (TC 3.A.1.12.1)			
+L-proline glycine betaine binding ABC transporter protein ProX (TC 3.A.1.12.1)			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+Acyl-CoA dehydrogenase FadE36 (EC 1.3.99.-)			
+alkyl sulfatase (EC 3.1.6.-)			
+19 kDa lipoprotein antigen precursor LpqH			
+sensor histidine kinase			
+putative two-component system response regulator			
+FIG00821932: hypothetical protein			
+O-Methyltransferase involved in polyketide biosynthesis			
+FIG00824660: hypothetical protein			
+FIG00821447: hypothetical protein			
+FIG00820132: hypothetical protein			
+PROBABLE REMNANT OF A TRANSPOSASE			
+Mobile element protein			
+FIG00824690: hypothetical protein			
+Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)			
+"Transcriptional regulator, ArsR family"			
+Enoyl-CoA hydratase			
+Beta-lactamase			
+			
+Quinone oxidoreductase (EC 1.6.5.5)			
+Cysteine desulfurase (EC 2.8.1.7)			
+FIG00820726: hypothetical protein			
+FIG00822472: hypothetical protein			
+"O-antigen export system, ATP-binding protein"			
+Putative glycosyl transferase			
+O-antigen export system permease protein RfbD			
+"dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)"			
+Membrane proteins related to metalloendopeptidases			
+"dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)"			
+FIG00819993: hypothetical protein			
+Nucleoside diphosphate kinase regulator			
+Possible membrane protein			
+"Oxidoreductase, FAD-binding protein"			
+3-oxoacyl-[acyl-carrier protein] reductase paralog (EC 1.1.1.100)			
+putative membrane protein			
+INTEGRAL MEMBRANE INDOLYLACETYLINOSITOL ARABINOSYLTRANSFERASE EMBC (ARABINOSYLINDOLYLACETYLINOSITOL SYNTHASE)			
+Probable arabinosyltransferase A (EC 2.4.2.-)			
+Integral membrane indolylacetylinositol arabinosyltransferase embB( EC:2.4.2.34 )			
+Putative uncharacterized protein BCG_3858			
+Probable acyl-CoA dehydrogenase fadE35 (EC 1.3.99.-)			
+Mobile element protein			
+Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)			
+"Probable polyketide synthase, similar to many. e.g. gp|M63676|SERERYAA_1 S.erythraea first ORF of eryA gene, involved in complex polyketide formation in erythromycin biosynthesis."			
+fatty-acid-CoA ligase FadD32			
+hypothetical protein Rv3802c			
+Antigen 85-C precursor (85C) (Antigen 85 complex C) (Ag85C) (Mycolyl transferase 85C) (EC 2.3.1.-)			
+Antigen 85-C precursor (85C) (Antigen 85 complex C) (Ag85C) (Mycolyl transferase 85C) (EC 2.3.1.-)			
+hypothetical protein Rv3805c			
+POSSIBLE CONSERVED INTEGRAL MEMBRANE PROTEIN			
+FIG008913: Membrane-associated phospholipid phosphatase			
+Galactofuranosyl transferase (EC 2.-.-.-)			
+UDP-galactopyranose mutase (EC 5.4.99.9)			
+Exported repetitive protein precursor (Cell surface protein pirG) (EXP53)			
+Putative uncharacterized protein BCG_3873			
+FIG00823856: hypothetical protein			
+PE-PGRS FAMILY PROTEIN			
+Cof family hydrolase			
+1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)			
+1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)			
+1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)			
+aminoglycoside 3'-phosphotransferase			
+Rieske (2Fe-2S) domain protein			
+Putative uncharacterized protein BCG_3881			
+Polyketide synthase associated protein papA2			
+hypothetical protein Rv3821			
+PE family protein			
+"membrane protein, MmpL family, putative"			
+Polyketide synthase associated protein PapA1			
+Polyketide synthase			
+Mobile element protein			
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)			
+POSSIBLE RESOLVASE			
+Beta-carotene ketolase (EC 1.14.-.-)			
+Beta-carotene ketolase (EC 1.14.-.-)			
+FIG00820669: hypothetical protein			
+FIG00821485: hypothetical protein			
+Seryl-tRNA synthetase (EC 6.1.1.11)			
+"Transcriptional regulator, AraC family"			
+PROBABLE CONSERVED MEMBRANE PROTEIN			
+			
+hypothetical protein			
+putative phosphoglycerate mutase			
+Prephenate dehydratase (EC 4.2.1.51)			
+FIG00998479: hypothetical protein			
+"Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily A1 (as in PMID19099556)"			
+Ferritin			
+Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+hypothetical protein			
+			
+FIG00822175: hypothetical protein			
+Mobile element protein			
+FIG091491: hypothetical protein			
+FIG00821489: hypothetical protein			
+FIG00821329: hypothetical protein			
+Superoxide dismutase [Mn/Fe] (EC 1.15.1.1)			
+FIG017534: hypothetical protein			
+FIG00820641: hypothetical protein			
+FIG037441: Conserved transmembrane protein			
+ESX-1 secreted protein regulator EspR			
+FIG022958: hypothetical protein			
+POSSIBLE MEMBRANE PROTEIN			
+POSSIBLE HISTONE-LIKE PROTEIN HNS			
+Ribonuclease E inhibitor RraA			
+"monooxygenase, flavin-binding family"			
+"Transcriptional repressor EthR, TetR family"			
+DNA-dependent DNA polymerase beta chain			
+hypothetical protein			
+FIG00820244: hypothetical protein			
+Glutamate synthase [NADPH] small chain (EC 1.4.1.13)			
+Glutamate synthase [NADPH] large chain (EC 1.4.1.13)			
+"Antiactivator of flagellar biosynthesis FleN, an ATPase"			
+			
+FIG00820791: hypothetical protein			
+Probable forkhead-associated protein			
+FIG034615: hypothetical protein			
+conserved hypothetical protein			
+RD1 region associated protein Rv3866			
+RD1 region associated protein Rv3867			
+"AAA family ATPase, ESX-1 secretion system component Rv3868"			
+Putative ESX-1 secretion system component Rv3869			
+"FtsK/SpoIIIE family protein Rv3870, component of ESX-1 secretion system"			
+"FtsK/SpoIIIE family protein Rv3871, component of ESX-1 secretion system"			
+PE family protein			
+Putative ESX-1 secretion system gating protein PPE68			
+10 kDa culture filtrate antigen CFP-10 (EsxB)			
+6 kDa early secretory antigenic target ESAT-6 (EsxA)			
+			
+RD1 region associated protein Rv3876			
+Putative ESX-1 secretion system component Rv3877			
+RD1 region associated protein Rv3878			
+RD1 region associated protein Rv3879c			
+LigA			
+hypothetical protein			
+FIG00821130: hypothetical protein			
+FIG028708: hypothetical protein			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+serine protease			
+Type VII secretion system protein EccA2			
+"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"			
+Type VII secretion-associated serine protease mycosin			
+PROBABLE CONSERVED TRANSMEMBRANE PROTEIN			
+ATP/GTP binding protein			
+FIG00820325: hypothetical protein			
+Esat-6 like protein EsxC			
+Esat-6 like protein EsxD			
+PPE family protein			
+PE family protein			
+FIG00824716: hypothetical protein			
+FtsK/SpoIIIE family protein			
+PROBABLE CONSERVED MEMBRANE PROTEIN			
+Putative secreted protein			
+FIG00820584: hypothetical protein			
+FIG00820584: hypothetical protein			
+Vegetative cell wall protein gp1 precursor			
+Vegetative cell wall protein gp1 precursor			
+			
+POSSIBLE MEMBRANE PROTEIN			
+FIG00822578: hypothetical protein			
+FIG00820525: hypothetical protein			
+FIG00832379: hypothetical protein			
+Esat-6 like protein EsxE			
+Esat-6 like protein EsxF			
+FIG00820046: hypothetical protein			
+tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25)			
+MutT/nudix family protein			
+hypothetical protein			
+Proposed peptidoglycan lipid II flippase MurJ			
+"RNA polymerase sigma-70 factor, ECF subfamily"			
+FIG00999975: hypothetical protein			
+Thioredoxin reductase (EC 1.8.1.9)			
+Thioredoxin reductase (EC 1.8.1.9)			
+N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)			
+FIG007808: hypothetical protein			
+Chromosome (plasmid) partitioning protein ParB / Stage 0 sporulation protein J			
+Chromosome (plasmid) partitioning protein ParA / Sporulation initiation inhibitor protein Soj			
+Ribosomal RNA small subunit methyltransferase G			
+RNA-binding protein Jag			
+"Inner membrane protein translocase component YidC, long form"			
+Ribonuclease P protein component (EC 3.1.26.5)			

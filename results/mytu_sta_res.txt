@@ -1,0 +1,102 @@
+base_both miss	36	0.85%
+base_one miss	108	2.55%
+base_ec	110	2.59%
+base_ec-d	22	0.52%
+base_tigr	581	13.70%
+base_gs	0	0
+base_one HP	770	18.15%
+base_lit-s	202	4.76%
+lit-s	571	13.46%
+pfam-sh	115	2.71%
+gs-sh	453	10.68%
+orth	30	0.71%
+tf_idf	29	0.68%
+map	36	0.85%
+0	1179	27.79%
+Entire gene number	4242
+----------------------------------
+base_both miss	95	2.24%
+base_one miss	35	0.83%
+base_ec	347	8.18%
+base_ec-d	63	1.49%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	792	18.67%
+base_lit-s	160	3.77%
+lit-s	334	7.87%
+pfam-sh	39	0.92%
+gs-sh	249	5.87%
+orth	59	1.39%
+tf_idf	114	2.69%
+map	116	2.73%
+0	1839	43.35%
+Entire gene number	4242
+----------------------------------
+base_both miss	29	0.68%
+base_one miss	195	4.60%
+base_ec	546	12.87%
+base_ec-d	107	2.52%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	640	15.09%
+base_lit-s	143	3.37%
+lit-s	398	9.38%
+pfam-sh	113	2.66%
+gs-sh	222	5.23%
+orth	80	1.89%
+tf_idf	56	1.32%
+map	94	2.22%
+0	1619	38.17%
+Entire gene number	4242
+----------------------------------
+base_both miss	36	0.85%
+base_one miss	108	2.55%
+base_ec	110	2.59%
+base_ec-d	22	0.52%
+base_tigr	581	13.70%
+base_gs	0	0
+base_one HP	770	18.15%
+base_lit-s	202	4.76%
+lit-s	571	13.46%
+pfam-sh	115	2.71%
+gs-sh	453	10.68%
+orth	30	0.71%
+tf_idf	29	0.68%
+map	36	0.85%
+0	1179	27.79%
+Entire gene number	4242
+----------------------------------
+base_both miss	95	2.24%
+base_one miss	35	0.83%
+base_ec	347	8.18%
+base_ec-d	63	1.49%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	792	18.67%
+base_lit-s	160	3.77%
+lit-s	334	7.87%
+pfam-sh	39	0.92%
+gs-sh	249	5.87%
+orth	59	1.39%
+tf_idf	114	2.69%
+map	116	2.73%
+0	1839	43.35%
+Entire gene number	4242
+----------------------------------
+base_both miss	29	0.68%
+base_one miss	195	4.60%
+base_ec	546	12.87%
+base_ec-d	107	2.52%
+base_tigr	0	0
+base_gs	0	0
+base_one HP	640	15.09%
+base_lit-s	143	3.37%
+lit-s	398	9.38%
+pfam-sh	113	2.66%
+gs-sh	222	5.23%
+orth	80	1.89%
+tf_idf	56	1.32%
+map	94	2.22%
+0	1619	38.17%
+Entire gene number	4242
+----------------------------------

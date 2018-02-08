@@ -1,9 +1,5 @@
 # annotation-comp
-This README file discusses the Python code and datasets associated with the paper:
-Article title: A semi-automated genome annotation comparison and integration scheme
-Authors: Zhe Liu, Hongwu Ma and Igor Goryanin
-
-This directory contains supporting python codes and datasets to perform annotation comparison and determination tasks. 
+The code and datasets are associated with the paper: A semi-automated genome annotation comparison and integration scheme, which aims to perform annotation comparison and determination tasks. 
 
 Datasets
 The ‘datasets’ folder contains the data used in our research, in particular, the contents of data used are listed below:
